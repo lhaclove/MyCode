@@ -1,0 +1,19 @@
+perl run_pipeline.pl -fork1 -h ./TutorialData/mdp_genotype.hmp.txt -fork2 -t ./TutorialData/mdp_trait.txt -fork3 -k ./TutorialData/mdp_kinship.txt -combine -input1 -input 2 -input3 -intersect -combine6 -input5 input4 -mlm  -mlm -mlmVarCompEst P3D -mlmCompressionLevel None -export 111
+
+
+perl run_pipeline.pl
+
+       -fork1 -h genotype.hmp -filterAlign -filterAlignMinFreq 0.05        注：导入基因型数据并过滤
+
+       -fork2 -r trait.txt                                         注：导入表型数据
+
+       -fork3 -r pop_structure.txt -excludeLastTrait               注：导入群体结构数据
+
+       -fork4 -k kinship.txt 
+	   -combine5 -input1 -input2 -input3 -intersect 
+	   -combine6 -input5 -input4 -mlm -mlmVarCompEst P3D -mlmCompressionLevel None -export result       注：导入kinship矩阵，合并表型、基因型和群体结构，设定MLM参数
+
+不同的Plugin以灰白背景区分。管道命令的具体用法见附件
+
+
+zsub -q blade1 -e"perl /public/home/liuhao/TASSEL5/run_pipeline.pl -fork1 -h /public/home/liuhao/TASSEL5/5DAP-sample_SNP-merge.new.sorted.MAF0.05.hmp -fork2 -importGuess /public/home/liuhao/TASSEL5/5DAP-sample.PC3.txt -fork3 -t /public/home/liuhao/TASSEL5/trait -fork4 -k /public/home/liuhao/TASSEL5/5DAP-sample.kinship.txt -combine5 -input1 -input2 -input3 -intersect -combine6 -input5 -input4 -mlm -mlmVarCompEst P3D -mlmCompressionLevel None -export /public/home/liuhao/TASSEL5/test1"

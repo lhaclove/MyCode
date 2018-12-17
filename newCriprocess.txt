@@ -1,0 +1,6 @@
+
+fastp -c -i /public/home/liuhao/Cri/Cri/${samplename}_1.fq -I /public/home/liuhao/Cri/Cri/${samplename}_2.fq -o /public/home/liuhao/Cri/Cri/${samplename}_1.filt.fq -O /public/home/liuhao/Cri/Cri/${samplename}_2.filt.fq
+flash merge PE reads
+sort and uniq
+
+cat /public/home/liuhao/Cri/Cri/${samplename}_1.filt.fq /public/home/liuhao/Cri/Cri/${samplename}_2.filt.fq |grep TTCCTGCGCAATTCC  | grep CTTCGCCGCGCTGGACG>/public/home/liuhao/Cri/Cri/${samplename}_subPCR.filt

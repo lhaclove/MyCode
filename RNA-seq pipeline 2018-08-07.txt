@@ -1,0 +1,69 @@
+##map reads to ref
+while read samplename
+do
+zsub -q blade1 -N $samplename -e "hisat2 -t --dta -x /public/home/liuhao/ref/Zea_mays.AGPv4.hisat2 -1 /public/home/liuhao/RNA-lh/${samplename}-BATCH2_clean_r1.fq.gz -2 /public/home/liuhao/RNA-lh/${samplename}-BATCH2_clean_r2.fq.gz -S /public/home/liuhao/RNA-lh/aligned/$samplename.sam"
+done  < sample
+qstat|grep "liuhao"
+
+
+##sam2bam
+while read samplename
+do
+zsub -q blade1 -N ${samplename}sam2bam  -e "samtools view -@16 -S /public/home/liuhao/RNA-lh/aligned/$samplename.sam -b > /public/home/liuhao/RNA-lh/aligned/$samplename.bam"
+done  < sample
+qstat|grep "liuhao"
+
+while read samplename
+do
+zsub -q blade1 -N ${samplename}sortbam  -e "samtools  sort -@16 /public/home/liuhao/RNA-lh/aligned/$samplename.bam -o /public/home/liuhao/RNA-lh/aligned/${samplename}_sorted.bam"
+done  < sample
+qstat|grep "liuhao"
+
+##Use stringtie Only Once
+while read samplename
+do
+zsub -q blade1 -N ${samplename}assable1st  -e "stringtie -e -B -p 16 -G /public/home/liuhao/ref/Zea_mays.AGPv4.39.chr.gtf -o /public/home/liuhao/RNA-lh/aligned/ballgown/${samplename}/${samplename}_sorted.gtf -l $samplename /public/home/liuhao/RNA-lh/aligned/2401/${samplename}_sorted.bam"
+done  < sample
+qstat|grep "liuhao"
+
+
+##2nd  file for ballgown has the same name###
+while read samplename
+do
+zsub -q blade1 -N ${samplename}assable2nd -e "stringtie -e -B -p 16 -G /public/home/liuhao/RNA-lh/aligned/${samplename}stringtie_merged.gtf -o /public/home/liuhao/RNA-lh/aligned/ballgown/${samplename}/${samplename}.gtf /public/home/liuhao/RNA-lh/aligned/stringtie_merged.bam"
+done  < sample
+qstat|grep "liuhao"
+
+##HTseq-count###
+while read samplename
+do
+zsub -q blade1 -N ${samplename}count -e "/public/home/liuhao/tool/anaconda2/envs/python34/bin/htseq-count -f bam -t exon -i gene_id -m union /public/home/liuhao/RNA-lh/aligned/${samplename}_sorted.bam /public/home/liuhao/ref/Zea_mays.AGPv4.39.chr.gtf > /public/home/liuhao/RNA-lh/aligned/${samplename}count.txt"
+
+done  < sample
+qstat|grep "liuhao"
+
+
+
+
+
+
+htseq-count -f bam -r name -s no -a 10 -t exon -i gene_id -m intersection-nonempty yourfile_name.bam ~/reference/hisat2_reference/Homo_sapiens.GRCh38.86.chr_patch_hapl_scaff.gtf > counts.txt
+
+作者：面面的徐爷
+链接：https://www.jianshu.com/p/6932c72aba63
+來源：简书
+简书著作权归作者所有，任何形式的转载都请联系作者获得授权并注明出处。
+
+
+
+
+
+###R####
+library(ballgown)
+library(genefilter)
+library(dplyr)
+library(devtools)
+bg <- ballgown(dataDir='/public/home/liuhao/RNA-lh/aligned/ballgown',samplePattern='307')
+pData(bg) = data.frame(id=sampleNames(bg), group=rep(c(1,0), each=3))
+stat_results = stattest(bg, feature='transcript', meas='FPKM', covariate='group')
+write.csv(stat_results,'/public/home/liuhao/RNA-lh/aligned/ballgown',row.names=FALSE)
