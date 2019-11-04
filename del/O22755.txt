@@ -1,0 +1,164 @@
+ID   ATL44_ARATH             Reviewed;         185 AA.
+AC   O22755;
+DT   16-AUG-2004, integrated into UniProtKB/Swiss-Prot.
+DT   01-JAN-1998, sequence version 1.
+DT   16-JAN-2019, entry version 133.
+DE   RecName: Full=Probable E3 ubiquitin-protein ligase ATL44 {ECO:0000305};
+DE            EC=2.3.2.27 {ECO:0000305};
+DE   AltName: Full=RING-H2 finger A3a {ECO:0000303|PubMed:9781696};
+DE   AltName: Full=RING-H2 finger protein ATL44 {ECO:0000305};
+DE   AltName: Full=RING-H2 zinc finger protein RHA3a {ECO:0000305};
+DE   AltName: Full=RING-type E3 ubiquitin transferase ATL44 {ECO:0000305};
+GN   Name=ATL44 {ECO:0000303|PubMed:16557337};
+GN   Synonyms=RHA3A {ECO:0000303|PubMed:9781696};
+GN   OrderedLocusNames=At2g17450; ORFNames=F5J6.22, MJB20;
+OS   Arabidopsis thaliana (Mouse-ear cress).
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+OC   Pentapetalae; rosids; malvids; Brassicales; Brassicaceae; Camelineae;
+OC   Arabidopsis.
+OX   NCBI_TaxID=3702;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA], AND TISSUE SPECIFICITY.
+RC   STRAIN=cv. Columbia;
+RX   PubMed=9781696; DOI=10.1016/S0014-5793(98)01143-0;
+RA   Jensen R.B., Jensen K.L., Jespersen H.M., Skriver K.;
+RT   "Widespread occurrence of a highly conserved RING-H2 zinc finger motif
+RT   in the model plant Arabidopsis thaliana.";
+RL   FEBS Lett. 436:283-287(1998).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=cv. Columbia;
+RX   PubMed=10617197; DOI=10.1038/45471;
+RA   Lin X., Kaul S., Rounsley S.D., Shea T.P., Benito M.-I., Town C.D.,
+RA   Fujii C.Y., Mason T.M., Bowman C.L., Barnstead M.E., Feldblyum T.V.,
+RA   Buell C.R., Ketchum K.A., Lee J.J., Ronning C.M., Koo H.L.,
+RA   Moffat K.S., Cronin L.A., Shen M., Pai G., Van Aken S., Umayam L.,
+RA   Tallon L.J., Gill J.E., Adams M.D., Carrera A.J., Creasy T.H.,
+RA   Goodman H.M., Somerville C.R., Copenhaver G.P., Preuss D.,
+RA   Nierman W.C., White O., Eisen J.A., Salzberg S.L., Fraser C.M.,
+RA   Venter J.C.;
+RT   "Sequence and analysis of chromosome 2 of the plant Arabidopsis
+RT   thaliana.";
+RL   Nature 402:761-768(1999).
+RN   [3]
+RP   GENOME REANNOTATION.
+RC   STRAIN=cv. Columbia;
+RX   PubMed=27862469; DOI=10.1111/tpj.13415;
+RA   Cheng C.Y., Krishnakumar V., Chan A.P., Thibaud-Nissen F., Schobel S.,
+RA   Town C.D.;
+RT   "Araport11: a complete reannotation of the Arabidopsis thaliana
+RT   reference genome.";
+RL   Plant J. 89:789-804(2017).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   STRAIN=cv. Columbia;
+RX   PubMed=14593172; DOI=10.1126/science.1088305;
+RA   Yamada K., Lim J., Dale J.M., Chen H., Shinn P., Palm C.J.,
+RA   Southwick A.M., Wu H.C., Kim C.J., Nguyen M., Pham P.K., Cheuk R.F.,
+RA   Karlin-Newmann G., Liu S.X., Lam B., Sakano H., Wu T., Yu G.,
+RA   Miranda M., Quach H.L., Tripp M., Chang C.H., Lee J.M., Toriumi M.J.,
+RA   Chan M.M., Tang C.C., Onodera C.S., Deng J.M., Akiyama K., Ansari Y.,
+RA   Arakawa T., Banh J., Banno F., Bowser L., Brooks S.Y., Carninci P.,
+RA   Chao Q., Choy N., Enju A., Goldsmith A.D., Gurjal M., Hansen N.F.,
+RA   Hayashizaki Y., Johnson-Hopson C., Hsuan V.W., Iida K., Karnes M.,
+RA   Khan S., Koesema E., Ishida J., Jiang P.X., Jones T., Kawai J.,
+RA   Kamiya A., Meyers C., Nakajima M., Narusaka M., Seki M., Sakurai T.,
+RA   Satou M., Tamse R., Vaysberg M., Wallender E.K., Wong C., Yamamura Y.,
+RA   Yuan S., Shinozaki K., Davis R.W., Theologis A., Ecker J.R.;
+RT   "Empirical analysis of transcriptional activity in the Arabidopsis
+RT   genome.";
+RL   Science 302:842-846(2003).
+RN   [5]
+RP   GENE FAMILY ORGANIZATION.
+RX   PubMed=11983057; DOI=10.1186/gb-2002-3-4-research0016;
+RA   Kosarev P., Mayer K.F.X., Hardtke C.S.;
+RT   "Evaluation and classification of RING-finger domains encoded by the
+RT   Arabidopsis genome.";
+RL   Genome Biol. 3:RESEARCH0016.1-RESEARCH0016.12(2002).
+RN   [6]
+RP   NOMENCLATURE, AND GENE FAMILY ORGANIZATION.
+RX   PubMed=16557337; DOI=10.1007/s00239-005-0038-y;
+RA   Serrano M., Parra S., Alcaraz L.D., Guzman P.;
+RT   "The ATL gene family from Arabidopsis thaliana and Oryza sativa
+RT   comprises a large number of putative ubiquitin ligases of the RING-H2
+RT   type.";
+RL   J. Mol. Evol. 62:434-445(2006).
+CC   -!- FUNCTION: Probable E3 ubiquitin-protein ligase that may possess E3
+CC       ubiquitin ligase activity in vitro.
+CC       {ECO:0000250|UniProtKB:Q9LY41}.
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=S-ubiquitinyl-[E2 ubiquitin-conjugating enzyme]-L-
+CC         cysteine + [acceptor protein]-L-lysine = [E2 ubiquitin-
+CC         conjugating enzyme]-L-cysteine + N(6)-ubiquitinyl-[acceptor
+CC         protein]-L-lysine.; EC=2.3.2.27; Evidence={ECO:0000305};
+CC   -!- PATHWAY: Protein modification; protein ubiquitination.
+CC       {ECO:0000305}.
+CC   -!- SUBCELLULAR LOCATION: Membrane {ECO:0000305}; Single-pass membrane
+CC       protein {ECO:0000305}.
+CC   -!- TISSUE SPECIFICITY: Expressed in stems, flowers and green
+CC       siliques. {ECO:0000269|PubMed:9781696}.
+CC   -!- DOMAIN: The RING-type zinc finger domain mediates binding to an E2
+CC       ubiquitin-conjugating enzyme. {ECO:0000250}.
+CC   -!- SIMILARITY: Belongs to the RING-type zinc finger family. ATL
+CC       subfamily. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AF078824; AAC68673.1; -; mRNA.
+DR   EMBL; AC007584; AAD32903.1; -; Genomic_DNA.
+DR   EMBL; CP002685; AEC06631.1; -; Genomic_DNA.
+DR   EMBL; AF370239; AAK44054.1; -; mRNA.
+DR   EMBL; AY062961; AAL33807.1; -; mRNA.
+DR   PIR; T51844; T51844.
+DR   RefSeq; NP_179337.1; NM_127300.4.
+DR   UniGene; At.25384; -.
+DR   ProteinModelPortal; O22755; -.
+DR   SMR; O22755; -.
+DR   STRING; 3702.AT2G17450.1; -.
+DR   PaxDb; O22755; -.
+DR   PRIDE; O22755; -.
+DR   EnsemblPlants; AT2G17450.1; AT2G17450.1; AT2G17450.
+DR   GeneID; 816251; -.
+DR   Gramene; AT2G17450.1; AT2G17450.1; AT2G17450.
+DR   KEGG; ath:AT2G17450; -.
+DR   Araport; AT2G17450; -.
+DR   TAIR; locus:2053863; AT2G17450.
+DR   eggNOG; KOG0800; Eukaryota.
+DR   eggNOG; ENOG41121N2; LUCA.
+DR   HOGENOM; HOG000237642; -.
+DR   OMA; CACRHRR; -.
+DR   OrthoDB; 1348127at2759; -.
+DR   PhylomeDB; O22755; -.
+DR   UniPathway; UPA00143; -.
+DR   PRO; PR:O22755; -.
+DR   Proteomes; UP000006548; Chromosome 2.
+DR   ExpressionAtlas; O22755; baseline and differential.
+DR   Genevisible; O22755; AT.
+DR   GO; GO:0016021; C:integral component of membrane; IEA:UniProtKB-KW.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0016740; F:transferase activity; IEA:UniProtKB-KW.
+DR   GO; GO:0016567; P:protein ubiquitination; IEA:UniProtKB-UniPathway.
+DR   Gene3D; 3.30.40.10; -; 1.
+DR   InterPro; IPR001841; Znf_RING.
+DR   InterPro; IPR013083; Znf_RING/FYVE/PHD.
+DR   Pfam; PF13639; zf-RING_2; 1.
+DR   SMART; SM00184; RING; 1.
+DR   PROSITE; PS50089; ZF_RING_2; 1.
+PE   2: Evidence at transcript level;
+KW   Complete proteome; Membrane; Metal-binding; Reference proteome;
+KW   Transferase; Transmembrane; Transmembrane helix;
+KW   Ubl conjugation pathway; Zinc; Zinc-finger.
+FT   CHAIN         1    185       Probable E3 ubiquitin-protein ligase
+FT                                ATL44.
+FT                                /FTId=PRO_0000055775.
+FT   TRANSMEM     29     49       Helical. {ECO:0000255}.
+FT   ZN_FING     102    144       RING-type; atypical.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU00175}.
+SQ   SEQUENCE   185 AA;  19937 MW;  C3258EA5598DD9ED CRC64;
+     MTRPSRLLET AAPPPQPSEE MIAAESDMVV ILSALLCALI CVAGLAAVVR CAWLRRFTAG
+     GDSPSPNKGL KKKALQSLPR STFTAAESTS GAAAEEGDST ECAICLTDFA DGEEIRVLPL
+     CGHSFHVECI DKWLVSRSSC PSCRRILTPV RCDRCGHAST AEMKDQAHRH QHHQHSSTTI
+     PTFLP
+//

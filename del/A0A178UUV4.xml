@@ -1,0 +1,210 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2017-04-12" modified="2019-01-16" version="12">
+<accession>A0A178UUV4</accession>
+<name>A0A178UUV4_ARATH</name>
+<protein>
+<submittedName>
+<fullName evidence="4">Uncharacterized protein</fullName>
+</submittedName>
+</protein>
+<gene>
+<name type="ordered locus" evidence="4">AXX17_At4g34760</name>
+</gene>
+<organism evidence="4 5">
+<name type="scientific">Arabidopsis thaliana</name>
+<name type="common">Mouse-ear cress</name>
+<dbReference type="NCBI Taxonomy" id="3702"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Viridiplantae</taxon>
+<taxon>Streptophyta</taxon>
+<taxon>Embryophyta</taxon>
+<taxon>Tracheophyta</taxon>
+<taxon>Spermatophyta</taxon>
+<taxon>Magnoliophyta</taxon>
+<taxon>eudicotyledons</taxon>
+<taxon>Gunneridae</taxon>
+<taxon>Pentapetalae</taxon>
+<taxon>rosids</taxon>
+<taxon>malvids</taxon>
+<taxon>Brassicales</taxon>
+<taxon>Brassicaceae</taxon>
+<taxon>Camelineae</taxon>
+<taxon>Arabidopsis</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="5">
+<citation type="journal article" date="2016" name="Proc. Natl. Acad. Sci. U.S.A." volume="113" first="E4052" last="E4060">
+<title>Chromosome-level assembly of Arabidopsis thaliana Ler reveals the extent of translocation and inversion polymorphisms.</title>
+<authorList>
+<person name="Zapata L."/>
+<person name="Ding J."/>
+<person name="Willing E.M."/>
+<person name="Hartwig B."/>
+<person name="Bezdan D."/>
+<person name="Jiao W.B."/>
+<person name="Patel V."/>
+<person name="Velikkakam James G."/>
+<person name="Koornneef M."/>
+<person name="Ossowski S."/>
+<person name="Schneeberger K."/>
+</authorList>
+<dbReference type="PubMed" id="27354520"/>
+<dbReference type="DOI" id="10.1073/pnas.1607532113"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain evidence="5">cv. Landsberg erecta</strain>
+</source>
+</reference>
+<comment type="similarity">
+<text evidence="1">Belongs to the CRISP family.</text>
+</comment>
+<comment type="caution">
+<text evidence="4">The sequence shown here is derived from an EMBL/GenBank/DDBJ whole genome shotgun (WGS) entry which is preliminary data.</text>
+</comment>
+<dbReference type="EMBL" id="LUHQ01000004">
+<property type="protein sequence ID" value="OAO96622.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_194761.1">
+<property type="nucleotide sequence ID" value="NM_119178.2"/>
+</dbReference>
+<dbReference type="UniGene" id="At.54556"/>
+<dbReference type="SMR" id="A0A178UUV4"/>
+<dbReference type="EnsemblPlants" id="AT4G30320.1">
+<property type="protein sequence ID" value="AT4G30320.1"/>
+<property type="gene ID" value="AT4G30320"/>
+</dbReference>
+<dbReference type="GeneID" id="829155"/>
+<dbReference type="Gramene" id="AT4G30320.1">
+<property type="protein sequence ID" value="AT4G30320.1"/>
+<property type="gene ID" value="AT4G30320"/>
+</dbReference>
+<dbReference type="KEGG" id="ath:AT4G30320"/>
+<dbReference type="OMA" id="IANTCKF"/>
+<dbReference type="OrthoDB" id="1528782at2759"/>
+<dbReference type="Proteomes" id="UP000078284">
+<property type="component" value="Chromosome 4"/>
+</dbReference>
+<dbReference type="ExpressionAtlas" id="A0A178UUV4">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005576">
+<property type="term" value="C:extracellular region"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="CDD" id="cd05381">
+<property type="entry name" value="SCP_PR-1_like"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.40.33.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001283">
+<property type="entry name" value="Allrgn_V5/Tpx1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR018244">
+<property type="entry name" value="Allrgn_V5/Tpx1_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR014044">
+<property type="entry name" value="CAP_domain"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR035940">
+<property type="entry name" value="CAP_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR034111">
+<property type="entry name" value="SCP_PR1-like"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002413">
+<property type="entry name" value="V5_allergen"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR10334">
+<property type="entry name" value="PTHR10334"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00188">
+<property type="entry name" value="CAP"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00838">
+<property type="entry name" value="V5ALLERGEN"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00837">
+<property type="entry name" value="V5TPXLIKE"/>
+</dbReference>
+<dbReference type="SMART" id="SM00198">
+<property type="entry name" value="SCP"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF55797">
+<property type="entry name" value="SSF55797"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS01009">
+<property type="entry name" value="CRISP_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS01010">
+<property type="entry name" value="CRISP_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="inferred from homology"/>
+<keyword id="KW-0181" evidence="5">Complete proteome</keyword>
+<keyword id="KW-0732" evidence="2">Signal</keyword>
+<feature type="signal peptide" evidence="2">
+<location>
+<begin position="1"/>
+<end position="23"/>
+</location>
+</feature>
+<feature type="chain" id="PRO_5010285006" evidence="2">
+<location>
+<begin position="24"/>
+<end position="161"/>
+</location>
+</feature>
+<feature type="domain" description="SCP" evidence="3">
+<location>
+<begin position="25"/>
+<end position="157"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00546570"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000256">
+<source>
+<dbReference type="SAM" id="SignalP"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000259">
+<source>
+<dbReference type="SMART" id="SM00198"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="OAO96622.1"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000313">
+<source>
+<dbReference type="Proteomes" id="UP000078284"/>
+</source>
+</evidence>
+<sequence length="161" mass="18028" checksum="CD5CDC9E9CD15C01" modified="2017-04-12" version="1">
+MAFPSCVSVAITAMMLLVTCCHCATYQEQFMGPQNAARAHLRLKPLKWDAKLARYAQWWA
+NQRRGDCALTHSNGPYGENLFWGSGNRWGPSQAAYGWLSEARSYNYRSNSCNSEMCGHYT
+QIVWKNTQKIGCAHVICNGGGGVFLTCNYDPPGNFLGRKPY
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

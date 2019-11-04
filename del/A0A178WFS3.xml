@@ -1,0 +1,228 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2017-04-12" modified="2019-01-16" version="12">
+<accession>A0A178WFS3</accession>
+<name>A0A178WFS3_ARATH</name>
+<protein>
+<submittedName>
+<fullName evidence="4">Uncharacterized protein</fullName>
+</submittedName>
+</protein>
+<gene>
+<name type="ordered locus" evidence="4">AXX17_At1g10430</name>
+</gene>
+<organism evidence="4 5">
+<name type="scientific">Arabidopsis thaliana</name>
+<name type="common">Mouse-ear cress</name>
+<dbReference type="NCBI Taxonomy" id="3702"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Viridiplantae</taxon>
+<taxon>Streptophyta</taxon>
+<taxon>Embryophyta</taxon>
+<taxon>Tracheophyta</taxon>
+<taxon>Spermatophyta</taxon>
+<taxon>Magnoliophyta</taxon>
+<taxon>eudicotyledons</taxon>
+<taxon>Gunneridae</taxon>
+<taxon>Pentapetalae</taxon>
+<taxon>rosids</taxon>
+<taxon>malvids</taxon>
+<taxon>Brassicales</taxon>
+<taxon>Brassicaceae</taxon>
+<taxon>Camelineae</taxon>
+<taxon>Arabidopsis</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="5">
+<citation type="journal article" date="2016" name="Proc. Natl. Acad. Sci. U.S.A." volume="113" first="E4052" last="E4060">
+<title>Chromosome-level assembly of Arabidopsis thaliana Ler reveals the extent of translocation and inversion polymorphisms.</title>
+<authorList>
+<person name="Zapata L."/>
+<person name="Ding J."/>
+<person name="Willing E.M."/>
+<person name="Hartwig B."/>
+<person name="Bezdan D."/>
+<person name="Jiao W.B."/>
+<person name="Patel V."/>
+<person name="Velikkakam James G."/>
+<person name="Koornneef M."/>
+<person name="Ossowski S."/>
+<person name="Schneeberger K."/>
+</authorList>
+<dbReference type="PubMed" id="27354520"/>
+<dbReference type="DOI" id="10.1073/pnas.1607532113"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain evidence="5">cv. Landsberg erecta</strain>
+</source>
+</reference>
+<comment type="caution">
+<text evidence="4">The sequence shown here is derived from an EMBL/GenBank/DDBJ whole genome shotgun (WGS) entry which is preliminary data.</text>
+</comment>
+<dbReference type="EMBL" id="LUHQ01000001">
+<property type="protein sequence ID" value="OAP15912.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_563867.1">
+<property type="nucleotide sequence ID" value="NM_100908.3"/>
+</dbReference>
+<dbReference type="UniGene" id="At.11286"/>
+<dbReference type="SMR" id="A0A178WFS3"/>
+<dbReference type="EnsemblPlants" id="AT1G10340.1">
+<property type="protein sequence ID" value="AT1G10340.1"/>
+<property type="gene ID" value="AT1G10340"/>
+</dbReference>
+<dbReference type="GeneID" id="837573"/>
+<dbReference type="Gramene" id="AT1G10340.1">
+<property type="protein sequence ID" value="AT1G10340.1"/>
+<property type="gene ID" value="AT1G10340"/>
+</dbReference>
+<dbReference type="KEGG" id="ath:AT1G10340"/>
+<dbReference type="OrthoDB" id="1011028at2759"/>
+<dbReference type="Proteomes" id="UP000078284">
+<property type="component" value="Chromosome 1"/>
+</dbReference>
+<dbReference type="ExpressionAtlas" id="A0A178WFS3">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016021">
+<property type="term" value="C:integral component of membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="CDD" id="cd00204">
+<property type="entry name" value="ANK"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.25.40.20">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002110">
+<property type="entry name" value="Ankyrin_rpt"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR020683">
+<property type="entry name" value="Ankyrin_rpt-contain_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036770">
+<property type="entry name" value="Ankyrin_rpt-contain_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR026961">
+<property type="entry name" value="PGG_dom"/>
+</dbReference>
+<dbReference type="Pfam" id="PF12796">
+<property type="entry name" value="Ank_2"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="Pfam" id="PF13962">
+<property type="entry name" value="PGG"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00248">
+<property type="entry name" value="ANK"/>
+<property type="match status" value="7"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF48403">
+<property type="entry name" value="SSF48403"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50297">
+<property type="entry name" value="ANK_REP_REGION"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50088">
+<property type="entry name" value="ANK_REPEAT"/>
+<property type="match status" value="2"/>
+</dbReference>
+<proteinExistence type="predicted"/>
+<keyword id="KW-0040" evidence="1">ANK repeat</keyword>
+<keyword id="KW-0181" evidence="5">Complete proteome</keyword>
+<keyword id="KW-0472" evidence="2">Membrane</keyword>
+<keyword id="KW-0812" evidence="2">Transmembrane</keyword>
+<keyword id="KW-1133" evidence="2">Transmembrane helix</keyword>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="406"/>
+<end position="426"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="446"/>
+<end position="470"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="491"/>
+<end position="512"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="518"/>
+<end position="540"/>
+</location>
+</feature>
+<feature type="domain" description="ANK_REP_REGION" evidence="3">
+<location>
+<begin position="1"/>
+<end position="298"/>
+</location>
+</feature>
+<feature type="repeat" description="ANK" evidence="1">
+<location>
+<begin position="70"/>
+<end position="102"/>
+</location>
+</feature>
+<feature type="repeat" description="ANK" evidence="1">
+<location>
+<begin position="204"/>
+<end position="227"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00023"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000256">
+<source>
+<dbReference type="SAM" id="Phobius"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50297"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="OAP15912.1"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000313">
+<source>
+<dbReference type="Proteomes" id="UP000078284"/>
+</source>
+</evidence>
+<sequence length="578" mass="63922" checksum="1B988226D82F4868" modified="2017-04-12" version="1">
+MQPIFHAILKNDLPAFLELVEDSESSLEERNEEEHLNNTVLHMAAKFGHRELVSKIIELR
+PSLVSSRNAYRNTPLHLAAILGDVNIVMQMLETGLEVCSARNINNHTPLHLACRSNSIEA
+ARLIAEKTQSIGLGELILAISSGSTSIVGTILERFPDLAREEAWVVEDGSQSTLLHHACD
+KGDFELTTILLGLDQGLEEALNPNGLSPLHLAVLRGSVVILEEFLDKVPLSFSSITPSKE
+TVFHLAARNKNMDAFVFMAESLGINSQILLQQTDESGNTVLHIAASVSFDAPLIRYIVGK
+NIVDITSKNKMGFEAFQLLPREAQDFELLSRWLRFGTETSQELDSENNVEQHEGSQEVEV
+IRLLRIIGINTSEIAERKRSKEQEVERGRQNLEYQMHIEALQNARNTIAIVAVLIASVAY
+AGGINPPGGVYQDGPWRGKSLVGKTTAFKVFAICNNIALFTSLGIVILLVSIIPYKRKPL
+KRLLVATHRMMWVSVGFMATAYIAASWVTIPHYHGTQWLFPAIVAVAGGALTVLFFYLGV
+ETIGHWFKKMNRVGDNIPSFARTSSDLAVSGKSGYFTY
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

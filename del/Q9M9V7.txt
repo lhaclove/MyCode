@@ -1,0 +1,208 @@
+ID   PTR8_ARATH              Reviewed;         587 AA.
+AC   Q9M9V7;
+DT   02-NOV-2010, integrated into UniProtKB/Swiss-Prot.
+DT   01-OCT-2000, sequence version 1.
+DT   16-JAN-2019, entry version 96.
+DE   RecName: Full=Protein NRT1/ PTR FAMILY 2.9;
+DE            Short=AtNPF2.9;
+DE   AltName: Full=Nitrate transporter 1.9;
+GN   Name=NPF2.9; Synonyms=NRT1.9; OrderedLocusNames=At1g18880;
+GN   ORFNames=F6A14.2;
+OS   Arabidopsis thaliana (Mouse-ear cress).
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+OC   Pentapetalae; rosids; malvids; Brassicales; Brassicaceae; Camelineae;
+OC   Arabidopsis.
+OX   NCBI_TaxID=3702;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=cv. Columbia;
+RX   PubMed=11130712; DOI=10.1038/35048500;
+RA   Theologis A., Ecker J.R., Palm C.J., Federspiel N.A., Kaul S.,
+RA   White O., Alonso J., Altafi H., Araujo R., Bowman C.L., Brooks S.Y.,
+RA   Buehler E., Chan A., Chao Q., Chen H., Cheuk R.F., Chin C.W.,
+RA   Chung M.K., Conn L., Conway A.B., Conway A.R., Creasy T.H., Dewar K.,
+RA   Dunn P., Etgu P., Feldblyum T.V., Feng J.-D., Fong B., Fujii C.Y.,
+RA   Gill J.E., Goldsmith A.D., Haas B., Hansen N.F., Hughes B., Huizar L.,
+RA   Hunter J.L., Jenkins J., Johnson-Hopson C., Khan S., Khaykin E.,
+RA   Kim C.J., Koo H.L., Kremenetskaia I., Kurtz D.B., Kwan A., Lam B.,
+RA   Langin-Hooper S., Lee A., Lee J.M., Lenz C.A., Li J.H., Li Y.-P.,
+RA   Lin X., Liu S.X., Liu Z.A., Luros J.S., Maiti R., Marziali A.,
+RA   Militscher J., Miranda M., Nguyen M., Nierman W.C., Osborne B.I.,
+RA   Pai G., Peterson J., Pham P.K., Rizzo M., Rooney T., Rowley D.,
+RA   Sakano H., Salzberg S.L., Schwartz J.R., Shinn P., Southwick A.M.,
+RA   Sun H., Tallon L.J., Tambunga G., Toriumi M.J., Town C.D.,
+RA   Utterback T., Van Aken S., Vaysberg M., Vysotskaia V.S., Walker M.,
+RA   Wu D., Yu G., Fraser C.M., Venter J.C., Davis R.W.;
+RT   "Sequence and analysis of chromosome 1 of the plant Arabidopsis
+RT   thaliana.";
+RL   Nature 408:816-820(2000).
+RN   [2]
+RP   GENOME REANNOTATION.
+RC   STRAIN=cv. Columbia;
+RX   PubMed=27862469; DOI=10.1111/tpj.13415;
+RA   Cheng C.Y., Krishnakumar V., Chan A.P., Thibaud-Nissen F., Schobel S.,
+RA   Town C.D.;
+RT   "Araport11: a complete reannotation of the Arabidopsis thaliana
+RT   reference genome.";
+RL   Plant J. 89:789-804(2017).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   STRAIN=cv. Columbia;
+RX   PubMed=14593172; DOI=10.1126/science.1088305;
+RA   Yamada K., Lim J., Dale J.M., Chen H., Shinn P., Palm C.J.,
+RA   Southwick A.M., Wu H.C., Kim C.J., Nguyen M., Pham P.K., Cheuk R.F.,
+RA   Karlin-Newmann G., Liu S.X., Lam B., Sakano H., Wu T., Yu G.,
+RA   Miranda M., Quach H.L., Tripp M., Chang C.H., Lee J.M., Toriumi M.J.,
+RA   Chan M.M., Tang C.C., Onodera C.S., Deng J.M., Akiyama K., Ansari Y.,
+RA   Arakawa T., Banh J., Banno F., Bowser L., Brooks S.Y., Carninci P.,
+RA   Chao Q., Choy N., Enju A., Goldsmith A.D., Gurjal M., Hansen N.F.,
+RA   Hayashizaki Y., Johnson-Hopson C., Hsuan V.W., Iida K., Karnes M.,
+RA   Khan S., Koesema E., Ishida J., Jiang P.X., Jones T., Kawai J.,
+RA   Kamiya A., Meyers C., Nakajima M., Narusaka M., Seki M., Sakurai T.,
+RA   Satou M., Tamse R., Vaysberg M., Wallender E.K., Wong C., Yamamura Y.,
+RA   Yuan S., Shinozaki K., Davis R.W., Theologis A., Ecker J.R.;
+RT   "Empirical analysis of transcriptional activity in the Arabidopsis
+RT   genome.";
+RL   Science 302:842-846(2003).
+RN   [4]
+RP   TISSUE SPECIFICITY, AND GENE FAMILY.
+RX   PubMed=17481610; DOI=10.1016/j.febslet.2007.04.047;
+RA   Tsay Y.F., Chiu C.C., Tsai C.B., Ho C.H., Hsu P.K.;
+RT   "Nitrate transporters and peptide transporters.";
+RL   FEBS Lett. 581:2290-2300(2007).
+RN   [5]
+RP   GENE FAMILY.
+RX   PubMed=20501909; DOI=10.1105/tpc.110.075242;
+RA   Li J.Y., Fu Y.L., Pike S.M., Bao J., Tian W., Zhang Y., Chen C.Z.,
+RA   Zhang Y., Li H.M., Huang J., Li L.G., Schroeder J.I., Gassmann W.,
+RA   Gong J.M.;
+RT   "The Arabidopsis nitrate transporter NRT1.8 functions in nitrate
+RT   removal from the xylem sap and mediates cadmium tolerance.";
+RL   Plant Cell 22:1633-1646(2010).
+RN   [6]
+RP   FUNCTION, BIOPHYSICOCHEMICAL PROPERTIES, TISSUE SPECIFICITY, INDUCTION
+RP   BY NITRATE, SUBCELLULAR LOCATION, AND DISRUPTION PHENOTYPE.
+RX   PubMed=21571952; DOI=10.1105/tpc.111.083618;
+RA   Wang Y.Y., Tsay Y.F.;
+RT   "Arabidopsis nitrate transporter NRT1.9 is important in phloem nitrate
+RT   transport.";
+RL   Plant Cell 23:1945-1957(2011).
+RN   [7]
+RP   FUNCTION.
+RX   PubMed=22864417; DOI=10.1038/nature11285;
+RA   Nour-Eldin H.H., Andersen T.G., Burow M., Madsen S.R., Jorgensen M.E.,
+RA   Olsen C.E., Dreyer I., Hedrich R., Geiger D., Halkier B.A.;
+RT   "NRT/PTR transporters are essential for translocation of glucosinolate
+RT   defence compounds to seeds.";
+RL   Nature 488:531-534(2012).
+RN   [8]
+RP   GENE FAMILY, AND NOMENCLATURE.
+RX   PubMed=24055139; DOI=10.1016/j.tplants.2013.08.008;
+RA   Leran S., Varala K., Boyer J.C., Chiurazzi M., Crawford N.,
+RA   Daniel-Vedele F., David L., Dickstein R., Fernandez E., Forde B.,
+RA   Gassmann W., Geiger D., Gojon A., Gong J.M., Halkier B.A.,
+RA   Harris J.M., Hedrich R., Limami A.M., Rentsch D., Seo M., Tsay Y.F.,
+RA   Zhang M., Coruzzi G., Lacombe B.;
+RT   "A unified nomenclature of NITRATE TRANSPORTER 1/PEPTIDE TRANSPORTER
+RT   family members in plants.";
+RL   Trends Plant Sci. 19:5-9(2014).
+CC   -!- FUNCTION: Low-affinity nitrate transporter facilitating nitrate
+CC       loading into root phloem. Not involved in dipeptides transport,
+CC       but has a weak glucosinolate transport activity.
+CC       {ECO:0000269|PubMed:21571952, ECO:0000269|PubMed:22864417}.
+CC   -!- BIOPHYSICOCHEMICAL PROPERTIES:
+CC       Kinetic parameters:
+CC         KM=7 mM for nitrate (at pH 5.5) {ECO:0000269|PubMed:21571952};
+CC   -!- SUBCELLULAR LOCATION: Cell membrane {ECO:0000269|PubMed:21571952};
+CC       Multi-pass membrane protein {ECO:0000269|PubMed:21571952}.
+CC   -!- TISSUE SPECIFICITY: Expressed in roots, stems and major veins of
+CC       the leaves. Detected in the companion cells of the root phloem.
+CC       {ECO:0000269|PubMed:17481610, ECO:0000269|PubMed:21571952}.
+CC   -!- INDUCTION: Up-regulated by nitrate after long time exposure.
+CC       {ECO:0000269|PubMed:21571952}.
+CC   -!- DISRUPTION PHENOTYPE: Decreased nitrate content in root phloem
+CC       exudates. Enhanced root-to shoot nitrate transport and plant
+CC       growth under high nitrate conditions.
+CC       {ECO:0000269|PubMed:21571952}.
+CC   -!- SIMILARITY: Belongs to the PTR2/POT transporter (TC 2.A.17)
+CC       family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AC011809; AAF27093.1; -; Genomic_DNA.
+DR   EMBL; CP002684; AEE29776.1; -; Genomic_DNA.
+DR   EMBL; AY070054; AAL49811.1; -; mRNA.
+DR   EMBL; AY117308; AAM51383.1; -; mRNA.
+DR   PIR; G86322; G86322.
+DR   RefSeq; NP_173322.1; NM_101745.5.
+DR   UniGene; At.267; -.
+DR   UniGene; At.75252; -.
+DR   ProteinModelPortal; Q9M9V7; -.
+DR   BioGrid; 23708; 26.
+DR   IntAct; Q9M9V7; 26.
+DR   STRING; 3702.AT1G18880.1; -.
+DR   iPTMnet; Q9M9V7; -.
+DR   PaxDb; Q9M9V7; -.
+DR   PRIDE; Q9M9V7; -.
+DR   EnsemblPlants; AT1G18880.1; AT1G18880.1; AT1G18880.
+DR   GeneID; 838469; -.
+DR   Gramene; AT1G18880.1; AT1G18880.1; AT1G18880.
+DR   KEGG; ath:AT1G18880; -.
+DR   Araport; AT1G18880; -.
+DR   TAIR; locus:2035005; AT1G18880.
+DR   eggNOG; KOG1237; Eukaryota.
+DR   eggNOG; COG3104; LUCA.
+DR   HOGENOM; HOG000237399; -.
+DR   InParanoid; Q9M9V7; -.
+DR   OMA; NSKLGHT; -.
+DR   OrthoDB; 365203at2759; -.
+DR   PhylomeDB; Q9M9V7; -.
+DR   Reactome; R-ATH-427975; Proton/oligopeptide cotransporters.
+DR   Reactome; R-ATH-6798695; Neutrophil degranulation.
+DR   PRO; PR:Q9M9V7; -.
+DR   Proteomes; UP000006548; Chromosome 1.
+DR   ExpressionAtlas; Q9M9V7; baseline and differential.
+DR   Genevisible; Q9M9V7; AT.
+DR   GO; GO:0016021; C:integral component of membrane; IBA:GO_Central.
+DR   GO; GO:0005886; C:plasma membrane; IDA:TAIR.
+DR   GO; GO:0015112; F:nitrate transmembrane transporter activity; IDA:TAIR.
+DR   GO; GO:0090408; P:phloem nitrate loading; IMP:TAIR.
+DR   GO; GO:0010233; P:phloem transport; IMP:TAIR.
+DR   CDD; cd06174; MFS; 1.
+DR   InterPro; IPR020846; MFS_dom.
+DR   InterPro; IPR036259; MFS_trans_sf.
+DR   InterPro; IPR000109; POT_fam.
+DR   PANTHER; PTHR11654; PTHR11654; 1.
+DR   Pfam; PF00854; PTR2; 1.
+DR   SUPFAM; SSF103473; SSF103473; 1.
+PE   1: Evidence at protein level;
+KW   Cell membrane; Complete proteome; Membrane; Reference proteome;
+KW   Transmembrane; Transmembrane helix; Transport.
+FT   CHAIN         1    587       Protein NRT1/ PTR FAMILY 2.9.
+FT                                /FTId=PRO_0000399942.
+FT   TRANSMEM     35     55       Helical. {ECO:0000255}.
+FT   TRANSMEM     65     85       Helical. {ECO:0000255}.
+FT   TRANSMEM     94    114       Helical. {ECO:0000255}.
+FT   TRANSMEM    135    155       Helical. {ECO:0000255}.
+FT   TRANSMEM    181    201       Helical. {ECO:0000255}.
+FT   TRANSMEM    209    229       Helical. {ECO:0000255}.
+FT   TRANSMEM    325    345       Helical. {ECO:0000255}.
+FT   TRANSMEM    368    388       Helical. {ECO:0000255}.
+FT   TRANSMEM    412    432       Helical. {ECO:0000255}.
+FT   TRANSMEM    457    477       Helical. {ECO:0000255}.
+FT   TRANSMEM    493    513       Helical. {ECO:0000255}.
+FT   TRANSMEM    540    560       Helical. {ECO:0000255}.
+SQ   SEQUENCE   587 AA;  65174 MW;  414A9C44C963BEDC CRC64;
+     MEVEKTEKNI AEDDESKIIY RGWKVMPFII GNETFEKLGI VGSSSNLVIY LTTVFNMKSI
+     TAAKVVNIYG GTSNFGTIVA AFLCDSYFGR YKTLSFAMIA CFLGSVAMDL TAVIHPLHPA
+     QCAKEIGSVC NGPSIGQIMF LAGAMVLLVI GAGGIRPCNL PFGADQFDPK TKEGKRGIES
+     FFNWYFFTFT FAQMVSLTLI VYVQSNVSWS IGLAIPAILM LLGCIIFFAG SKLYVKVKAS
+     GSPIHSITRV IVVAIKKRRL KPVGPNELYN YIASDFKNSK LGHTEQFRFL DKSAIQTQDD
+     KLNKDGSPVD AWKLCSMQQV EEVKCVIRVL PVWLSAALFY LAYIQQTTYT IFQSLQSDRR
+     LGPGSFQIPA GSYTVFLMLG MTIFIPIYDR VLVPFLRKYT GRDGGITQLQ RVGAGLFLCI
+     TSMMVSAIVE QYRRKVALTK PTLGLAPRKG AISSMSGMWL IPQLVLMGIA DALAGVGQME
+     FYYKQFPENM RSFAGSLYYC GIGLASYLST FLLSAVHDTT EGFSGGSWLP EDLNKGRLEY
+     FYFLVAGMMT LNLAYFLLVS HWYRYKDVVA KDKDMDKTSA EFDKVSV
+//

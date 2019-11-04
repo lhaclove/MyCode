@@ -1,0 +1,213 @@
+ID   BBX20_ARATH             Reviewed;         242 AA.
+AC   Q0IGM7; Q8GWF3; Q9SVI6;
+DT   11-JUL-2012, integrated into UniProtKB/Swiss-Prot.
+DT   03-OCT-2006, sequence version 1.
+DT   16-JAN-2019, entry version 95.
+DE   RecName: Full=B-box zinc finger protein 20 {ECO:0000303|PubMed:19920209};
+DE   AltName: Full=Protein BZR1 SUPPRESSOR 1 {ECO:0000303|PubMed:22535582};
+DE   AltName: Full=Protein DOUBLE B-BOX 2;
+DE   AltName: Full=Protein SALT TOLERANCE HOMOLOG 7;
+GN   Name=BBX20 {ECO:0000303|PubMed:19920209};
+GN   Synonyms=BZS1 {ECO:0000303|PubMed:22535582}, DBB2, STH7;
+GN   OrderedLocusNames=At4g39070; ORFNames=F19H22.170;
+OS   Arabidopsis thaliana (Mouse-ear cress).
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+OC   Pentapetalae; rosids; malvids; Brassicales; Brassicaceae; Camelineae;
+OC   Arabidopsis.
+OX   NCBI_TaxID=3702;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=cv. Columbia;
+RX   PubMed=10617198; DOI=10.1038/47134;
+RA   Mayer K.F.X., Schueller C., Wambutt R., Murphy G., Volckaert G.,
+RA   Pohl T., Duesterhoeft A., Stiekema W., Entian K.-D., Terryn N.,
+RA   Harris B., Ansorge W., Brandt P., Grivell L.A., Rieger M.,
+RA   Weichselgartner M., de Simone V., Obermaier B., Mache R., Mueller M.,
+RA   Kreis M., Delseny M., Puigdomenech P., Watson M., Schmidtheini T.,
+RA   Reichert B., Portetelle D., Perez-Alonso M., Boutry M., Bancroft I.,
+RA   Vos P., Hoheisel J., Zimmermann W., Wedler H., Ridley P.,
+RA   Langham S.-A., McCullagh B., Bilham L., Robben J.,
+RA   van der Schueren J., Grymonprez B., Chuang Y.-J., Vandenbussche F.,
+RA   Braeken M., Weltjens I., Voet M., Bastiaens I., Aert R., Defoor E.,
+RA   Weitzenegger T., Bothe G., Ramsperger U., Hilbert H., Braun M.,
+RA   Holzer E., Brandt A., Peters S., van Staveren M., Dirkse W.,
+RA   Mooijman P., Klein Lankhorst R., Rose M., Hauf J., Koetter P.,
+RA   Berneiser S., Hempel S., Feldpausch M., Lamberth S., Van den Daele H.,
+RA   De Keyser A., Buysshaert C., Gielen J., Villarroel R., De Clercq R.,
+RA   van Montagu M., Rogers J., Cronin A., Quail M.A., Bray-Allen S.,
+RA   Clark L., Doggett J., Hall S., Kay M., Lennard N., McLay K., Mayes R.,
+RA   Pettett A., Rajandream M.A., Lyne M., Benes V., Rechmann S.,
+RA   Borkova D., Bloecker H., Scharfe M., Grimm M., Loehnert T.-H.,
+RA   Dose S., de Haan M., Maarse A.C., Schaefer M., Mueller-Auer S.,
+RA   Gabel C., Fuchs M., Fartmann B., Granderath K., Dauner D., Herzl A.,
+RA   Neumann S., Argiriou A., Vitale D., Liguori R., Piravandi E.,
+RA   Massenet O., Quigley F., Clabauld G., Muendlein A., Felber R.,
+RA   Schnabl S., Hiller R., Schmidt W., Lecharny A., Aubourg S.,
+RA   Chefdor F., Cooke R., Berger C., Monfort A., Casacuberta E.,
+RA   Gibbons T., Weber N., Vandenbol M., Bargues M., Terol J., Torres A.,
+RA   Perez-Perez A., Purnelle B., Bent E., Johnson S., Tacon D., Jesse T.,
+RA   Heijnen L., Schwarz S., Scholler P., Heber S., Francs P., Bielke C.,
+RA   Frishman D., Haase D., Lemcke K., Mewes H.-W., Stocker S.,
+RA   Zaccaria P., Bevan M., Wilson R.K., de la Bastide M., Habermann K.,
+RA   Parnell L., Dedhia N., Gnoj L., Schutz K., Huang E., Spiegel L.,
+RA   Sekhon M., Murray J., Sheet P., Cordes M., Abu-Threideh J.,
+RA   Stoneking T., Kalicki J., Graves T., Harmon G., Edwards J.,
+RA   Latreille P., Courtney L., Cloud J., Abbott A., Scott K., Johnson D.,
+RA   Minx P., Bentley D., Fulton B., Miller N., Greco T., Kemp K.,
+RA   Kramer J., Fulton L., Mardis E., Dante M., Pepin K., Hillier L.W.,
+RA   Nelson J., Spieth J., Ryan E., Andrews S., Geisel C., Layman D.,
+RA   Du H., Ali J., Berghoff A., Jones K., Drone K., Cotton M., Joshu C.,
+RA   Antonoiu B., Zidanic M., Strong C., Sun H., Lamar B., Yordan C.,
+RA   Ma P., Zhong J., Preston R., Vil D., Shekher M., Matero A., Shah R.,
+RA   Swaby I.K., O'Shaughnessy A., Rodriguez M., Hoffman J., Till S.,
+RA   Granat S., Shohdy N., Hasegawa A., Hameed A., Lodhi M., Johnson A.,
+RA   Chen E., Marra M.A., Martienssen R., McCombie W.R.;
+RT   "Sequence and analysis of chromosome 4 of the plant Arabidopsis
+RT   thaliana.";
+RL   Nature 402:769-777(1999).
+RN   [2]
+RP   GENOME REANNOTATION.
+RC   STRAIN=cv. Columbia;
+RX   PubMed=27862469; DOI=10.1111/tpj.13415;
+RA   Cheng C.Y., Krishnakumar V., Chan A.P., Thibaud-Nissen F., Schobel S.,
+RA   Town C.D.;
+RT   "Araport11: a complete reannotation of the Arabidopsis thaliana
+RT   reference genome.";
+RL   Plant J. 89:789-804(2017).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   STRAIN=cv. Columbia;
+RX   PubMed=11910074; DOI=10.1126/science.1071006;
+RA   Seki M., Narusaka M., Kamiya A., Ishida J., Satou M., Sakurai T.,
+RA   Nakajima M., Enju A., Akiyama K., Oono Y., Muramatsu M.,
+RA   Hayashizaki Y., Kawai J., Carninci P., Itoh M., Ishii Y., Arakawa T.,
+RA   Shibata K., Shinagawa A., Shinozaki K.;
+RT   "Functional annotation of a full-length Arabidopsis cDNA collection.";
+RL   Science 296:141-145(2002).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RA   Bautista V.R., Kim C.J., Chen H., Quinitio C., Ecker J.R.;
+RT   "Arabidopsis ORF Clones.";
+RL   Submitted (SEP-2006) to the EMBL/GenBank/DDBJ databases.
+RN   [5]
+RP   IDENTIFICATION.
+RX   PubMed=18796637; DOI=10.1105/tpc.108.061747;
+RA   Datta S., Johansson H., Hettiarachchi C., Irigoyen M.L., Desai M.,
+RA   Rubio V., Holm M.;
+RT   "LZF1/SALT TOLERANCE HOMOLOG3, an Arabidopsis B-box protein involved
+RT   in light-dependent development and gene expression, undergoes COP1-
+RT   mediated ubiquitination.";
+RL   Plant Cell 20:2324-2338(2008).
+RN   [6]
+RP   GENE FAMILY, AND NOMENCLATURE.
+RX   PubMed=19920209; DOI=10.1105/tpc.109.069088;
+RA   Khanna R., Kronmiller B., Maszle D.R., Coupland G., Holm M.,
+RA   Mizuno T., Wu S.H.;
+RT   "The Arabidopsis B-box zinc finger family.";
+RL   Plant Cell 21:3416-3420(2009).
+RN   [7]
+RP   INTERACTION WITH MED25.
+RX   PubMed=21343311; DOI=10.1093/mp/ssr002;
+RA   Ou B., Yin K.Q., Liu S.N., Yang Y., Gu T., Wing Hui J.M., Zhang L.,
+RA   Miao J., Kondou Y., Matsui M., Gu H.Y., Qu L.J.;
+RT   "A high-throughput screening system for Arabidopsis transcription
+RT   factors and its application to Med25-dependent transcriptional
+RT   regulation.";
+RL   Mol. Plant 4:546-555(2011).
+RN   [8]
+RP   FUNCTION, AND INTERACTION WITH COP1.
+RX   PubMed=22535582; DOI=10.1093/mp/sss041;
+RA   Fan X.Y., Sun Y., Cao D.M., Bai M.Y., Luo X.M., Yang H.J., Wei C.Q.,
+RA   Zhu S.W., Sun Y., Chong K., Wang Z.Y.;
+RT   "BZS1, a B-box protein, promotes photomorphogenesis downstream of both
+RT   brassinosteroid and light signaling pathways.";
+RL   Mol. Plant 5:591-600(2012).
+CC   -!- FUNCTION: Acts as positive regulator of seedling
+CC       photomorphogenesis. Plays a negative role in brassinosteroid
+CC       responses. {ECO:0000269|PubMed:22535582}.
+CC   -!- SUBUNIT: Interacts with MED25 (PubMed:21343311) and COP1
+CC       (PubMed:22535582). {ECO:0000269|PubMed:21343311,
+CC       ECO:0000269|PubMed:22535582}.
+CC   -!- INTERACTION:
+CC       O24646:HY5; NbExp=3; IntAct=EBI-15191597, EBI-301660;
+CC       A8MS70:HYH; NbExp=3; IntAct=EBI-15191597, EBI-15191595;
+CC   -!- SUBCELLULAR LOCATION: Nucleus {ECO:0000305}.
+CC   -!- PTM: COP1-mediated ubiquitination and subsequent proteasomal
+CC       degradation of BBX20 occurs in the dark.
+CC       {ECO:0000303|PubMed:22535582}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=CAB38827.1; Type=Erroneous gene model prediction; Evidence={ECO:0000305};
+CC       Sequence=CAB80570.1; Type=Erroneous gene model prediction; Evidence={ECO:0000305};
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AL035679; CAB38827.1; ALT_SEQ; Genomic_DNA.
+DR   EMBL; AL161594; CAB80570.1; ALT_SEQ; Genomic_DNA.
+DR   EMBL; CP002687; AEE87014.1; -; Genomic_DNA.
+DR   EMBL; AK118879; BAC43464.1; -; mRNA.
+DR   EMBL; BT028893; ABI49440.1; -; mRNA.
+DR   PIR; T06067; T06067.
+DR   RefSeq; NP_195618.2; NM_120067.7.
+DR   UniGene; At.31120; -.
+DR   ProteinModelPortal; Q0IGM7; -.
+DR   SMR; Q0IGM7; -.
+DR   BioGrid; 15342; 2.
+DR   IntAct; Q0IGM7; 9.
+DR   STRING; 3702.AT4G39070.1; -.
+DR   PaxDb; Q0IGM7; -.
+DR   EnsemblPlants; AT4G39070.1; AT4G39070.1; AT4G39070.
+DR   GeneID; 830062; -.
+DR   Gramene; AT4G39070.1; AT4G39070.1; AT4G39070.
+DR   KEGG; ath:AT4G39070; -.
+DR   Araport; AT4G39070; -.
+DR   TAIR; locus:2120207; AT4G39070.
+DR   eggNOG; ENOG410JBVH; Eukaryota.
+DR   eggNOG; ENOG410ZKKD; LUCA.
+DR   HOGENOM; HOG000239240; -.
+DR   InParanoid; Q0IGM7; -.
+DR   OMA; GIEENYH; -.
+DR   OrthoDB; 1160515at2759; -.
+DR   PhylomeDB; Q0IGM7; -.
+DR   PRO; PR:Q0IGM7; -.
+DR   Proteomes; UP000006548; Chromosome 4.
+DR   ExpressionAtlas; Q0IGM7; baseline and differential.
+DR   Genevisible; Q0IGM7; AT.
+DR   GO; GO:0005634; C:nucleus; IBA:GO_Central.
+DR   GO; GO:0003700; F:DNA-binding transcription factor activity; ISS:TAIR.
+DR   GO; GO:0043565; F:sequence-specific DNA binding; IPI:TAIR.
+DR   GO; GO:0008270; F:zinc ion binding; IEA:InterPro.
+DR   GO; GO:1900458; P:negative regulation of brassinosteroid mediated signaling pathway; IDA:UniProtKB.
+DR   GO; GO:0009640; P:photomorphogenesis; IBA:GO_Central.
+DR   GO; GO:2000306; P:positive regulation of photomorphogenesis; IDA:UniProtKB.
+DR   GO; GO:0006355; P:regulation of transcription, DNA-templated; IBA:GO_Central.
+DR   GO; GO:0009741; P:response to brassinosteroid; IEP:TAIR.
+DR   GO; GO:0010200; P:response to chitin; IEP:TAIR.
+DR   GO; GO:0080167; P:response to karrikin; IEP:TAIR.
+DR   CDD; cd00021; BBOX; 2.
+DR   InterPro; IPR000315; Znf_B-box.
+DR   Pfam; PF00643; zf-B_box; 1.
+DR   SMART; SM00336; BBOX; 2.
+DR   PROSITE; PS50119; ZF_BBOX; 2.
+PE   1: Evidence at protein level;
+KW   Complete proteome; Metal-binding; Nucleus; Reference proteome; Repeat;
+KW   Transcription; Transcription regulation; Ubl conjugation; Zinc;
+KW   Zinc-finger.
+FT   CHAIN         1    242       B-box zinc finger protein 20.
+FT                                /FTId=PRO_0000418140.
+FT   ZN_FING       5     47       B box-type 1; atypical.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU00024}.
+FT   ZN_FING      58    100       B box-type 2; atypical.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU00024}.
+FT   COMPBIAS    106    183       Ser-rich.
+FT   COMPBIAS    214    217       Poly-Asn.
+FT   CONFLICT    129    129       T -> A (in Ref. 3; BAC43464).
+FT                                {ECO:0000305}.
+SQ   SEQUENCE   242 AA;  26780 MW;  D7B7A81C3B6E8AD7 CRC64;
+     MKIWCAVCDK EEASVFCCAD EAALCNGCDR HVHFANKLAG KHLRFSLTSP TFKDAPLCDI
+     CGERRALLFC QEDRAILCRE CDIPIHQANE HTKKHNRFLL TGVKISASPS AYPRASNSNS
+     AAAFGRAKTR PKSVSSEVPS SASNEVFTSS SSTTTSNCYY GIEENYHHVS DSGSGSGCTG
+     SISEYLMETL PGWRVEDLLE HPSCVSYEDN IITNNNNSES YRVYDGSSQF HHQGFWDHKP
+     FS
+//

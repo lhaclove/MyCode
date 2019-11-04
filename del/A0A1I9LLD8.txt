@@ -1,0 +1,114 @@
+ID   A0A1I9LLD8_ARATH        Unreviewed;       536 AA.
+AC   A0A1I9LLD8;
+DT   15-FEB-2017, integrated into UniProtKB/TrEMBL.
+DT   15-FEB-2017, sequence version 1.
+DT   16-JAN-2019, entry version 10.
+DE   SubName: Full=Cell wall invertase 2 {ECO:0000313|EMBL:ANM63396.1};
+GN   Name=CWINV2 {ECO:0000313|EMBL:ANM63396.1};
+GN   Synonyms=AtCWIN2 {ECO:0000313|EMBL:ANM63396.1},
+GN   AtcwINV2 {ECO:0000313|EMBL:ANM63396.1},
+GN   cell wall invertase 2 {ECO:0000313|EMBL:ANM63396.1};
+GN   OrderedLocusNames=At3g52600 {ECO:0000313|EMBL:ANM63396.1};
+GN   ORFNames=F3C22.4 {ECO:0000313|EMBL:ANM63396.1};
+OS   Arabidopsis thaliana (Mouse-ear cress).
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+OC   Pentapetalae; rosids; malvids; Brassicales; Brassicaceae; Camelineae;
+OC   Arabidopsis.
+OX   NCBI_TaxID=3702 {ECO:0000313|EMBL:ANM63396.1, ECO:0000313|Proteomes:UP000006548};
+RN   [1] {ECO:0000313|EMBL:ANM63396.1, ECO:0000313|Proteomes:UP000006548}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=cv. Columbia {ECO:0000313|Proteomes:UP000006548};
+RX   PubMed=11130713; DOI=10.1038/35048706;
+RG   European Union Chromosome 3 Arabidopsis Sequencing Consortium;
+RG   Institute for Genomic Research;
+RG   Kazusa DNA Research Institute;
+RA   Salanoubat M., Lemcke K., Rieger M., Ansorge W., Unseld M.,
+RA   Fartmann B., Valle G., Blocker H., Perez-Alonso M., Obermaier B.,
+RA   Delseny M., Boutry M., Grivell L.A., Mache R., Puigdomenech P.,
+RA   De Simone V., Choisne N., Artiguenave F., Robert C., Brottier P.,
+RA   Wincker P., Cattolico L., Weissenbach J., Saurin W., Quetier F.,
+RA   Schafer M., Muller-Auer S., Gabel C., Fuchs M., Benes V., Wurmbach E.,
+RA   Drzonek H., Erfle H., Jordan N., Bangert S., Wiedelmann R., Kranz H.,
+RA   Voss H., Holland R., Brandt P., Nyakatura G., Vezzi A., D'Angelo M.,
+RA   Pallavicini A., Toppo S., Simionati B., Conrad A., Hornischer K.,
+RA   Kauer G., Lohnert T.H., Nordsiek G., Reichelt J., Scharfe M.,
+RA   Schon O., Bargues M., Terol J., Climent J., Navarro P., Collado C.,
+RA   Perez-Perez A., Ottenwalder B., Duchemin D., Cooke R., Laudie M.,
+RA   Berger-Llauro C., Purnelle B., Masuy D., de Haan M., Maarse A.C.,
+RA   Alcaraz J.P., Cottet A., Casacuberta E., Monfort A., Argiriou A.,
+RA   flores M., Liguori R., Vitale D., Mannhaupt G., Haase D., Schoof H.,
+RA   Rudd S., Zaccaria P., Mewes H.W., Mayer K.F., Kaul S., Town C.D.,
+RA   Koo H.L., Tallon L.J., Jenkins J., Rooney T., Rizzo M., Walts A.,
+RA   Utterback T., Fujii C.Y., Shea T.P., Creasy T.H., Haas B., Maiti R.,
+RA   Wu D., Peterson J., Van Aken S., Pai G., Militscher J., Sellers P.,
+RA   Gill J.E., Feldblyum T.V., Preuss D., Lin X., Nierman W.C.,
+RA   Salzberg S.L., White O., Venter J.C., Fraser C.M., Kaneko T.,
+RA   Nakamura Y., Sato S., Kato T., Asamizu E., Sasamoto S., Kimura T.,
+RA   Idesawa K., Kawashima K., Kishida Y., Kiyokawa C., Kohara M.,
+RA   Matsumoto M., Matsuno A., Muraki A., Nakayama S., Nakazaki N.,
+RA   Shinpo S., Takeuchi C., Wada T., Watanabe A., Yamada M., Yasuda M.,
+RA   Tabata S.;
+RT   "Sequence and analysis of chromosome 3 of the plant Arabidopsis
+RT   thaliana.";
+RL   Nature 408:820-822(2000).
+RN   [2] {ECO:0000313|Proteomes:UP000006548}
+RP   GENOME REANNOTATION.
+RC   STRAIN=cv. Columbia {ECO:0000313|Proteomes:UP000006548};
+RX   PubMed=27862469; DOI=10.1111/tpj.13415;
+RA   Cheng C.Y., Krishnakumar V., Chan A.P., Thibaud-Nissen F., Schobel S.,
+RA   Town C.D.;
+RT   "Araport11: a complete reannotation of the Arabidopsis thaliana
+RT   reference genome.";
+RL   Plant J. 89:789-804(2017).
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase 32 family.
+CC       {ECO:0000256|RuleBase:RU362110}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   -----------------------------------------------------------------------
+DR   EMBL; CP002686; ANM63396.1; -; Genomic_DNA.
+DR   RefSeq; NP_001325488.1; NM_001339580.1.
+DR   UniGene; At.24656; -.
+DR   UniGene; At.35280; -.
+DR   SMR; A0A1I9LLD8; -.
+DR   EnsemblPlants; AT3G52600.3; AT3G52600.3; AT3G52600.
+DR   GeneID; 824426; -.
+DR   Gramene; AT3G52600.3; AT3G52600.3; AT3G52600.
+DR   OMA; WELEATI; -.
+DR   OrthoDB; 405663at2759; -.
+DR   Proteomes; UP000006548; Chromosome 3.
+DR   ExpressionAtlas; A0A1I9LLD8; baseline and differential.
+DR   GO; GO:0004553; F:hydrolase activity, hydrolyzing O-glycosyl compounds; IEA:InterPro.
+DR   GO; GO:0005975; P:carbohydrate metabolic process; IEA:InterPro.
+DR   Gene3D; 2.115.10.20; -; 1.
+DR   InterPro; IPR013320; ConA-like_dom_sf.
+DR   InterPro; IPR001362; Glyco_hydro_32.
+DR   InterPro; IPR013189; Glyco_hydro_32_C.
+DR   InterPro; IPR013148; Glyco_hydro_32_N.
+DR   InterPro; IPR023296; Glyco_hydro_beta-prop_sf.
+DR   Pfam; PF08244; Glyco_hydro_32C; 1.
+DR   Pfam; PF00251; Glyco_hydro_32N; 1.
+DR   SMART; SM00640; Glyco_32; 1.
+DR   SUPFAM; SSF49899; SSF49899; 1.
+DR   SUPFAM; SSF75005; SSF75005; 1.
+PE   3: Inferred from homology;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000006548};
+KW   Glycosidase {ECO:0000256|RuleBase:RU362110};
+KW   Hydrolase {ECO:0000256|RuleBase:RU362110};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000006548}.
+FT   DOMAIN        8    317       Glyco_hydro_32N.
+FT                                {ECO:0000259|Pfam:PF00251}.
+FT   DOMAIN      320    524       Glyco_hydro_32C.
+FT                                {ECO:0000259|Pfam:PF08244}.
+SQ   SEQUENCE   536 AA;  60626 MW;  C843C5DA7E502289 CRC64;
+     MAFLTPTDPN APMLYKGVYH LFYQYNPKGA VWGNIVWAHS VSKDLINWEA LEPAIYPSKW
+     FDINGTWSGS ATHVPGKGPV ILYTGITENQ TQIQNYAIPQ DLSDPYLKTW IKPDDNPIVK
+     PDNGENGSAF RDPTTAWFNK KDGYWRMLVG SKRKNRGIAY MYKSRDFKKW VKSKRPIHSR
+     KKTGMWECPD FFPVSVTDKK NGLDFSYDGP NAKHVLKVSL DLTRYEYYTL GTYDTKKDRY
+     RPDGYTPDGW DGLRFDYGNY YASKTFFDDK TNRRILWGWA NESDTVQDDT VKGWAGIQLI
+     PRTILLDSSG KQLVFWPIEE IESLRGKNVQ MTNQKMEMGQ RFEVQGITPA QVDVDVTFNV
+     GNLEKAEKFD ESFATKPLEL CNLKGSNVNG GVGPFGLITL ATSDLEEYTP VFFRVFKDAA
+     SNKPKVLMCS DAKPSSLKKD TGTDAKERMY KPSFAGFVDV GLLDGKISLR SLIDHSVVES
+     FGAKGKTVIT SRVYPTKAVG EKAHLFVFNN GSQPVTVESL NAWNMQKPLK MNQGAK
+//

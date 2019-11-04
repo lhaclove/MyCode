@@ -1,0 +1,492 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2010-11-02" modified="2019-01-16" version="96">
+<accession>Q9LV10</accession>
+<name>PTR53_ARATH</name>
+<protein>
+<recommendedName>
+<fullName>Protein NRT1/ PTR FAMILY 2.11</fullName>
+<shortName>AtNPF2.11</shortName>
+</recommendedName>
+<alternativeName>
+<fullName>Nitrate transporter 1.10</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Protein GLUCOSINOLATE TRANSPORTER-2</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">NPF2.11</name>
+<name type="synonym">GTR2</name>
+<name type="synonym">NRT1.10</name>
+<name type="ordered locus">At5g62680</name>
+<name type="ORF">MRG21.10</name>
+</gene>
+<organism>
+<name type="scientific">Arabidopsis thaliana</name>
+<name type="common">Mouse-ear cress</name>
+<dbReference type="NCBI Taxonomy" id="3702"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Viridiplantae</taxon>
+<taxon>Streptophyta</taxon>
+<taxon>Embryophyta</taxon>
+<taxon>Tracheophyta</taxon>
+<taxon>Spermatophyta</taxon>
+<taxon>Magnoliophyta</taxon>
+<taxon>eudicotyledons</taxon>
+<taxon>Gunneridae</taxon>
+<taxon>Pentapetalae</taxon>
+<taxon>rosids</taxon>
+<taxon>malvids</taxon>
+<taxon>Brassicales</taxon>
+<taxon>Brassicaceae</taxon>
+<taxon>Camelineae</taxon>
+<taxon>Arabidopsis</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="2000" name="DNA Res." volume="7" first="31" last="63">
+<title>Structural analysis of Arabidopsis thaliana chromosome 5. X. Sequence features of the regions of 3,076,755 bp covered by sixty P1 and TAC clones.</title>
+<authorList>
+<person name="Sato S."/>
+<person name="Nakamura Y."/>
+<person name="Kaneko T."/>
+<person name="Katoh T."/>
+<person name="Asamizu E."/>
+<person name="Kotani H."/>
+<person name="Tabata S."/>
+</authorList>
+<dbReference type="PubMed" id="10718197"/>
+<dbReference type="DOI" id="10.1093/dnares/7.1.31"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>cv. Columbia</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2017" name="Plant J." volume="89" first="789" last="804">
+<title>Araport11: a complete reannotation of the Arabidopsis thaliana reference genome.</title>
+<authorList>
+<person name="Cheng C.Y."/>
+<person name="Krishnakumar V."/>
+<person name="Chan A.P."/>
+<person name="Thibaud-Nissen F."/>
+<person name="Schobel S."/>
+<person name="Town C.D."/>
+</authorList>
+<dbReference type="PubMed" id="27862469"/>
+<dbReference type="DOI" id="10.1111/tpj.13415"/>
+</citation>
+<scope>GENOME REANNOTATION</scope>
+<source>
+<strain>cv. Columbia</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2009" name="DNA Res." volume="16" first="155" last="164">
+<title>Analysis of multiple occurrences of alternative splicing events in Arabidopsis thaliana using novel sequenced full-length cDNAs.</title>
+<authorList>
+<person name="Iida K."/>
+<person name="Fukami-Kobayashi K."/>
+<person name="Toyoda A."/>
+<person name="Sakaki Y."/>
+<person name="Kobayashi M."/>
+<person name="Seki M."/>
+<person name="Shinozaki K."/>
+</authorList>
+<dbReference type="PubMed" id="19423640"/>
+<dbReference type="DOI" id="10.1093/dnares/dsp009"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+<source>
+<strain>cv. Columbia</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2007" name="FEBS Lett." volume="581" first="2290" last="2300">
+<title>Nitrate transporters and peptide transporters.</title>
+<authorList>
+<person name="Tsay Y.F."/>
+<person name="Chiu C.C."/>
+<person name="Tsai C.B."/>
+<person name="Ho C.H."/>
+<person name="Hsu P.K."/>
+</authorList>
+<dbReference type="PubMed" id="17481610"/>
+<dbReference type="DOI" id="10.1016/j.febslet.2007.04.047"/>
+</citation>
+<scope>TISSUE SPECIFICITY</scope>
+<scope>GENE FAMILY</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2010" name="Plant Cell" volume="22" first="1633" last="1646">
+<title>The Arabidopsis nitrate transporter NRT1.8 functions in nitrate removal from the xylem sap and mediates cadmium tolerance.</title>
+<authorList>
+<person name="Li J.Y."/>
+<person name="Fu Y.L."/>
+<person name="Pike S.M."/>
+<person name="Bao J."/>
+<person name="Tian W."/>
+<person name="Zhang Y."/>
+<person name="Chen C.Z."/>
+<person name="Zhang Y."/>
+<person name="Li H.M."/>
+<person name="Huang J."/>
+<person name="Li L.G."/>
+<person name="Schroeder J.I."/>
+<person name="Gassmann W."/>
+<person name="Gong J.M."/>
+</authorList>
+<dbReference type="PubMed" id="20501909"/>
+<dbReference type="DOI" id="10.1105/tpc.110.075242"/>
+</citation>
+<scope>GENE FAMILY</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2012" name="Nature" volume="488" first="531" last="534">
+<title>NRT/PTR transporters are essential for translocation of glucosinolate defence compounds to seeds.</title>
+<authorList>
+<person name="Nour-Eldin H.H."/>
+<person name="Andersen T.G."/>
+<person name="Burow M."/>
+<person name="Madsen S.R."/>
+<person name="Jorgensen M.E."/>
+<person name="Olsen C.E."/>
+<person name="Dreyer I."/>
+<person name="Hedrich R."/>
+<person name="Geiger D."/>
+<person name="Halkier B.A."/>
+</authorList>
+<dbReference type="PubMed" id="22864417"/>
+<dbReference type="DOI" id="10.1038/nature11285"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>BIOPHYSICOCHEMICAL PROPERTIES</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>TISSUE SPECIFICITY</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2013" name="Plant Cell" volume="25" first="3133" last="3145">
+<title>Integration of biosynthesis and long-distance transport establish organ-specific glucosinolate profiles in vegetative Arabidopsis.</title>
+<authorList>
+<person name="Andersen T.G."/>
+<person name="Nour-Eldin H.H."/>
+<person name="Fuller V.L."/>
+<person name="Olsen C.E."/>
+<person name="Burow M."/>
+<person name="Halkier B.A."/>
+</authorList>
+<dbReference type="PubMed" id="23995084"/>
+<dbReference type="DOI" id="10.1105/tpc.113.110890"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>TISSUE SPECIFICITY</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2014" name="Trends Plant Sci." volume="19" first="5" last="9">
+<title>A unified nomenclature of NITRATE TRANSPORTER 1/PEPTIDE TRANSPORTER family members in plants.</title>
+<authorList>
+<person name="Leran S."/>
+<person name="Varala K."/>
+<person name="Boyer J.C."/>
+<person name="Chiurazzi M."/>
+<person name="Crawford N."/>
+<person name="Daniel-Vedele F."/>
+<person name="David L."/>
+<person name="Dickstein R."/>
+<person name="Fernandez E."/>
+<person name="Forde B."/>
+<person name="Gassmann W."/>
+<person name="Geiger D."/>
+<person name="Gojon A."/>
+<person name="Gong J.M."/>
+<person name="Halkier B.A."/>
+<person name="Harris J.M."/>
+<person name="Hedrich R."/>
+<person name="Limami A.M."/>
+<person name="Rentsch D."/>
+<person name="Seo M."/>
+<person name="Tsay Y.F."/>
+<person name="Zhang M."/>
+<person name="Coruzzi G."/>
+<person name="Lacombe B."/>
+</authorList>
+<dbReference type="PubMed" id="24055139"/>
+<dbReference type="DOI" id="10.1016/j.tplants.2013.08.008"/>
+</citation>
+<scope>GENE FAMILY</scope>
+<scope>NOMENCLATURE</scope>
+</reference>
+<comment type="function">
+<text evidence="3 4">High-affinity, proton-dependent glucosinolate-specific transporter. Involved in apoplasmic phloem-loading of glucosinolates and in bidirectional long-distance transport of aliphatic but not indole glucosinolates. May be involved in removal of glucosinolates from the xylem in roots.</text>
+</comment>
+<comment type="biophysicochemical properties">
+<kinetics>
+<KM evidence="3">18.7 uM for 4-methylthiobutyl glucosinolate</KM>
+</kinetics>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="3">Cell membrane</location>
+<topology evidence="3">Multi-pass membrane protein</topology>
+</subcellularLocation>
+</comment>
+<comment type="tissue specificity">
+<text evidence="2 3 4">Expressed in roots. Detected in shoots, stems and flowers. Expressed in veins and in the root vasculature with highest expression in lateral branching points.</text>
+</comment>
+<comment type="disruption phenotype">
+<text evidence="3">48% reduction in total glucosinolate levels in seeds. Gtr1 and gtr2 double mutant has no detectable glucosinolate in seeds.</text>
+</comment>
+<comment type="similarity">
+<text evidence="5">Belongs to the PTR2/POT transporter (TC 2.A.17) family.</text>
+</comment>
+<dbReference type="EMBL" id="AB020751">
+<property type="protein sequence ID" value="BAA97215.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CP002688">
+<property type="protein sequence ID" value="AED97642.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AK316918">
+<property type="protein sequence ID" value="BAH19623.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_201074.1">
+<property type="nucleotide sequence ID" value="NM_125663.4"/>
+</dbReference>
+<dbReference type="UniGene" id="At.28239"/>
+<dbReference type="UniGene" id="At.68527"/>
+<dbReference type="ProteinModelPortal" id="Q9LV10"/>
+<dbReference type="STRING" id="3702.AT5G62680.1"/>
+<dbReference type="TCDB" id="2.A.17.3.20">
+<property type="family name" value="the proton-dependent oligopeptide transporter (pot/ptr) family"/>
+</dbReference>
+<dbReference type="PaxDb" id="Q9LV10"/>
+<dbReference type="PRIDE" id="Q9LV10"/>
+<dbReference type="EnsemblPlants" id="AT5G62680.1">
+<property type="protein sequence ID" value="AT5G62680.1"/>
+<property type="gene ID" value="AT5G62680"/>
+</dbReference>
+<dbReference type="GeneID" id="836389"/>
+<dbReference type="Gramene" id="AT5G62680.1">
+<property type="protein sequence ID" value="AT5G62680.1"/>
+<property type="gene ID" value="AT5G62680"/>
+</dbReference>
+<dbReference type="KEGG" id="ath:AT5G62680"/>
+<dbReference type="Araport" id="AT5G62680"/>
+<dbReference type="TAIR" id="locus:2172249">
+<property type="gene designation" value="AT5G62680"/>
+</dbReference>
+<dbReference type="eggNOG" id="KOG1237">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG3104">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000237399"/>
+<dbReference type="InParanoid" id="Q9LV10"/>
+<dbReference type="OMA" id="CNGPSGG"/>
+<dbReference type="OrthoDB" id="365203at2759"/>
+<dbReference type="PhylomeDB" id="Q9LV10"/>
+<dbReference type="Reactome" id="R-ATH-427975">
+<property type="pathway name" value="Proton/oligopeptide cotransporters"/>
+</dbReference>
+<dbReference type="Reactome" id="R-ATH-6798695">
+<property type="pathway name" value="Neutrophil degranulation"/>
+</dbReference>
+<dbReference type="PRO" id="PR:Q9LV10"/>
+<dbReference type="Proteomes" id="UP000006548">
+<property type="component" value="Chromosome 5"/>
+</dbReference>
+<dbReference type="ExpressionAtlas" id="Q9LV10">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevisible" id="Q9LV10">
+<property type="organism ID" value="AT"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016021">
+<property type="term" value="C:integral component of membrane"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005886">
+<property type="term" value="C:plasma membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="TAIR"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009506">
+<property type="term" value="C:plasmodesma"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="TAIR"/>
+</dbReference>
+<dbReference type="GO" id="GO:0090448">
+<property type="term" value="F:glucosinolate:proton symporter activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="TAIR"/>
+</dbReference>
+<dbReference type="GO" id="GO:1901349">
+<property type="term" value="P:glucosinolate transport"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="TAIR"/>
+</dbReference>
+<dbReference type="GO" id="GO:0090449">
+<property type="term" value="P:phloem glucosinolate loading"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="TAIR"/>
+</dbReference>
+<dbReference type="GO" id="GO:0080167">
+<property type="term" value="P:response to karrikin"/>
+<property type="evidence" value="ECO:0000270"/>
+<property type="project" value="TAIR"/>
+</dbReference>
+<dbReference type="CDD" id="cd06174">
+<property type="entry name" value="MFS"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR020846">
+<property type="entry name" value="MFS_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036259">
+<property type="entry name" value="MFS_trans_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000109">
+<property type="entry name" value="POT_fam"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR11654">
+<property type="entry name" value="PTHR11654"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00854">
+<property type="entry name" value="PTR2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF103473">
+<property type="entry name" value="SSF103473"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-1003">Cell membrane</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0812">Transmembrane</keyword>
+<keyword id="KW-1133">Transmembrane helix</keyword>
+<keyword id="KW-0813">Transport</keyword>
+<feature type="chain" description="Protein NRT1/ PTR FAMILY 2.11" id="PRO_0000399987">
+<location>
+<begin position="1"/>
+<end position="616"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="59"/>
+<end position="79"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="87"/>
+<end position="107"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="118"/>
+<end position="138"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="159"/>
+<end position="179"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="205"/>
+<end position="225"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="233"/>
+<end position="253"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="349"/>
+<end position="369"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="392"/>
+<end position="412"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="435"/>
+<end position="455"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="483"/>
+<end position="503"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="519"/>
+<end position="539"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="566"/>
+<end position="586"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000255"/>
+<evidence key="2" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17481610"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22864417"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23995084"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000305"/>
+<sequence length="616" mass="67891" checksum="8D545D2664C3115C" modified="2000-10-01" version="1">
+MERKPLELESTDNHQNPSSAVYGGSVTAVDSVEEDVQNQKKVVYRGWKVMPFIIGNETFE
+KLGIIGTLSNLLVYLTAVFNLKSITAATIINAFSGTINFGTFVAAFLCDTYFGRYKTLSV
+AVIACFLGSFVILLTAAVPQLHPAACGTAADSICNGPSGGQIAFLLMGLGFLVVGAGGIR
+PCNLAFGADQFNPKSESGKRGIDSFFNWYFFTFTFAQILSLTLVVYVQSNVSWTIGLTIP
+AVLMFLACLIFFAGDKLYVKIKASGSPLAGIAQVIAVAIKKRGLKPAKQPWLNLYNYYPP
+KYANSKLKYTDQFRFLDKAAILTPEDKLQPDGKPADPWKLCTMQQVEEVKCIVRVLPIWF
+ASSIYYLTITQQMTYPVFQALQSDRRLGSGGFVIPAATYVVFLMTGMTVFIVVYDRVLVP
+TMRRITGLDTGITLLQRIGTGIFFATASLVVAGFVEERRRTFALTKPTLGMAPRKGEISS
+MSAMWLIPQLSLAGVAEAFAAIGQMEFYYKQFPENMRSFAGSIFYVGGGVSSYLGSFLIA
+TVHRTTQNSSGGNWLAEDLNKGRLDLFYFMIAGILAVNFAYFLVMSRWYRYKGSDDEVTT
+YETNENIIKQQDKNVA
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

@@ -1,0 +1,283 @@
+ID   ADF1_ARATH              Reviewed;         139 AA.
+AC   Q39250;
+DT   02-NOV-2001, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1996, sequence version 1.
+DT   16-JAN-2019, entry version 141.
+DE   RecName: Full=Actin-depolymerizing factor 1;
+DE            Short=ADF-1;
+DE            Short=AtADF1;
+GN   Name=ADF1; OrderedLocusNames=At3g46010; ORFNames=F16L2_220;
+OS   Arabidopsis thaliana (Mouse-ear cress).
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+OC   Pentapetalae; rosids; malvids; Brassicales; Brassicaceae; Camelineae;
+OC   Arabidopsis.
+OX   NCBI_TaxID=3702;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RC   STRAIN=cv. Columbia;
+RA   Staiger C.J., Ashworth S.L.;
+RT   "Actin depolymerizing factor from Arabidopsis thaliana severs polymers
+RT   and binds to monomers in a pH-dependent manner.";
+RL   Submitted (FEB-1996) to the EMBL/GenBank/DDBJ databases.
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], TISSUE SPECIFICITY, AND
+RP   CHARACTERIZATION.
+RC   STRAIN=cv. Columbia;
+RX   PubMed=11414611; DOI=10.1023/A:1010687911374;
+RA   Dong C.-H., Kost B., Xia G.-X., Chua N.-H.;
+RT   "Molecular identification and characterization of the Arabidopsis
+RT   AtADF1, AtADF5 and AtADF6 genes.";
+RL   Plant Mol. Biol. 45:517-527(2001).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=cv. Columbia;
+RX   PubMed=11130713; DOI=10.1038/35048706;
+RA   Salanoubat M., Lemcke K., Rieger M., Ansorge W., Unseld M.,
+RA   Fartmann B., Valle G., Bloecker H., Perez-Alonso M., Obermaier B.,
+RA   Delseny M., Boutry M., Grivell L.A., Mache R., Puigdomenech P.,
+RA   De Simone V., Choisne N., Artiguenave F., Robert C., Brottier P.,
+RA   Wincker P., Cattolico L., Weissenbach J., Saurin W., Quetier F.,
+RA   Schaefer M., Mueller-Auer S., Gabel C., Fuchs M., Benes V.,
+RA   Wurmbach E., Drzonek H., Erfle H., Jordan N., Bangert S.,
+RA   Wiedelmann R., Kranz H., Voss H., Holland R., Brandt P., Nyakatura G.,
+RA   Vezzi A., D'Angelo M., Pallavicini A., Toppo S., Simionati B.,
+RA   Conrad A., Hornischer K., Kauer G., Loehnert T.-H., Nordsiek G.,
+RA   Reichelt J., Scharfe M., Schoen O., Bargues M., Terol J., Climent J.,
+RA   Navarro P., Collado C., Perez-Perez A., Ottenwaelder B., Duchemin D.,
+RA   Cooke R., Laudie M., Berger-Llauro C., Purnelle B., Masuy D.,
+RA   de Haan M., Maarse A.C., Alcaraz J.-P., Cottet A., Casacuberta E.,
+RA   Monfort A., Argiriou A., Flores M., Liguori R., Vitale D.,
+RA   Mannhaupt G., Haase D., Schoof H., Rudd S., Zaccaria P., Mewes H.-W.,
+RA   Mayer K.F.X., Kaul S., Town C.D., Koo H.L., Tallon L.J., Jenkins J.,
+RA   Rooney T., Rizzo M., Walts A., Utterback T., Fujii C.Y., Shea T.P.,
+RA   Creasy T.H., Haas B., Maiti R., Wu D., Peterson J., Van Aken S.,
+RA   Pai G., Militscher J., Sellers P., Gill J.E., Feldblyum T.V.,
+RA   Preuss D., Lin X., Nierman W.C., Salzberg S.L., White O., Venter J.C.,
+RA   Fraser C.M., Kaneko T., Nakamura Y., Sato S., Kato T., Asamizu E.,
+RA   Sasamoto S., Kimura T., Idesawa K., Kawashima K., Kishida Y.,
+RA   Kiyokawa C., Kohara M., Matsumoto M., Matsuno A., Muraki A.,
+RA   Nakayama S., Nakazaki N., Shinpo S., Takeuchi C., Wada T.,
+RA   Watanabe A., Yamada M., Yasuda M., Tabata S.;
+RT   "Sequence and analysis of chromosome 3 of the plant Arabidopsis
+RT   thaliana.";
+RL   Nature 408:820-822(2000).
+RN   [4]
+RP   GENOME REANNOTATION.
+RC   STRAIN=cv. Columbia;
+RX   PubMed=27862469; DOI=10.1111/tpj.13415;
+RA   Cheng C.Y., Krishnakumar V., Chan A.P., Thibaud-Nissen F., Schobel S.,
+RA   Town C.D.;
+RT   "Araport11: a complete reannotation of the Arabidopsis thaliana
+RT   reference genome.";
+RL   Plant J. 89:789-804(2017).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   STRAIN=cv. Columbia;
+RX   PubMed=14593172; DOI=10.1126/science.1088305;
+RA   Yamada K., Lim J., Dale J.M., Chen H., Shinn P., Palm C.J.,
+RA   Southwick A.M., Wu H.C., Kim C.J., Nguyen M., Pham P.K., Cheuk R.F.,
+RA   Karlin-Newmann G., Liu S.X., Lam B., Sakano H., Wu T., Yu G.,
+RA   Miranda M., Quach H.L., Tripp M., Chang C.H., Lee J.M., Toriumi M.J.,
+RA   Chan M.M., Tang C.C., Onodera C.S., Deng J.M., Akiyama K., Ansari Y.,
+RA   Arakawa T., Banh J., Banno F., Bowser L., Brooks S.Y., Carninci P.,
+RA   Chao Q., Choy N., Enju A., Goldsmith A.D., Gurjal M., Hansen N.F.,
+RA   Hayashizaki Y., Johnson-Hopson C., Hsuan V.W., Iida K., Karnes M.,
+RA   Khan S., Koesema E., Ishida J., Jiang P.X., Jones T., Kawai J.,
+RA   Kamiya A., Meyers C., Nakajima M., Narusaka M., Seki M., Sakurai T.,
+RA   Satou M., Tamse R., Vaysberg M., Wallender E.K., Wong C., Yamamura Y.,
+RA   Yuan S., Shinozaki K., Davis R.W., Theologis A., Ecker J.R.;
+RT   "Empirical analysis of transcriptional activity in the Arabidopsis
+RT   genome.";
+RL   Science 302:842-846(2003).
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RA   Brover V.V., Troukhan M.E., Alexandrov N.A., Lu Y.-P., Flavell R.B.,
+RA   Feldmann K.A.;
+RT   "Full-length cDNA from Arabidopsis thaliana.";
+RL   Submitted (MAR-2002) to the EMBL/GenBank/DDBJ databases.
+RN   [7]
+RP   FUNCTION.
+RX   PubMed=11402164; DOI=10.1105/tpc.13.6.1333;
+RA   Dong C.-H., Xia G.-X., Hong Y., Ramachandran S., Kost B., Chua N.-H.;
+RT   "ADF proteins are involved in the control of flowering and regulate F-
+RT   actin organization, cell expansion, and organ growth in Arabidopsis.";
+RL   Plant Cell 13:1333-1346(2001).
+RN   [8]
+RP   GENE FAMILY.
+RX   PubMed=16360805; DOI=10.1016/j.jplph.2005.01.015;
+RA   Feng Y., Liu Q., Xue Q.;
+RT   "Comparative study of rice and Arabidopsis actin-depolymerizing
+RT   factors gene families.";
+RL   J. Plant Physiol. 163:69-79(2006).
+RN   [9]
+RP   FUNCTION.
+RX   PubMed=17538023; DOI=10.1091/mbc.E06-11-1041;
+RA   Chaudhry F., Guerin C., von Witsch M., Blanchoin L., Staiger C.J.;
+RT   "Identification of Arabidopsis cyclase-associated protein 1 as the
+RT   first nucleotide exchange factor for plant actin.";
+RL   Mol. Biol. Cell 18:3002-3014(2007).
+RN   [10]
+RP   FUNCTION, AND SUBCELLULAR LOCATION.
+RX   PubMed=21570971; DOI=10.1016/j.febslet.2011.05.019;
+RA   Tholl S., Moreau F., Hoffmann C., Arumugam K., Dieterle M., Moes D.,
+RA   Neumann K., Steinmetz A., Thomas C.;
+RT   "Arabidopsis actin-depolymerizing factors (ADFs) 1 and 9 display
+RT   antagonist activities.";
+RL   FEBS Lett. 585:1821-1827(2011).
+RN   [11]
+RP   MUTAGENESIS OF LYS-82; ARG-98; LYS-100; ARG-135 AND ARG-137.
+RX   PubMed=23190411; DOI=10.1111/jipb.12015;
+RA   Dong C.H., Tang W.P., Liu J.Y.;
+RT   "Arabidopsis AtADF1 is functionally affected by mutations on actin
+RT   binding sites.";
+RL   J. Integr. Plant Biol. 55:250-261(2013).
+RN   [12]
+RP   PHOSPHORYLATION AT SER-6, AND MUTAGENESIS OF SER-6.
+RX   PubMed=23903947; DOI=10.1007/s00299-013-1482-6;
+RA   Dong C.H., Hong Y.;
+RT   "Arabidopsis CDPK6 phosphorylates ADF1 at N-terminal serine 6
+RT   predominantly.";
+RL   Plant Cell Rep. 32:1715-1728(2013).
+RN   [13]
+RP   INTERACTION WITH GRF6/AFT1, AND DISRUPTION PHENOTYPE.
+RX   PubMed=26345162; DOI=10.1007/s11427-015-4897-1;
+RA   Zhao S., Zhao Y., Guo Y.;
+RT   "14-3-3 lambda protein interacts with ADF1 to regulate actin
+RT   cytoskeleton dynamics in Arabidopsis.";
+RL   Sci. China Life Sci. 58:1142-1150(2015).
+RN   [14]
+RP   X-RAY CRYSTALLOGRAPHY (2.0 ANGSTROMS).
+RX   PubMed=11025548;
+RX   DOI=10.1002/1097-0134(20001115)41:3<374::AID-PROT90>3.0.CO;2-F;
+RA   Bowman G.D., Nodelman I.M., Hong Y., Chua N.-H., Lindberg U.,
+RA   Schutt C.E.;
+RT   "A comparative structural analysis of the ADF/cofilin family.";
+RL   Proteins 41:374-384(2000).
+CC   -!- FUNCTION: Actin-depolymerizing protein. Stimulates F-actin
+CC       depolymerization. Involved in plant development, cell organ
+CC       expansion and flowering by controlling breakdown of thick actin
+CC       cables (PubMed:11402164). Severs actin filaments or bundles and
+CC       promotes actin cytoskeleton disassembly (PubMed:21570971). Binds
+CC       monomeric actin (G-actin) with a marked preference for the ADP-
+CC       loaded form and inhibits the rate of nucleotide exchange on G-
+CC       actin (PubMed:17538023). {ECO:0000269|PubMed:11402164,
+CC       ECO:0000269|PubMed:17538023, ECO:0000269|PubMed:21570971}.
+CC   -!- SUBUNIT: Interacts with the 14-3-3-like protein GRF6/AFT1.
+CC       {ECO:0000269|PubMed:26345162}.
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm, cytoskeleton
+CC       {ECO:0000269|PubMed:21570971}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=1;
+CC         Comment=A number of isoforms are produced. According to EST
+CC         sequences.;
+CC       Name=1;
+CC         IsoId=Q39250-1; Sequence=Displayed;
+CC   -!- TISSUE SPECIFICITY: Expressed in vascular tissues of all organs.
+CC       {ECO:0000269|PubMed:11414611}.
+CC   -!- PTM: Phosphorylation at Ser-6 by CPK3/CDPK6 inhibits actin-
+CC       depolimerizing activity. {ECO:0000269|PubMed:23903947}.
+CC   -!- DISRUPTION PHENOTYPE: Increased length of hypocotyls under dark-
+CC       grown conditions. {ECO:0000269|PubMed:26345162}.
+CC   -!- SIMILARITY: Belongs to the actin-binding proteins ADF family.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   -----------------------------------------------------------------------
+DR   EMBL; U48938; AAB03696.1; -; mRNA.
+DR   EMBL; AF102173; AAC72407.1; -; Genomic_DNA.
+DR   EMBL; AL162459; CAB88325.1; -; Genomic_DNA.
+DR   EMBL; CP002686; AEE78100.1; -; Genomic_DNA.
+DR   EMBL; AY035154; AAK59658.1; -; mRNA.
+DR   EMBL; AY062940; AAL33770.1; -; mRNA.
+DR   EMBL; AY085853; AAM63066.1; -; mRNA.
+DR   RefSeq; NP_190187.1; NM_114470.3. [Q39250-1]
+DR   UniGene; At.21187; -.
+DR   PDB; 1F7S; X-ray; 2.00 A; A=1-139.
+DR   PDBsum; 1F7S; -.
+DR   ProteinModelPortal; Q39250; -.
+DR   SMR; Q39250; -.
+DR   BioGrid; 9064; 2.
+DR   STRING; 3702.AT3G46010.2; -.
+DR   iPTMnet; Q39250; -.
+DR   PaxDb; Q39250; -.
+DR   PRIDE; Q39250; -.
+DR   EnsemblPlants; AT3G46010.1; AT3G46010.1; AT3G46010. [Q39250-1]
+DR   GeneID; 823744; -.
+DR   Gramene; AT3G46010.1; AT3G46010.1; AT3G46010. [Q39250-1]
+DR   KEGG; ath:AT3G46010; -.
+DR   Araport; AT3G46010; -.
+DR   eggNOG; KOG1735; Eukaryota.
+DR   eggNOG; ENOG41122P5; LUCA.
+DR   HOGENOM; HOG000039697; -.
+DR   InParanoid; Q39250; -.
+DR   KO; K05765; -.
+DR   OMA; PVLSYED; -.
+DR   OrthoDB; 1370477at2759; -.
+DR   PhylomeDB; Q39250; -.
+DR   EvolutionaryTrace; Q39250; -.
+DR   PRO; PR:Q39250; -.
+DR   Proteomes; UP000006548; Chromosome 3.
+DR   ExpressionAtlas; Q39250; baseline and differential.
+DR   Genevisible; Q39250; AT.
+DR   GO; GO:0015629; C:actin cytoskeleton; IEA:InterPro.
+DR   GO; GO:0005737; C:cytoplasm; IEA:UniProtKB-KW.
+DR   GO; GO:0003779; F:actin binding; IEA:UniProtKB-KW.
+DR   GO; GO:0030042; P:actin filament depolymerization; IEA:InterPro.
+DR   CDD; cd11286; ADF_cofilin_like; 1.
+DR   Gene3D; 3.40.20.10; -; 1.
+DR   InterPro; IPR002108; ADF-H.
+DR   InterPro; IPR029006; ADF-H/Gelsolin-like_dom_sf.
+DR   InterPro; IPR017904; ADF/Cofilin.
+DR   PANTHER; PTHR11913; PTHR11913; 1.
+DR   Pfam; PF00241; Cofilin_ADF; 1.
+DR   SMART; SM00102; ADF; 1.
+DR   PROSITE; PS51263; ADF_H; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Actin-binding; Alternative splicing; Complete proteome;
+KW   Cytoplasm; Cytoskeleton; Phosphoprotein; Reference proteome.
+FT   CHAIN         1    139       Actin-depolymerizing factor 1.
+FT                                /FTId=PRO_0000214923.
+FT   DOMAIN        5    139       ADF-H. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00599}.
+FT   MOD_RES       6      6       Phosphoserine; by CPK3.
+FT                                {ECO:0000269|PubMed:23903947}.
+FT   MUTAGEN       6      6       S->A,D: Loss of phosphorylation by
+FT                                CPK3/CDPK6.
+FT                                {ECO:0000269|PubMed:23903947}.
+FT   MUTAGEN      82     82       K->A: Reduces binding affinity to F-actin
+FT                                and actin-depolimerizing activity; when
+FT                                associated with A-135 and A-137.
+FT                                {ECO:0000269|PubMed:23190411}.
+FT   MUTAGEN      98     98       R->A: Reduces binding affinity to both G-
+FT                                actin and F-actin, and actin-
+FT                                depolimerizing activity; when associated
+FT                                with A-100.
+FT                                {ECO:0000269|PubMed:23190411}.
+FT   MUTAGEN     100    100       K->A: Reduces binding affinity to both G-
+FT                                actin and F-actin, and actin-
+FT                                depolimerizing activity; when associated
+FT                                with A-98. {ECO:0000269|PubMed:23190411}.
+FT   MUTAGEN     135    135       R->A: Reduces binding affinity to F-actin
+FT                                and actin-depolimerizing activity; when
+FT                                associated with A-82 and A-137.
+FT                                {ECO:0000269|PubMed:23190411}.
+FT   MUTAGEN     137    137       R->A: Reduces binding affinity to F-actin
+FT                                and actin-depolimerizing activity; when
+FT                                associated with A-82 and A-135.
+FT                                {ECO:0000269|PubMed:23190411}.
+FT   HELIX        12     24       {ECO:0000244|PDB:1F7S}.
+FT   STRAND       28     35       {ECO:0000244|PDB:1F7S}.
+FT   TURN         36     39       {ECO:0000244|PDB:1F7S}.
+FT   STRAND       40     46       {ECO:0000244|PDB:1F7S}.
+FT   HELIX        53     57       {ECO:0000244|PDB:1F7S}.
+FT   STRAND       66     75       {ECO:0000244|PDB:1F7S}.
+FT   STRAND       81     90       {ECO:0000244|PDB:1F7S}.
+FT   HELIX        97    111       {ECO:0000244|PDB:1F7S}.
+FT   STRAND      119    123       {ECO:0000244|PDB:1F7S}.
+SQ   SEQUENCE   139 AA;  16113 MW;  E9429E0FE23A944F CRC64;
+     MANAASGMAV HDDCKLRFLE LKAKRTHRFI VYKIEEKQKQ VVVEKVGQPI QTYEEFAACL
+     PADECRYAIY DFDFVTAENC QKSKIFFIAW CPDIAKVRSK MIYASSKDRF KRELDGIQVE
+     LQATDPTEMD LDVFRSRAN
+//

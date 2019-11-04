@@ -1,0 +1,235 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2017-04-12" modified="2019-01-16" version="11">
+<accession>A0A178V2D1</accession>
+<name>A0A178V2D1_ARATH</name>
+<protein>
+<submittedName>
+<fullName evidence="3">Uncharacterized protein</fullName>
+</submittedName>
+</protein>
+<gene>
+<name type="ordered locus" evidence="3">AXX17_At4g41160</name>
+</gene>
+<organism evidence="3 4">
+<name type="scientific">Arabidopsis thaliana</name>
+<name type="common">Mouse-ear cress</name>
+<dbReference type="NCBI Taxonomy" id="3702"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Viridiplantae</taxon>
+<taxon>Streptophyta</taxon>
+<taxon>Embryophyta</taxon>
+<taxon>Tracheophyta</taxon>
+<taxon>Spermatophyta</taxon>
+<taxon>Magnoliophyta</taxon>
+<taxon>eudicotyledons</taxon>
+<taxon>Gunneridae</taxon>
+<taxon>Pentapetalae</taxon>
+<taxon>rosids</taxon>
+<taxon>malvids</taxon>
+<taxon>Brassicales</taxon>
+<taxon>Brassicaceae</taxon>
+<taxon>Camelineae</taxon>
+<taxon>Arabidopsis</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="4">
+<citation type="journal article" date="2016" name="Proc. Natl. Acad. Sci. U.S.A." volume="113" first="E4052" last="E4060">
+<title>Chromosome-level assembly of Arabidopsis thaliana Ler reveals the extent of translocation and inversion polymorphisms.</title>
+<authorList>
+<person name="Zapata L."/>
+<person name="Ding J."/>
+<person name="Willing E.M."/>
+<person name="Hartwig B."/>
+<person name="Bezdan D."/>
+<person name="Jiao W.B."/>
+<person name="Patel V."/>
+<person name="Velikkakam James G."/>
+<person name="Koornneef M."/>
+<person name="Ossowski S."/>
+<person name="Schneeberger K."/>
+</authorList>
+<dbReference type="PubMed" id="27354520"/>
+<dbReference type="DOI" id="10.1073/pnas.1607532113"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain evidence="4">cv. Landsberg erecta</strain>
+</source>
+</reference>
+<comment type="caution">
+<text evidence="3">The sequence shown here is derived from an EMBL/GenBank/DDBJ whole genome shotgun (WGS) entry which is preliminary data.</text>
+</comment>
+<dbReference type="EMBL" id="LUHQ01000004">
+<property type="protein sequence ID" value="OAO99081.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001031792.1">
+<property type="nucleotide sequence ID" value="NM_001036715.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_195325.1">
+<property type="nucleotide sequence ID" value="NM_119768.2"/>
+</dbReference>
+<dbReference type="UniGene" id="At.2222"/>
+<dbReference type="SMR" id="A0A178V2D1"/>
+<dbReference type="EnsemblPlants" id="AT4G36010.1">
+<property type="protein sequence ID" value="AT4G36010.1"/>
+<property type="gene ID" value="AT4G36010"/>
+</dbReference>
+<dbReference type="EnsemblPlants" id="AT4G36010.2">
+<property type="protein sequence ID" value="AT4G36010.2"/>
+<property type="gene ID" value="AT4G36010"/>
+</dbReference>
+<dbReference type="GeneID" id="829757"/>
+<dbReference type="Gramene" id="AT4G36010.1">
+<property type="protein sequence ID" value="AT4G36010.1"/>
+<property type="gene ID" value="AT4G36010"/>
+</dbReference>
+<dbReference type="Gramene" id="AT4G36010.2">
+<property type="protein sequence ID" value="AT4G36010.2"/>
+<property type="gene ID" value="AT4G36010"/>
+</dbReference>
+<dbReference type="KEGG" id="ath:AT4G36010"/>
+<dbReference type="OMA" id="CATGECG"/>
+<dbReference type="OrthoDB" id="1135904at2759"/>
+<dbReference type="Proteomes" id="UP000078284">
+<property type="component" value="Chromosome 4"/>
+</dbReference>
+<dbReference type="ExpressionAtlas" id="A0A178V2D1">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Gene3D" id="2.60.110.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR037176">
+<property type="entry name" value="Osmotin/thaumatin-like_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001938">
+<property type="entry name" value="Thaumatin"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR31048">
+<property type="entry name" value="PTHR31048"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00314">
+<property type="entry name" value="Thaumatin"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PIRSF" id="PIRSF002703">
+<property type="entry name" value="Thaumatin"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00347">
+<property type="entry name" value="THAUMATIN"/>
+</dbReference>
+<dbReference type="SMART" id="SM00205">
+<property type="entry name" value="THN"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF49870">
+<property type="entry name" value="SSF49870"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51367">
+<property type="entry name" value="THAUMATIN_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="predicted"/>
+<keyword id="KW-0181" evidence="4">Complete proteome</keyword>
+<keyword id="KW-1015" evidence="1">Disulfide bond</keyword>
+<keyword id="KW-0732" evidence="2">Signal</keyword>
+<feature type="signal peptide" evidence="2">
+<location>
+<begin position="1"/>
+<end position="22"/>
+</location>
+</feature>
+<feature type="chain" id="PRO_5010332256" evidence="2">
+<location>
+<begin position="23"/>
+<end position="301"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="1">
+<location>
+<begin position="31"/>
+<end position="249"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="1">
+<location>
+<begin position="79"/>
+<end position="90"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="1">
+<location>
+<begin position="95"/>
+<end position="102"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="1">
+<location>
+<begin position="156"/>
+<end position="239"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="1">
+<location>
+<begin position="161"/>
+<end position="222"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="1">
+<location>
+<begin position="169"/>
+<end position="185"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="1">
+<location>
+<begin position="189"/>
+<end position="198"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="1">
+<location>
+<begin position="199"/>
+<end position="209"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="PIRSR" id="PIRSR002703-1"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000256">
+<source>
+<dbReference type="SAM" id="SignalP"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="OAO99081.1"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000313">
+<source>
+<dbReference type="Proteomes" id="UP000078284"/>
+</source>
+</evidence>
+<sequence length="301" mass="30906" checksum="8375AAA47036DF70" modified="2017-04-12" version="1">
+MGQSQVSLFLLLILVFIYGVSSTTFTIVNQCSYTVWPGLLSGAGTSPLPTTGFSLNPTET
+RVIPIPAAWSGRIWGRTLCTQDATTGRFTCITGDCGSSTVECSGSGAAPPATLAEFTLNG
+ANGLDFYDVSLVDGYNIPMTIVPQGGGDAGGVAGNCTTTGCVAELNGPCPAQLKVATTGA
+EGVACKSACEAFGTPEYCCSGAFGTPDTCKPSEYSQFFKNACPRAYSYAYDDGTSTFTCG
+GADYVITFCPSPNPSVKSATKGVQPVAVSYSKASPNASPTLSAVFSIGVLAVASWVMQRV
+L
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

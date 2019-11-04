@@ -1,0 +1,205 @@
+ID   WTR31_ARATH             Reviewed;         384 AA.
+AC   Q9SUF1; F4JG00; Q8GWV8; Q8LA54;
+DT   06-MAR-2013, integrated into UniProtKB/Swiss-Prot.
+DT   01-MAY-2000, sequence version 1.
+DT   16-JAN-2019, entry version 93.
+DE   RecName: Full=WAT1-related protein At4g08290;
+GN   OrderedLocusNames=At4g08290; ORFNames=T12G13.130;
+OS   Arabidopsis thaliana (Mouse-ear cress).
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+OC   Pentapetalae; rosids; malvids; Brassicales; Brassicaceae; Camelineae;
+OC   Arabidopsis.
+OX   NCBI_TaxID=3702;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=cv. Columbia;
+RX   PubMed=10617198; DOI=10.1038/47134;
+RA   Mayer K.F.X., Schueller C., Wambutt R., Murphy G., Volckaert G.,
+RA   Pohl T., Duesterhoeft A., Stiekema W., Entian K.-D., Terryn N.,
+RA   Harris B., Ansorge W., Brandt P., Grivell L.A., Rieger M.,
+RA   Weichselgartner M., de Simone V., Obermaier B., Mache R., Mueller M.,
+RA   Kreis M., Delseny M., Puigdomenech P., Watson M., Schmidtheini T.,
+RA   Reichert B., Portetelle D., Perez-Alonso M., Boutry M., Bancroft I.,
+RA   Vos P., Hoheisel J., Zimmermann W., Wedler H., Ridley P.,
+RA   Langham S.-A., McCullagh B., Bilham L., Robben J.,
+RA   van der Schueren J., Grymonprez B., Chuang Y.-J., Vandenbussche F.,
+RA   Braeken M., Weltjens I., Voet M., Bastiaens I., Aert R., Defoor E.,
+RA   Weitzenegger T., Bothe G., Ramsperger U., Hilbert H., Braun M.,
+RA   Holzer E., Brandt A., Peters S., van Staveren M., Dirkse W.,
+RA   Mooijman P., Klein Lankhorst R., Rose M., Hauf J., Koetter P.,
+RA   Berneiser S., Hempel S., Feldpausch M., Lamberth S., Van den Daele H.,
+RA   De Keyser A., Buysshaert C., Gielen J., Villarroel R., De Clercq R.,
+RA   van Montagu M., Rogers J., Cronin A., Quail M.A., Bray-Allen S.,
+RA   Clark L., Doggett J., Hall S., Kay M., Lennard N., McLay K., Mayes R.,
+RA   Pettett A., Rajandream M.A., Lyne M., Benes V., Rechmann S.,
+RA   Borkova D., Bloecker H., Scharfe M., Grimm M., Loehnert T.-H.,
+RA   Dose S., de Haan M., Maarse A.C., Schaefer M., Mueller-Auer S.,
+RA   Gabel C., Fuchs M., Fartmann B., Granderath K., Dauner D., Herzl A.,
+RA   Neumann S., Argiriou A., Vitale D., Liguori R., Piravandi E.,
+RA   Massenet O., Quigley F., Clabauld G., Muendlein A., Felber R.,
+RA   Schnabl S., Hiller R., Schmidt W., Lecharny A., Aubourg S.,
+RA   Chefdor F., Cooke R., Berger C., Monfort A., Casacuberta E.,
+RA   Gibbons T., Weber N., Vandenbol M., Bargues M., Terol J., Torres A.,
+RA   Perez-Perez A., Purnelle B., Bent E., Johnson S., Tacon D., Jesse T.,
+RA   Heijnen L., Schwarz S., Scholler P., Heber S., Francs P., Bielke C.,
+RA   Frishman D., Haase D., Lemcke K., Mewes H.-W., Stocker S.,
+RA   Zaccaria P., Bevan M., Wilson R.K., de la Bastide M., Habermann K.,
+RA   Parnell L., Dedhia N., Gnoj L., Schutz K., Huang E., Spiegel L.,
+RA   Sekhon M., Murray J., Sheet P., Cordes M., Abu-Threideh J.,
+RA   Stoneking T., Kalicki J., Graves T., Harmon G., Edwards J.,
+RA   Latreille P., Courtney L., Cloud J., Abbott A., Scott K., Johnson D.,
+RA   Minx P., Bentley D., Fulton B., Miller N., Greco T., Kemp K.,
+RA   Kramer J., Fulton L., Mardis E., Dante M., Pepin K., Hillier L.W.,
+RA   Nelson J., Spieth J., Ryan E., Andrews S., Geisel C., Layman D.,
+RA   Du H., Ali J., Berghoff A., Jones K., Drone K., Cotton M., Joshu C.,
+RA   Antonoiu B., Zidanic M., Strong C., Sun H., Lamar B., Yordan C.,
+RA   Ma P., Zhong J., Preston R., Vil D., Shekher M., Matero A., Shah R.,
+RA   Swaby I.K., O'Shaughnessy A., Rodriguez M., Hoffman J., Till S.,
+RA   Granat S., Shohdy N., Hasegawa A., Hameed A., Lodhi M., Johnson A.,
+RA   Chen E., Marra M.A., Martienssen R., McCombie W.R.;
+RT   "Sequence and analysis of chromosome 4 of the plant Arabidopsis
+RT   thaliana.";
+RL   Nature 402:769-777(1999).
+RN   [2]
+RP   GENOME REANNOTATION.
+RC   STRAIN=cv. Columbia;
+RX   PubMed=27862469; DOI=10.1111/tpj.13415;
+RA   Cheng C.Y., Krishnakumar V., Chan A.P., Thibaud-Nissen F., Schobel S.,
+RA   Town C.D.;
+RT   "Araport11: a complete reannotation of the Arabidopsis thaliana
+RT   reference genome.";
+RL   Plant J. 89:789-804(2017).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RC   STRAIN=cv. Columbia;
+RX   PubMed=11910074; DOI=10.1126/science.1071006;
+RA   Seki M., Narusaka M., Kamiya A., Ishida J., Satou M., Sakurai T.,
+RA   Nakajima M., Enju A., Akiyama K., Oono Y., Muramatsu M.,
+RA   Hayashizaki Y., Kawai J., Carninci P., Itoh M., Ishii Y., Arakawa T.,
+RA   Shibata K., Shinagawa A., Shinozaki K.;
+RT   "Functional annotation of a full-length Arabidopsis cDNA collection.";
+RL   Science 296:141-145(2002).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RC   STRAIN=cv. Columbia;
+RX   PubMed=14593172; DOI=10.1126/science.1088305;
+RA   Yamada K., Lim J., Dale J.M., Chen H., Shinn P., Palm C.J.,
+RA   Southwick A.M., Wu H.C., Kim C.J., Nguyen M., Pham P.K., Cheuk R.F.,
+RA   Karlin-Newmann G., Liu S.X., Lam B., Sakano H., Wu T., Yu G.,
+RA   Miranda M., Quach H.L., Tripp M., Chang C.H., Lee J.M., Toriumi M.J.,
+RA   Chan M.M., Tang C.C., Onodera C.S., Deng J.M., Akiyama K., Ansari Y.,
+RA   Arakawa T., Banh J., Banno F., Bowser L., Brooks S.Y., Carninci P.,
+RA   Chao Q., Choy N., Enju A., Goldsmith A.D., Gurjal M., Hansen N.F.,
+RA   Hayashizaki Y., Johnson-Hopson C., Hsuan V.W., Iida K., Karnes M.,
+RA   Khan S., Koesema E., Ishida J., Jiang P.X., Jones T., Kawai J.,
+RA   Kamiya A., Meyers C., Nakajima M., Narusaka M., Seki M., Sakurai T.,
+RA   Satou M., Tamse R., Vaysberg M., Wallender E.K., Wong C., Yamamura Y.,
+RA   Yuan S., Shinozaki K., Davis R.W., Theologis A., Ecker J.R.;
+RT   "Empirical analysis of transcriptional activity in the Arabidopsis
+RT   genome.";
+RL   Science 302:842-846(2003).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RA   Brover V.V., Troukhan M.E., Alexandrov N.A., Lu Y.-P., Flavell R.B.,
+RA   Feldmann K.A.;
+RT   "Full-length cDNA from Arabidopsis thaliana.";
+RL   Submitted (MAR-2002) to the EMBL/GenBank/DDBJ databases.
+CC   -!- SUBCELLULAR LOCATION: Membrane {ECO:0000250}; Multi-pass membrane
+CC       protein {ECO:0000305}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=2;
+CC       Name=1;
+CC         IsoId=Q9SUF1-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=Q9SUF1-2; Sequence=VSP_045516, VSP_045517;
+CC         Note=Derived from EST data. No experimental confirmation
+CC         available.;
+CC   -!- SIMILARITY: Belongs to the drug/metabolite transporter (DMT)
+CC       superfamily. Plant drug/metabolite exporter (P-DME) (TC 2.A.7.4)
+CC       family. {ECO:0000305}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=AAM65570.1; Type=Erroneous initiation; Note=Translation N-terminally extended.; Evidence={ECO:0000305};
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AL080252; CAB45799.1; -; Genomic_DNA.
+DR   EMBL; AL161511; CAB77954.1; -; Genomic_DNA.
+DR   EMBL; CP002687; AEE82621.1; -; Genomic_DNA.
+DR   EMBL; CP002687; AEE82622.1; -; Genomic_DNA.
+DR   EMBL; AK118606; BAC43205.1; -; mRNA.
+DR   EMBL; BT005333; AAO63397.1; -; mRNA.
+DR   EMBL; AY088024; AAM65570.1; ALT_INIT; mRNA.
+DR   PIR; T10556; T10556.
+DR   RefSeq; NP_001319882.1; NM_001340581.1. [Q9SUF1-2]
+DR   RefSeq; NP_192569.1; NM_116898.4. [Q9SUF1-1]
+DR   UniGene; At.33763; -.
+DR   ProteinModelPortal; Q9SUF1; -.
+DR   STRING; 3702.AT4G08290.1; -.
+DR   iPTMnet; Q9SUF1; -.
+DR   PaxDb; Q9SUF1; -.
+DR   PRIDE; Q9SUF1; -.
+DR   EnsemblPlants; AT4G08290.1; AT4G08290.1; AT4G08290. [Q9SUF1-1]
+DR   EnsemblPlants; AT4G08290.2; AT4G08290.2; AT4G08290. [Q9SUF1-2]
+DR   GeneID; 826383; -.
+DR   Gramene; AT4G08290.1; AT4G08290.1; AT4G08290. [Q9SUF1-1]
+DR   Gramene; AT4G08290.2; AT4G08290.2; AT4G08290. [Q9SUF1-2]
+DR   KEGG; ath:AT4G08290; -.
+DR   Araport; AT4G08290; -.
+DR   TAIR; locus:2132447; AT4G08290.
+DR   eggNOG; ENOG410ITDV; Eukaryota.
+DR   eggNOG; ENOG410YBPN; LUCA.
+DR   HOGENOM; HOG000237441; -.
+DR   InParanoid; Q9SUF1; -.
+DR   OMA; WAVGWDS; -.
+DR   OrthoDB; 763588at2759; -.
+DR   PhylomeDB; Q9SUF1; -.
+DR   PRO; PR:Q9SUF1; -.
+DR   Proteomes; UP000006548; Chromosome 4.
+DR   ExpressionAtlas; Q9SUF1; baseline and differential.
+DR   Genevisible; Q9SUF1; AT.
+DR   GO; GO:0016021; C:integral component of membrane; IEA:UniProtKB-KW.
+DR   GO; GO:0005886; C:plasma membrane; IBA:GO_Central.
+DR   GO; GO:0022857; F:transmembrane transporter activity; IEA:InterPro.
+DR   InterPro; IPR000620; EamA_dom.
+DR   InterPro; IPR030184; WAT1-related.
+DR   PANTHER; PTHR31218; PTHR31218; 1.
+DR   Pfam; PF00892; EamA; 2.
+PE   2: Evidence at transcript level;
+KW   Alternative splicing; Complete proteome; Membrane; Reference proteome;
+KW   Repeat; Transmembrane; Transmembrane helix.
+FT   CHAIN         1    384       WAT1-related protein At4g08290.
+FT                                /FTId=PRO_0000421339.
+FT   TRANSMEM     15     35       Helical. {ECO:0000255}.
+FT   TRANSMEM     43     63       Helical. {ECO:0000255}.
+FT   TRANSMEM     73     93       Helical. {ECO:0000255}.
+FT   TRANSMEM    104    124       Helical. {ECO:0000255}.
+FT   TRANSMEM    140    160       Helical. {ECO:0000255}.
+FT   TRANSMEM    186    206       Helical. {ECO:0000255}.
+FT   TRANSMEM    219    239       Helical. {ECO:0000255}.
+FT   TRANSMEM    255    275       Helical. {ECO:0000255}.
+FT   TRANSMEM    282    302       Helical. {ECO:0000255}.
+FT   TRANSMEM    307    327       Helical. {ECO:0000255}.
+FT   DOMAIN       25    154       EamA 1.
+FT   DOMAIN      198    326       EamA 2.
+FT   VAR_SEQ     261    282       GIVSSGITYYVQGMVMKTRGPV -> VRLYILVLTIINQLR
+FT                                QISTNLI (in isoform 2). {ECO:0000305}.
+FT                                /FTId=VSP_045516.
+FT   VAR_SEQ     283    384       Missing (in isoform 2). {ECO:0000305}.
+FT                                /FTId=VSP_045517.
+FT   CONFLICT     58     58       P -> H (in Ref. 3; BAC43205 and 4;
+FT                                AAO63397). {ECO:0000305}.
+FT   CONFLICT    179    179       N -> S (in Ref. 5; AAM65570).
+FT                                {ECO:0000305}.
+FT   CONFLICT    298    298       I -> L (in Ref. 5; AAM65570).
+FT                                {ECO:0000305}.
+SQ   SEQUENCE   384 AA;  41723 MW;  C393D22C1E6D0900 CRC64;
+     MEGVSATMHK LRPYLLMIFL QFGAAGTYIV IMATLNQGQN RYVVIVYRNL VAALVLAPFA
+     LIFERKVRPK MTLSVLWKIM ALGFLEPVLD QGFGYLGMNM TSATYTSAIM NILPSVTFII
+     AWILRMEKVN IAEVRSKAKI IGTLVGLGGA LVMTLYKGPL IPLPWSNPNM DQQNGHTNNS
+     QDHNNWVVGT LLILLGCVAW SGFYVLQSIT IKTYPADLSL SALICLAGAV QSFAVALVVE
+     RHPSGWAVGW DARLFAPLYT GIVSSGITYY VQGMVMKTRG PVFVTAFNPL CMILVALIAS
+     FILHEQIHFG CVIGGAVIAA GLYMVVWGKG KDYEVSGLDI LEKNSLQELP ITTKSEDDNK
+     LVSSISDNSN VTIPGGAHSN TSGI
+//

@@ -1,0 +1,540 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2006-10-03" modified="2019-01-16" version="117">
+<accession>Q9ZQG9</accession>
+<accession>Q2V449</accession>
+<accession>Q3EBS8</accession>
+<accession>Q8VWJ3</accession>
+<name>E1314_ARATH</name>
+<protein>
+<recommendedName>
+<fullName>Glucan endo-1,3-beta-glucosidase 14</fullName>
+<ecNumber>3.2.1.39</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>(1->3)-beta-glucan endohydrolase 14</fullName>
+<shortName>(1->3)-beta-glucanase 14</shortName>
+</alternativeName>
+<alternativeName>
+<fullName>Beta-1,3-endoglucanase 14</fullName>
+<shortName>Beta-1,3-glucanase 14</shortName>
+</alternativeName>
+</protein>
+<gene>
+<name type="ordered locus">At2g27500</name>
+<name type="ORF">F10A12.18</name>
+</gene>
+<organism>
+<name type="scientific">Arabidopsis thaliana</name>
+<name type="common">Mouse-ear cress</name>
+<dbReference type="NCBI Taxonomy" id="3702"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Viridiplantae</taxon>
+<taxon>Streptophyta</taxon>
+<taxon>Embryophyta</taxon>
+<taxon>Tracheophyta</taxon>
+<taxon>Spermatophyta</taxon>
+<taxon>Magnoliophyta</taxon>
+<taxon>eudicotyledons</taxon>
+<taxon>Gunneridae</taxon>
+<taxon>Pentapetalae</taxon>
+<taxon>rosids</taxon>
+<taxon>malvids</taxon>
+<taxon>Brassicales</taxon>
+<taxon>Brassicaceae</taxon>
+<taxon>Camelineae</taxon>
+<taxon>Arabidopsis</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1999" name="Nature" volume="402" first="761" last="768">
+<title>Sequence and analysis of chromosome 2 of the plant Arabidopsis thaliana.</title>
+<authorList>
+<person name="Lin X."/>
+<person name="Kaul S."/>
+<person name="Rounsley S.D."/>
+<person name="Shea T.P."/>
+<person name="Benito M.-I."/>
+<person name="Town C.D."/>
+<person name="Fujii C.Y."/>
+<person name="Mason T.M."/>
+<person name="Bowman C.L."/>
+<person name="Barnstead M.E."/>
+<person name="Feldblyum T.V."/>
+<person name="Buell C.R."/>
+<person name="Ketchum K.A."/>
+<person name="Lee J.J."/>
+<person name="Ronning C.M."/>
+<person name="Koo H.L."/>
+<person name="Moffat K.S."/>
+<person name="Cronin L.A."/>
+<person name="Shen M."/>
+<person name="Pai G."/>
+<person name="Van Aken S."/>
+<person name="Umayam L."/>
+<person name="Tallon L.J."/>
+<person name="Gill J.E."/>
+<person name="Adams M.D."/>
+<person name="Carrera A.J."/>
+<person name="Creasy T.H."/>
+<person name="Goodman H.M."/>
+<person name="Somerville C.R."/>
+<person name="Copenhaver G.P."/>
+<person name="Preuss D."/>
+<person name="Nierman W.C."/>
+<person name="White O."/>
+<person name="Eisen J.A."/>
+<person name="Salzberg S.L."/>
+<person name="Fraser C.M."/>
+<person name="Venter J.C."/>
+</authorList>
+<dbReference type="PubMed" id="10617197"/>
+<dbReference type="DOI" id="10.1038/45471"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>cv. Columbia</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2017" name="Plant J." volume="89" first="789" last="804">
+<title>Araport11: a complete reannotation of the Arabidopsis thaliana reference genome.</title>
+<authorList>
+<person name="Cheng C.Y."/>
+<person name="Krishnakumar V."/>
+<person name="Chan A.P."/>
+<person name="Thibaud-Nissen F."/>
+<person name="Schobel S."/>
+<person name="Town C.D."/>
+</authorList>
+<dbReference type="PubMed" id="27862469"/>
+<dbReference type="DOI" id="10.1111/tpj.13415"/>
+</citation>
+<scope>GENOME REANNOTATION</scope>
+<source>
+<strain>cv. Columbia</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2003" name="Science" volume="302" first="842" last="846">
+<title>Empirical analysis of transcriptional activity in the Arabidopsis genome.</title>
+<authorList>
+<person name="Yamada K."/>
+<person name="Lim J."/>
+<person name="Dale J.M."/>
+<person name="Chen H."/>
+<person name="Shinn P."/>
+<person name="Palm C.J."/>
+<person name="Southwick A.M."/>
+<person name="Wu H.C."/>
+<person name="Kim C.J."/>
+<person name="Nguyen M."/>
+<person name="Pham P.K."/>
+<person name="Cheuk R.F."/>
+<person name="Karlin-Newmann G."/>
+<person name="Liu S.X."/>
+<person name="Lam B."/>
+<person name="Sakano H."/>
+<person name="Wu T."/>
+<person name="Yu G."/>
+<person name="Miranda M."/>
+<person name="Quach H.L."/>
+<person name="Tripp M."/>
+<person name="Chang C.H."/>
+<person name="Lee J.M."/>
+<person name="Toriumi M.J."/>
+<person name="Chan M.M."/>
+<person name="Tang C.C."/>
+<person name="Onodera C.S."/>
+<person name="Deng J.M."/>
+<person name="Akiyama K."/>
+<person name="Ansari Y."/>
+<person name="Arakawa T."/>
+<person name="Banh J."/>
+<person name="Banno F."/>
+<person name="Bowser L."/>
+<person name="Brooks S.Y."/>
+<person name="Carninci P."/>
+<person name="Chao Q."/>
+<person name="Choy N."/>
+<person name="Enju A."/>
+<person name="Goldsmith A.D."/>
+<person name="Gurjal M."/>
+<person name="Hansen N.F."/>
+<person name="Hayashizaki Y."/>
+<person name="Johnson-Hopson C."/>
+<person name="Hsuan V.W."/>
+<person name="Iida K."/>
+<person name="Karnes M."/>
+<person name="Khan S."/>
+<person name="Koesema E."/>
+<person name="Ishida J."/>
+<person name="Jiang P.X."/>
+<person name="Jones T."/>
+<person name="Kawai J."/>
+<person name="Kamiya A."/>
+<person name="Meyers C."/>
+<person name="Nakajima M."/>
+<person name="Narusaka M."/>
+<person name="Seki M."/>
+<person name="Sakurai T."/>
+<person name="Satou M."/>
+<person name="Tamse R."/>
+<person name="Vaysberg M."/>
+<person name="Wallender E.K."/>
+<person name="Wong C."/>
+<person name="Yamamura Y."/>
+<person name="Yuan S."/>
+<person name="Shinozaki K."/>
+<person name="Davis R.W."/>
+<person name="Theologis A."/>
+<person name="Ecker J.R."/>
+</authorList>
+<dbReference type="PubMed" id="14593172"/>
+<dbReference type="DOI" id="10.1126/science.1088305"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1)</scope>
+<source>
+<strain>cv. Columbia</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="submission" date="2002-03" db="EMBL/GenBank/DDBJ databases">
+<title>Full-length cDNA from Arabidopsis thaliana.</title>
+<authorList>
+<person name="Brover V.V."/>
+<person name="Troukhan M.E."/>
+<person name="Alexandrov N.A."/>
+<person name="Lu Y.-P."/>
+<person name="Flavell R.B."/>
+<person name="Feldmann K.A."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1)</scope>
+</reference>
+<comment type="catalytic activity">
+<reaction>
+<text>Hydrolysis of (1->3)-beta-D-glucosidic linkages in (1->3)-beta-D-glucans.</text>
+<dbReference type="EC" id="3.2.1.39"/>
+</reaction>
+</comment>
+<comment type="subcellular location">
+<molecule>Isoform 1</molecule>
+<subcellularLocation>
+<location evidence="3">Cell membrane</location>
+<topology evidence="3">Lipid-anchor</topology>
+<topology evidence="3">GPI-anchor</topology>
+<orientation evidence="3">Extracellular side</orientation>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="3">Secreted</location>
+<location evidence="3">Cell wall</location>
+</subcellularLocation>
+</comment>
+<comment type="subcellular location">
+<molecule>Isoform 2</molecule>
+<subcellularLocation>
+<location evidence="3">Secreted</location>
+<location evidence="3">Cell wall</location>
+</subcellularLocation>
+</comment>
+<comment type="subcellular location">
+<molecule>Isoform 3</molecule>
+<subcellularLocation>
+<location evidence="3">Cytoplasm</location>
+</subcellularLocation>
+</comment>
+<comment type="alternative products">
+<event type="alternative splicing"/>
+<isoform>
+<id>Q9ZQG9-1</id>
+<name>1</name>
+<sequence type="displayed"/>
+</isoform>
+<isoform>
+<id>Q9ZQG9-2</id>
+<name>2</name>
+<sequence type="described" ref="VSP_020755"/>
+<text>Derived from EST data. No experimental confirmation available. Has no GPI-anchor.</text>
+</isoform>
+<isoform>
+<id>Q9ZQG9-3</id>
+<name>3</name>
+<sequence type="described" ref="VSP_020754"/>
+<text>Derived from EST data. No experimental confirmation available. Has no GPI-anchor.</text>
+</isoform>
+</comment>
+<comment type="similarity">
+<text evidence="3">Belongs to the glycosyl hydrolase 17 family.</text>
+</comment>
+<dbReference type="EC" id="3.2.1.39"/>
+<dbReference type="EMBL" id="AC006232">
+<property type="protein sequence ID" value="AAD15611.2"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CP002685">
+<property type="protein sequence ID" value="AEC08004.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CP002685">
+<property type="protein sequence ID" value="AEC08005.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CP002685">
+<property type="protein sequence ID" value="AEC08006.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY096525">
+<property type="protein sequence ID" value="AAM20175.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY065273">
+<property type="protein sequence ID" value="AAL38749.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY065085">
+<property type="protein sequence ID" value="AAL38261.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY084587">
+<property type="protein sequence ID" value="AAM61152.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="PIR" id="F84673">
+<property type="entry name" value="F84673"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001031432.1">
+<molecule id="Q9ZQG9-3"/>
+<property type="nucleotide sequence ID" value="NM_001036355.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_565652.1">
+<molecule id="Q9ZQG9-1"/>
+<property type="nucleotide sequence ID" value="NM_128310.4"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_973548.1">
+<molecule id="Q9ZQG9-2"/>
+<property type="nucleotide sequence ID" value="NM_201819.2"/>
+</dbReference>
+<dbReference type="UniGene" id="At.24289"/>
+<dbReference type="ProteinModelPortal" id="Q9ZQG9"/>
+<dbReference type="SMR" id="Q9ZQG9"/>
+<dbReference type="STRING" id="3702.AT2G27500.1"/>
+<dbReference type="CAZy" id="GH17">
+<property type="family name" value="Glycoside Hydrolase Family 17"/>
+</dbReference>
+<dbReference type="PaxDb" id="Q9ZQG9"/>
+<dbReference type="PRIDE" id="Q9ZQG9"/>
+<dbReference type="EnsemblPlants" id="AT2G27500.1">
+<molecule id="Q9ZQG9-1"/>
+<property type="protein sequence ID" value="AT2G27500.1"/>
+<property type="gene ID" value="AT2G27500"/>
+</dbReference>
+<dbReference type="EnsemblPlants" id="AT2G27500.2">
+<molecule id="Q9ZQG9-2"/>
+<property type="protein sequence ID" value="AT2G27500.2"/>
+<property type="gene ID" value="AT2G27500"/>
+</dbReference>
+<dbReference type="EnsemblPlants" id="AT2G27500.3">
+<molecule id="Q9ZQG9-3"/>
+<property type="protein sequence ID" value="AT2G27500.3"/>
+<property type="gene ID" value="AT2G27500"/>
+</dbReference>
+<dbReference type="GeneID" id="817295"/>
+<dbReference type="Gramene" id="AT2G27500.1">
+<molecule id="Q9ZQG9-1"/>
+<property type="protein sequence ID" value="AT2G27500.1"/>
+<property type="gene ID" value="AT2G27500"/>
+</dbReference>
+<dbReference type="Gramene" id="AT2G27500.2">
+<molecule id="Q9ZQG9-2"/>
+<property type="protein sequence ID" value="AT2G27500.2"/>
+<property type="gene ID" value="AT2G27500"/>
+</dbReference>
+<dbReference type="Gramene" id="AT2G27500.3">
+<molecule id="Q9ZQG9-3"/>
+<property type="protein sequence ID" value="AT2G27500.3"/>
+<property type="gene ID" value="AT2G27500"/>
+</dbReference>
+<dbReference type="KEGG" id="ath:AT2G27500"/>
+<dbReference type="Araport" id="AT2G27500"/>
+<dbReference type="TAIR" id="locus:2038583">
+<property type="gene designation" value="AT2G27500"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG410IH5G">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG410YA4N">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000238220"/>
+<dbReference type="InParanoid" id="Q9ZQG9"/>
+<dbReference type="OMA" id="YLHAILN"/>
+<dbReference type="OrthoDB" id="966331at2759"/>
+<dbReference type="PhylomeDB" id="Q9ZQG9"/>
+<dbReference type="BioCyc" id="ARA:AT2G27500-MONOMER"/>
+<dbReference type="PRO" id="PR:Q9ZQG9"/>
+<dbReference type="Proteomes" id="UP000006548">
+<property type="component" value="Chromosome 2"/>
+</dbReference>
+<dbReference type="ExpressionAtlas" id="Q9ZQG9">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevisible" id="Q9ZQG9">
+<property type="organism ID" value="AT"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046658">
+<property type="term" value="C:anchored component of plasma membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="TAIR"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005618">
+<property type="term" value="C:cell wall"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="TAIR"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005576">
+<property type="term" value="C:extracellular region"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005634">
+<property type="term" value="C:nucleus"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="TAIR"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042973">
+<property type="term" value="F:glucan endo-1,3-beta-D-glucosidase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-EC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005975">
+<property type="term" value="P:carbohydrate metabolic process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0071555">
+<property type="term" value="P:cell wall organization"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006952">
+<property type="term" value="P:defense response"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000490">
+<property type="entry name" value="Glyco_hydro_17"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR017853">
+<property type="entry name" value="Glycoside_hydrolase_SF"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00332">
+<property type="entry name" value="Glyco_hydro_17"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF51445">
+<property type="entry name" value="SSF51445"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0025">Alternative splicing</keyword>
+<keyword id="KW-1003">Cell membrane</keyword>
+<keyword id="KW-0134">Cell wall</keyword>
+<keyword id="KW-0961">Cell wall biogenesis/degradation</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0325">Glycoprotein</keyword>
+<keyword id="KW-0326">Glycosidase</keyword>
+<keyword id="KW-0336">GPI-anchor</keyword>
+<keyword id="KW-0378">Hydrolase</keyword>
+<keyword id="KW-0449">Lipoprotein</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-0611">Plant defense</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0964">Secreted</keyword>
+<keyword id="KW-0732">Signal</keyword>
+<feature type="signal peptide" evidence="2">
+<location>
+<begin position="1"/>
+<end position="21"/>
+</location>
+</feature>
+<feature type="chain" description="Glucan endo-1,3-beta-glucosidase 14" id="PRO_0000251275">
+<location>
+<begin position="22"/>
+<end position="359"/>
+</location>
+</feature>
+<feature type="propeptide" description="Removed in mature form" id="PRO_0000251276" evidence="2">
+<location>
+<begin position="360"/>
+<end position="392"/>
+</location>
+</feature>
+<feature type="active site" description="Proton donor" evidence="1">
+<location>
+<position position="122"/>
+</location>
+</feature>
+<feature type="active site" description="Nucleophile" evidence="1">
+<location>
+<position position="267"/>
+</location>
+</feature>
+<feature type="lipid moiety-binding region" description="GPI-anchor amidated serine" evidence="2">
+<location>
+<position position="359"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="2">
+<location>
+<position position="54"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="2">
+<location>
+<position position="89"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 3." id="VSP_020754" evidence="3">
+<location>
+<begin position="1"/>
+<end position="78"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 2." id="VSP_020755" evidence="3">
+<original>ILNLWRVVMGLAVAWFILDMGDKMRMR</original>
+<variation>VNSSFHFLYLHF</variation>
+<location>
+<begin position="366"/>
+<end position="392"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="O22317"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000255"/>
+<evidence key="3" type="ECO:0000305"/>
+<sequence length="392" mass="44074" checksum="67206B809BB7322A" modified="2002-06-01" version="2" precursor="true">
+MATHSLSFFFRVLLLLFLTLSERIKGQGVGINYGQIANNLPSPARVAVLLRSLNITRVKL
+YDADPNVLFSFSNSQVDFMIGLGNEYLQNMSTDPTKAQDWLQQRLEPHISKTRITSIVVG
+NEIFKTNDHVLIQSLLPAMKSVYAALTNLGLEKQVTVTSAHSLDILSTSYPPSSGSFKEE
+FIQYLQPLLDFHSQIESPFLINAYPFFAYKDSPKEVPLEYVLFQPNQGMVDPNTNLHYDN
+MLFAQVDALYSAIKTLGHTDIEVRISETGWPSKGDENEIGASPENAALYNGNLLKLIQQR
+KGTPAKQSVPIDVYVFALFNENLKPGPVSERNYGLFYPDGKPVYNVGMQGYLPDIIYTSR
+ATTIKILNLWRVVMGLAVAWFILDMGDKMRMR
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

@@ -1,0 +1,165 @@
+ID   TRXF2_ARATH             Reviewed;         185 AA.
+AC   Q9XFH9;
+DT   01-DEC-2000, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1999, sequence version 1.
+DT   16-JAN-2019, entry version 126.
+DE   RecName: Full=Thioredoxin F2, chloroplastic;
+DE            Short=AtTrxf2;
+DE   AltName: Full=Thioredoxin F1;
+DE            Short=AtTrxf1;
+DE   Flags: Precursor;
+GN   OrderedLocusNames=At5g16400; ORFNames=MQK4.13;
+OS   Arabidopsis thaliana (Mouse-ear cress).
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+OC   Pentapetalae; rosids; malvids; Brassicales; Brassicaceae; Camelineae;
+OC   Arabidopsis.
+OX   NCBI_TaxID=3702;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RX   PubMed=10498962; DOI=10.1016/S1360-1385(99)01475-2;
+RA   Meyer Y., Verdoucq L., Vignols F.;
+RT   "Plant thioredoxins and glutaredoxins: identity and putative roles.";
+RL   Trends Plant Sci. 4:388-394(1999).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=cv. Columbia;
+RX   PubMed=9330910; DOI=10.1093/dnares/4.3.215;
+RA   Sato S., Kotani H., Nakamura Y., Kaneko T., Asamizu E., Fukami M.,
+RA   Miyajima N., Tabata S.;
+RT   "Structural analysis of Arabidopsis thaliana chromosome 5. I. Sequence
+RT   features of the 1.6 Mb regions covered by twenty physically assigned
+RT   P1 clones.";
+RL   DNA Res. 4:215-230(1997).
+RN   [3]
+RP   GENOME REANNOTATION.
+RC   STRAIN=cv. Columbia;
+RX   PubMed=27862469; DOI=10.1111/tpj.13415;
+RA   Cheng C.Y., Krishnakumar V., Chan A.P., Thibaud-Nissen F., Schobel S.,
+RA   Town C.D.;
+RT   "Araport11: a complete reannotation of the Arabidopsis thaliana
+RT   reference genome.";
+RL   Plant J. 89:789-804(2017).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   STRAIN=cv. Columbia;
+RX   PubMed=14593172; DOI=10.1126/science.1088305;
+RA   Yamada K., Lim J., Dale J.M., Chen H., Shinn P., Palm C.J.,
+RA   Southwick A.M., Wu H.C., Kim C.J., Nguyen M., Pham P.K., Cheuk R.F.,
+RA   Karlin-Newmann G., Liu S.X., Lam B., Sakano H., Wu T., Yu G.,
+RA   Miranda M., Quach H.L., Tripp M., Chang C.H., Lee J.M., Toriumi M.J.,
+RA   Chan M.M., Tang C.C., Onodera C.S., Deng J.M., Akiyama K., Ansari Y.,
+RA   Arakawa T., Banh J., Banno F., Bowser L., Brooks S.Y., Carninci P.,
+RA   Chao Q., Choy N., Enju A., Goldsmith A.D., Gurjal M., Hansen N.F.,
+RA   Hayashizaki Y., Johnson-Hopson C., Hsuan V.W., Iida K., Karnes M.,
+RA   Khan S., Koesema E., Ishida J., Jiang P.X., Jones T., Kawai J.,
+RA   Kamiya A., Meyers C., Nakajima M., Narusaka M., Seki M., Sakurai T.,
+RA   Satou M., Tamse R., Vaysberg M., Wallender E.K., Wong C., Yamamura Y.,
+RA   Yuan S., Shinozaki K., Davis R.W., Theologis A., Ecker J.R.;
+RT   "Empirical analysis of transcriptional activity in the Arabidopsis
+RT   genome.";
+RL   Science 302:842-846(2003).
+RN   [5]
+RP   GENE FAMILY, AND NOMENCLATURE.
+RX   PubMed=19825616; DOI=10.1093/mp/ssn076;
+RA   Chibani K., Wingsle G., Jacquot J.P., Gelhaye E., Rouhier N.;
+RT   "Comparative genomic study of the thioredoxin family in photosynthetic
+RT   organisms with emphasis on Populus trichocarpa.";
+RL   Mol. Plant 2:308-322(2009).
+RN   [6]
+RP   SUBCELLULAR LOCATION.
+RX   PubMed=19259774; DOI=10.1007/s11103-009-9471-4;
+RA   Cain P., Hall M., Schroder W.P., Kieselbach T., Robinson C.;
+RT   "A novel extended family of stromal thioredoxins.";
+RL   Plant Mol. Biol. 70:273-281(2009).
+CC   -!- FUNCTION: Probable thiol-disulfide oxidoreductase involved in the
+CC       redox regulation of enzymes of both reductive pentose phosphate
+CC       pathway (Calvin-Benson cycle) and oxidative pentose phosphate
+CC       pathway. {ECO:0000250}.
+CC   -!- SUBCELLULAR LOCATION: Plastid, chloroplast stroma
+CC       {ECO:0000269|PubMed:19259774}.
+CC   -!- PTM: Glutathionylation at Cys-136 decreases its ability to be
+CC       reduced by ferredoxin-thioredoxin reductase and reduces its
+CC       efficiency in activating target chloroplastic enzymes.
+CC       {ECO:0000250}.
+CC   -!- SIMILARITY: Belongs to the thioredoxin family. Plant F-type
+CC       subfamily. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AF144386; AAD35004.1; -; mRNA.
+DR   EMBL; AB005242; BAB09607.1; -; Genomic_DNA.
+DR   EMBL; CP002688; AED92288.1; -; Genomic_DNA.
+DR   EMBL; AF370356; AAK44171.1; -; mRNA.
+DR   EMBL; AY059086; AAL15192.1; -; mRNA.
+DR   RefSeq; NP_197144.1; NM_121645.5.
+DR   UniGene; At.6451; -.
+DR   ProteinModelPortal; Q9XFH9; -.
+DR   SMR; Q9XFH9; -.
+DR   BioGrid; 16777; 1.
+DR   STRING; 3702.AT5G16400.1; -.
+DR   PaxDb; Q9XFH9; -.
+DR   PRIDE; Q9XFH9; -.
+DR   EnsemblPlants; AT5G16400.1; AT5G16400.1; AT5G16400.
+DR   GeneID; 831501; -.
+DR   Gramene; AT5G16400.1; AT5G16400.1; AT5G16400.
+DR   KEGG; ath:AT5G16400; -.
+DR   Araport; AT5G16400; -.
+DR   TAIR; locus:2171322; AT5G16400.
+DR   eggNOG; KOG0907; Eukaryota.
+DR   eggNOG; COG0526; LUCA.
+DR   HOGENOM; HOG000238599; -.
+DR   InParanoid; Q9XFH9; -.
+DR   OMA; DCNEENK; -.
+DR   OrthoDB; 1482186at2759; -.
+DR   PhylomeDB; Q9XFH9; -.
+DR   PRO; PR:Q9XFH9; -.
+DR   Proteomes; UP000006548; Chromosome 5.
+DR   ExpressionAtlas; Q9XFH9; baseline and differential.
+DR   Genevisible; Q9XFH9; AT.
+DR   GO; GO:0009507; C:chloroplast; IDA:TAIR.
+DR   GO; GO:0009570; C:chloroplast stroma; IDA:TAIR.
+DR   GO; GO:0005829; C:cytosol; IDA:TAIR.
+DR   GO; GO:0008047; F:enzyme activator activity; IDA:TAIR.
+DR   GO; GO:0015035; F:protein disulfide oxidoreductase activity; IEA:InterPro.
+DR   GO; GO:0045454; P:cell redox homeostasis; IGI:TAIR.
+DR   GO; GO:0006662; P:glycerol ether metabolic process; IEA:InterPro.
+DR   GO; GO:0043085; P:positive regulation of catalytic activity; IDA:TAIR.
+DR   GO; GO:0009642; P:response to light intensity; IGI:TAIR.
+DR   InterPro; IPR005746; Thioredoxin.
+DR   InterPro; IPR036249; Thioredoxin-like_sf.
+DR   InterPro; IPR017937; Thioredoxin_CS.
+DR   InterPro; IPR013766; Thioredoxin_domain.
+DR   PANTHER; PTHR10438; PTHR10438; 1.
+DR   Pfam; PF00085; Thioredoxin; 1.
+DR   SUPFAM; SSF52833; SSF52833; 1.
+DR   PROSITE; PS00194; THIOREDOXIN_1; 1.
+DR   PROSITE; PS51352; THIOREDOXIN_2; 1.
+PE   2: Evidence at transcript level;
+KW   Chloroplast; Complete proteome; Disulfide bond; Electron transport;
+KW   Glutathionylation; Plastid; Redox-active center; Reference proteome;
+KW   Transit peptide; Transport.
+FT   TRANSIT       1      ?       Chloroplast. {ECO:0000255}.
+FT   CHAIN         ?    185       Thioredoxin F2, chloroplastic.
+FT                                /FTId=PRO_0000034157.
+FT   DOMAIN       59    184       Thioredoxin. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00691}.
+FT   ACT_SITE    109    109       Nucleophile. {ECO:0000250}.
+FT   ACT_SITE    112    112       Nucleophile. {ECO:0000250}.
+FT   SITE        103    103       Deprotonates C-terminal active site Cys.
+FT                                {ECO:0000250}.
+FT   SITE        110    110       Contributes to redox potential value.
+FT                                {ECO:0000250}.
+FT   SITE        111    111       Contributes to redox potential value.
+FT                                {ECO:0000250}.
+FT   MOD_RES     136    136       S-glutathionyl cysteine; transient.
+FT                                {ECO:0000250}.
+FT   DISULFID    109    112       Redox-active. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00691}.
+SQ   SEQUENCE   185 AA;  19999 MW;  DB7EA3FAA35EDD5C CRC64;
+     MPLSLRLAPS PTSFRYSPIT STGAGGFSPV KQHCRIPNSG VATKIGFCSG GGGVLDSGRR
+     IGSCVVRCSL ETVNVTVGQV TEVDKDTFWP IVKAAGDKIV VLDMYTQWCG PCKVIAPKYK
+     ELSEKYQDMV FLKLDCNQDN KPLAKELGIR VVPTFKILKD NKVVKEVTGA KYEDLLAAIE
+     AARSG
+//

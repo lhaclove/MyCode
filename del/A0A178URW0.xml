@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2017-04-12" modified="2019-01-16" version="12">
+<accession>A0A178URW0</accession>
+<name>A0A178URW0_ARATH</name>
+<protein>
+<submittedName>
+<fullName evidence="2">Uncharacterized protein</fullName>
+</submittedName>
+</protein>
+<gene>
+<name type="ordered locus" evidence="2">AXX17_At5g56610</name>
+</gene>
+<organism evidence="2 3">
+<name type="scientific">Arabidopsis thaliana</name>
+<name type="common">Mouse-ear cress</name>
+<dbReference type="NCBI Taxonomy" id="3702"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Viridiplantae</taxon>
+<taxon>Streptophyta</taxon>
+<taxon>Embryophyta</taxon>
+<taxon>Tracheophyta</taxon>
+<taxon>Spermatophyta</taxon>
+<taxon>Magnoliophyta</taxon>
+<taxon>eudicotyledons</taxon>
+<taxon>Gunneridae</taxon>
+<taxon>Pentapetalae</taxon>
+<taxon>rosids</taxon>
+<taxon>malvids</taxon>
+<taxon>Brassicales</taxon>
+<taxon>Brassicaceae</taxon>
+<taxon>Camelineae</taxon>
+<taxon>Arabidopsis</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="3">
+<citation type="journal article" date="2016" name="Proc. Natl. Acad. Sci. U.S.A." volume="113" first="E4052" last="E4060">
+<title>Chromosome-level assembly of Arabidopsis thaliana Ler reveals the extent of translocation and inversion polymorphisms.</title>
+<authorList>
+<person name="Zapata L."/>
+<person name="Ding J."/>
+<person name="Willing E.M."/>
+<person name="Hartwig B."/>
+<person name="Bezdan D."/>
+<person name="Jiao W.B."/>
+<person name="Patel V."/>
+<person name="Velikkakam James G."/>
+<person name="Koornneef M."/>
+<person name="Ossowski S."/>
+<person name="Schneeberger K."/>
+</authorList>
+<dbReference type="PubMed" id="27354520"/>
+<dbReference type="DOI" id="10.1073/pnas.1607532113"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain evidence="3">cv. Landsberg erecta</strain>
+</source>
+</reference>
+<comment type="caution">
+<text evidence="2">The sequence shown here is derived from an EMBL/GenBank/DDBJ whole genome shotgun (WGS) entry which is preliminary data.</text>
+</comment>
+<dbReference type="EMBL" id="LUHQ01000005">
+<property type="protein sequence ID" value="OAO95874.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_568854.1">
+<property type="nucleotide sequence ID" value="NM_125117.4"/>
+</dbReference>
+<dbReference type="UniGene" id="At.43745"/>
+<dbReference type="EnsemblPlants" id="AT5G57345.1">
+<property type="protein sequence ID" value="AT5G57345.1"/>
+<property type="gene ID" value="AT5G57345"/>
+</dbReference>
+<dbReference type="GeneID" id="835840"/>
+<dbReference type="Gramene" id="AT5G57345.1">
+<property type="protein sequence ID" value="AT5G57345.1"/>
+<property type="gene ID" value="AT5G57345"/>
+</dbReference>
+<dbReference type="KEGG" id="ath:AT5G57345"/>
+<dbReference type="OMA" id="FMFLGAV"/>
+<dbReference type="OrthoDB" id="1547857at2759"/>
+<dbReference type="Proteomes" id="UP000078284">
+<property type="component" value="Chromosome 5"/>
+</dbReference>
+<dbReference type="ExpressionAtlas" id="A0A178URW0">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016021">
+<property type="term" value="C:integral component of membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<proteinExistence type="predicted"/>
+<keyword id="KW-0181" evidence="3">Complete proteome</keyword>
+<keyword id="KW-0472" evidence="1">Membrane</keyword>
+<keyword id="KW-0812" evidence="1">Transmembrane</keyword>
+<keyword id="KW-1133" evidence="1">Transmembrane helix</keyword>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="147"/>
+<end position="172"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="SAM" id="Phobius"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="OAO95874.1"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000313">
+<source>
+<dbReference type="Proteomes" id="UP000078284"/>
+</source>
+</evidence>
+<sequence length="188" mass="20190" checksum="02C86D08CDF906EC" modified="2017-04-12" version="1">
+MYFAAIASSRQSFLSNNFSFQHSFKPKSNVNLTRPNSICCKSSHHDDETDSSRKNENQLA
+KLAIATLAVGVLALGSVGDAFAAKSGGRIGGQAFRSSAPRPPPRINNRSRTNIYVNPQVA
+PPLIGGYGYGYGGYGWSPFSFFAPGPAVAVGVGGGFDLLLLFMFFGAASAVARNFFRSRN
+DEDDEDDY
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

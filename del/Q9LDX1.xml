@@ -1,0 +1,520 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2008-05-20" modified="2019-01-16" version="96">
+<accession>Q9LDX1</accession>
+<name>SGS3_ARATH</name>
+<protein>
+<recommendedName>
+<fullName>Protein SUPPRESSOR OF GENE SILENCING 3</fullName>
+<shortName>AtSGS3</shortName>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary">SGS3</name>
+<name type="ordered locus">At5g23570</name>
+<name type="ORF">MQM1.17</name>
+</gene>
+<organism>
+<name type="scientific">Arabidopsis thaliana</name>
+<name type="common">Mouse-ear cress</name>
+<dbReference type="NCBI Taxonomy" id="3702"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Viridiplantae</taxon>
+<taxon>Streptophyta</taxon>
+<taxon>Embryophyta</taxon>
+<taxon>Tracheophyta</taxon>
+<taxon>Spermatophyta</taxon>
+<taxon>Magnoliophyta</taxon>
+<taxon>eudicotyledons</taxon>
+<taxon>Gunneridae</taxon>
+<taxon>Pentapetalae</taxon>
+<taxon>rosids</taxon>
+<taxon>malvids</taxon>
+<taxon>Brassicales</taxon>
+<taxon>Brassicaceae</taxon>
+<taxon>Camelineae</taxon>
+<taxon>Arabidopsis</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="2000" name="Cell" volume="101" first="533" last="542">
+<title>Arabidopsis SGS2 and SGS3 genes are required for posttranscriptional gene silencing and natural virus resistance.</title>
+<authorList>
+<person name="Mourrain P."/>
+<person name="Beclin C."/>
+<person name="Elmayan T."/>
+<person name="Feuerbach F."/>
+<person name="Godon C."/>
+<person name="Morel J.-B."/>
+<person name="Jouette D."/>
+<person name="Lacombe A.-M."/>
+<person name="Nikic S."/>
+<person name="Picault N."/>
+<person name="Remoue K."/>
+<person name="Sanial M."/>
+<person name="Vo T.-A."/>
+<person name="Vaucheret H."/>
+</authorList>
+<dbReference type="PubMed" id="10850495"/>
+<dbReference type="DOI" id="10.1016/S0092-8674(00)80863-6"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<scope>MUTAGENESIS OF GLU-500</scope>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2000" name="DNA Res." volume="7" first="31" last="63">
+<title>Structural analysis of Arabidopsis thaliana chromosome 5. X. Sequence features of the regions of 3,076,755 bp covered by sixty P1 and TAC clones.</title>
+<authorList>
+<person name="Sato S."/>
+<person name="Nakamura Y."/>
+<person name="Kaneko T."/>
+<person name="Katoh T."/>
+<person name="Asamizu E."/>
+<person name="Kotani H."/>
+<person name="Tabata S."/>
+</authorList>
+<dbReference type="PubMed" id="10718197"/>
+<dbReference type="DOI" id="10.1093/dnares/7.1.31"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>cv. Columbia</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2017" name="Plant J." volume="89" first="789" last="804">
+<title>Araport11: a complete reannotation of the Arabidopsis thaliana reference genome.</title>
+<authorList>
+<person name="Cheng C.Y."/>
+<person name="Krishnakumar V."/>
+<person name="Chan A.P."/>
+<person name="Thibaud-Nissen F."/>
+<person name="Schobel S."/>
+<person name="Town C.D."/>
+</authorList>
+<dbReference type="PubMed" id="27862469"/>
+<dbReference type="DOI" id="10.1111/tpj.13415"/>
+</citation>
+<scope>GENOME REANNOTATION</scope>
+<source>
+<strain>cv. Columbia</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2003" name="Science" volume="302" first="842" last="846">
+<title>Empirical analysis of transcriptional activity in the Arabidopsis genome.</title>
+<authorList>
+<person name="Yamada K."/>
+<person name="Lim J."/>
+<person name="Dale J.M."/>
+<person name="Chen H."/>
+<person name="Shinn P."/>
+<person name="Palm C.J."/>
+<person name="Southwick A.M."/>
+<person name="Wu H.C."/>
+<person name="Kim C.J."/>
+<person name="Nguyen M."/>
+<person name="Pham P.K."/>
+<person name="Cheuk R.F."/>
+<person name="Karlin-Newmann G."/>
+<person name="Liu S.X."/>
+<person name="Lam B."/>
+<person name="Sakano H."/>
+<person name="Wu T."/>
+<person name="Yu G."/>
+<person name="Miranda M."/>
+<person name="Quach H.L."/>
+<person name="Tripp M."/>
+<person name="Chang C.H."/>
+<person name="Lee J.M."/>
+<person name="Toriumi M.J."/>
+<person name="Chan M.M."/>
+<person name="Tang C.C."/>
+<person name="Onodera C.S."/>
+<person name="Deng J.M."/>
+<person name="Akiyama K."/>
+<person name="Ansari Y."/>
+<person name="Arakawa T."/>
+<person name="Banh J."/>
+<person name="Banno F."/>
+<person name="Bowser L."/>
+<person name="Brooks S.Y."/>
+<person name="Carninci P."/>
+<person name="Chao Q."/>
+<person name="Choy N."/>
+<person name="Enju A."/>
+<person name="Goldsmith A.D."/>
+<person name="Gurjal M."/>
+<person name="Hansen N.F."/>
+<person name="Hayashizaki Y."/>
+<person name="Johnson-Hopson C."/>
+<person name="Hsuan V.W."/>
+<person name="Iida K."/>
+<person name="Karnes M."/>
+<person name="Khan S."/>
+<person name="Koesema E."/>
+<person name="Ishida J."/>
+<person name="Jiang P.X."/>
+<person name="Jones T."/>
+<person name="Kawai J."/>
+<person name="Kamiya A."/>
+<person name="Meyers C."/>
+<person name="Nakajima M."/>
+<person name="Narusaka M."/>
+<person name="Seki M."/>
+<person name="Sakurai T."/>
+<person name="Satou M."/>
+<person name="Tamse R."/>
+<person name="Vaysberg M."/>
+<person name="Wallender E.K."/>
+<person name="Wong C."/>
+<person name="Yamamura Y."/>
+<person name="Yuan S."/>
+<person name="Shinozaki K."/>
+<person name="Davis R.W."/>
+<person name="Theologis A."/>
+<person name="Ecker J.R."/>
+</authorList>
+<dbReference type="PubMed" id="14593172"/>
+<dbReference type="DOI" id="10.1126/science.1088305"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+<source>
+<strain>cv. Columbia</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2002" name="BMC Bioinformatics" volume="3" first="21" last="21">
+<title>The SGS3 protein involved in PTGS finds a family.</title>
+<authorList>
+<person name="Bateman A."/>
+</authorList>
+<dbReference type="PubMed" id="12162795"/>
+<dbReference type="DOI" id="10.1186/1471-2105-3-21"/>
+</citation>
+<scope>GENE FAMILY</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2004" name="Genes Dev." volume="18" first="2368" last="2379">
+<title>SGS3 and SGS2/SDE1/RDR6 are required for juvenile development and the production of trans-acting siRNAs in Arabidopsis.</title>
+<authorList>
+<person name="Peragine A."/>
+<person name="Yoshikawa M."/>
+<person name="Wu G."/>
+<person name="Albrecht H.L."/>
+<person name="Poethig R.S."/>
+</authorList>
+<dbReference type="PubMed" id="15466488"/>
+<dbReference type="DOI" id="10.1101/gad.1231804"/>
+</citation>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2004" name="Plant J." volume="38" first="1004" last="1014">
+<title>Geminivirus VIGS of endogenous genes requires SGS2/SDE1 and SGS3 and defines a new branch in the genetic pathway for silencing in plants.</title>
+<authorList>
+<person name="Muangsan N."/>
+<person name="Beclin C."/>
+<person name="Vaucheret H."/>
+<person name="Robertson D."/>
+</authorList>
+<dbReference type="PubMed" id="15165191"/>
+<dbReference type="DOI" id="10.1111/j.1365-313X.2004.02103.x"/>
+</citation>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2008" name="Proc. Natl. Acad. Sci. U.S.A." volume="105" first="157" last="161">
+<title>Interaction with host SGS3 is required for suppression of RNA silencing by tomato yellow leaf curl virus V2 protein.</title>
+<authorList>
+<person name="Glick E."/>
+<person name="Zrachya A."/>
+<person name="Levy Y."/>
+<person name="Mett A."/>
+<person name="Gidoni D."/>
+<person name="Belausov E."/>
+<person name="Citovsky V."/>
+<person name="Gafni Y."/>
+</authorList>
+<dbReference type="PubMed" id="18165314"/>
+<dbReference type="DOI" id="10.1073/pnas.0709036105"/>
+</citation>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>INTERACTION WITH TOMATO YELLOW LEAF CURL VIRUS PROTEIN V2</scope>
+</reference>
+<comment type="function">
+<text evidence="4 5">Required for post-transcriptional gene silencing and natural virus resistance. May bind nucleic acids and is essential for the biogenesis of trans-acting siRNAs but is not required for silencing induced by IR-PTGS. Involved in the juvenile-to-adult transition regulation. In case of begomoviruses infection, it is targeted by the viral protein V2 leading to suppression of post-transcriptional gene silencing.</text>
+</comment>
+<comment type="subunit">
+<text evidence="6">Interacts with begomoviruses protein V2.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="6">Cytoplasm</location>
+<location evidence="6">Perinuclear region</location>
+</subcellularLocation>
+<text evidence="1">Accumulates in inclusion bodies in the cell periphery. May interact with the ER network from the perinuclear region out to the cell periphery (By similarity).</text>
+</comment>
+<comment type="similarity">
+<text evidence="7">Belongs to the SGS3 family.</text>
+</comment>
+<dbReference type="EMBL" id="AF239719">
+<property type="protein sequence ID" value="AAF73960.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AB025633">
+<property type="protein sequence ID" value="BAA97244.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CP002688">
+<property type="protein sequence ID" value="AED93184.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CP002688">
+<property type="protein sequence ID" value="ANM69842.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BT002944">
+<property type="protein sequence ID" value="AAO22757.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BT004380">
+<property type="protein sequence ID" value="AAO42374.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001331491.1">
+<property type="nucleotide sequence ID" value="NM_001343817.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_197747.1">
+<property type="nucleotide sequence ID" value="NM_122263.3"/>
+</dbReference>
+<dbReference type="UniGene" id="At.31001"/>
+<dbReference type="ProteinModelPortal" id="Q9LDX1"/>
+<dbReference type="SMR" id="Q9LDX1"/>
+<dbReference type="BioGrid" id="17697">
+<property type="interactions" value="1"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-29658N"/>
+<dbReference type="IntAct" id="Q9LDX1">
+<property type="interactions" value="2"/>
+</dbReference>
+<dbReference type="MINT" id="Q9LDX1"/>
+<dbReference type="STRING" id="3702.AT5G23570.1"/>
+<dbReference type="PaxDb" id="Q9LDX1"/>
+<dbReference type="PRIDE" id="Q9LDX1"/>
+<dbReference type="EnsemblPlants" id="AT5G23570.1">
+<property type="protein sequence ID" value="AT5G23570.1"/>
+<property type="gene ID" value="AT5G23570"/>
+</dbReference>
+<dbReference type="EnsemblPlants" id="AT5G23570.3">
+<property type="protein sequence ID" value="AT5G23570.3"/>
+<property type="gene ID" value="AT5G23570"/>
+</dbReference>
+<dbReference type="GeneID" id="832422"/>
+<dbReference type="Gramene" id="AT5G23570.1">
+<property type="protein sequence ID" value="AT5G23570.1"/>
+<property type="gene ID" value="AT5G23570"/>
+</dbReference>
+<dbReference type="Gramene" id="AT5G23570.3">
+<property type="protein sequence ID" value="AT5G23570.3"/>
+<property type="gene ID" value="AT5G23570"/>
+</dbReference>
+<dbReference type="KEGG" id="ath:AT5G23570"/>
+<dbReference type="Araport" id="AT5G23570"/>
+<dbReference type="TAIR" id="locus:2171716">
+<property type="gene designation" value="AT5G23570"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG410IQ73">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4111E45">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000085166"/>
+<dbReference type="InParanoid" id="Q9LDX1"/>
+<dbReference type="OMA" id="EPARQWH"/>
+<dbReference type="OrthoDB" id="370807at2759"/>
+<dbReference type="PhylomeDB" id="Q9LDX1"/>
+<dbReference type="PRO" id="PR:Q9LDX1"/>
+<dbReference type="Proteomes" id="UP000006548">
+<property type="component" value="Chromosome 5"/>
+</dbReference>
+<dbReference type="ExpressionAtlas" id="Q9LDX1">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevisible" id="Q9LDX1">
+<property type="organism ID" value="AT"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="TAIR"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="TAIR"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005783">
+<property type="term" value="C:endoplasmic reticulum"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="TAIR"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048471">
+<property type="term" value="C:perinuclear region of cytoplasm"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051607">
+<property type="term" value="P:defense response to virus"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="TAIR"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010267">
+<property type="term" value="P:production of ta-siRNAs involved in RNA interference"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="TAIR"/>
+</dbReference>
+<dbReference type="GO" id="GO:0050688">
+<property type="term" value="P:regulation of defense response to virus"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010050">
+<property type="term" value="P:vegetative phase change"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="TAIR"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016032">
+<property type="term" value="P:viral process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009616">
+<property type="term" value="P:virus induced gene silencing"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="TAIR"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010025">
+<property type="term" value="P:wax biosynthetic process"/>
+<property type="evidence" value="ECO:0000316"/>
+<property type="project" value="TAIR"/>
+</dbReference>
+<dbReference type="CDD" id="cd12266">
+<property type="entry name" value="RRM_like_XS"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.30.70.2890">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR005380">
+<property type="entry name" value="XS_domain"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR038588">
+<property type="entry name" value="XS_domain_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR005381">
+<property type="entry name" value="Znf-XS_domain"/>
+</dbReference>
+<dbReference type="Pfam" id="PF03468">
+<property type="entry name" value="XS"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF03470">
+<property type="entry name" value="zf-XS"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0930">Antiviral protein</keyword>
+<keyword id="KW-0175">Coiled coil</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0945">Host-virus interaction</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0943">RNA-mediated gene silencing</keyword>
+<feature type="chain" description="Protein SUPPRESSOR OF GENE SILENCING 3" id="PRO_0000333289">
+<location>
+<begin position="1"/>
+<end position="625"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="2">
+<location>
+<begin position="452"/>
+<end position="533"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="2">
+<location>
+<begin position="564"/>
+<end position="615"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Gly-rich">
+<location>
+<begin position="75"/>
+<end position="111"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Asp-rich">
+<location>
+<begin position="156"/>
+<end position="189"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Poly-Gln">
+<location>
+<begin position="540"/>
+<end position="543"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="In sgs3-3; complete suppression of post-transcriptional gene silencing." evidence="3">
+<original>E</original>
+<variation>K</variation>
+<location>
+<position position="500"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000250"/>
+<evidence key="2" type="ECO:0000255"/>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10850495"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15165191"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15466488"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18165314"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000305"/>
+<sequence length="625" mass="71972" checksum="456E2A1396706A96" modified="2000-10-01" version="1">
+MSSRAGPMSKEKNVQGGYRPEVEQLVQGLAGTRLASSQDDGGEWEVISKKNKNKPGNTSG
+KTWVSQNSNPPRAWGGQQQGRGSNVSGRGNNVSGRGNGNGRGIQANISGRGRALSRKYDN
+NFVAPPPVSRPPLEGGWNWQARGGSAQHTAVQEFPDVEDDVDNASEEENDSDALDDSDDD
+LASDDYDSDVSQKSHGSRKQNKWFKKFFGSLDSLSIEQINEPQRQWHCPACQNGPGAIDW
+YNLHPLLAHARTKGARRVKLHRELAEVLEKDLQMRGASVIPCGEIYGQWKGLGEDEKDYE
+IVWPPMVIIMNTRLDKDDNDKWLGMGNQELLEYFDKYEALRARHSYGPQGHRGMSVLMFE
+SSATGYLEAERLHRELAEMGLDRIAWGQKRSMFSGGVRQLYGFLATKQDLDIFNQHSQGK
+TRLKFELKSYQEMVVKELRQISEDNQQLNYFKNKLSKQNKHAKVLEESLEIMSEKLRRTA
+EDNRIVRQRTKMQHEQNREEMDAHDRFFMDSIKQIHERRDAKEENFEMLQQQERAKVVGQ
+QQQNINPSSNDDCRKRAEEVSSFIEFQEKEMEEFVEEREMLIKDQEKKMEDMKKRHHEEI
+FDLEKEFDEALEQLMYKHGLHNEDD
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

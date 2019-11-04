@@ -1,0 +1,314 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2008-07-22" modified="2019-01-16" version="63">
+<accession>B3H4G0</accession>
+<name>B3H4G0_ARATH</name>
+<protein>
+<submittedName>
+<fullName evidence="3">O-glucosyltransferase rumi-like protein (DUF821)</fullName>
+</submittedName>
+</protein>
+<gene>
+<name type="ordered locus" evidence="2 3">At3g61280</name>
+</gene>
+<organism evidence="3 4">
+<name type="scientific">Arabidopsis thaliana</name>
+<name type="common">Mouse-ear cress</name>
+<dbReference type="NCBI Taxonomy" id="3702"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Viridiplantae</taxon>
+<taxon>Streptophyta</taxon>
+<taxon>Embryophyta</taxon>
+<taxon>Tracheophyta</taxon>
+<taxon>Spermatophyta</taxon>
+<taxon>Magnoliophyta</taxon>
+<taxon>eudicotyledons</taxon>
+<taxon>Gunneridae</taxon>
+<taxon>Pentapetalae</taxon>
+<taxon>rosids</taxon>
+<taxon>malvids</taxon>
+<taxon>Brassicales</taxon>
+<taxon>Brassicaceae</taxon>
+<taxon>Camelineae</taxon>
+<taxon>Arabidopsis</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="3 4">
+<citation type="journal article" date="2000" name="Nature" volume="408" first="820" last="822">
+<title>Sequence and analysis of chromosome 3 of the plant Arabidopsis thaliana.</title>
+<authorList>
+<consortium name="European Union Chromosome 3 Arabidopsis Sequencing Consortium"/>
+<consortium name="Institute for Genomic Research"/>
+<consortium name="Kazusa DNA Research Institute"/>
+<person name="Salanoubat M."/>
+<person name="Lemcke K."/>
+<person name="Rieger M."/>
+<person name="Ansorge W."/>
+<person name="Unseld M."/>
+<person name="Fartmann B."/>
+<person name="Valle G."/>
+<person name="Blocker H."/>
+<person name="Perez-Alonso M."/>
+<person name="Obermaier B."/>
+<person name="Delseny M."/>
+<person name="Boutry M."/>
+<person name="Grivell L.A."/>
+<person name="Mache R."/>
+<person name="Puigdomenech P."/>
+<person name="De Simone V."/>
+<person name="Choisne N."/>
+<person name="Artiguenave F."/>
+<person name="Robert C."/>
+<person name="Brottier P."/>
+<person name="Wincker P."/>
+<person name="Cattolico L."/>
+<person name="Weissenbach J."/>
+<person name="Saurin W."/>
+<person name="Quetier F."/>
+<person name="Schafer M."/>
+<person name="Muller-Auer S."/>
+<person name="Gabel C."/>
+<person name="Fuchs M."/>
+<person name="Benes V."/>
+<person name="Wurmbach E."/>
+<person name="Drzonek H."/>
+<person name="Erfle H."/>
+<person name="Jordan N."/>
+<person name="Bangert S."/>
+<person name="Wiedelmann R."/>
+<person name="Kranz H."/>
+<person name="Voss H."/>
+<person name="Holland R."/>
+<person name="Brandt P."/>
+<person name="Nyakatura G."/>
+<person name="Vezzi A."/>
+<person name="D'Angelo M."/>
+<person name="Pallavicini A."/>
+<person name="Toppo S."/>
+<person name="Simionati B."/>
+<person name="Conrad A."/>
+<person name="Hornischer K."/>
+<person name="Kauer G."/>
+<person name="Lohnert T.H."/>
+<person name="Nordsiek G."/>
+<person name="Reichelt J."/>
+<person name="Scharfe M."/>
+<person name="Schon O."/>
+<person name="Bargues M."/>
+<person name="Terol J."/>
+<person name="Climent J."/>
+<person name="Navarro P."/>
+<person name="Collado C."/>
+<person name="Perez-Perez A."/>
+<person name="Ottenwalder B."/>
+<person name="Duchemin D."/>
+<person name="Cooke R."/>
+<person name="Laudie M."/>
+<person name="Berger-Llauro C."/>
+<person name="Purnelle B."/>
+<person name="Masuy D."/>
+<person name="de Haan M."/>
+<person name="Maarse A.C."/>
+<person name="Alcaraz J.P."/>
+<person name="Cottet A."/>
+<person name="Casacuberta E."/>
+<person name="Monfort A."/>
+<person name="Argiriou A."/>
+<person name="flores M."/>
+<person name="Liguori R."/>
+<person name="Vitale D."/>
+<person name="Mannhaupt G."/>
+<person name="Haase D."/>
+<person name="Schoof H."/>
+<person name="Rudd S."/>
+<person name="Zaccaria P."/>
+<person name="Mewes H.W."/>
+<person name="Mayer K.F."/>
+<person name="Kaul S."/>
+<person name="Town C.D."/>
+<person name="Koo H.L."/>
+<person name="Tallon L.J."/>
+<person name="Jenkins J."/>
+<person name="Rooney T."/>
+<person name="Rizzo M."/>
+<person name="Walts A."/>
+<person name="Utterback T."/>
+<person name="Fujii C.Y."/>
+<person name="Shea T.P."/>
+<person name="Creasy T.H."/>
+<person name="Haas B."/>
+<person name="Maiti R."/>
+<person name="Wu D."/>
+<person name="Peterson J."/>
+<person name="Van Aken S."/>
+<person name="Pai G."/>
+<person name="Militscher J."/>
+<person name="Sellers P."/>
+<person name="Gill J.E."/>
+<person name="Feldblyum T.V."/>
+<person name="Preuss D."/>
+<person name="Lin X."/>
+<person name="Nierman W.C."/>
+<person name="Salzberg S.L."/>
+<person name="White O."/>
+<person name="Venter J.C."/>
+<person name="Fraser C.M."/>
+<person name="Kaneko T."/>
+<person name="Nakamura Y."/>
+<person name="Sato S."/>
+<person name="Kato T."/>
+<person name="Asamizu E."/>
+<person name="Sasamoto S."/>
+<person name="Kimura T."/>
+<person name="Idesawa K."/>
+<person name="Kawashima K."/>
+<person name="Kishida Y."/>
+<person name="Kiyokawa C."/>
+<person name="Kohara M."/>
+<person name="Matsumoto M."/>
+<person name="Matsuno A."/>
+<person name="Muraki A."/>
+<person name="Nakayama S."/>
+<person name="Nakazaki N."/>
+<person name="Shinpo S."/>
+<person name="Takeuchi C."/>
+<person name="Wada T."/>
+<person name="Watanabe A."/>
+<person name="Yamada M."/>
+<person name="Yasuda M."/>
+<person name="Tabata S."/>
+</authorList>
+<dbReference type="PubMed" id="11130713"/>
+<dbReference type="DOI" id="10.1038/35048706"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain evidence="4">cv. Columbia</strain>
+</source>
+</reference>
+<reference key="2" evidence="4">
+<citation type="journal article" date="2017" name="Plant J." volume="89" first="789" last="804">
+<title>Araport11: a complete reannotation of the Arabidopsis thaliana reference genome.</title>
+<authorList>
+<person name="Cheng C.Y."/>
+<person name="Krishnakumar V."/>
+<person name="Chan A.P."/>
+<person name="Thibaud-Nissen F."/>
+<person name="Schobel S."/>
+<person name="Town C.D."/>
+</authorList>
+<dbReference type="PubMed" id="27862469"/>
+<dbReference type="DOI" id="10.1111/tpj.13415"/>
+</citation>
+<scope>GENOME REANNOTATION</scope>
+<source>
+<strain evidence="4">cv. Columbia</strain>
+</source>
+</reference>
+<dbReference type="EMBL" id="CP002686">
+<property type="protein sequence ID" value="AEE80183.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001118874.1">
+<property type="nucleotide sequence ID" value="NM_001125402.1"/>
+</dbReference>
+<dbReference type="UniGene" id="At.51230"/>
+<dbReference type="EnsemblPlants" id="AT3G61280.2">
+<property type="protein sequence ID" value="AT3G61280.2"/>
+<property type="gene ID" value="AT3G61280"/>
+</dbReference>
+<dbReference type="GeneID" id="825300"/>
+<dbReference type="Gramene" id="AT3G61280.2">
+<property type="protein sequence ID" value="AT3G61280.2"/>
+<property type="gene ID" value="AT3G61280"/>
+</dbReference>
+<dbReference type="KEGG" id="ath:AT3G61280"/>
+<dbReference type="Araport" id="AT3G61280"/>
+<dbReference type="eggNOG" id="KOG2458">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG410XT5U">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="OrthoDB" id="1106728at2759"/>
+<dbReference type="PhylomeDB" id="B3H4G0"/>
+<dbReference type="Proteomes" id="UP000006548">
+<property type="component" value="Chromosome 3"/>
+</dbReference>
+<dbReference type="ExpressionAtlas" id="B3H4G0">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016021">
+<property type="term" value="C:integral component of membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016740">
+<property type="term" value="F:transferase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR006598">
+<property type="entry name" value="LipoPS_modifying"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR12203">
+<property type="entry name" value="PTHR12203"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF05686">
+<property type="entry name" value="Glyco_transf_90"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00672">
+<property type="entry name" value="CAP10"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="predicted"/>
+<keyword id="KW-0181" evidence="4">Complete proteome</keyword>
+<keyword id="KW-0472" evidence="1">Membrane</keyword>
+<keyword id="KW-1185" evidence="4">Reference proteome</keyword>
+<keyword id="KW-0808" evidence="3">Transferase</keyword>
+<keyword id="KW-0812" evidence="1">Transmembrane</keyword>
+<keyword id="KW-1133" evidence="1">Transmembrane helix</keyword>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="40"/>
+<end position="61"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="SAM" id="Phobius"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000313">
+<source>
+<dbReference type="Araport" id="AT3G61280"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="AEE80183.1"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000313">
+<source>
+<dbReference type="Proteomes" id="UP000006548"/>
+</source>
+</evidence>
+<sequence length="378" mass="44729" checksum="851169CDD7C2C111" modified="2008-07-22" version="1">
+MRENTQVAQFTEDHHQRHQTPITCLSSKLAKIWTLFTTKIFIFVLFIILLSASVSWMYAF
+VLGENKFQVTSIFTRNTKKSTPTKTTTTTDIPKIAIKIPLNCTSLNSNTTQTCPSNYPTK
+FEPAISSSETCPDYFKWIHRDLKVWQKTGITRETLERARPNAHFRIVIKSGRLYVHQYEK
+AFQTRDVFTIWGILQLLRMYPGQIPDLELLFLCHDRPAIWKRDLKKKRKDTWPPPPLFHY
+CGHRDAYDIVFPDWSFWGWPELNIKEWNKLSVALKEGNKKVKWEDRVPYAYWKGNPHVSP
+IRGDLMRCNFSDKYDPMVRLYVQDWRSEIEAGFRGSNLEDQCTHRYMCRIHSLDHVYLIN
+IRFVFNILVNILDLNLDI
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

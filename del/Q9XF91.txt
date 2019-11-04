@@ -1,0 +1,213 @@
+ID   PSBS_ARATH              Reviewed;         265 AA.
+AC   Q9XF91; Q56XH2; Q94EI1; Q9ST34;
+DT   29-AUG-2001, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1999, sequence version 1.
+DT   16-JAN-2019, entry version 126.
+DE   RecName: Full=Photosystem II 22 kDa protein, chloroplastic {ECO:0000305};
+DE   AltName: Full=CP22 {ECO:0000303|PubMed:10366881};
+DE   AltName: Full=Protein NONPHOTOCHEMICAL QUENCHING 4 {ECO:0000303|PubMed:10667783};
+DE   AltName: Full=Protein PHOTOSYSTEM II SUBUNIT S {ECO:0000305};
+DE   Flags: Precursor;
+GN   Name=PSBS {ECO:0000303|PubMed:10366881};
+GN   Synonyms=NPQ4 {ECO:0000303|PubMed:10667783};
+GN   OrderedLocusNames=At1g44575; ORFNames=T18F15.3;
+OS   Arabidopsis thaliana (Mouse-ear cress).
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+OC   Pentapetalae; rosids; malvids; Brassicales; Brassicaceae; Camelineae;
+OC   Arabidopsis.
+OX   NCBI_TaxID=3702;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RX   PubMed=10366881; DOI=10.1016/S1360-1385(99)01419-3;
+RA   Jansson S.;
+RT   "A guide to the Lhc genes and their relatives in Arabidopsis.";
+RL   Trends Plant Sci. 4:236-240(1999).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=cv. Columbia;
+RX   PubMed=11130712; DOI=10.1038/35048500;
+RA   Theologis A., Ecker J.R., Palm C.J., Federspiel N.A., Kaul S.,
+RA   White O., Alonso J., Altafi H., Araujo R., Bowman C.L., Brooks S.Y.,
+RA   Buehler E., Chan A., Chao Q., Chen H., Cheuk R.F., Chin C.W.,
+RA   Chung M.K., Conn L., Conway A.B., Conway A.R., Creasy T.H., Dewar K.,
+RA   Dunn P., Etgu P., Feldblyum T.V., Feng J.-D., Fong B., Fujii C.Y.,
+RA   Gill J.E., Goldsmith A.D., Haas B., Hansen N.F., Hughes B., Huizar L.,
+RA   Hunter J.L., Jenkins J., Johnson-Hopson C., Khan S., Khaykin E.,
+RA   Kim C.J., Koo H.L., Kremenetskaia I., Kurtz D.B., Kwan A., Lam B.,
+RA   Langin-Hooper S., Lee A., Lee J.M., Lenz C.A., Li J.H., Li Y.-P.,
+RA   Lin X., Liu S.X., Liu Z.A., Luros J.S., Maiti R., Marziali A.,
+RA   Militscher J., Miranda M., Nguyen M., Nierman W.C., Osborne B.I.,
+RA   Pai G., Peterson J., Pham P.K., Rizzo M., Rooney T., Rowley D.,
+RA   Sakano H., Salzberg S.L., Schwartz J.R., Shinn P., Southwick A.M.,
+RA   Sun H., Tallon L.J., Tambunga G., Toriumi M.J., Town C.D.,
+RA   Utterback T., Van Aken S., Vaysberg M., Vysotskaia V.S., Walker M.,
+RA   Wu D., Yu G., Fraser C.M., Venter J.C., Davis R.W.;
+RT   "Sequence and analysis of chromosome 1 of the plant Arabidopsis
+RT   thaliana.";
+RL   Nature 408:816-820(2000).
+RN   [3]
+RP   GENOME REANNOTATION.
+RC   STRAIN=cv. Columbia;
+RX   PubMed=27862469; DOI=10.1111/tpj.13415;
+RA   Cheng C.Y., Krishnakumar V., Chan A.P., Thibaud-Nissen F., Schobel S.,
+RA   Town C.D.;
+RT   "Araport11: a complete reannotation of the Arabidopsis thaliana
+RT   reference genome.";
+RL   Plant J. 89:789-804(2017).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   STRAIN=cv. Columbia;
+RX   PubMed=14593172; DOI=10.1126/science.1088305;
+RA   Yamada K., Lim J., Dale J.M., Chen H., Shinn P., Palm C.J.,
+RA   Southwick A.M., Wu H.C., Kim C.J., Nguyen M., Pham P.K., Cheuk R.F.,
+RA   Karlin-Newmann G., Liu S.X., Lam B., Sakano H., Wu T., Yu G.,
+RA   Miranda M., Quach H.L., Tripp M., Chang C.H., Lee J.M., Toriumi M.J.,
+RA   Chan M.M., Tang C.C., Onodera C.S., Deng J.M., Akiyama K., Ansari Y.,
+RA   Arakawa T., Banh J., Banno F., Bowser L., Brooks S.Y., Carninci P.,
+RA   Chao Q., Choy N., Enju A., Goldsmith A.D., Gurjal M., Hansen N.F.,
+RA   Hayashizaki Y., Johnson-Hopson C., Hsuan V.W., Iida K., Karnes M.,
+RA   Khan S., Koesema E., Ishida J., Jiang P.X., Jones T., Kawai J.,
+RA   Kamiya A., Meyers C., Nakajima M., Narusaka M., Seki M., Sakurai T.,
+RA   Satou M., Tamse R., Vaysberg M., Wallender E.K., Wong C., Yamamura Y.,
+RA   Yuan S., Shinozaki K., Davis R.W., Theologis A., Ecker J.R.;
+RT   "Empirical analysis of transcriptional activity in the Arabidopsis
+RT   genome.";
+RL   Science 302:842-846(2003).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   STRAIN=cv. Columbia;
+RA   Totoki Y., Seki M., Ishida J., Nakajima M., Enju A., Kamiya A.,
+RA   Narusaka M., Shin-i T., Nakagawa M., Sakamoto N., Oishi K., Kohara Y.,
+RA   Kobayashi M., Toyoda A., Sakaki Y., Sakurai T., Iida K., Akiyama K.,
+RA   Satou M., Toyoda T., Konagaya A., Carninci P., Kawai J.,
+RA   Hayashizaki Y., Shinozaki K.;
+RT   "Large-scale analysis of RIKEN Arabidopsis full-length (RAFL) cDNAs.";
+RL   Submitted (MAR-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 111-265.
+RC   STRAIN=cv. Landsberg erecta;
+RA   Kuno N., Muramatsu T., Hamazato F., Furuya M.;
+RT   "Large-scale screening of phytochrome-regulated genes in etiolated
+RT   seedlings of Arabidopsis thaliana using fluorescent differential
+RT   display.";
+RL   Submitted (JUN-1998) to the EMBL/GenBank/DDBJ databases.
+RN   [7]
+RP   FUNCTION, SUBCELLULAR LOCATION, AND DISRUPTION PHENOTYPE.
+RX   PubMed=10667783; DOI=10.1038/35000131;
+RA   Li X.P., Bjorkman O., Shih C., Grossman A.R., Rosenquist M.,
+RA   Jansson S., Niyogi K.K.;
+RT   "A pigment-binding protein essential for regulation of photosynthetic
+RT   light harvesting.";
+RL   Nature 403:391-395(2000).
+CC   -!- FUNCTION: Plays an important role in non-photochemical quenching,
+CC       a process maintains the balance between dissipation and
+CC       utilization of light energy to minimize generation of oxidizing
+CC       molecules, thereby protecting the plant against photo-oxidative
+CC       damage. Is not necessary for efficient light harvesting and
+CC       photosynthesis. {ECO:0000269|PubMed:10667783}.
+CC   -!- SUBCELLULAR LOCATION: Plastid, chloroplast thylakoid membrane
+CC       {ECO:0000269|PubMed:10667783}; Multi-pass membrane protein
+CC       {ECO:0000255}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=1;
+CC         Comment=A number of isoforms are produced. According to EST
+CC         sequences.;
+CC       Name=1;
+CC         IsoId=Q9XF91-1; Sequence=Displayed;
+CC   -!- DISRUPTION PHENOTYPE: Non-photochemical quenching phenotype.
+CC       {ECO:0000269|PubMed:10667783}.
+CC   -!- SIMILARITY: Belongs to the ELIP/psbS family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AF134131; AAD28778.1; -; mRNA.
+DR   EMBL; AC084807; AAK43481.1; -; Genomic_DNA.
+DR   EMBL; CP002684; AEE32039.1; -; Genomic_DNA.
+DR   EMBL; CP002684; ANM60500.1; -; Genomic_DNA.
+DR   EMBL; AF410304; AAK95290.1; -; mRNA.
+DR   EMBL; BT002251; AAN72262.1; -; mRNA.
+DR   EMBL; AK221702; BAD95419.1; -; mRNA.
+DR   EMBL; AB015859; BAA84769.1; -; mRNA.
+DR   PIR; T52313; T52313.
+DR   RefSeq; NP_001319163.1; NM_001333231.1. [Q9XF91-1]
+DR   RefSeq; NP_175092.1; NM_103552.4. [Q9XF91-1]
+DR   UniGene; At.21534; -.
+DR   UniGene; At.27004; -.
+DR   UniGene; At.49230; -.
+DR   PDB; 2AUI; Model; -; A=37-265.
+DR   PDB; 2AVL; Model; -; A=37-265.
+DR   PDBsum; 2AUI; -.
+DR   PDBsum; 2AVL; -.
+DR   ProteinModelPortal; Q9XF91; -.
+DR   SMR; Q9XF91; -.
+DR   BioGrid; 26258; 3.
+DR   STRING; 3702.AT1G44575.1; -.
+DR   iPTMnet; Q9XF91; -.
+DR   PaxDb; Q9XF91; -.
+DR   PRIDE; Q9XF91; -.
+DR   EnsemblPlants; AT1G44575.1; AT1G44575.1; AT1G44575. [Q9XF91-1]
+DR   EnsemblPlants; AT1G44575.3; AT1G44575.3; AT1G44575. [Q9XF91-1]
+DR   GeneID; 841033; -.
+DR   Gramene; AT1G44575.1; AT1G44575.1; AT1G44575. [Q9XF91-1]
+DR   Gramene; AT1G44575.3; AT1G44575.3; AT1G44575. [Q9XF91-1]
+DR   KEGG; ath:AT1G44575; -.
+DR   Araport; AT1G44575; -.
+DR   TAIR; locus:2823639; AT1G44575.
+DR   eggNOG; ENOG410IHNP; Eukaryota.
+DR   eggNOG; ENOG4111VNI; LUCA.
+DR   HOGENOM; HOG000238511; -.
+DR   InParanoid; Q9XF91; -.
+DR   KO; K03542; -.
+DR   OMA; DKAVIQP; -.
+DR   OrthoDB; 1327341at2759; -.
+DR   PhylomeDB; Q9XF91; -.
+DR   BioCyc; MetaCyc:AT1G44575-MONOMER; -.
+DR   PRO; PR:Q9XF91; -.
+DR   Proteomes; UP000006548; Chromosome 1.
+DR   ExpressionAtlas; Q9XF91; baseline and differential.
+DR   Genevisible; Q9XF91; AT.
+DR   GO; GO:0009507; C:chloroplast; IDA:TAIR.
+DR   GO; GO:0009534; C:chloroplast thylakoid; IDA:TAIR.
+DR   GO; GO:0009535; C:chloroplast thylakoid membrane; IDA:TAIR.
+DR   GO; GO:0016021; C:integral component of membrane; IEA:UniProtKB-KW.
+DR   GO; GO:0016020; C:membrane; IDA:TAIR.
+DR   GO; GO:0009523; C:photosystem II; IEA:UniProtKB-KW.
+DR   GO; GO:0009517; C:PSII associated light-harvesting complex II; TAS:TAIR.
+DR   GO; GO:0009579; C:thylakoid; IDA:TAIR.
+DR   GO; GO:0016168; F:chlorophyll binding; TAS:TAIR.
+DR   GO; GO:0019904; F:protein domain specific binding; IPI:CAFA.
+DR   GO; GO:0051738; F:xanthophyll binding; TAS:TAIR.
+DR   GO; GO:0010196; P:nonphotochemical quenching; IMP:TAIR.
+DR   GO; GO:0015979; P:photosynthesis; IEA:UniProtKB-KW.
+DR   GO; GO:0080167; P:response to karrikin; IEP:TAIR.
+DR   GO; GO:0010027; P:thylakoid membrane organization; IMP:TAIR.
+DR   Gene3D; 1.10.3460.10; -; 1.
+DR   InterPro; IPR022796; Chloroa_b-bind.
+DR   InterPro; IPR023329; Chlorophyll_a/b-bd_dom_sf.
+DR   Pfam; PF00504; Chloroa_b-bind; 1.
+PE   2: Evidence at transcript level;
+KW   3D-structure; Alternative splicing; Chloroplast; Complete proteome;
+KW   Membrane; Photosynthesis; Photosystem II; Plastid; Reference proteome;
+KW   Repeat; Thylakoid; Transit peptide; Transmembrane;
+KW   Transmembrane helix.
+FT   TRANSIT       1     59       Chloroplast. {ECO:0000255}.
+FT   CHAIN        60    265       Photosystem II 22 kDa protein,
+FT                                chloroplastic.
+FT                                /FTId=PRO_0000007805.
+FT   TRANSMEM     96    116       Helical. {ECO:0000255}.
+FT   TRANSMEM    130    150       Helical. {ECO:0000255}.
+FT   TRANSMEM    195    215       Helical. {ECO:0000255}.
+FT   TRANSMEM    229    249       Helical. {ECO:0000255}.
+FT   REPEAT       54    158       1.
+FT   REPEAT      159    264       2.
+FT   CONFLICT      5      5       M -> F (in Ref. 4; AAK95290/AAN72262).
+FT                                {ECO:0000305}.
+SQ   SEQUENCE   265 AA;  28008 MW;  0D585321DE6675D6 CRC64;
+     MAQTMLLTSG VTAGHFLRNK SPLAQPKVHH LFLSGNSPVA LPSRRQSFVP LALFKPKTKA
+     APKKVEKPKS KVEDGIFGTS GGIGFTKANE LFVGRVAMIG FAASLLGEAL TGKGILAQLN
+     LETGIPIYEA EPLLLFFILF TLLGAIGALG DRGKFVDDPP TGLEKAVIPP GKNVRSALGL
+     KEQGPLFGFT KANELFVGRL AQLGIAFSLI GEIITGKGAL AQLNIETGIP IQDIEPLVLL
+     NVAFFFFAAI NPGNGKFITD DGEES
+//

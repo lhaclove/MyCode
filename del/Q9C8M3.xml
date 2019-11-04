@@ -1,0 +1,421 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2011-10-19" modified="2019-01-16" version="122">
+<accession>Q9C8M3</accession>
+<name>GSTUS_ARATH</name>
+<protein>
+<recommendedName>
+<fullName>Glutathione S-transferase U28</fullName>
+<shortName>AtGSTU28</shortName>
+<ecNumber>2.5.1.18</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>GST class-tau member 28</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">GSTU28</name>
+<name type="ordered locus">At1g53680</name>
+<name type="ORF">F22G10.22</name>
+</gene>
+<organism>
+<name type="scientific">Arabidopsis thaliana</name>
+<name type="common">Mouse-ear cress</name>
+<dbReference type="NCBI Taxonomy" id="3702"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Viridiplantae</taxon>
+<taxon>Streptophyta</taxon>
+<taxon>Embryophyta</taxon>
+<taxon>Tracheophyta</taxon>
+<taxon>Spermatophyta</taxon>
+<taxon>Magnoliophyta</taxon>
+<taxon>eudicotyledons</taxon>
+<taxon>Gunneridae</taxon>
+<taxon>Pentapetalae</taxon>
+<taxon>rosids</taxon>
+<taxon>malvids</taxon>
+<taxon>Brassicales</taxon>
+<taxon>Brassicaceae</taxon>
+<taxon>Camelineae</taxon>
+<taxon>Arabidopsis</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="2000" name="Nature" volume="408" first="816" last="820">
+<title>Sequence and analysis of chromosome 1 of the plant Arabidopsis thaliana.</title>
+<authorList>
+<person name="Theologis A."/>
+<person name="Ecker J.R."/>
+<person name="Palm C.J."/>
+<person name="Federspiel N.A."/>
+<person name="Kaul S."/>
+<person name="White O."/>
+<person name="Alonso J."/>
+<person name="Altafi H."/>
+<person name="Araujo R."/>
+<person name="Bowman C.L."/>
+<person name="Brooks S.Y."/>
+<person name="Buehler E."/>
+<person name="Chan A."/>
+<person name="Chao Q."/>
+<person name="Chen H."/>
+<person name="Cheuk R.F."/>
+<person name="Chin C.W."/>
+<person name="Chung M.K."/>
+<person name="Conn L."/>
+<person name="Conway A.B."/>
+<person name="Conway A.R."/>
+<person name="Creasy T.H."/>
+<person name="Dewar K."/>
+<person name="Dunn P."/>
+<person name="Etgu P."/>
+<person name="Feldblyum T.V."/>
+<person name="Feng J.-D."/>
+<person name="Fong B."/>
+<person name="Fujii C.Y."/>
+<person name="Gill J.E."/>
+<person name="Goldsmith A.D."/>
+<person name="Haas B."/>
+<person name="Hansen N.F."/>
+<person name="Hughes B."/>
+<person name="Huizar L."/>
+<person name="Hunter J.L."/>
+<person name="Jenkins J."/>
+<person name="Johnson-Hopson C."/>
+<person name="Khan S."/>
+<person name="Khaykin E."/>
+<person name="Kim C.J."/>
+<person name="Koo H.L."/>
+<person name="Kremenetskaia I."/>
+<person name="Kurtz D.B."/>
+<person name="Kwan A."/>
+<person name="Lam B."/>
+<person name="Langin-Hooper S."/>
+<person name="Lee A."/>
+<person name="Lee J.M."/>
+<person name="Lenz C.A."/>
+<person name="Li J.H."/>
+<person name="Li Y.-P."/>
+<person name="Lin X."/>
+<person name="Liu S.X."/>
+<person name="Liu Z.A."/>
+<person name="Luros J.S."/>
+<person name="Maiti R."/>
+<person name="Marziali A."/>
+<person name="Militscher J."/>
+<person name="Miranda M."/>
+<person name="Nguyen M."/>
+<person name="Nierman W.C."/>
+<person name="Osborne B.I."/>
+<person name="Pai G."/>
+<person name="Peterson J."/>
+<person name="Pham P.K."/>
+<person name="Rizzo M."/>
+<person name="Rooney T."/>
+<person name="Rowley D."/>
+<person name="Sakano H."/>
+<person name="Salzberg S.L."/>
+<person name="Schwartz J.R."/>
+<person name="Shinn P."/>
+<person name="Southwick A.M."/>
+<person name="Sun H."/>
+<person name="Tallon L.J."/>
+<person name="Tambunga G."/>
+<person name="Toriumi M.J."/>
+<person name="Town C.D."/>
+<person name="Utterback T."/>
+<person name="Van Aken S."/>
+<person name="Vaysberg M."/>
+<person name="Vysotskaia V.S."/>
+<person name="Walker M."/>
+<person name="Wu D."/>
+<person name="Yu G."/>
+<person name="Fraser C.M."/>
+<person name="Venter J.C."/>
+<person name="Davis R.W."/>
+</authorList>
+<dbReference type="PubMed" id="11130712"/>
+<dbReference type="DOI" id="10.1038/35048500"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>cv. Columbia</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2017" name="Plant J." volume="89" first="789" last="804">
+<title>Araport11: a complete reannotation of the Arabidopsis thaliana reference genome.</title>
+<authorList>
+<person name="Cheng C.Y."/>
+<person name="Krishnakumar V."/>
+<person name="Chan A.P."/>
+<person name="Thibaud-Nissen F."/>
+<person name="Schobel S."/>
+<person name="Town C.D."/>
+</authorList>
+<dbReference type="PubMed" id="27862469"/>
+<dbReference type="DOI" id="10.1111/tpj.13415"/>
+</citation>
+<scope>GENOME REANNOTATION</scope>
+<source>
+<strain>cv. Columbia</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2002" name="Plant Mol. Biol." volume="49" first="515" last="532">
+<title>Probing the diversity of the Arabidopsis glutathione S-transferase gene family.</title>
+<authorList>
+<person name="Wagner U."/>
+<person name="Edwards R."/>
+<person name="Dixon D.P."/>
+<person name="Mauch F."/>
+</authorList>
+<dbReference type="PubMed" id="12090627"/>
+<dbReference type="DOI" id="10.1023/A:1015557300450"/>
+</citation>
+<scope>GENE FAMILY</scope>
+<scope>NOMENCLATURE</scope>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2009" name="J. Exp. Bot." volume="60" first="1207" last="1218">
+<title>Enzyme activities and subcellular localization of members of the Arabidopsis glutathione transferase superfamily.</title>
+<authorList>
+<person name="Dixon D.P."/>
+<person name="Hawkins T."/>
+<person name="Hussey P.J."/>
+<person name="Edwards R."/>
+</authorList>
+<dbReference type="PubMed" id="19174456"/>
+<dbReference type="DOI" id="10.1093/jxb/ern365"/>
+</citation>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<comment type="function">
+<text evidence="1">May be involved in the conjugation of reduced glutathione to a wide number of exogenous and endogenous hydrophobic electrophiles and have a detoxification role against certain herbicides.</text>
+</comment>
+<comment type="catalytic activity">
+<reaction>
+<text>glutathione + RX = a halide anion + an S-substituted glutathione + H(+)</text>
+<dbReference type="Rhea" id="RHEA:16437"/>
+<dbReference type="ChEBI" id="CHEBI:15378"/>
+<dbReference type="ChEBI" id="CHEBI:16042"/>
+<dbReference type="ChEBI" id="CHEBI:17792"/>
+<dbReference type="ChEBI" id="CHEBI:57925"/>
+<dbReference type="ChEBI" id="CHEBI:90779"/>
+<dbReference type="EC" id="2.5.1.18"/>
+</reaction>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="3">Cytoplasm</location>
+<location evidence="3">Cytosol</location>
+</subcellularLocation>
+</comment>
+<comment type="similarity">
+<text evidence="4">Belongs to the GST superfamily. Tau family.</text>
+</comment>
+<dbReference type="EC" id="2.5.1.18"/>
+<dbReference type="EMBL" id="AC024260">
+<property type="protein sequence ID" value="AAG51968.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CP002684">
+<property type="protein sequence ID" value="AEE32981.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="A96577">
+<property type="entry name" value="A96577"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_175772.1">
+<property type="nucleotide sequence ID" value="NM_104246.2"/>
+</dbReference>
+<dbReference type="ProteinModelPortal" id="Q9C8M3"/>
+<dbReference type="SMR" id="Q9C8M3"/>
+<dbReference type="STRING" id="3702.AT1G53680.1"/>
+<dbReference type="PaxDb" id="Q9C8M3"/>
+<dbReference type="PRIDE" id="Q9C8M3"/>
+<dbReference type="EnsemblPlants" id="AT1G53680.1">
+<property type="protein sequence ID" value="AT1G53680.1"/>
+<property type="gene ID" value="AT1G53680"/>
+</dbReference>
+<dbReference type="GeneID" id="841805"/>
+<dbReference type="Gramene" id="AT1G53680.1">
+<property type="protein sequence ID" value="AT1G53680.1"/>
+<property type="gene ID" value="AT1G53680"/>
+</dbReference>
+<dbReference type="KEGG" id="ath:AT1G53680"/>
+<dbReference type="Araport" id="AT1G53680"/>
+<dbReference type="TAIR" id="locus:2024857">
+<property type="gene designation" value="AT1G53680"/>
+</dbReference>
+<dbReference type="eggNOG" id="KOG0406">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG410XSIX">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000125749"/>
+<dbReference type="InParanoid" id="Q9C8M3"/>
+<dbReference type="KO" id="K00799"/>
+<dbReference type="OMA" id="VDITLVP"/>
+<dbReference type="OrthoDB" id="1225872at2759"/>
+<dbReference type="PhylomeDB" id="Q9C8M3"/>
+<dbReference type="BioCyc" id="ARA:AT1G53680-MONOMER"/>
+<dbReference type="PRO" id="PR:Q9C8M3"/>
+<dbReference type="Proteomes" id="UP000006548">
+<property type="component" value="Chromosome 1"/>
+</dbReference>
+<dbReference type="ExpressionAtlas" id="Q9C8M3">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevisible" id="Q9C8M3">
+<property type="organism ID" value="AT"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004364">
+<property type="term" value="F:glutathione transferase activity"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006749">
+<property type="term" value="P:glutathione metabolic process"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046686">
+<property type="term" value="P:response to cadmium ion"/>
+<property type="evidence" value="ECO:0000270"/>
+<property type="project" value="TAIR"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009407">
+<property type="term" value="P:toxin catabolic process"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="TAIR"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR010987">
+<property type="entry name" value="Glutathione-S-Trfase_C-like"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036282">
+<property type="entry name" value="Glutathione-S-Trfase_C_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR040079">
+<property type="entry name" value="Glutathione_S-Trfase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR004045">
+<property type="entry name" value="Glutathione_S-Trfase_N"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036249">
+<property type="entry name" value="Thioredoxin-like_sf"/>
+</dbReference>
+<dbReference type="Pfam" id="PF02798">
+<property type="entry name" value="GST_N"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SFLD" id="SFLDS00019">
+<property type="entry name" value="Glutathione_Transferase_(cytos"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF47616">
+<property type="entry name" value="SSF47616"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52833">
+<property type="entry name" value="SSF52833"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50405">
+<property type="entry name" value="GST_CTER"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50404">
+<property type="entry name" value="GST_NTER"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="inferred from homology"/>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0216">Detoxification</keyword>
+<keyword id="KW-0597">Phosphoprotein</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0808">Transferase</keyword>
+<feature type="chain" description="Glutathione S-transferase U28" id="PRO_0000413573">
+<location>
+<begin position="1"/>
+<end position="224"/>
+</location>
+</feature>
+<feature type="domain" description="GST N-terminal">
+<location>
+<begin position="6"/>
+<end position="85"/>
+</location>
+</feature>
+<feature type="domain" description="GST C-terminal">
+<location>
+<begin position="91"/>
+<end position="217"/>
+</location>
+</feature>
+<feature type="region of interest" description="Glutathione binding" evidence="1">
+<location>
+<begin position="16"/>
+<end position="17"/>
+</location>
+</feature>
+<feature type="region of interest" description="Glutathione binding" evidence="1">
+<location>
+<begin position="42"/>
+<end position="43"/>
+</location>
+</feature>
+<feature type="region of interest" description="Glutathione binding" evidence="1">
+<location>
+<begin position="56"/>
+<end position="57"/>
+</location>
+</feature>
+<feature type="region of interest" description="Glutathione binding" evidence="1">
+<location>
+<begin position="69"/>
+<end position="70"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphothreonine" evidence="2">
+<location>
+<position position="154"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000250"/>
+<evidence key="2" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="Q9ZW27"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19174456"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000305"/>
+<sequence length="224" mass="25591" checksum="1EC8B43B38573E5D" modified="2001-06-01" version="1">
+MGKENSKVVVLDFWASPYAMRTKVALREKGVEFEVQEEDLWNKSELLLKSNPVHKKVPVL
+IHNNTPISESLIQVQYIDETWTDAASFLPSDPQSRATARFWADYADKTISFEGGRKIWGN
+KKGEEQEKGKKEFLESLKVLEAELGDKSYFGGETFGYVDITLVPFYSWFYALEKCGDFSV
+EAECPKIVAWGKRCVERNSVAATLPESEKVYQQVLKLRQIFGVE
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

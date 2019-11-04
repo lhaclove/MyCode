@@ -1,0 +1,250 @@
+ID   ADF4_ARATH              Reviewed;         139 AA.
+AC   Q9ZSK3; B9DGG7; Q94A13; Q9FJE7;
+DT   02-NOV-2001, integrated into UniProtKB/Swiss-Prot.
+DT   02-NOV-2001, sequence version 2.
+DT   16-JAN-2019, entry version 133.
+DE   RecName: Full=Actin-depolymerizing factor 4;
+DE            Short=ADF-4;
+DE            Short=AtADF4;
+GN   Name=ADF4; OrderedLocusNames=At5g59890; ORFNames=MMN10.13;
+OS   Arabidopsis thaliana (Mouse-ear cress).
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+OC   Pentapetalae; rosids; malvids; Brassicales; Brassicaceae; Camelineae;
+OC   Arabidopsis.
+OX   NCBI_TaxID=3702;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1).
+RC   STRAIN=cv. Columbia;
+RX   PubMed=11414611; DOI=10.1023/A:1010687911374;
+RA   Dong C.-H., Kost B., Xia G.-X., Chua N.-H.;
+RT   "Molecular identification and characterization of the Arabidopsis
+RT   AtADF1, AtADF5 and AtADF6 genes.";
+RL   Plant Mol. Biol. 45:517-527(2001).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=cv. Columbia;
+RX   PubMed=9872454; DOI=10.1093/dnares/5.5.297;
+RA   Nakamura Y., Sato S., Asamizu E., Kaneko T., Kotani H., Miyajima N.,
+RA   Tabata S.;
+RT   "Structural analysis of Arabidopsis thaliana chromosome 5. VII.
+RT   Sequence features of the regions of 1,013,767 bp covered by sixteen
+RT   physically assigned P1 and TAC clones.";
+RL   DNA Res. 5:297-308(1998).
+RN   [3]
+RP   GENOME REANNOTATION.
+RC   STRAIN=cv. Columbia;
+RX   PubMed=27862469; DOI=10.1111/tpj.13415;
+RA   Cheng C.Y., Krishnakumar V., Chan A.P., Thibaud-Nissen F., Schobel S.,
+RA   Town C.D.;
+RT   "Araport11: a complete reannotation of the Arabidopsis thaliana
+RT   reference genome.";
+RL   Plant J. 89:789-804(2017).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORMS 1 AND 2).
+RC   STRAIN=cv. Columbia;
+RX   PubMed=14593172; DOI=10.1126/science.1088305;
+RA   Yamada K., Lim J., Dale J.M., Chen H., Shinn P., Palm C.J.,
+RA   Southwick A.M., Wu H.C., Kim C.J., Nguyen M., Pham P.K., Cheuk R.F.,
+RA   Karlin-Newmann G., Liu S.X., Lam B., Sakano H., Wu T., Yu G.,
+RA   Miranda M., Quach H.L., Tripp M., Chang C.H., Lee J.M., Toriumi M.J.,
+RA   Chan M.M., Tang C.C., Onodera C.S., Deng J.M., Akiyama K., Ansari Y.,
+RA   Arakawa T., Banh J., Banno F., Bowser L., Brooks S.Y., Carninci P.,
+RA   Chao Q., Choy N., Enju A., Goldsmith A.D., Gurjal M., Hansen N.F.,
+RA   Hayashizaki Y., Johnson-Hopson C., Hsuan V.W., Iida K., Karnes M.,
+RA   Khan S., Koesema E., Ishida J., Jiang P.X., Jones T., Kawai J.,
+RA   Kamiya A., Meyers C., Nakajima M., Narusaka M., Seki M., Sakurai T.,
+RA   Satou M., Tamse R., Vaysberg M., Wallender E.K., Wong C., Yamamura Y.,
+RA   Yuan S., Shinozaki K., Davis R.W., Theologis A., Ecker J.R.;
+RT   "Empirical analysis of transcriptional activity in the Arabidopsis
+RT   genome.";
+RL   Science 302:842-846(2003).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RC   STRAIN=cv. Columbia;
+RX   PubMed=19423640; DOI=10.1093/dnares/dsp009;
+RA   Iida K., Fukami-Kobayashi K., Toyoda A., Sakaki Y., Kobayashi M.,
+RA   Seki M., Shinozaki K.;
+RT   "Analysis of multiple occurrences of alternative splicing events in
+RT   Arabidopsis thaliana using novel sequenced full-length cDNAs.";
+RL   DNA Res. 16:155-164(2009).
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RA   Brover V.V., Troukhan M.E., Alexandrov N.A., Lu Y.-P., Flavell R.B.,
+RA   Feldmann K.A.;
+RT   "Full-length cDNA from Arabidopsis thaliana.";
+RL   Submitted (MAR-2002) to the EMBL/GenBank/DDBJ databases.
+RN   [7]
+RP   GENE FAMILY.
+RX   PubMed=16360805; DOI=10.1016/j.jplph.2005.01.015;
+RA   Feng Y., Liu Q., Xue Q.;
+RT   "Comparative study of rice and Arabidopsis actin-depolymerizing
+RT   factors gene families.";
+RL   J. Plant Physiol. 163:69-79(2006).
+RN   [8]
+RP   INDUCTION.
+RX   PubMed=19794115; DOI=10.1105/tpc.109.069104;
+RA   Clement M., Ketelaar T., Rodiuc N., Banora M.Y., Smertenko A.,
+RA   Engler G., Abad P., Hussey P.J., de Almeida Engler J.;
+RT   "Actin-depolymerizing factor2-mediated actin dynamics are essential
+RT   for root-knot nematode infection of Arabidopsis.";
+RL   Plant Cell 21:2963-2979(2009).
+RN   [9]
+RP   FUNCTION, SUBCELLULAR LOCATION, AND DISRUPTION PHENOTYPE.
+RX   PubMed=19346440; DOI=10.1104/pp.109.137604;
+RA   Tian M., Chaudhry F., Ruzicka D.R., Meagher R.B., Staiger C.J.,
+RA   Day B.;
+RT   "Arabidopsis actin-depolymerizing factor AtADF4 mediates defense
+RT   signal transduction triggered by the Pseudomonas syringae effector
+RT   AvrPphB.";
+RL   Plant Physiol. 150:815-824(2009).
+RN   [10]
+RP   FUNCTION, AND DISRUPTION PHENOTYPE.
+RX   PubMed=22010035; DOI=10.1105/tpc.111.090670;
+RA   Henty J.L., Bledsoe S.W., Khurana P., Meagher R.B., Day B.,
+RA   Blanchoin L., Staiger C.J.;
+RT   "Arabidopsis actin depolymerizing factor4 modulates the stochastic
+RT   dynamic behavior of actin filaments in the cortical array of epidermal
+RT   cells.";
+RL   Plant Cell 23:3711-3726(2011).
+RN   [11]
+RP   FUNCTION, PHOSPHORYLATION AT SER-6, AND MUTAGENESIS OF SER-6.
+RX   PubMed=23144618; DOI=10.1371/journal.ppat.1003006;
+RA   Porter K., Shimono M., Tian M., Day B.;
+RT   "Arabidopsis Actin-Depolymerizing Factor-4 links pathogen perception,
+RT   defense activation and transcription to cytoskeletal dynamics.";
+RL   PLoS Pathog. 8:E1003006-E1003006(2012).
+RN   [12]
+RP   FUNCTION.
+RX   PubMed=24464292; DOI=10.1105/tpc.113.122499;
+RA   Henty-Ridilla J.L., Li J., Day B., Staiger C.J.;
+RT   "ACTIN DEPOLYMERIZING FACTOR4 regulates actin dynamics during innate
+RT   immune signaling in Arabidopsis.";
+RL   Plant Cell 26:340-352(2014).
+CC   -!- FUNCTION: Actin-depolymerizing protein. Severs actin filaments (F-
+CC       actin) and binds to actin monomers (PubMed:19346440,
+CC       PubMed:22010035). Contributes to the stochastic dynamic turnover
+CC       of actin filaments (PubMed:22010035). Binds monomeric actin (G-
+CC       actin) with a marked preference for the ADP-loaded form and
+CC       inhibits the rate of nucleotide exchange on G-actin. Involved in
+CC       resistance triggered by the effector AvrPphB of Pseudomonas
+CC       syringae pv tomato (Pst). May modulate the AvrPphB-RPS5-mediated
+CC       defense signal transduction pathway (PubMed:19346440). During
+CC       AvrPphB-triggered resistance signaling pathway, involved in the
+CC       control of MPK3 and MPK6 activaton, via the coordinated regulation
+CC       of actin cytoskeletal dynamics and RPS5 resistance gene
+CC       transcription (PubMed:23144618). During innate immune response
+CC       triggered by the bacterial elf26 peptide, the inhibition of ADF4
+CC       regulates actin dynamics in order to execute key events associated
+CC       with pattern-triggered immunity (PTI), such as cell wall
+CC       fortification and transcriptional activation of defense gene
+CC       markers (PubMed:24464292). {ECO:0000269|PubMed:19346440,
+CC       ECO:0000269|PubMed:22010035, ECO:0000269|PubMed:23144618,
+CC       ECO:0000269|PubMed:24464292}.
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm, cytoskeleton
+CC       {ECO:0000269|PubMed:19346440}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=2;
+CC       Name=1;
+CC         IsoId=Q9ZSK3-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=Q9ZSK3-2; Sequence=VSP_008903;
+CC         Note=No experimental confirmation available.;
+CC   -!- INDUCTION: By the root-knot nematode Meloidogyne incognita.
+CC       {ECO:0000269|PubMed:19794115}.
+CC   -!- PTM: Phosphorylation at Ser-6 is required for resistance to
+CC       Pseudomonas syringae pv tomato AvrPphB.
+CC       {ECO:0000269|PubMed:23144618}.
+CC   -!- DISRUPTION PHENOTYPE: Increased root length under light-grown
+CC       conditions. Increased length of hypocotyls under dark-grown
+CC       conditions. Altered architecture of the actin cytoskeleton in
+CC       hypocotyl cells (PubMed:22010035). Compromised resistance in
+CC       response to Pseudomonas syringae pv tomato expressing AvrPphB
+CC       (PubMed:19346440). {ECO:0000269|PubMed:19346440,
+CC       ECO:0000269|PubMed:22010035}.
+CC   -!- SIMILARITY: Belongs to the actin-binding proteins ADF family.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AF102822; AAD09110.1; -; mRNA.
+DR   EMBL; AB015475; BAB08357.1; -; Genomic_DNA.
+DR   EMBL; CP002688; AED97247.1; -; Genomic_DNA.
+DR   EMBL; CP002688; AED97248.1; -; Genomic_DNA.
+DR   EMBL; CP002688; ANM70922.1; -; Genomic_DNA.
+DR   EMBL; AY050460; AAK91473.1; -; mRNA.
+DR   EMBL; AY090336; AAL90997.1; -; mRNA.
+DR   EMBL; AY084757; AAM61326.1; -; mRNA.
+DR   EMBL; AK317148; BAH19834.1; -; mRNA.
+DR   RefSeq; NP_001318843.1; NM_001345374.1. [Q9ZSK3-2]
+DR   RefSeq; NP_568916.2; NM_125382.2. [Q9ZSK3-2]
+DR   RefSeq; NP_851228.1; NM_180897.3. [Q9ZSK3-1]
+DR   UniGene; At.7673; -.
+DR   ProteinModelPortal; Q9ZSK3; -.
+DR   SMR; Q9ZSK3; -.
+DR   BioGrid; 21355; 1.
+DR   STRING; 3702.AT5G59890.1; -.
+DR   iPTMnet; Q9ZSK3; -.
+DR   PaxDb; Q9ZSK3; -.
+DR   PRIDE; Q9ZSK3; -.
+DR   EnsemblPlants; AT5G59890.1; AT5G59890.1; AT5G59890. [Q9ZSK3-1]
+DR   EnsemblPlants; AT5G59890.2; AT5G59890.2; AT5G59890. [Q9ZSK3-2]
+DR   EnsemblPlants; AT5G59890.3; AT5G59890.3; AT5G59890. [Q9ZSK3-2]
+DR   GeneID; 836111; -.
+DR   Gramene; AT5G59890.1; AT5G59890.1; AT5G59890. [Q9ZSK3-1]
+DR   Gramene; AT5G59890.2; AT5G59890.2; AT5G59890. [Q9ZSK3-2]
+DR   Gramene; AT5G59890.3; AT5G59890.3; AT5G59890. [Q9ZSK3-2]
+DR   KEGG; ath:AT5G59890; -.
+DR   Araport; AT5G59890; -.
+DR   TAIR; locus:2168063; AT5G59890.
+DR   eggNOG; KOG1735; Eukaryota.
+DR   eggNOG; ENOG41122P5; LUCA.
+DR   HOGENOM; HOG000039697; -.
+DR   InParanoid; Q9ZSK3; -.
+DR   KO; K05765; -.
+DR   OMA; PTFVIYR; -.
+DR   OrthoDB; 1370477at2759; -.
+DR   PhylomeDB; Q9ZSK3; -.
+DR   PRO; PR:Q9ZSK3; -.
+DR   Proteomes; UP000006548; Chromosome 5.
+DR   ExpressionAtlas; Q9ZSK3; baseline and differential.
+DR   Genevisible; Q9ZSK3; AT.
+DR   GO; GO:0015629; C:actin cytoskeleton; IEA:InterPro.
+DR   GO; GO:0005737; C:cytoplasm; IEA:UniProtKB-KW.
+DR   GO; GO:0003779; F:actin binding; IEA:UniProtKB-KW.
+DR   GO; GO:0030042; P:actin filament depolymerization; IDA:TAIR.
+DR   GO; GO:0009870; P:defense response signaling pathway, resistance gene-dependent; IMP:TAIR.
+DR   GO; GO:0042742; P:defense response to bacterium; IMP:TAIR.
+DR   CDD; cd11286; ADF_cofilin_like; 1.
+DR   Gene3D; 3.40.20.10; -; 1.
+DR   InterPro; IPR002108; ADF-H.
+DR   InterPro; IPR029006; ADF-H/Gelsolin-like_dom_sf.
+DR   InterPro; IPR017904; ADF/Cofilin.
+DR   PANTHER; PTHR11913; PTHR11913; 1.
+DR   Pfam; PF00241; Cofilin_ADF; 1.
+DR   SMART; SM00102; ADF; 1.
+DR   PROSITE; PS51263; ADF_H; 1.
+PE   1: Evidence at protein level;
+KW   Actin-binding; Alternative splicing; Complete proteome; Cytoplasm;
+KW   Cytoskeleton; Phosphoprotein; Plant defense; Reference proteome.
+FT   CHAIN         1    139       Actin-depolymerizing factor 4.
+FT                                /FTId=PRO_0000214926.
+FT   DOMAIN        5    139       ADF-H. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00599}.
+FT   MOD_RES       6      6       Phosphoserine.
+FT                                {ECO:0000269|PubMed:23144618}.
+FT   VAR_SEQ       1      7       Missing (in isoform 2).
+FT                                {ECO:0000303|PubMed:14593172}.
+FT                                /FTId=VSP_008903.
+FT   MUTAGEN       6      6       S->A,D: Loss of phosphorylation.
+FT                                {ECO:0000269|PubMed:23144618}.
+FT   CONFLICT    117    117       I -> R (in Ref. 1; AAD09110).
+FT                                {ECO:0000305}.
+FT   CONFLICT    134    134       L -> W (in Ref. 1; AAD09110).
+FT                                {ECO:0000305}.
+SQ   SEQUENCE   139 AA;  16034 MW;  57F95F557F42F863 CRC64;
+     MANAASGMAV HDDCKLRFLE LKAKRTHRFI VYKIEEKQKQ VIVEKVGEPI LTYEDFAASL
+     PADECRYAIY DFDFVTAENC QKSKIFFIAW CPDVAKVRSK MIYASSKDRF KRELDGIQVE
+     LQATDPTEMD LDVLKSRVN
+//

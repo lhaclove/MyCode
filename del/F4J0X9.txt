@@ -1,0 +1,116 @@
+ID   F4J0X9_ARATH            Unreviewed;       293 AA.
+AC   F4J0X9;
+DT   28-JUN-2011, integrated into UniProtKB/TrEMBL.
+DT   28-JUN-2011, sequence version 1.
+DT   16-JAN-2019, entry version 52.
+DE   SubName: Full=Homocysteine methyltransferase 2 {ECO:0000313|EMBL:AEE80455.1};
+GN   Name=HMT2 {ECO:0000313|EMBL:AEE80455.1};
+GN   Synonyms=ATHMT-2 {ECO:0000313|EMBL:AEE80455.1},
+GN   HMT-2 {ECO:0000313|EMBL:AEE80455.1};
+GN   OrderedLocusNames=At3g63250 {ECO:0000313|Araport:AT3G63250,
+GN   ECO:0000313|EMBL:AEE80455.1};
+OS   Arabidopsis thaliana (Mouse-ear cress).
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+OC   Pentapetalae; rosids; malvids; Brassicales; Brassicaceae; Camelineae;
+OC   Arabidopsis.
+OX   NCBI_TaxID=3702 {ECO:0000313|EMBL:AEE80455.1, ECO:0000313|Proteomes:UP000006548};
+RN   [1] {ECO:0000313|EMBL:AEE80455.1, ECO:0000313|Proteomes:UP000006548}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=cv. Columbia {ECO:0000313|Proteomes:UP000006548};
+RX   PubMed=11130713; DOI=10.1038/35048706;
+RG   European Union Chromosome 3 Arabidopsis Sequencing Consortium;
+RG   Institute for Genomic Research;
+RG   Kazusa DNA Research Institute;
+RA   Salanoubat M., Lemcke K., Rieger M., Ansorge W., Unseld M.,
+RA   Fartmann B., Valle G., Blocker H., Perez-Alonso M., Obermaier B.,
+RA   Delseny M., Boutry M., Grivell L.A., Mache R., Puigdomenech P.,
+RA   De Simone V., Choisne N., Artiguenave F., Robert C., Brottier P.,
+RA   Wincker P., Cattolico L., Weissenbach J., Saurin W., Quetier F.,
+RA   Schafer M., Muller-Auer S., Gabel C., Fuchs M., Benes V., Wurmbach E.,
+RA   Drzonek H., Erfle H., Jordan N., Bangert S., Wiedelmann R., Kranz H.,
+RA   Voss H., Holland R., Brandt P., Nyakatura G., Vezzi A., D'Angelo M.,
+RA   Pallavicini A., Toppo S., Simionati B., Conrad A., Hornischer K.,
+RA   Kauer G., Lohnert T.H., Nordsiek G., Reichelt J., Scharfe M.,
+RA   Schon O., Bargues M., Terol J., Climent J., Navarro P., Collado C.,
+RA   Perez-Perez A., Ottenwalder B., Duchemin D., Cooke R., Laudie M.,
+RA   Berger-Llauro C., Purnelle B., Masuy D., de Haan M., Maarse A.C.,
+RA   Alcaraz J.P., Cottet A., Casacuberta E., Monfort A., Argiriou A.,
+RA   flores M., Liguori R., Vitale D., Mannhaupt G., Haase D., Schoof H.,
+RA   Rudd S., Zaccaria P., Mewes H.W., Mayer K.F., Kaul S., Town C.D.,
+RA   Koo H.L., Tallon L.J., Jenkins J., Rooney T., Rizzo M., Walts A.,
+RA   Utterback T., Fujii C.Y., Shea T.P., Creasy T.H., Haas B., Maiti R.,
+RA   Wu D., Peterson J., Van Aken S., Pai G., Militscher J., Sellers P.,
+RA   Gill J.E., Feldblyum T.V., Preuss D., Lin X., Nierman W.C.,
+RA   Salzberg S.L., White O., Venter J.C., Fraser C.M., Kaneko T.,
+RA   Nakamura Y., Sato S., Kato T., Asamizu E., Sasamoto S., Kimura T.,
+RA   Idesawa K., Kawashima K., Kishida Y., Kiyokawa C., Kohara M.,
+RA   Matsumoto M., Matsuno A., Muraki A., Nakayama S., Nakazaki N.,
+RA   Shinpo S., Takeuchi C., Wada T., Watanabe A., Yamada M., Yasuda M.,
+RA   Tabata S.;
+RT   "Sequence and analysis of chromosome 3 of the plant Arabidopsis
+RT   thaliana.";
+RL   Nature 408:820-822(2000).
+RN   [2] {ECO:0000313|Proteomes:UP000006548}
+RP   GENOME REANNOTATION.
+RC   STRAIN=cv. Columbia {ECO:0000313|Proteomes:UP000006548};
+RX   PubMed=27862469; DOI=10.1111/tpj.13415;
+RA   Cheng C.Y., Krishnakumar V., Chan A.P., Thibaud-Nissen F., Schobel S.,
+RA   Town C.D.;
+RT   "Araport11: a complete reannotation of the Arabidopsis thaliana
+RT   reference genome.";
+RL   Plant J. 89:789-804(2017).
+CC   -!- COFACTOR:
+CC       Name=Zn(2+); Xref=ChEBI:CHEBI:29105;
+CC         Evidence={ECO:0000256|PROSITE-ProRule:PRU00333};
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   -----------------------------------------------------------------------
+DR   EMBL; CP002686; AEE80455.1; -; Genomic_DNA.
+DR   RefSeq; NP_974482.1; NM_202753.2.
+DR   UniGene; At.21554; -.
+DR   ProteinModelPortal; F4J0X9; -.
+DR   SMR; F4J0X9; -.
+DR   DNASU; 825500; -.
+DR   EnsemblPlants; AT3G63250.2; AT3G63250.2; AT3G63250.
+DR   GeneID; 825500; -.
+DR   Gramene; AT3G63250.2; AT3G63250.2; AT3G63250.
+DR   Araport; AT3G63250; -.
+DR   eggNOG; ENOG410ITI9; Eukaryota.
+DR   eggNOG; COG2040; LUCA.
+DR   OrthoDB; 731388at2759; -.
+DR   Proteomes; UP000006548; Chromosome 3.
+DR   ExpressionAtlas; F4J0X9; baseline and differential.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0008168; F:methyltransferase activity; IEA:UniProtKB-UniRule.
+DR   Gene3D; 3.20.20.330; -; 1.
+DR   InterPro; IPR003726; HCY_dom.
+DR   InterPro; IPR036589; HCY_dom_sf.
+DR   Pfam; PF02574; S-methyl_trans; 1.
+DR   SUPFAM; SSF82282; SSF82282; 1.
+DR   PROSITE; PS50970; HCY; 1.
+PE   4: Predicted;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000006548};
+KW   Metal-binding {ECO:0000256|PROSITE-ProRule:PRU00333};
+KW   Methyltransferase {ECO:0000256|PROSITE-ProRule:PRU00333,
+KW   ECO:0000313|EMBL:AEE80455.1};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000006548};
+KW   Transferase {ECO:0000256|PROSITE-ProRule:PRU00333,
+KW   ECO:0000313|EMBL:AEE80455.1};
+KW   Zinc {ECO:0000256|PROSITE-ProRule:PRU00333}.
+FT   DOMAIN        1    287       Hcy-binding.
+FT                                {ECO:0000259|PROSITE:PS50970}.
+FT   METAL       205    205       Zinc. {ECO:0000256|PROSITE-
+FT                                ProRule:PRU00333}.
+FT   METAL       272    272       Zinc. {ECO:0000256|PROSITE-
+FT                                ProRule:PRU00333}.
+FT   METAL       273    273       Zinc. {ECO:0000256|PROSITE-
+FT                                ProRule:PRU00333}.
+SQ   SEQUENCE   293 AA;  32267 MW;  2188902778B837B6 CRC64;
+     MIDCSLLSCL YFLMEQVHLD YLEAGADIIS SASYQATIQG FEAKGFSREE SESLLKKSVE
+     IATEARNSYY DKCGTSSSMD DKILKKRPIL VAASVGSYGA YLADGSEYSG IYGDSITLEK
+     LKDFHRRRLQ VLAESGADLI AFETIPNKIE AQAFADLLEE GDVKIPGWFS FNSKDGVNVV
+     SGDSIKECIS IAENCEKVVA VGINCTPPRF IEGLVLEIEK VTSKPILVYP NSGESYDADR
+     KEWVENTGVG DEDFVSYVEK WMDAGVSLLG GCCRTTPTTI RAIHKRLVNR RSL
+//

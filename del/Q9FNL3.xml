@@ -1,0 +1,262 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2017-09-27" modified="2019-01-16" version="92">
+<accession>Q9FNL3</accession>
+<name>DMP6_ARATH</name>
+<protein>
+<recommendedName>
+<fullName evidence="4">Protein DMP6</fullName>
+<shortName evidence="4">AtDMP6</shortName>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary" evidence="4">DMP6</name>
+<name type="ordered locus" evidence="6">At5g46090</name>
+<name type="ORF" evidence="7">MCL19.14</name>
+</gene>
+<organism>
+<name type="scientific">Arabidopsis thaliana</name>
+<name type="common">Mouse-ear cress</name>
+<dbReference type="NCBI Taxonomy" id="3702"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Viridiplantae</taxon>
+<taxon>Streptophyta</taxon>
+<taxon>Embryophyta</taxon>
+<taxon>Tracheophyta</taxon>
+<taxon>Spermatophyta</taxon>
+<taxon>Magnoliophyta</taxon>
+<taxon>eudicotyledons</taxon>
+<taxon>Gunneridae</taxon>
+<taxon>Pentapetalae</taxon>
+<taxon>rosids</taxon>
+<taxon>malvids</taxon>
+<taxon>Brassicales</taxon>
+<taxon>Brassicaceae</taxon>
+<taxon>Camelineae</taxon>
+<taxon>Arabidopsis</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1997" name="DNA Res." volume="4" first="291" last="300">
+<title>Structural analysis of Arabidopsis thaliana chromosome 5. II. Sequence features of the regions of 1,044,062 bp covered by thirteen physically assigned P1 clones.</title>
+<authorList>
+<person name="Kotani H."/>
+<person name="Nakamura Y."/>
+<person name="Sato S."/>
+<person name="Kaneko T."/>
+<person name="Asamizu E."/>
+<person name="Miyajima N."/>
+<person name="Tabata S."/>
+</authorList>
+<dbReference type="PubMed" id="9405937"/>
+<dbReference type="DOI" id="10.1093/dnares/4.4.291"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>cv. Columbia</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2017" name="Plant J." volume="89" first="789" last="804">
+<title>Araport11: a complete reannotation of the Arabidopsis thaliana reference genome.</title>
+<authorList>
+<person name="Cheng C.Y."/>
+<person name="Krishnakumar V."/>
+<person name="Chan A.P."/>
+<person name="Thibaud-Nissen F."/>
+<person name="Schobel S."/>
+<person name="Town C.D."/>
+</authorList>
+<dbReference type="PubMed" id="27862469"/>
+<dbReference type="DOI" id="10.1111/tpj.13415"/>
+</citation>
+<scope>GENOME REANNOTATION</scope>
+<source>
+<strain>cv. Columbia</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2010" name="Plant Biol. 12 Suppl." volume="1" first="140" last="152">
+<title>Expression, localisation and phylogeny of a novel family of plant-specific membrane proteins.</title>
+<authorList>
+<person name="Kasaras A."/>
+<person name="Kunze R."/>
+</authorList>
+<dbReference type="PubMed" id="20712629"/>
+<dbReference type="DOI" id="10.1111/j.1438-8677.2010.00381.x"/>
+</citation>
+<scope>TISSUE SPECIFICITY</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>GENE FAMILY</scope>
+<scope>NOMENCLATURE</scope>
+<source>
+<strain>cv. Columbia</strain>
+</source>
+</reference>
+<comment type="function">
+<text evidence="1">Involved in membrane remodeling.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="3">Vacuole membrane</location>
+<topology evidence="2">Multi-pass membrane protein</topology>
+</subcellularLocation>
+</comment>
+<comment type="tissue specificity">
+<text evidence="3">Expressed constitutively in leaves, stems, flowers, siliques and roots (e.g. root hairs).</text>
+</comment>
+<comment type="similarity">
+<text evidence="5">Belongs to the plant DMP1 protein family.</text>
+</comment>
+<dbReference type="EMBL" id="AB006698">
+<property type="protein sequence ID" value="BAB08254.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CP002688">
+<property type="protein sequence ID" value="AED95336.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_199421.1">
+<property type="nucleotide sequence ID" value="NM_123977.1"/>
+</dbReference>
+<dbReference type="UniGene" id="At.55400"/>
+<dbReference type="UniGene" id="At.75473"/>
+<dbReference type="SMR" id="Q9FNL3"/>
+<dbReference type="PaxDb" id="Q9FNL3"/>
+<dbReference type="EnsemblPlants" id="AT5G46090.1">
+<property type="protein sequence ID" value="AT5G46090.1"/>
+<property type="gene ID" value="AT5G46090"/>
+</dbReference>
+<dbReference type="GeneID" id="834650"/>
+<dbReference type="Gramene" id="AT5G46090.1">
+<property type="protein sequence ID" value="AT5G46090.1"/>
+<property type="gene ID" value="AT5G46090"/>
+</dbReference>
+<dbReference type="KEGG" id="ath:AT5G46090"/>
+<dbReference type="Araport" id="AT5G46090"/>
+<dbReference type="TAIR" id="locus:2161393">
+<property type="gene designation" value="AT5G46090"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG410IW49">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG410YAMB">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000237886"/>
+<dbReference type="InParanoid" id="Q9FNL3"/>
+<dbReference type="OMA" id="ATTNGLW"/>
+<dbReference type="OrthoDB" id="1350049at2759"/>
+<dbReference type="PhylomeDB" id="Q9FNL3"/>
+<dbReference type="PRO" id="PR:Q9FNL3"/>
+<dbReference type="Proteomes" id="UP000006548">
+<property type="component" value="Chromosome 5"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009507">
+<property type="term" value="C:chloroplast"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="TAIR"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016021">
+<property type="term" value="C:integral component of membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009705">
+<property type="term" value="C:plant-type vacuole membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="TAIR"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010256">
+<property type="term" value="P:endomembrane system organization"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR007770">
+<property type="entry name" value="DMP"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR31621">
+<property type="entry name" value="PTHR31621"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF05078">
+<property type="entry name" value="DUF679"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0812">Transmembrane</keyword>
+<keyword id="KW-1133">Transmembrane helix</keyword>
+<keyword id="KW-0926">Vacuole</keyword>
+<feature type="chain" description="Protein DMP6" id="PRO_0000441613">
+<location>
+<begin position="1"/>
+<end position="214"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="52"/>
+<end position="72"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="83"/>
+<end position="103"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="143"/>
+<end position="163"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="178"/>
+<end position="198"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="Q9LVF4"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000255"/>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20712629"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="20712629"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000305"/>
+<evidence key="6" type="ECO:0000312">
+<source>
+<dbReference type="Araport" id="AT5G46090"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000312">
+<source>
+<dbReference type="EMBL" id="BAB08254.1"/>
+</source>
+</evidence>
+<sequence length="214" mass="23629" checksum="47848406355B73B8" modified="2001-03-01" version="1">
+MEINVDEEAGIIKEETVPLLDDQNRNRDLPDIERNTMMQKAIGKTFQTTANLANLLPTGT
+VLAFQILSPICTNVGRCDLTSRFMTALLVSICGFSCFILSFTDSYKDLNGSVCYGFATIH
+GFWIIDGSATLPQELSKSYKLRFIDFVHAIMSFLVFGAVVLFDQNVVNCFYPEPSAEVVE
+LLTTLPVAVGVFCSMVFAKFPTTRHGIGFPLSAK
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

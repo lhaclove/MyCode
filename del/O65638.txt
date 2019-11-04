@@ -1,0 +1,194 @@
+ID   O65638_ARATH            Unreviewed;       301 AA.
+AC   O65638;
+DT   01-AUG-1998, integrated into UniProtKB/TrEMBL.
+DT   01-AUG-1998, sequence version 1.
+DT   16-JAN-2019, entry version 131.
+DE   SubName: Full=Pathogenesis-related thaumatin superfamily protein {ECO:0000313|EMBL:AEE86601.1};
+DE   SubName: Full=Putative thaumatin protein {ECO:0000313|EMBL:AAK25875.1};
+DE   SubName: Full=Thaumatin-like protein {ECO:0000313|EMBL:CAA18495.1};
+GN   OrderedLocusNames=At4g36010 {ECO:0000313|Araport:AT4G36010,
+GN   ECO:0000313|EMBL:AEE86601.1};
+GN   ORFNames=T19K4.140 {ECO:0000313|EMBL:CAA18495.1},
+GN   T19K4_140 {ECO:0000313|EMBL:AEE86601.1};
+OS   Arabidopsis thaliana (Mouse-ear cress).
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+OC   Pentapetalae; rosids; malvids; Brassicales; Brassicaceae; Camelineae;
+OC   Arabidopsis.
+OX   NCBI_TaxID=3702 {ECO:0000313|EMBL:CAA18495.1};
+RN   [1] {ECO:0000313|EMBL:CAA18495.1}
+RP   NUCLEOTIDE SEQUENCE.
+RA   EU Arabidopsis sequencing project;
+RL   Submitted (APR-1998) to the EMBL/GenBank/DDBJ databases.
+RN   [2] {ECO:0000313|EMBL:CAA18495.1}
+RP   NUCLEOTIDE SEQUENCE.
+RA   Bevan M., Wedler H., Wambutt R., Hoheisel J., Jesse T., Heijnen L.,
+RA   Vos P., Mewes H.W., Mayer K., Schueller C.;
+RL   Submitted (APR-1998) to the EMBL/GenBank/DDBJ databases.
+RN   [3] {ECO:0000313|EMBL:AEE86601.1, ECO:0000313|Proteomes:UP000006548}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=cv. Columbia {ECO:0000313|Proteomes:UP000006548};
+RX   PubMed=10617198; DOI=10.1038/47134;
+RG   EU;
+RG   CSHL and WU Arabidopsis Sequencing Project;
+RA   Mayer K., Schuller C., Wambutt R., Murphy G., Volckaert G., Pohl T.,
+RA   Dusterhoft A., Stiekema W., Entian K.D., Terryn N., Harris B.,
+RA   Ansorge W., Brandt P., Grivell L., Rieger M., Weichselgartner M.,
+RA   de Simone V., Obermaier B., Mache R., Muller M., Kreis M., Delseny M.,
+RA   Puigdomenech P., Watson M., Schmidtheini T., Reichert B.,
+RA   Portatelle D., Perez-Alonso M., Boutry M., Bancroft I., Vos P.,
+RA   Hoheisel J., Zimmermann W., Wedler H., Ridley P., Langham S.A.,
+RA   McCullagh B., Bilham L., Robben J., Van der Schueren J.,
+RA   Grymonprez B., Chuang Y.J., Vandenbussche F., Braeken M., Weltjens I.,
+RA   Voet M., Bastiaens I., Aert R., Defoor E., Weitzenegger T., Bothe G.,
+RA   Ramsperger U., Hilbert H., Braun M., Holzer E., Brandt A., Peters S.,
+RA   van Staveren M., Dirske W., Mooijman P., Klein Lankhorst R., Rose M.,
+RA   Hauf J., Kotter P., Berneiser S., Hempel S., Feldpausch M.,
+RA   Lamberth S., Van den Daele H., De Keyser A., Buysshaert C., Gielen J.,
+RA   Villarroel R., De Clercq R., Van Montagu M., Rogers J., Cronin A.,
+RA   Quail M., Bray-Allen S., Clark L., Doggett J., Hall S., Kay M.,
+RA   Lennard N., McLay K., Mayes R., Pettett A., Rajandream M.A., Lyne M.,
+RA   Benes V., Rechmann S., Borkova D., Blocker H., Scharfe M., Grimm M.,
+RA   Lohnert T.H., Dose S., de Haan M., Maarse A., Schafer M.,
+RA   Muller-Auer S., Gabel C., Fuchs M., Fartmann B., Granderath K.,
+RA   Dauner D., Herzl A., Neumann S., Argiriou A., Vitale D., Liguori R.,
+RA   Piravandi E., Massenet O., Quigley F., Clabauld G., Mundlein A.,
+RA   Felber R., Schnabl S., Hiller R., Schmidt W., Lecharny A., Aubourg S.,
+RA   Chefdor F., Cooke R., Berger C., Montfort A., Casacuberta E.,
+RA   Gibbons T., Weber N., Vandenbol M., Bargues M., Terol J., Torres A.,
+RA   Perez-Perez A., Purnelle B., Bent E., Johnson S., Tacon D., Jesse T.,
+RA   Heijnen L., Schwarz S., Scholler P., Heber S., Francs P., Bielke C.,
+RA   Frishman D., Haase D., Lemcke K., Mewes H.W., Stocker S., Zaccaria P.,
+RA   Bevan M., Wilson R.K., de la Bastide M., Habermann K., Parnell L.,
+RA   Dedhia N., Gnoj L., Schutz K., Huang E., Spiegel L., Sehkon M.,
+RA   Murray J., Sheet P., Cordes M., Abu-Threideh J., Stoneking T.,
+RA   Kalicki J., Graves T., Harmon G., Edwards J., Latreille P.,
+RA   Courtney L., Cloud J., Abbott A., Scott K., Johnson D., Minx P.,
+RA   Bentley D., Fulton B., Miller N., Greco T., Kemp K., Kramer J.,
+RA   Fulton L., Mardis E., Dante M., Pepin K., Hillier L., Nelson J.,
+RA   Spieth J., Ryan E., Andrews S., Geisel C., Layman D., Du H., Ali J.,
+RA   Berghoff A., Jones K., Drone K., Cotton M., Joshu C., Antonoiu B.,
+RA   Zidanic M., Strong C., Sun H., Lamar B., Yordan C., Ma P., Zhong J.,
+RA   Preston R., Vil D., Shekher M., Matero A., Shah R., Swaby I.K.,
+RA   O'Shaughnessy A., Rodriguez M., Hoffmann J., Till S., Granat S.,
+RA   Shohdy N., Hasegawa A., Hameed A., Lodhi M., Johnson A., Chen E.,
+RA   Marra M., Martienssen R., McCombie W.R.;
+RT   "Sequence and analysis of chromosome 4 of the plant Arabidopsis
+RT   thaliana.";
+RL   Nature 402:769-777(1999).
+RN   [4] {ECO:0000313|EMBL:CAB81510.1}
+RP   NUCLEOTIDE SEQUENCE.
+RA   Wedler H., Wambutt R., Mewes H.W., Lemcke K., Mayer K.F.X.;
+RL   Submitted (MAR-2000) to the EMBL/GenBank/DDBJ databases.
+RN   [5] {ECO:0000313|EMBL:CAB81510.1}
+RP   NUCLEOTIDE SEQUENCE.
+RA   EU Arabidopsis sequencing project;
+RL   Submitted (MAR-2000) to the EMBL/GenBank/DDBJ databases.
+RN   [6] {ECO:0000313|EMBL:AAK25875.1}
+RP   NUCLEOTIDE SEQUENCE.
+RA   Yamada K., Liu S.X., Sakano H., Pham P.K., Banh J., Chung M.K.,
+RA   Goldsmith A.D., Lee J.M., Quach H.L., Toriumi M., Yu G., Bowser L.,
+RA   Carninci P., Chen H., Cheuk R., Hayashizaki Y., Ishida J., Jones T.,
+RA   Kamiya A., Karlin-Neumann G., Kawai J., Kim C., Lam B., Lin J.,
+RA   Miranda M., Narusaka M., Nguyen M., Palm C.J., Sakurai T., Satou M.,
+RA   Seki M., Shinn P., Southwick A., Shinozaki K., Davis R.W., Ecker J.R.,
+RA   Theologis A.;
+RT   "Arabidopsis Full Length cDNA Clones.";
+RL   Submitted (MAR-2001) to the EMBL/GenBank/DDBJ databases.
+RN   [7] {ECO:0000313|EMBL:AAM44961.1}
+RP   NUCLEOTIDE SEQUENCE.
+RA   Yamada K., Banh J., Chan M.M., Chang C.H., Chang E., Dale J.M.,
+RA   Deng J.M., Goldsmith A.D., Lee J.M., Onodera C.S., Quach H.L.,
+RA   Tang C., Toriumi M., Wu H.C., Yamamura Y., Yu G., Bowser L.,
+RA   Carninci P., Chen H., Cheuk R., Hayashizaki Y., Ishida J., Jones T.,
+RA   Kamiya A., Karlin-Neumann G., Kawai J., Kim C., Lam B., Lin J.,
+RA   Meyers M.C., Miranda M., Narusaka M., Nguyen M., Palm C.J.,
+RA   Sakurai T., Satou M., Seki M., Shinn P., Southwick A., Shinozaki K.,
+RA   Davis R.W., Ecker J.R., Theologis A.;
+RT   "Arabidopsis Open Reading Frame (ORF) Clones.";
+RL   Submitted (MAY-2002) to the EMBL/GenBank/DDBJ databases.
+RN   [8] {ECO:0000313|EMBL:AEE86601.1}
+RP   NUCLEOTIDE SEQUENCE.
+RG   TAIR10;
+RA   Swarbreck D., Lamesch P., Wilks C., Huala E.;
+RL   Submitted (FEB-2011) to the EMBL/GenBank/DDBJ databases.
+RN   [9] {ECO:0000313|EMBL:AEE86601.1}
+RP   GENOME REANNOTATION.
+RG   The Arabidopsis Information Portal (Araport);
+RL   Submitted (MAY-2016) to the EMBL/GenBank/DDBJ databases.
+RN   [10] {ECO:0000313|Proteomes:UP000006548}
+RP   GENOME REANNOTATION.
+RC   STRAIN=cv. Columbia {ECO:0000313|Proteomes:UP000006548};
+RX   PubMed=27862469; DOI=10.1111/tpj.13415;
+RA   Cheng C.Y., Krishnakumar V., Chan A.P., Thibaud-Nissen F., Schobel S.,
+RA   Town C.D.;
+RT   "Araport11: a complete reannotation of the Arabidopsis thaliana
+RT   reference genome.";
+RL   Plant J. 89:789-804(2017).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AF360165; AAK25875.1; -; mRNA.
+DR   EMBL; AY113913; AAM44961.1; -; mRNA.
+DR   EMBL; CP002687; AEE86601.1; -; Genomic_DNA.
+DR   EMBL; CP002687; AEE86602.1; -; Genomic_DNA.
+DR   EMBL; AL022373; CAA18495.1; -; Genomic_DNA.
+DR   EMBL; AL161588; CAB81510.1; -; Genomic_DNA.
+DR   PIR; T05493; T05493.
+DR   RefSeq; NP_001031792.1; NM_001036715.1.
+DR   RefSeq; NP_195325.1; NM_119768.2.
+DR   UniGene; At.2222; -.
+DR   SMR; O65638; -.
+DR   STRING; 3702.AT4G36010.1; -.
+DR   PRIDE; O65638; -.
+DR   EnsemblPlants; AT4G36010.1; AT4G36010.1; AT4G36010.
+DR   EnsemblPlants; AT4G36010.2; AT4G36010.2; AT4G36010.
+DR   GeneID; 829757; -.
+DR   Gramene; AT4G36010.1; AT4G36010.1; AT4G36010.
+DR   Gramene; AT4G36010.2; AT4G36010.2; AT4G36010.
+DR   KEGG; ath:AT4G36010; -.
+DR   Araport; AT4G36010; -.
+DR   TAIR; locus:2135129; AT4G36010.
+DR   eggNOG; ENOG410IGUJ; Eukaryota.
+DR   eggNOG; ENOG4111KEV; LUCA.
+DR   HOGENOM; HOG000238454; -.
+DR   OMA; CATGECG; -.
+DR   OrthoDB; 1135904at2759; -.
+DR   Proteomes; UP000006548; Chromosome 4.
+DR   ExpressionAtlas; O65638; baseline and differential.
+DR   GO; GO:0031225; C:anchored component of membrane; TAS:TAIR.
+DR   Gene3D; 2.60.110.10; -; 1.
+DR   InterPro; IPR037176; Osmotin/thaumatin-like_sf.
+DR   InterPro; IPR001938; Thaumatin.
+DR   PANTHER; PTHR31048; PTHR31048; 1.
+DR   Pfam; PF00314; Thaumatin; 1.
+DR   PIRSF; PIRSF002703; Thaumatin; 1.
+DR   PRINTS; PR00347; THAUMATIN.
+DR   SMART; SM00205; THN; 1.
+DR   SUPFAM; SSF49870; SSF49870; 1.
+DR   PROSITE; PS51367; THAUMATIN_2; 1.
+PE   2: Evidence at transcript level;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000006548};
+KW   Disulfide bond {ECO:0000256|PIRSR:PIRSR002703-1};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000006548};
+KW   Signal {ECO:0000256|SAM:SignalP}.
+FT   SIGNAL        1     22       {ECO:0000256|SAM:SignalP}.
+FT   CHAIN        23    301       {ECO:0000256|SAM:SignalP}.
+FT                                /FTId=PRO_5014306595.
+FT   DISULFID     31    249       {ECO:0000256|PIRSR:PIRSR002703-1}.
+FT   DISULFID     79     90       {ECO:0000256|PIRSR:PIRSR002703-1}.
+FT   DISULFID     95    102       {ECO:0000256|PIRSR:PIRSR002703-1}.
+FT   DISULFID    156    239       {ECO:0000256|PIRSR:PIRSR002703-1}.
+FT   DISULFID    161    222       {ECO:0000256|PIRSR:PIRSR002703-1}.
+FT   DISULFID    169    185       {ECO:0000256|PIRSR:PIRSR002703-1}.
+FT   DISULFID    189    198       {ECO:0000256|PIRSR:PIRSR002703-1}.
+FT   DISULFID    199    209       {ECO:0000256|PIRSR:PIRSR002703-1}.
+SQ   SEQUENCE   301 AA;  30906 MW;  8375AAA47036DF70 CRC64;
+     MGQSQVSLFL LLILVFIYGV SSTTFTIVNQ CSYTVWPGLL SGAGTSPLPT TGFSLNPTET
+     RVIPIPAAWS GRIWGRTLCT QDATTGRFTC ITGDCGSSTV ECSGSGAAPP ATLAEFTLNG
+     ANGLDFYDVS LVDGYNIPMT IVPQGGGDAG GVAGNCTTTG CVAELNGPCP AQLKVATTGA
+     EGVACKSACE AFGTPEYCCS GAFGTPDTCK PSEYSQFFKN ACPRAYSYAY DDGTSTFTCG
+     GADYVITFCP SPNPSVKSAT KGVQPVAVSY SKASPNASPT LSAVFSIGVL AVASWVMQRV
+     L
+//

@@ -1,0 +1,175 @@
+ID   ACFR3_ARATH             Reviewed;         224 AA.
+AC   Q67ZF6; Q6NQ36;
+DT   21-SEP-2011, integrated into UniProtKB/Swiss-Prot.
+DT   11-OCT-2004, sequence version 1.
+DT   16-JAN-2019, entry version 85.
+DE   RecName: Full=Probable transmembrane ascorbate ferrireductase 3;
+DE            EC=7.2.1.3 {ECO:0000250|UniProtKB:Q8L856};
+DE   AltName: Full=Artb561-3;
+DE   AltName: Full=Protein b561A.tha14;
+GN   Name=CYB561C; OrderedLocusNames=At1g14730; ORFNames=F10B6.13;
+OS   Arabidopsis thaliana (Mouse-ear cress).
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+OC   Pentapetalae; rosids; malvids; Brassicales; Brassicaceae; Camelineae;
+OC   Arabidopsis.
+OX   NCBI_TaxID=3702;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=cv. Columbia;
+RX   PubMed=11130712; DOI=10.1038/35048500;
+RA   Theologis A., Ecker J.R., Palm C.J., Federspiel N.A., Kaul S.,
+RA   White O., Alonso J., Altafi H., Araujo R., Bowman C.L., Brooks S.Y.,
+RA   Buehler E., Chan A., Chao Q., Chen H., Cheuk R.F., Chin C.W.,
+RA   Chung M.K., Conn L., Conway A.B., Conway A.R., Creasy T.H., Dewar K.,
+RA   Dunn P., Etgu P., Feldblyum T.V., Feng J.-D., Fong B., Fujii C.Y.,
+RA   Gill J.E., Goldsmith A.D., Haas B., Hansen N.F., Hughes B., Huizar L.,
+RA   Hunter J.L., Jenkins J., Johnson-Hopson C., Khan S., Khaykin E.,
+RA   Kim C.J., Koo H.L., Kremenetskaia I., Kurtz D.B., Kwan A., Lam B.,
+RA   Langin-Hooper S., Lee A., Lee J.M., Lenz C.A., Li J.H., Li Y.-P.,
+RA   Lin X., Liu S.X., Liu Z.A., Luros J.S., Maiti R., Marziali A.,
+RA   Militscher J., Miranda M., Nguyen M., Nierman W.C., Osborne B.I.,
+RA   Pai G., Peterson J., Pham P.K., Rizzo M., Rooney T., Rowley D.,
+RA   Sakano H., Salzberg S.L., Schwartz J.R., Shinn P., Southwick A.M.,
+RA   Sun H., Tallon L.J., Tambunga G., Toriumi M.J., Town C.D.,
+RA   Utterback T., Van Aken S., Vaysberg M., Vysotskaia V.S., Walker M.,
+RA   Wu D., Yu G., Fraser C.M., Venter J.C., Davis R.W.;
+RT   "Sequence and analysis of chromosome 1 of the plant Arabidopsis
+RT   thaliana.";
+RL   Nature 408:816-820(2000).
+RN   [2]
+RP   GENOME REANNOTATION.
+RC   STRAIN=cv. Columbia;
+RX   PubMed=27862469; DOI=10.1111/tpj.13415;
+RA   Cheng C.Y., Krishnakumar V., Chan A.P., Thibaud-Nissen F., Schobel S.,
+RA   Town C.D.;
+RT   "Araport11: a complete reannotation of the Arabidopsis thaliana
+RT   reference genome.";
+RL   Plant J. 89:789-804(2017).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   STRAIN=cv. Columbia;
+RA   Totoki Y., Seki M., Ishida J., Nakajima M., Enju A., Kamiya A.,
+RA   Narusaka M., Shin-i T., Nakagawa M., Sakamoto N., Oishi K., Kohara Y.,
+RA   Kobayashi M., Toyoda A., Sakaki Y., Sakurai T., Iida K., Akiyama K.,
+RA   Satou M., Toyoda T., Konagaya A., Carninci P., Kawai J.,
+RA   Hayashizaki Y., Shinozaki K.;
+RT   "Large-scale analysis of RIKEN Arabidopsis full-length (RAFL) cDNAs.";
+RL   Submitted (SEP-2004) to the EMBL/GenBank/DDBJ databases.
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 73-224.
+RA   Cheuk R., Chen H., Kim C.J., Shinn P., Carninci P., Hayashizaki Y.,
+RA   Ishida J., Kamiya A., Kawai J., Narusaka M., Sakurai T., Satou M.,
+RA   Seki M., Shinozaki K., Ecker J.R.;
+RT   "Arabidopsis ORF clones.";
+RL   Submitted (OCT-2003) to the EMBL/GenBank/DDBJ databases.
+RN   [5]
+RP   GENE FAMILY, AND NOMENCLATURE.
+RX   PubMed=11732342; DOI=10.1007/BF01289417;
+RA   Asard H., Kapila J., Verelst W., Berczi A.;
+RT   "Higher-plant plasma membrane cytochrome b561: a protein in search of
+RT   a function.";
+RL   Protoplasma 217:77-93(2001).
+RN   [6]
+RP   GENE FAMILY, AND NOMENCLATURE.
+RX   PubMed=16169296; DOI=10.1016/j.bbapap.2005.08.015;
+RA   Tsubaki M., Takeuchi F., Nakanishi N.;
+RT   "Cytochrome b561 protein family: expanding roles and versatile
+RT   transmembrane electron transfer abilities as predicted by a new
+RT   classification system and protein sequence motif analyses.";
+RL   Biochim. Biophys. Acta 1753:174-190(2005).
+RN   [7]
+RP   REVIEW.
+RX   PubMed=23249217; DOI=10.1089/ars.2012.5065;
+RA   Asard H., Barbaro R., Trost P., Berczi A.;
+RT   "Cytochromes b561: ascorbate-mediated trans-membrane electron
+RT   transport.";
+RL   Antioxid. Redox Signal. 19:1026-1035(2013).
+CC   -!- FUNCTION: Two-heme-containing cytochrome. May catalyze ascorbate-
+CC       dependent trans-membrane ferric-chelate reduction (By similarity).
+CC       {ECO:0000250}.
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=Fe(3+)(out) + L-ascorbate(in) = Fe(2+)(out) + H(+) +
+CC         monodehydro-L-ascorbate radical(in); Xref=Rhea:RHEA:30403,
+CC         ChEBI:CHEBI:15378, ChEBI:CHEBI:29033, ChEBI:CHEBI:29034,
+CC         ChEBI:CHEBI:38290, ChEBI:CHEBI:59513; EC=7.2.1.3;
+CC         Evidence={ECO:0000250|UniProtKB:Q8L856};
+CC   -!- COFACTOR:
+CC       Name=heme; Xref=ChEBI:CHEBI:30413; Evidence={ECO:0000250};
+CC       Note=Binds 2 heme groups non-covalently. {ECO:0000250};
+CC   -!- SUBUNIT: Homodimer. {ECO:0000250}.
+CC   -!- SUBCELLULAR LOCATION: Membrane {ECO:0000305}; Multi-pass membrane
+CC       protein {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AC006917; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; CP002684; AEE29215.1; -; Genomic_DNA.
+DR   EMBL; AK176161; BAD43924.1; -; mRNA.
+DR   EMBL; BT010628; AAQ89650.1; -; mRNA.
+DR   RefSeq; NP_172926.2; NM_101342.4.
+DR   UniGene; At.41956; -.
+DR   ProteinModelPortal; Q67ZF6; -.
+DR   BioGrid; 23278; 1.
+DR   IntAct; Q67ZF6; 1.
+DR   PaxDb; Q67ZF6; -.
+DR   EnsemblPlants; AT1G14730.1; AT1G14730.1; AT1G14730.
+DR   GeneID; 838038; -.
+DR   Gramene; AT1G14730.1; AT1G14730.1; AT1G14730.
+DR   KEGG; ath:AT1G14730; -.
+DR   Araport; AT1G14730; -.
+DR   TAIR; locus:2006752; AT1G14730.
+DR   eggNOG; KOG1619; Eukaryota.
+DR   eggNOG; ENOG4111FKI; LUCA.
+DR   HOGENOM; HOG000231044; -.
+DR   InParanoid; Q67ZF6; -.
+DR   KO; K08360; -.
+DR   OMA; QHWRGGF; -.
+DR   OrthoDB; 1503869at2759; -.
+DR   PhylomeDB; Q67ZF6; -.
+DR   Reactome; R-ATH-917937; Iron uptake and transport.
+DR   PRO; PR:Q67ZF6; -.
+DR   Proteomes; UP000006548; Chromosome 1.
+DR   ExpressionAtlas; Q67ZF6; baseline and differential.
+DR   Genevisible; Q67ZF6; AT.
+DR   GO; GO:0016021; C:integral component of membrane; IEA:UniProtKB-KW.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0016491; F:oxidoreductase activity; IBA:GO_Central.
+DR   InterPro; IPR006593; Cyt_b561/ferric_Rdtase_TM.
+DR   Pfam; PF03188; Cytochrom_B561; 1.
+DR   SMART; SM00665; B561; 1.
+DR   PROSITE; PS50939; CYTOCHROME_B561; 1.
+PE   2: Evidence at transcript level;
+KW   Complete proteome; Electron transport; Heme; Iron; Membrane;
+KW   Metal-binding; Reference proteome; Translocase; Transmembrane;
+KW   Transmembrane helix; Transport.
+FT   CHAIN         1    224       Probable transmembrane ascorbate
+FT                                ferrireductase 3.
+FT                                /FTId=PRO_0000412909.
+FT   TRANSMEM     19     39       Helical; Name=1. {ECO:0000255}.
+FT   TRANSMEM     53     73       Helical; Name=2. {ECO:0000255}.
+FT   TRANSMEM     89    109       Helical; Name=3. {ECO:0000255}.
+FT   TRANSMEM    127    147       Helical; Name=4. {ECO:0000255}.
+FT   TRANSMEM    162    182       Helical; Name=5. {ECO:0000255}.
+FT   TRANSMEM    199    219       Helical; Name=6. {ECO:0000255}.
+FT   DOMAIN       20    219       Cytochrome b561. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00242}.
+FT   METAL        57     57       Iron (heme axial ligand); via tele
+FT                                nitrogen. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00242}.
+FT   METAL        90     90       Iron (heme axial ligand); via tele
+FT                                nitrogen. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00242}.
+FT   METAL       124    124       Iron (heme axial ligand); via tele
+FT                                nitrogen. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00242}.
+FT   METAL       163    163       Iron (heme axial ligand); via tele
+FT                                nitrogen. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00242}.
+SQ   SEQUENCE   224 AA;  24781 MW;  29E48D2B8C28F5BE CRC64;
+     MNLSGDRTTL KRHSSLSTLV AHFFGILAVV LMLIWLLHYR EGIEYGSDNP LKVLNVHPFL
+     MYCGFLFLVG QAMMTYKTAY ASHQVQKMVH GGLHLIGLVL GIVGICAAFR FHDKVNLKDM
+     VSLHSWIGLT TFILLGVQWL FGAFTFLAPQ SSSGTRTRMM PWHVLGGRAL LYMGIVAALT
+     GLMQRATMLG QSTNAESRLI NFLGLAILLF GVSVDFSVAL GRYN
+//

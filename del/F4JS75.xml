@@ -1,0 +1,436 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2011-06-28" modified="2019-01-16" version="57">
+<accession>F4JS75</accession>
+<name>F4JS75_ARATH</name>
+<protein>
+<submittedName>
+<fullName evidence="5">P-loop containing nucleoside triphosphate hydrolases superfamily protein</fullName>
+</submittedName>
+</protein>
+<gene>
+<name type="ordered locus" evidence="4 5">At4g13030</name>
+<name type="ORF" evidence="5">F25G13.120</name>
+<name type="ORF" evidence="5">F25G13_120</name>
+</gene>
+<organism evidence="5 6">
+<name type="scientific">Arabidopsis thaliana</name>
+<name type="common">Mouse-ear cress</name>
+<dbReference type="NCBI Taxonomy" id="3702"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Viridiplantae</taxon>
+<taxon>Streptophyta</taxon>
+<taxon>Embryophyta</taxon>
+<taxon>Tracheophyta</taxon>
+<taxon>Spermatophyta</taxon>
+<taxon>Magnoliophyta</taxon>
+<taxon>eudicotyledons</taxon>
+<taxon>Gunneridae</taxon>
+<taxon>Pentapetalae</taxon>
+<taxon>rosids</taxon>
+<taxon>malvids</taxon>
+<taxon>Brassicales</taxon>
+<taxon>Brassicaceae</taxon>
+<taxon>Camelineae</taxon>
+<taxon>Arabidopsis</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="5 6">
+<citation type="journal article" date="1999" name="Nature" volume="402" first="769" last="777">
+<title>Sequence and analysis of chromosome 4 of the plant Arabidopsis thaliana.</title>
+<authorList>
+<consortium name="EU"/>
+<consortium name="CSHL and WU Arabidopsis Sequencing Project"/>
+<person name="Mayer K."/>
+<person name="Schuller C."/>
+<person name="Wambutt R."/>
+<person name="Murphy G."/>
+<person name="Volckaert G."/>
+<person name="Pohl T."/>
+<person name="Dusterhoft A."/>
+<person name="Stiekema W."/>
+<person name="Entian K.D."/>
+<person name="Terryn N."/>
+<person name="Harris B."/>
+<person name="Ansorge W."/>
+<person name="Brandt P."/>
+<person name="Grivell L."/>
+<person name="Rieger M."/>
+<person name="Weichselgartner M."/>
+<person name="de Simone V."/>
+<person name="Obermaier B."/>
+<person name="Mache R."/>
+<person name="Muller M."/>
+<person name="Kreis M."/>
+<person name="Delseny M."/>
+<person name="Puigdomenech P."/>
+<person name="Watson M."/>
+<person name="Schmidtheini T."/>
+<person name="Reichert B."/>
+<person name="Portatelle D."/>
+<person name="Perez-Alonso M."/>
+<person name="Boutry M."/>
+<person name="Bancroft I."/>
+<person name="Vos P."/>
+<person name="Hoheisel J."/>
+<person name="Zimmermann W."/>
+<person name="Wedler H."/>
+<person name="Ridley P."/>
+<person name="Langham S.A."/>
+<person name="McCullagh B."/>
+<person name="Bilham L."/>
+<person name="Robben J."/>
+<person name="Van der Schueren J."/>
+<person name="Grymonprez B."/>
+<person name="Chuang Y.J."/>
+<person name="Vandenbussche F."/>
+<person name="Braeken M."/>
+<person name="Weltjens I."/>
+<person name="Voet M."/>
+<person name="Bastiaens I."/>
+<person name="Aert R."/>
+<person name="Defoor E."/>
+<person name="Weitzenegger T."/>
+<person name="Bothe G."/>
+<person name="Ramsperger U."/>
+<person name="Hilbert H."/>
+<person name="Braun M."/>
+<person name="Holzer E."/>
+<person name="Brandt A."/>
+<person name="Peters S."/>
+<person name="van Staveren M."/>
+<person name="Dirske W."/>
+<person name="Mooijman P."/>
+<person name="Klein Lankhorst R."/>
+<person name="Rose M."/>
+<person name="Hauf J."/>
+<person name="Kotter P."/>
+<person name="Berneiser S."/>
+<person name="Hempel S."/>
+<person name="Feldpausch M."/>
+<person name="Lamberth S."/>
+<person name="Van den Daele H."/>
+<person name="De Keyser A."/>
+<person name="Buysshaert C."/>
+<person name="Gielen J."/>
+<person name="Villarroel R."/>
+<person name="De Clercq R."/>
+<person name="Van Montagu M."/>
+<person name="Rogers J."/>
+<person name="Cronin A."/>
+<person name="Quail M."/>
+<person name="Bray-Allen S."/>
+<person name="Clark L."/>
+<person name="Doggett J."/>
+<person name="Hall S."/>
+<person name="Kay M."/>
+<person name="Lennard N."/>
+<person name="McLay K."/>
+<person name="Mayes R."/>
+<person name="Pettett A."/>
+<person name="Rajandream M.A."/>
+<person name="Lyne M."/>
+<person name="Benes V."/>
+<person name="Rechmann S."/>
+<person name="Borkova D."/>
+<person name="Blocker H."/>
+<person name="Scharfe M."/>
+<person name="Grimm M."/>
+<person name="Lohnert T.H."/>
+<person name="Dose S."/>
+<person name="de Haan M."/>
+<person name="Maarse A."/>
+<person name="Schafer M."/>
+<person name="Muller-Auer S."/>
+<person name="Gabel C."/>
+<person name="Fuchs M."/>
+<person name="Fartmann B."/>
+<person name="Granderath K."/>
+<person name="Dauner D."/>
+<person name="Herzl A."/>
+<person name="Neumann S."/>
+<person name="Argiriou A."/>
+<person name="Vitale D."/>
+<person name="Liguori R."/>
+<person name="Piravandi E."/>
+<person name="Massenet O."/>
+<person name="Quigley F."/>
+<person name="Clabauld G."/>
+<person name="Mundlein A."/>
+<person name="Felber R."/>
+<person name="Schnabl S."/>
+<person name="Hiller R."/>
+<person name="Schmidt W."/>
+<person name="Lecharny A."/>
+<person name="Aubourg S."/>
+<person name="Chefdor F."/>
+<person name="Cooke R."/>
+<person name="Berger C."/>
+<person name="Montfort A."/>
+<person name="Casacuberta E."/>
+<person name="Gibbons T."/>
+<person name="Weber N."/>
+<person name="Vandenbol M."/>
+<person name="Bargues M."/>
+<person name="Terol J."/>
+<person name="Torres A."/>
+<person name="Perez-Perez A."/>
+<person name="Purnelle B."/>
+<person name="Bent E."/>
+<person name="Johnson S."/>
+<person name="Tacon D."/>
+<person name="Jesse T."/>
+<person name="Heijnen L."/>
+<person name="Schwarz S."/>
+<person name="Scholler P."/>
+<person name="Heber S."/>
+<person name="Francs P."/>
+<person name="Bielke C."/>
+<person name="Frishman D."/>
+<person name="Haase D."/>
+<person name="Lemcke K."/>
+<person name="Mewes H.W."/>
+<person name="Stocker S."/>
+<person name="Zaccaria P."/>
+<person name="Bevan M."/>
+<person name="Wilson R.K."/>
+<person name="de la Bastide M."/>
+<person name="Habermann K."/>
+<person name="Parnell L."/>
+<person name="Dedhia N."/>
+<person name="Gnoj L."/>
+<person name="Schutz K."/>
+<person name="Huang E."/>
+<person name="Spiegel L."/>
+<person name="Sehkon M."/>
+<person name="Murray J."/>
+<person name="Sheet P."/>
+<person name="Cordes M."/>
+<person name="Abu-Threideh J."/>
+<person name="Stoneking T."/>
+<person name="Kalicki J."/>
+<person name="Graves T."/>
+<person name="Harmon G."/>
+<person name="Edwards J."/>
+<person name="Latreille P."/>
+<person name="Courtney L."/>
+<person name="Cloud J."/>
+<person name="Abbott A."/>
+<person name="Scott K."/>
+<person name="Johnson D."/>
+<person name="Minx P."/>
+<person name="Bentley D."/>
+<person name="Fulton B."/>
+<person name="Miller N."/>
+<person name="Greco T."/>
+<person name="Kemp K."/>
+<person name="Kramer J."/>
+<person name="Fulton L."/>
+<person name="Mardis E."/>
+<person name="Dante M."/>
+<person name="Pepin K."/>
+<person name="Hillier L."/>
+<person name="Nelson J."/>
+<person name="Spieth J."/>
+<person name="Ryan E."/>
+<person name="Andrews S."/>
+<person name="Geisel C."/>
+<person name="Layman D."/>
+<person name="Du H."/>
+<person name="Ali J."/>
+<person name="Berghoff A."/>
+<person name="Jones K."/>
+<person name="Drone K."/>
+<person name="Cotton M."/>
+<person name="Joshu C."/>
+<person name="Antonoiu B."/>
+<person name="Zidanic M."/>
+<person name="Strong C."/>
+<person name="Sun H."/>
+<person name="Lamar B."/>
+<person name="Yordan C."/>
+<person name="Ma P."/>
+<person name="Zhong J."/>
+<person name="Preston R."/>
+<person name="Vil D."/>
+<person name="Shekher M."/>
+<person name="Matero A."/>
+<person name="Shah R."/>
+<person name="Swaby I.K."/>
+<person name="O'Shaughnessy A."/>
+<person name="Rodriguez M."/>
+<person name="Hoffmann J."/>
+<person name="Till S."/>
+<person name="Granat S."/>
+<person name="Shohdy N."/>
+<person name="Hasegawa A."/>
+<person name="Hameed A."/>
+<person name="Lodhi M."/>
+<person name="Johnson A."/>
+<person name="Chen E."/>
+<person name="Marra M."/>
+<person name="Martienssen R."/>
+<person name="McCombie W.R."/>
+</authorList>
+<dbReference type="PubMed" id="10617198"/>
+<dbReference type="DOI" id="10.1038/47134"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain evidence="6">cv. Columbia</strain>
+</source>
+</reference>
+<reference key="2" evidence="6">
+<citation type="journal article" date="2017" name="Plant J." volume="89" first="789" last="804">
+<title>Araport11: a complete reannotation of the Arabidopsis thaliana reference genome.</title>
+<authorList>
+<person name="Cheng C.Y."/>
+<person name="Krishnakumar V."/>
+<person name="Chan A.P."/>
+<person name="Thibaud-Nissen F."/>
+<person name="Schobel S."/>
+<person name="Town C.D."/>
+</authorList>
+<dbReference type="PubMed" id="27862469"/>
+<dbReference type="DOI" id="10.1111/tpj.13415"/>
+</citation>
+<scope>GENOME REANNOTATION</scope>
+<source>
+<strain evidence="6">cv. Columbia</strain>
+</source>
+</reference>
+<dbReference type="EMBL" id="CP002687">
+<property type="protein sequence ID" value="AEE83220.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_849371.2">
+<property type="nucleotide sequence ID" value="NM_179040.2"/>
+</dbReference>
+<dbReference type="UniGene" id="At.3517"/>
+<dbReference type="ProteinModelPortal" id="F4JS75"/>
+<dbReference type="EnsemblPlants" id="AT4G13030.2">
+<property type="protein sequence ID" value="AT4G13030.2"/>
+<property type="gene ID" value="AT4G13030"/>
+</dbReference>
+<dbReference type="GeneID" id="826917"/>
+<dbReference type="Gramene" id="AT4G13030.2">
+<property type="protein sequence ID" value="AT4G13030.2"/>
+<property type="gene ID" value="AT4G13030"/>
+</dbReference>
+<dbReference type="Araport" id="AT4G13030"/>
+<dbReference type="eggNOG" id="ENOG410IHCA">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4111J6E">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="OMA" id="GVHHGEP"/>
+<dbReference type="OrthoDB" id="510311at2759"/>
+<dbReference type="Proteomes" id="UP000006548">
+<property type="component" value="Chromosome 4"/>
+</dbReference>
+<dbReference type="ExpressionAtlas" id="F4JS75">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016021">
+<property type="term" value="C:integral component of membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005525">
+<property type="term" value="F:GTP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016787">
+<property type="term" value="F:hydrolase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR006073">
+<property type="entry name" value="GTP_binding_domain"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01926">
+<property type="entry name" value="MMR_HSR1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="predicted"/>
+<keyword id="KW-0175" evidence="1">Coiled coil</keyword>
+<keyword id="KW-0181" evidence="6">Complete proteome</keyword>
+<keyword id="KW-0378" evidence="5">Hydrolase</keyword>
+<keyword id="KW-0472" evidence="2">Membrane</keyword>
+<keyword id="KW-1185" evidence="6">Reference proteome</keyword>
+<keyword id="KW-0812" evidence="2">Transmembrane</keyword>
+<keyword id="KW-1133" evidence="2">Transmembrane helix</keyword>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="353"/>
+<end position="376"/>
+</location>
+</feature>
+<feature type="domain" description="G" evidence="3">
+<location>
+<begin position="107"/>
+<end position="236"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="1">
+<location>
+<begin position="62"/>
+<end position="82"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="SAM" id="Coils"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000256">
+<source>
+<dbReference type="SAM" id="Phobius"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000259">
+<source>
+<dbReference type="Pfam" id="PF01926"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000313">
+<source>
+<dbReference type="Araport" id="AT4G13030"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="AEE83220.1"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000313">
+<source>
+<dbReference type="Proteomes" id="UP000006548"/>
+</source>
+</evidence>
+<sequence length="479" mass="54077" checksum="72E8F97DD0895087" modified="2011-06-28" version="1">
+MGGDTFKDDEESSRSSSSSPCSCCFSSDDLGFKDDVSEENFTNFSNHVTDLRRREKAYQE
+ILQSHDLLLRTSKRKLRQARNEILSYTPGSWSDVKLSDYNIPKTTSIMLVGPKGAGKSSL
+VNKITRVIEDDAFLLDRAQESFGTPSKGGTYFVQEYMISRGGSASFCLYDTRGLSRISSS
+DNTSMIEQWMTRGVLHGEPVIWASDSSDLKDRLIRDGGTGYERRKVNSIIFVVNAVEILK
+SMECETSYASMITTAFNSPILLFKDDKPAVVMTHGDMLSREERARVRVFLGELLGIPPHK
+QIFDIPESRDTATAITICNLLCYSLQHADKNFVFLPKKNFTISKVGGGGLTKWISLLDII
+SIALVLFMALASIWFVTHNPVSGQKLANETQQKLLKFPSPWLNNLTHKAKPMRRFGPKRI
+IKGPNLACVQHPKSEFVPESEPISIDLHIARRLWFNEEQVAEAEPSFDWRTTRRLWYVE
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

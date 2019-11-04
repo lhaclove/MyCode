@@ -1,0 +1,454 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2001-03-01" modified="2019-01-16" version="122">
+<accession>Q9FIZ5</accession>
+<name>Q9FIZ5_ARATH</name>
+<protein>
+<submittedName>
+<fullName evidence="4">DNA glycosylase superfamily protein</fullName>
+</submittedName>
+<submittedName>
+<fullName evidence="5">Similarity to DNA-3-methyladenine glycosylase I</fullName>
+</submittedName>
+</protein>
+<gene>
+<name type="ordered locus" evidence="1 4">At5g44680</name>
+<name type="ORF" evidence="4">K23L20.1</name>
+<name type="ORF" evidence="4">K23L20_1</name>
+</gene>
+<organism evidence="5">
+<name type="scientific">Arabidopsis thaliana</name>
+<name type="common">Mouse-ear cress</name>
+<dbReference type="NCBI Taxonomy" id="3702"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Viridiplantae</taxon>
+<taxon>Streptophyta</taxon>
+<taxon>Embryophyta</taxon>
+<taxon>Tracheophyta</taxon>
+<taxon>Spermatophyta</taxon>
+<taxon>Magnoliophyta</taxon>
+<taxon>eudicotyledons</taxon>
+<taxon>Gunneridae</taxon>
+<taxon>Pentapetalae</taxon>
+<taxon>rosids</taxon>
+<taxon>malvids</taxon>
+<taxon>Brassicales</taxon>
+<taxon>Brassicaceae</taxon>
+<taxon>Camelineae</taxon>
+<taxon>Arabidopsis</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="5">
+<citation type="journal article" date="1998" name="DNA Res." volume="5" first="379" last="391">
+<title>Structural analysis of Arabidopsis thaliana chromosome 5. VIII. Sequence features of the regions of 1,081,958 bp covered by seventeen physically assigned P1 and TAC clones.</title>
+<authorList>
+<person name="Asamizu E."/>
+<person name="Sato S."/>
+<person name="Kaneko T."/>
+<person name="Nakamura Y."/>
+<person name="Kotani H."/>
+<person name="Miyajima N."/>
+<person name="Tabata S."/>
+</authorList>
+<dbReference type="PubMed" id="10048488"/>
+<dbReference type="DOI" id="10.1093/dnares/5.6.379"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="2" evidence="4 6">
+<citation type="journal article" date="2000" name="Nature" volume="408" first="823" last="826">
+<title>Sequence and analysis of chromosome 5 of the plant Arabidopsis thaliana.</title>
+<authorList>
+<consortium name="Kazusa DNA Research Institute"/>
+<consortium name="Cold Spring Harbor and Washington University in St Louis Sequencing Consortium"/>
+<consortium name="European Union Arabidopsis Genome Sequencing Consortium"/>
+<person name="Tabata S."/>
+<person name="Kaneko T."/>
+<person name="Nakamura Y."/>
+<person name="Kotani H."/>
+<person name="Kato T."/>
+<person name="Asamizu E."/>
+<person name="Miyajima N."/>
+<person name="Sasamoto S."/>
+<person name="Kimura T."/>
+<person name="Hosouchi T."/>
+<person name="Kawashima K."/>
+<person name="Kohara M."/>
+<person name="Matsumoto M."/>
+<person name="Matsuno A."/>
+<person name="Muraki A."/>
+<person name="Nakayama S."/>
+<person name="Nakazaki N."/>
+<person name="Naruo K."/>
+<person name="Okumura S."/>
+<person name="Shinpo S."/>
+<person name="Takeuchi C."/>
+<person name="Wada T."/>
+<person name="Watanabe A."/>
+<person name="Yamada M."/>
+<person name="Yasuda M."/>
+<person name="Sato S."/>
+<person name="de la Bastide M."/>
+<person name="Huang E."/>
+<person name="Spiegel L."/>
+<person name="Gnoj L."/>
+<person name="O'Shaughnessy A."/>
+<person name="Preston R."/>
+<person name="Habermann K."/>
+<person name="Murray J."/>
+<person name="Johnson D."/>
+<person name="Rohlfing T."/>
+<person name="Nelson J."/>
+<person name="Stoneking T."/>
+<person name="Pepin K."/>
+<person name="Spieth J."/>
+<person name="Sekhon M."/>
+<person name="Armstrong J."/>
+<person name="Becker M."/>
+<person name="Belter E."/>
+<person name="Cordum H."/>
+<person name="Cordes M."/>
+<person name="Courtney L."/>
+<person name="Courtney W."/>
+<person name="Dante M."/>
+<person name="Du H."/>
+<person name="Edwards J."/>
+<person name="Fryman J."/>
+<person name="Haakensen B."/>
+<person name="Lamar E."/>
+<person name="Latreille P."/>
+<person name="Leonard S."/>
+<person name="Meyer R."/>
+<person name="Mulvaney E."/>
+<person name="Ozersky P."/>
+<person name="Riley A."/>
+<person name="Strowmatt C."/>
+<person name="Wagner-McPherson C."/>
+<person name="Wollam A."/>
+<person name="Yoakum M."/>
+<person name="Bell M."/>
+<person name="Dedhia N."/>
+<person name="Parnell L."/>
+<person name="Shah R."/>
+<person name="Rodriguez M."/>
+<person name="See L.H."/>
+<person name="Vil D."/>
+<person name="Baker J."/>
+<person name="Kirchoff K."/>
+<person name="Toth K."/>
+<person name="King L."/>
+<person name="Bahret A."/>
+<person name="Miller B."/>
+<person name="Marra M."/>
+<person name="Martienssen R."/>
+<person name="McCombie W.R."/>
+<person name="Wilson R.K."/>
+<person name="Murphy G."/>
+<person name="Bancroft I."/>
+<person name="Volckaert G."/>
+<person name="Wambutt R."/>
+<person name="Dusterhoft A."/>
+<person name="Stiekema W."/>
+<person name="Pohl T."/>
+<person name="Entian K.D."/>
+<person name="Terryn N."/>
+<person name="Hartley N."/>
+<person name="Bent E."/>
+<person name="Johnson S."/>
+<person name="Langham S.A."/>
+<person name="McCullagh B."/>
+<person name="Robben J."/>
+<person name="Grymonprez B."/>
+<person name="Zimmermann W."/>
+<person name="Ramsperger U."/>
+<person name="Wedler H."/>
+<person name="Balke K."/>
+<person name="Wedler E."/>
+<person name="Peters S."/>
+<person name="van Staveren M."/>
+<person name="Dirkse W."/>
+<person name="Mooijman P."/>
+<person name="Lankhorst R.K."/>
+<person name="Weitzenegger T."/>
+<person name="Bothe G."/>
+<person name="Rose M."/>
+<person name="Hauf J."/>
+<person name="Berneiser S."/>
+<person name="Hempel S."/>
+<person name="Feldpausch M."/>
+<person name="Lamberth S."/>
+<person name="Villarroel R."/>
+<person name="Gielen J."/>
+<person name="Ardiles W."/>
+<person name="Bents O."/>
+<person name="Lemcke K."/>
+<person name="Kolesov G."/>
+<person name="Mayer K."/>
+<person name="Rudd S."/>
+<person name="Schoof H."/>
+<person name="Schueller C."/>
+<person name="Zaccaria P."/>
+<person name="Mewes H.W."/>
+<person name="Bevan M."/>
+<person name="Fransz P."/>
+</authorList>
+<dbReference type="PubMed" id="11130714"/>
+<dbReference type="DOI" id="10.1038/35048507"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain evidence="6">cv. Columbia</strain>
+</source>
+</reference>
+<reference key="3" evidence="2">
+<citation type="submission" date="2003-02" db="EMBL/GenBank/DDBJ databases">
+<title>Arabidopsis Full Length cDNA Clones.</title>
+<authorList>
+<person name="Yamada K."/>
+<person name="Chan M.M."/>
+<person name="Chang C.H."/>
+<person name="Dale J.M."/>
+<person name="Hsuan V.W."/>
+<person name="Lee J.M."/>
+<person name="Onodera C.S."/>
+<person name="Quach H.L."/>
+<person name="Tang C."/>
+<person name="Toriumi M."/>
+<person name="Wong C."/>
+<person name="Wu H.C."/>
+<person name="Yu G."/>
+<person name="Yuan S."/>
+<person name="Carninci P."/>
+<person name="Chen H."/>
+<person name="Cheuk R."/>
+<person name="Hayashizaki Y."/>
+<person name="Ishida J."/>
+<person name="Jones T."/>
+<person name="Kamiya A."/>
+<person name="Kawai J."/>
+<person name="Kim C.J."/>
+<person name="Narusaka M."/>
+<person name="Nguyen M."/>
+<person name="Palm C.J."/>
+<person name="Sakurai T."/>
+<person name="Satou M."/>
+<person name="Seki M."/>
+<person name="Shinn P."/>
+<person name="Southwick A."/>
+<person name="Tripp M.G."/>
+<person name="Wu T."/>
+<person name="Shinozaki K."/>
+<person name="Davis R.W."/>
+<person name="Ecker J.R."/>
+<person name="Theologis A."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+</reference>
+<reference key="4" evidence="3">
+<citation type="submission" date="2003-03" db="EMBL/GenBank/DDBJ databases">
+<title>Arabidopsis Open Reading Frame (ORF) Clones.</title>
+<authorList>
+<person name="Yamada K."/>
+<person name="Chan M.M."/>
+<person name="Chang C.H."/>
+<person name="Dale J.M."/>
+<person name="Hsuan V.W."/>
+<person name="Lee J.M."/>
+<person name="Onodera C.S."/>
+<person name="Quach H.L."/>
+<person name="Tang C."/>
+<person name="Toriumi M."/>
+<person name="Wong C."/>
+<person name="Wu H.C."/>
+<person name="Yu G."/>
+<person name="Yuan S."/>
+<person name="Carninci P."/>
+<person name="Chen H."/>
+<person name="Cheuk R."/>
+<person name="Hayashizaki Y."/>
+<person name="Ishida J."/>
+<person name="Jones T."/>
+<person name="Kamiya A."/>
+<person name="Kawai J."/>
+<person name="Kim C.J."/>
+<person name="Narusaka M."/>
+<person name="Nguyen M."/>
+<person name="Palm C.J."/>
+<person name="Sakurai T."/>
+<person name="Satou M."/>
+<person name="Seki M."/>
+<person name="Shinn P."/>
+<person name="Southwick A."/>
+<person name="Tripp M.G."/>
+<person name="Wu T."/>
+<person name="Shinozaki K."/>
+<person name="Davis R.W."/>
+<person name="Ecker J.R."/>
+<person name="Theologis A."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+</reference>
+<reference key="5" evidence="4">
+<citation type="submission" date="2011-02" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<consortium name="TAIR"/>
+<person name="Swarbreck D."/>
+<person name="Lamesch P."/>
+<person name="Wilks C."/>
+<person name="Huala E."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+</reference>
+<reference key="6" evidence="4">
+<citation type="submission" date="2016-05" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<consortium name="The Arabidopsis Information Portal (Araport)"/>
+</authorList>
+</citation>
+<scope>GENOME REANNOTATION</scope>
+</reference>
+<reference key="7" evidence="6">
+<citation type="journal article" date="2017" name="Plant J." volume="89" first="789" last="804">
+<title>Araport11: a complete reannotation of the Arabidopsis thaliana reference genome.</title>
+<authorList>
+<person name="Cheng C.Y."/>
+<person name="Krishnakumar V."/>
+<person name="Chan A.P."/>
+<person name="Thibaud-Nissen F."/>
+<person name="Schobel S."/>
+<person name="Town C.D."/>
+</authorList>
+<dbReference type="PubMed" id="27862469"/>
+<dbReference type="DOI" id="10.1111/tpj.13415"/>
+</citation>
+<scope>GENOME REANNOTATION</scope>
+<source>
+<strain evidence="6">cv. Columbia</strain>
+</source>
+</reference>
+<dbReference type="EMBL" id="BT003900">
+<property type="protein sequence ID" value="AAO41948.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BT004932">
+<property type="protein sequence ID" value="AAO50465.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CP002688">
+<property type="protein sequence ID" value="AED95146.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AB016874">
+<property type="protein sequence ID" value="BAB08821.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_199281.1">
+<property type="nucleotide sequence ID" value="NM_123835.4"/>
+</dbReference>
+<dbReference type="UniGene" id="At.23434"/>
+<dbReference type="SMR" id="Q9FIZ5"/>
+<dbReference type="STRING" id="3702.AT5G44680.1"/>
+<dbReference type="EnsemblPlants" id="AT5G44680.1">
+<property type="protein sequence ID" value="AT5G44680.1"/>
+<property type="gene ID" value="AT5G44680"/>
+</dbReference>
+<dbReference type="GeneID" id="834497"/>
+<dbReference type="Gramene" id="AT5G44680.1">
+<property type="protein sequence ID" value="AT5G44680.1"/>
+<property type="gene ID" value="AT5G44680"/>
+</dbReference>
+<dbReference type="KEGG" id="ath:AT5G44680"/>
+<dbReference type="Araport" id="AT5G44680"/>
+<dbReference type="TAIR" id="locus:2156329">
+<property type="gene designation" value="AT5G44680"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG410IFGJ">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG2818">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="KO" id="K01246"/>
+<dbReference type="OMA" id="HYGRIKS"/>
+<dbReference type="OrthoDB" id="822330at2759"/>
+<dbReference type="Proteomes" id="UP000006548">
+<property type="component" value="Chromosome 5"/>
+</dbReference>
+<dbReference type="ExpressionAtlas" id="Q9FIZ5">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008725">
+<property type="term" value="F:DNA-3-methyladenine glycosylase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006284">
+<property type="term" value="P:base-excision repair"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR005019">
+<property type="entry name" value="Adenine_glyco"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011257">
+<property type="entry name" value="DNA_glycosylase"/>
+</dbReference>
+<dbReference type="Pfam" id="PF03352">
+<property type="entry name" value="Adenine_glyco"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF48150">
+<property type="entry name" value="SSF48150"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0181" evidence="6">Complete proteome</keyword>
+<keyword id="KW-1185" evidence="6">Reference proteome</keyword>
+<evidence key="1" type="ECO:0000313">
+<source>
+<dbReference type="Araport" id="AT5G44680"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="AAO41948.1"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="AAO50465.1"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="AED95146.1"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="BAB08821.1"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000313">
+<source>
+<dbReference type="Proteomes" id="UP000006548"/>
+</source>
+</evidence>
+<sequence length="353" mass="39506" checksum="FFF2CB835E32D419" modified="2001-03-01" version="1">
+MCSSKLKNLTQENISQINGRPVLQPKSNQVPTLDRRNSLKKSPPKPLNPIASKIPSPRPI
+SLISPPLSPNTKSLRKPAGSCKELLRSSSTKSKPVISPENSDGGYKEVMPMVIVQKQPGS
+IAAARREEVAMKQEERKKKISHYGRIKSVKSNEKNLNVEHEKKKRCSFITTSSDPIYVAY
+HDKEWGVPVHDDNLLFELLVLTGAQVGSDWTSVLKRRNTFREAFSGFEAELVADFNEKKI
+QSIVNDYGINLSQVLAVVDNAKQILKVKRDLGSFNKYIWGFMKHKPVTTKYTSCQKIPVK
+TSKSETISKDMVRRGFRFVGPTVIHSLMQAAGLTNDHLITCPRHLECTAMAAL
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

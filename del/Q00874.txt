@@ -1,0 +1,177 @@
+ID   DR100_ARATH             Reviewed;         372 AA.
+AC   Q00874; Q9LHK0;
+DT   01-JUN-1994, integrated into UniProtKB/Swiss-Prot.
+DT   16-APR-2002, sequence version 2.
+DT   16-JAN-2019, entry version 139.
+DE   RecName: Full=DNA damage-repair/toleration protein DRT100;
+DE   Flags: Precursor;
+GN   Name=DRT100; OrderedLocusNames=At3g12610;
+GN   ORFNames=MMF12.5, T2E22.8, T2E22_107;
+OS   Arabidopsis thaliana (Mouse-ear cress).
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+OC   Pentapetalae; rosids; malvids; Brassicales; Brassicaceae; Camelineae;
+OC   Arabidopsis.
+OX   NCBI_TaxID=3702;
+RN   [1]
+RP   PRELIMINARY NUCLEOTIDE SEQUENCE OF 4-372.
+RC   STRAIN=cv. Columbia;
+RX   PubMed=1518832; DOI=10.1073/pnas.89.17.8073;
+RA   Pang Q., Hays J.B., Rajagopal I.;
+RT   "A plant cDNA that partially complements Escherichia coli recA
+RT   mutations predicts a polypeptide not strongly homologous to RecA
+RT   proteins.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 89:8073-8077(1992).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=cv. Columbia;
+RX   PubMed=10907853; DOI=10.1093/dnares/7.3.217;
+RA   Kaneko T., Katoh T., Sato S., Nakamura Y., Asamizu E., Tabata S.;
+RT   "Structural analysis of Arabidopsis thaliana chromosome 3. II.
+RT   Sequence features of the 4,251,695 bp regions covered by 90 P1, TAC
+RT   and BAC clones.";
+RL   DNA Res. 7:217-221(2000).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=cv. Columbia;
+RX   PubMed=11130713; DOI=10.1038/35048706;
+RA   Salanoubat M., Lemcke K., Rieger M., Ansorge W., Unseld M.,
+RA   Fartmann B., Valle G., Bloecker H., Perez-Alonso M., Obermaier B.,
+RA   Delseny M., Boutry M., Grivell L.A., Mache R., Puigdomenech P.,
+RA   De Simone V., Choisne N., Artiguenave F., Robert C., Brottier P.,
+RA   Wincker P., Cattolico L., Weissenbach J., Saurin W., Quetier F.,
+RA   Schaefer M., Mueller-Auer S., Gabel C., Fuchs M., Benes V.,
+RA   Wurmbach E., Drzonek H., Erfle H., Jordan N., Bangert S.,
+RA   Wiedelmann R., Kranz H., Voss H., Holland R., Brandt P., Nyakatura G.,
+RA   Vezzi A., D'Angelo M., Pallavicini A., Toppo S., Simionati B.,
+RA   Conrad A., Hornischer K., Kauer G., Loehnert T.-H., Nordsiek G.,
+RA   Reichelt J., Scharfe M., Schoen O., Bargues M., Terol J., Climent J.,
+RA   Navarro P., Collado C., Perez-Perez A., Ottenwaelder B., Duchemin D.,
+RA   Cooke R., Laudie M., Berger-Llauro C., Purnelle B., Masuy D.,
+RA   de Haan M., Maarse A.C., Alcaraz J.-P., Cottet A., Casacuberta E.,
+RA   Monfort A., Argiriou A., Flores M., Liguori R., Vitale D.,
+RA   Mannhaupt G., Haase D., Schoof H., Rudd S., Zaccaria P., Mewes H.-W.,
+RA   Mayer K.F.X., Kaul S., Town C.D., Koo H.L., Tallon L.J., Jenkins J.,
+RA   Rooney T., Rizzo M., Walts A., Utterback T., Fujii C.Y., Shea T.P.,
+RA   Creasy T.H., Haas B., Maiti R., Wu D., Peterson J., Van Aken S.,
+RA   Pai G., Militscher J., Sellers P., Gill J.E., Feldblyum T.V.,
+RA   Preuss D., Lin X., Nierman W.C., Salzberg S.L., White O., Venter J.C.,
+RA   Fraser C.M., Kaneko T., Nakamura Y., Sato S., Kato T., Asamizu E.,
+RA   Sasamoto S., Kimura T., Idesawa K., Kawashima K., Kishida Y.,
+RA   Kiyokawa C., Kohara M., Matsumoto M., Matsuno A., Muraki A.,
+RA   Nakayama S., Nakazaki N., Shinpo S., Takeuchi C., Wada T.,
+RA   Watanabe A., Yamada M., Yasuda M., Tabata S.;
+RT   "Sequence and analysis of chromosome 3 of the plant Arabidopsis
+RT   thaliana.";
+RL   Nature 408:820-822(2000).
+RN   [4]
+RP   GENOME REANNOTATION.
+RC   STRAIN=cv. Columbia;
+RX   PubMed=27862469; DOI=10.1111/tpj.13415;
+RA   Cheng C.Y., Krishnakumar V., Chan A.P., Thibaud-Nissen F., Schobel S.,
+RA   Town C.D.;
+RT   "Araport11: a complete reannotation of the Arabidopsis thaliana
+RT   reference genome.";
+RL   Plant J. 89:789-804(2017).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   STRAIN=cv. Columbia;
+RX   PubMed=14593172; DOI=10.1126/science.1088305;
+RA   Yamada K., Lim J., Dale J.M., Chen H., Shinn P., Palm C.J.,
+RA   Southwick A.M., Wu H.C., Kim C.J., Nguyen M., Pham P.K., Cheuk R.F.,
+RA   Karlin-Newmann G., Liu S.X., Lam B., Sakano H., Wu T., Yu G.,
+RA   Miranda M., Quach H.L., Tripp M., Chang C.H., Lee J.M., Toriumi M.J.,
+RA   Chan M.M., Tang C.C., Onodera C.S., Deng J.M., Akiyama K., Ansari Y.,
+RA   Arakawa T., Banh J., Banno F., Bowser L., Brooks S.Y., Carninci P.,
+RA   Chao Q., Choy N., Enju A., Goldsmith A.D., Gurjal M., Hansen N.F.,
+RA   Hayashizaki Y., Johnson-Hopson C., Hsuan V.W., Iida K., Karnes M.,
+RA   Khan S., Koesema E., Ishida J., Jiang P.X., Jones T., Kawai J.,
+RA   Kamiya A., Meyers C., Nakajima M., Narusaka M., Seki M., Sakurai T.,
+RA   Satou M., Tamse R., Vaysberg M., Wallender E.K., Wong C., Yamamura Y.,
+RA   Yuan S., Shinozaki K., Davis R.W., Theologis A., Ecker J.R.;
+RT   "Empirical analysis of transcriptional activity in the Arabidopsis
+RT   genome.";
+RL   Science 302:842-846(2003).
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RA   Brover V.V., Troukhan M.E., Alexandrov N.A., Lu Y.-P., Flavell R.B.,
+RA   Feldmann K.A.;
+RT   "Full-length cDNA from Arabidopsis thaliana.";
+RL   Submitted (MAR-2002) to the EMBL/GenBank/DDBJ databases.
+CC   -!- FUNCTION: This protein is able to complement bacterial recA
+CC       mutations, but its native function in the plant is not known.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=CAA47109.2; Type=Frameshift; Positions=Several; Evidence={ECO:0000305};
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   -----------------------------------------------------------------------
+DR   EMBL; X66482; CAA47109.2; ALT_FRAME; mRNA.
+DR   EMBL; AP002044; BAB02252.1; -; Genomic_DNA.
+DR   EMBL; AC069474; AAG51016.1; -; Genomic_DNA.
+DR   EMBL; CP002686; AEE75223.1; -; Genomic_DNA.
+DR   EMBL; BT000814; AAN33189.1; -; mRNA.
+DR   EMBL; AY057652; AAL15283.1; -; mRNA.
+DR   EMBL; AY086931; AAM64495.1; -; mRNA.
+DR   PIR; A46260; A46260.
+DR   RefSeq; NP_187867.1; NM_112096.3.
+DR   UniGene; At.24073; -.
+DR   UniGene; At.72447; -.
+DR   ProteinModelPortal; Q00874; -.
+DR   SMR; Q00874; -.
+DR   STRING; 3702.AT3G12610.1; -.
+DR   PaxDb; Q00874; -.
+DR   PRIDE; Q00874; -.
+DR   EnsemblPlants; AT3G12610.1; AT3G12610.1; AT3G12610.
+DR   GeneID; 820441; -.
+DR   Gramene; AT3G12610.1; AT3G12610.1; AT3G12610.
+DR   KEGG; ath:AT3G12610; -.
+DR   Araport; AT3G12610; -.
+DR   TAIR; locus:2091260; AT3G12610.
+DR   eggNOG; KOG0619; Eukaryota.
+DR   eggNOG; COG4886; LUCA.
+DR   HOGENOM; HOG000066206; -.
+DR   InParanoid; Q00874; -.
+DR   OMA; VFGSKTY; -.
+DR   OrthoDB; 826997at2759; -.
+DR   PhylomeDB; Q00874; -.
+DR   PRO; PR:Q00874; -.
+DR   Proteomes; UP000006548; Chromosome 3.
+DR   ExpressionAtlas; Q00874; baseline and differential.
+DR   Genevisible; Q00874; AT.
+DR   GO; GO:0009507; C:chloroplast; ISS:TAIR.
+DR   GO; GO:0000166; F:nucleotide binding; ISS:TAIR.
+DR   GO; GO:0006281; P:DNA repair; IEA:UniProtKB-KW.
+DR   Gene3D; 3.80.10.10; -; 2.
+DR   InterPro; IPR001611; Leu-rich_rpt.
+DR   InterPro; IPR032675; LRR_dom_sf.
+DR   InterPro; IPR013210; LRR_N_plant-typ.
+DR   Pfam; PF00560; LRR_1; 1.
+DR   Pfam; PF13516; LRR_6; 1.
+DR   Pfam; PF13855; LRR_8; 1.
+DR   Pfam; PF08263; LRRNT_2; 1.
+PE   2: Evidence at transcript level;
+KW   Complete proteome; DNA damage; DNA repair; Leucine-rich repeat;
+KW   Reference proteome; Repeat; Signal.
+FT   SIGNAL        1     26       {ECO:0000255}.
+FT   CHAIN        27    372       DNA damage-repair/toleration protein
+FT                                DRT100.
+FT                                /FTId=PRO_0000021118.
+FT   REPEAT      136    158       LRR 1.
+FT   REPEAT      160    183       LRR 2.
+FT   REPEAT      184    205       LRR 3.
+FT   REPEAT      208    230       LRR 4.
+FT   REPEAT      232    254       LRR 5.
+FT   REPEAT      256    277       LRR 6.
+FT   REPEAT      280    302       LRR 7.
+FT   REPEAT      304    326       LRR 8.
+FT   REPEAT      328    350       LRR 9.
+SQ   SEQUENCE   372 AA;  39556 MW;  BA4361101AC45659 CRC64;
+     MRKLLASPFS SLLAVVFISV ISVVRCCSPK DQTALNAFKS SLSEPNLGIF NTWSENTDCC
+     KEWYGISCDP DSGRVTDISL RGESEDAIFQ KAGRSGYMSG SIDPAVCDLT ALTSLVLADW
+     KGITGEIPPC ITSLASLRIL DLAGNKITGE IPAEIGKLSK LAVLNLAENQ MSGEIPASLT
+     SLIELKHLEL TENGITGVIP ADFGSLKMLS RVLLGRNELT GSIPESISGM ERLADLDLSK
+     NHIEGPIPEW MGNMKVLSLL NLDCNSLTGP IPGSLLSNSG LDVANLSRNA LEGTIPDVFG
+     SKTYLVSLDL SHNSLSGRIP DSLSSAKFVG HLDISHNKLC GRIPTGFPFD HLEATSFSDN
+     QCLCGGPLTT SC
+//

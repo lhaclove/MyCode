@@ -1,0 +1,117 @@
+ID   Q9LTW3_ARATH            Unreviewed;       312 AA.
+AC   Q9LTW3;
+DT   01-OCT-2000, integrated into UniProtKB/TrEMBL.
+DT   01-OCT-2000, sequence version 1.
+DT   16-JAN-2019, entry version 114.
+DE   SubName: Full=DNA glycosylase superfamily protein {ECO:0000313|EMBL:AEE75238.1};
+DE   SubName: Full=DNA-3-methyladenine glycosidase I-like protein {ECO:0000313|EMBL:BAB02415.1};
+GN   OrderedLocusNames=At3g12710 {ECO:0000313|Araport:AT3G12710,
+GN   ECO:0000313|EMBL:AEE75238.1};
+OS   Arabidopsis thaliana (Mouse-ear cress).
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+OC   Pentapetalae; rosids; malvids; Brassicales; Brassicaceae; Camelineae;
+OC   Arabidopsis.
+OX   NCBI_TaxID=3702 {ECO:0000313|EMBL:BAB02415.1};
+RN   [1] {ECO:0000313|EMBL:BAB02415.1}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=10819329; DOI=10.1093/dnares/7.2.131;
+RA   Sato S., Nakamura Y., Kaneko T., Katoh T., Asamizu E., Tabata S.;
+RT   "Structural analysis of Arabidopsis thaliana chromosome 3. I. Sequence
+RT   features of the regions of 4,504,864 bp covered by sixty P1 and TAC
+RT   clones.";
+RL   DNA Res. 7:131-135(2000).
+RN   [2] {ECO:0000313|EMBL:AEE75238.1, ECO:0000313|Proteomes:UP000006548}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=cv. Columbia {ECO:0000313|Proteomes:UP000006548};
+RX   PubMed=11130713; DOI=10.1038/35048706;
+RG   European Union Chromosome 3 Arabidopsis Sequencing Consortium;
+RG   Institute for Genomic Research;
+RG   Kazusa DNA Research Institute;
+RA   Salanoubat M., Lemcke K., Rieger M., Ansorge W., Unseld M.,
+RA   Fartmann B., Valle G., Blocker H., Perez-Alonso M., Obermaier B.,
+RA   Delseny M., Boutry M., Grivell L.A., Mache R., Puigdomenech P.,
+RA   De Simone V., Choisne N., Artiguenave F., Robert C., Brottier P.,
+RA   Wincker P., Cattolico L., Weissenbach J., Saurin W., Quetier F.,
+RA   Schafer M., Muller-Auer S., Gabel C., Fuchs M., Benes V., Wurmbach E.,
+RA   Drzonek H., Erfle H., Jordan N., Bangert S., Wiedelmann R., Kranz H.,
+RA   Voss H., Holland R., Brandt P., Nyakatura G., Vezzi A., D'Angelo M.,
+RA   Pallavicini A., Toppo S., Simionati B., Conrad A., Hornischer K.,
+RA   Kauer G., Lohnert T.H., Nordsiek G., Reichelt J., Scharfe M.,
+RA   Schon O., Bargues M., Terol J., Climent J., Navarro P., Collado C.,
+RA   Perez-Perez A., Ottenwalder B., Duchemin D., Cooke R., Laudie M.,
+RA   Berger-Llauro C., Purnelle B., Masuy D., de Haan M., Maarse A.C.,
+RA   Alcaraz J.P., Cottet A., Casacuberta E., Monfort A., Argiriou A.,
+RA   flores M., Liguori R., Vitale D., Mannhaupt G., Haase D., Schoof H.,
+RA   Rudd S., Zaccaria P., Mewes H.W., Mayer K.F., Kaul S., Town C.D.,
+RA   Koo H.L., Tallon L.J., Jenkins J., Rooney T., Rizzo M., Walts A.,
+RA   Utterback T., Fujii C.Y., Shea T.P., Creasy T.H., Haas B., Maiti R.,
+RA   Wu D., Peterson J., Van Aken S., Pai G., Militscher J., Sellers P.,
+RA   Gill J.E., Feldblyum T.V., Preuss D., Lin X., Nierman W.C.,
+RA   Salzberg S.L., White O., Venter J.C., Fraser C.M., Kaneko T.,
+RA   Nakamura Y., Sato S., Kato T., Asamizu E., Sasamoto S., Kimura T.,
+RA   Idesawa K., Kawashima K., Kishida Y., Kiyokawa C., Kohara M.,
+RA   Matsumoto M., Matsuno A., Muraki A., Nakayama S., Nakazaki N.,
+RA   Shinpo S., Takeuchi C., Wada T., Watanabe A., Yamada M., Yasuda M.,
+RA   Tabata S.;
+RT   "Sequence and analysis of chromosome 3 of the plant Arabidopsis
+RT   thaliana.";
+RL   Nature 408:820-822(2000).
+RN   [3] {ECO:0000313|EMBL:AEE75238.1}
+RP   NUCLEOTIDE SEQUENCE.
+RG   TAIR;
+RA   Swarbreck D., Lamesch P., Wilks C., Huala E.;
+RL   Submitted (FEB-2011) to the EMBL/GenBank/DDBJ databases.
+RN   [4] {ECO:0000313|EMBL:AEE75238.1}
+RP   GENOME REANNOTATION.
+RA   Lavstsen T., Jespersen J.S.;
+RL   Submitted (MAY-2016) to the EMBL/GenBank/DDBJ databases.
+RN   [5] {ECO:0000313|Proteomes:UP000006548}
+RP   GENOME REANNOTATION.
+RC   STRAIN=cv. Columbia {ECO:0000313|Proteomes:UP000006548};
+RX   PubMed=27862469; DOI=10.1111/tpj.13415;
+RA   Cheng C.Y., Krishnakumar V., Chan A.P., Thibaud-Nissen F., Schobel S.,
+RA   Town C.D.;
+RT   "Araport11: a complete reannotation of the Arabidopsis thaliana
+RT   reference genome.";
+RL   Plant J. 89:789-804(2017).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   -----------------------------------------------------------------------
+DR   EMBL; CP002686; AEE75238.1; -; Genomic_DNA.
+DR   EMBL; AB024033; BAB02415.1; -; Genomic_DNA.
+DR   RefSeq; NP_566433.1; NM_112107.3.
+DR   UniGene; At.23022; -.
+DR   STRING; 3702.AT3G12710.1; -.
+DR   EnsemblPlants; AT3G12710.1; AT3G12710.1; AT3G12710.
+DR   GeneID; 820453; -.
+DR   Gramene; AT3G12710.1; AT3G12710.1; AT3G12710.
+DR   KEGG; ath:AT3G12710; -.
+DR   Araport; AT3G12710; -.
+DR   TAIR; locus:2087710; AT3G12710.
+DR   eggNOG; ENOG410IFGJ; Eukaryota.
+DR   eggNOG; COG2818; LUCA.
+DR   KO; K01246; -.
+DR   OMA; MSRTETM; -.
+DR   OrthoDB; 822330at2759; -.
+DR   Proteomes; UP000006548; Chromosome 3.
+DR   GO; GO:0008725; F:DNA-3-methyladenine glycosylase activity; IEA:InterPro.
+DR   GO; GO:0006284; P:base-excision repair; IEA:InterPro.
+DR   InterPro; IPR005019; Adenine_glyco.
+DR   InterPro; IPR011257; DNA_glycosylase.
+DR   Pfam; PF03352; Adenine_glyco; 1.
+DR   SUPFAM; SSF48150; SSF48150; 1.
+PE   4: Predicted;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000006548};
+KW   Glycosidase {ECO:0000313|EMBL:BAB02415.1};
+KW   Hydrolase {ECO:0000313|EMBL:BAB02415.1};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000006548}.
+SQ   SEQUENCE   312 AA;  34916 MW;  3E08E4595BB192DB CRC64;
+     MSKTEAISLT KRGMLPPSSC NSLMDRSESL KRDSVMGNGA AKVRGSLERK KSKSFKEGDS
+     YSSWLITEAP GSIAAVRREQ VAAQQALRKL KIAHYGRSKS TINFTSSKVV PLLNPNPNPH
+     PQRCSFLTPT SDPIYVAYHD EEWGVPVHDD KTLFELLTLS GAQVGSDWTS TLRKRHDYRK
+     AFMEFEAEVV AKLTEKEMNA ISIEYKIEMS KVRGVVENAK KIVEIKKAFV SLEKYLWGFV
+     NHKPISTNYK LGHKIPVKTS KSESISKDMV RRGFRFVGPT VVHSFMQAAG LTNDHLITCC
+     RHAPCTLLAT NP
+//

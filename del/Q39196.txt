@@ -1,0 +1,263 @@
+ID   PIP14_ARATH             Reviewed;         287 AA.
+AC   Q39196; O23059; O23829;
+DT   27-JUN-2003, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1996, sequence version 1.
+DT   16-JAN-2019, entry version 147.
+DE   RecName: Full=Probable aquaporin PIP1-4;
+DE   AltName: Full=Plasma membrane intrinsic protein 1-4;
+DE            Short=AtPIP1;4;
+DE   AltName: Full=Transmembrane protein C;
+DE            Short=TMP-C;
+GN   Name=PIP1.4; Synonyms=TMPC; OrderedLocusNames=At4g00430;
+GN   ORFNames=A_IG005I10.2, F5I10.2;
+OS   Arabidopsis thaliana (Mouse-ear cress).
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+OC   Pentapetalae; rosids; malvids; Brassicales; Brassicaceae; Camelineae;
+OC   Arabidopsis.
+OX   NCBI_TaxID=3702;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RC   STRAIN=cv. Columbia; TISSUE=Flower bud;
+RX   PubMed=7972502; DOI=10.1104/pp.105.4.1441;
+RA   Kinoshita T., Hara-Nishimura I., Shiraishi H., Okada K., Shimura Y.,
+RA   Nishimura M.;
+RT   "Nucleotide sequence of a transmembrane protein (TMP-C) cDNA in
+RT   Arabidopsis thaliana.";
+RL   Plant Physiol. 105:1441-1442(1994).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RC   STRAIN=cv. Columbia; TISSUE=Flower bud;
+RX   PubMed=8980528; DOI=10.1007/BF00020217;
+RA   Utsugi S., Sakamoto W., Ogura Y., Murata M., Motoyoshi F.;
+RT   "Isolation and characterization of cDNA clones corresponding to the
+RT   genes expressed preferentially in floral organs of Arabidopsis
+RT   thaliana.";
+RL   Plant Mol. Biol. 32:759-765(1996).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=cv. Columbia;
+RX   PubMed=10617198; DOI=10.1038/47134;
+RA   Mayer K.F.X., Schueller C., Wambutt R., Murphy G., Volckaert G.,
+RA   Pohl T., Duesterhoeft A., Stiekema W., Entian K.-D., Terryn N.,
+RA   Harris B., Ansorge W., Brandt P., Grivell L.A., Rieger M.,
+RA   Weichselgartner M., de Simone V., Obermaier B., Mache R., Mueller M.,
+RA   Kreis M., Delseny M., Puigdomenech P., Watson M., Schmidtheini T.,
+RA   Reichert B., Portetelle D., Perez-Alonso M., Boutry M., Bancroft I.,
+RA   Vos P., Hoheisel J., Zimmermann W., Wedler H., Ridley P.,
+RA   Langham S.-A., McCullagh B., Bilham L., Robben J.,
+RA   van der Schueren J., Grymonprez B., Chuang Y.-J., Vandenbussche F.,
+RA   Braeken M., Weltjens I., Voet M., Bastiaens I., Aert R., Defoor E.,
+RA   Weitzenegger T., Bothe G., Ramsperger U., Hilbert H., Braun M.,
+RA   Holzer E., Brandt A., Peters S., van Staveren M., Dirkse W.,
+RA   Mooijman P., Klein Lankhorst R., Rose M., Hauf J., Koetter P.,
+RA   Berneiser S., Hempel S., Feldpausch M., Lamberth S., Van den Daele H.,
+RA   De Keyser A., Buysshaert C., Gielen J., Villarroel R., De Clercq R.,
+RA   van Montagu M., Rogers J., Cronin A., Quail M.A., Bray-Allen S.,
+RA   Clark L., Doggett J., Hall S., Kay M., Lennard N., McLay K., Mayes R.,
+RA   Pettett A., Rajandream M.A., Lyne M., Benes V., Rechmann S.,
+RA   Borkova D., Bloecker H., Scharfe M., Grimm M., Loehnert T.-H.,
+RA   Dose S., de Haan M., Maarse A.C., Schaefer M., Mueller-Auer S.,
+RA   Gabel C., Fuchs M., Fartmann B., Granderath K., Dauner D., Herzl A.,
+RA   Neumann S., Argiriou A., Vitale D., Liguori R., Piravandi E.,
+RA   Massenet O., Quigley F., Clabauld G., Muendlein A., Felber R.,
+RA   Schnabl S., Hiller R., Schmidt W., Lecharny A., Aubourg S.,
+RA   Chefdor F., Cooke R., Berger C., Monfort A., Casacuberta E.,
+RA   Gibbons T., Weber N., Vandenbol M., Bargues M., Terol J., Torres A.,
+RA   Perez-Perez A., Purnelle B., Bent E., Johnson S., Tacon D., Jesse T.,
+RA   Heijnen L., Schwarz S., Scholler P., Heber S., Francs P., Bielke C.,
+RA   Frishman D., Haase D., Lemcke K., Mewes H.-W., Stocker S.,
+RA   Zaccaria P., Bevan M., Wilson R.K., de la Bastide M., Habermann K.,
+RA   Parnell L., Dedhia N., Gnoj L., Schutz K., Huang E., Spiegel L.,
+RA   Sekhon M., Murray J., Sheet P., Cordes M., Abu-Threideh J.,
+RA   Stoneking T., Kalicki J., Graves T., Harmon G., Edwards J.,
+RA   Latreille P., Courtney L., Cloud J., Abbott A., Scott K., Johnson D.,
+RA   Minx P., Bentley D., Fulton B., Miller N., Greco T., Kemp K.,
+RA   Kramer J., Fulton L., Mardis E., Dante M., Pepin K., Hillier L.W.,
+RA   Nelson J., Spieth J., Ryan E., Andrews S., Geisel C., Layman D.,
+RA   Du H., Ali J., Berghoff A., Jones K., Drone K., Cotton M., Joshu C.,
+RA   Antonoiu B., Zidanic M., Strong C., Sun H., Lamar B., Yordan C.,
+RA   Ma P., Zhong J., Preston R., Vil D., Shekher M., Matero A., Shah R.,
+RA   Swaby I.K., O'Shaughnessy A., Rodriguez M., Hoffman J., Till S.,
+RA   Granat S., Shohdy N., Hasegawa A., Hameed A., Lodhi M., Johnson A.,
+RA   Chen E., Marra M.A., Martienssen R., McCombie W.R.;
+RT   "Sequence and analysis of chromosome 4 of the plant Arabidopsis
+RT   thaliana.";
+RL   Nature 402:769-777(1999).
+RN   [4]
+RP   GENOME REANNOTATION.
+RC   STRAIN=cv. Columbia;
+RX   PubMed=27862469; DOI=10.1111/tpj.13415;
+RA   Cheng C.Y., Krishnakumar V., Chan A.P., Thibaud-Nissen F., Schobel S.,
+RA   Town C.D.;
+RT   "Araport11: a complete reannotation of the Arabidopsis thaliana
+RT   reference genome.";
+RL   Plant J. 89:789-804(2017).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   STRAIN=cv. Columbia;
+RX   PubMed=14593172; DOI=10.1126/science.1088305;
+RA   Yamada K., Lim J., Dale J.M., Chen H., Shinn P., Palm C.J.,
+RA   Southwick A.M., Wu H.C., Kim C.J., Nguyen M., Pham P.K., Cheuk R.F.,
+RA   Karlin-Newmann G., Liu S.X., Lam B., Sakano H., Wu T., Yu G.,
+RA   Miranda M., Quach H.L., Tripp M., Chang C.H., Lee J.M., Toriumi M.J.,
+RA   Chan M.M., Tang C.C., Onodera C.S., Deng J.M., Akiyama K., Ansari Y.,
+RA   Arakawa T., Banh J., Banno F., Bowser L., Brooks S.Y., Carninci P.,
+RA   Chao Q., Choy N., Enju A., Goldsmith A.D., Gurjal M., Hansen N.F.,
+RA   Hayashizaki Y., Johnson-Hopson C., Hsuan V.W., Iida K., Karnes M.,
+RA   Khan S., Koesema E., Ishida J., Jiang P.X., Jones T., Kawai J.,
+RA   Kamiya A., Meyers C., Nakajima M., Narusaka M., Seki M., Sakurai T.,
+RA   Satou M., Tamse R., Vaysberg M., Wallender E.K., Wong C., Yamamura Y.,
+RA   Yuan S., Shinozaki K., Davis R.W., Theologis A., Ecker J.R.;
+RT   "Empirical analysis of transcriptional activity in the Arabidopsis
+RT   genome.";
+RL   Science 302:842-846(2003).
+RN   [6]
+RP   NOMENCLATURE, AND TISSUE SPECIFICITY.
+RX   PubMed=11806824;
+RA   Quigley F., Rosenberg J.M., Shachar-Hill Y., Bohnert H.J.;
+RT   "From genome to function: the Arabidopsis aquaporins.";
+RL   Genome Biol. 3:RESEARCH0001.1-RESEARCH0001.17(2002).
+RN   [7]
+RP   ACETYLATION AT MET-1, AND IDENTIFICATION BY MASS SPECTROMETRY.
+RX   PubMed=16839310; DOI=10.1042/BJ20060569;
+RA   Santoni V., Verdoucq L., Sommerer N., Vinh J., Pflieger D., Maurel C.;
+RT   "Methylation of aquaporins in plant plasma membrane.";
+RL   Biochem. J. 400:189-197(2006).
+CC   -!- FUNCTION: Aquaporins facilitate the transport of water and small
+CC       neutral solutes across cell membranes. {ECO:0000250}.
+CC   -!- INTERACTION:
+CC       Q9SV31:PIP2-5; NbExp=4; IntAct=EBI-4427223, EBI-4425112;
+CC       P93004:PIP2-7; NbExp=3; IntAct=EBI-4427223, EBI-4434233;
+CC       Q9ZVX8:PIP2-8; NbExp=5; IntAct=EBI-4427223, EBI-4425116;
+CC   -!- SUBCELLULAR LOCATION: Cell membrane {ECO:0000250}; Multi-pass
+CC       membrane protein {ECO:0000250}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=1;
+CC         Comment=A number of isoforms are produced. According to EST
+CC         sequences.;
+CC       Name=1;
+CC         IsoId=Q39196-1; Sequence=Displayed;
+CC   -!- TISSUE SPECIFICITY: Predominantly expressed in roots and green
+CC       siliques. Also expressed above ground and in flower buds.
+CC       {ECO:0000269|PubMed:11806824}.
+CC   -!- DOMAIN: Aquaporins contain two tandem repeats each containing
+CC       three membrane-spanning domains and a pore-forming loop with the
+CC       signature motif Asn-Pro-Ala (NPA).
+CC   -!- SIMILARITY: Belongs to the MIP/aquaporin (TC 1.A.8) family. PIP
+CC       (TC 1.A.8.11) subfamily. {ECO:0000305}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=AAB62824.1; Type=Erroneous gene model prediction; Evidence={ECO:0000305};
+CC       Sequence=AAF02782.1; Type=Erroneous gene model prediction; Evidence={ECO:0000305};
+CC       Sequence=CAB80801.1; Type=Erroneous gene model prediction; Evidence={ECO:0000305};
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   -----------------------------------------------------------------------
+DR   EMBL; D26609; BAA05654.1; -; mRNA.
+DR   EMBL; D85192; BAA22097.1; -; mRNA.
+DR   EMBL; AF013293; AAB62824.1; ALT_SEQ; Genomic_DNA.
+DR   EMBL; AF195115; AAF02782.1; ALT_SEQ; Genomic_DNA.
+DR   EMBL; AL161471; CAB80801.1; ALT_SEQ; Genomic_DNA.
+DR   EMBL; CP002687; AEE81879.1; -; Genomic_DNA.
+DR   EMBL; AY099825; AAM20676.1; -; mRNA.
+DR   EMBL; AY120785; AAM53343.1; -; mRNA.
+DR   EMBL; BT000330; AAN15649.1; -; mRNA.
+DR   EMBL; BT006313; AAP13421.1; -; mRNA.
+DR   PIR; T01528; T01528.
+DR   RefSeq; NP_567178.1; NM_116268.4. [Q39196-1]
+DR   UniGene; At.20518; -.
+DR   UniGene; At.20892; -.
+DR   ProteinModelPortal; Q39196; -.
+DR   SMR; Q39196; -.
+DR   BioGrid; 13247; 12.
+DR   IntAct; Q39196; 11.
+DR   STRING; 3702.AT4G00430.1; -.
+DR   iPTMnet; Q39196; -.
+DR   SwissPalm; Q39196; -.
+DR   PaxDb; Q39196; -.
+DR   PRIDE; Q39196; -.
+DR   EnsemblPlants; AT4G00430.1; AT4G00430.1; AT4G00430. [Q39196-1]
+DR   GeneID; 827956; -.
+DR   Gramene; AT4G00430.1; AT4G00430.1; AT4G00430. [Q39196-1]
+DR   KEGG; ath:AT4G00430; -.
+DR   Araport; AT4G00430; -.
+DR   TAIR; locus:2126026; AT4G00430.
+DR   eggNOG; KOG0223; Eukaryota.
+DR   eggNOG; COG0580; LUCA.
+DR   HOGENOM; HOG000288286; -.
+DR   InParanoid; Q39196; -.
+DR   KO; K09872; -.
+DR   OMA; ELFGTFW; -.
+DR   OrthoDB; 1152704at2759; -.
+DR   PhylomeDB; Q39196; -.
+DR   Reactome; R-ATH-1237044; Erythrocytes take up carbon dioxide and release oxygen.
+DR   Reactome; R-ATH-1247673; Erythrocytes take up oxygen and release carbon dioxide.
+DR   Reactome; R-ATH-432040; Vasopressin regulates renal water homeostasis via Aquaporins.
+DR   Reactome; R-ATH-432047; Passive transport by Aquaporins.
+DR   PRO; PR:Q39196; -.
+DR   Proteomes; UP000006548; Chromosome 4.
+DR   ExpressionAtlas; Q39196; baseline and differential.
+DR   Genevisible; Q39196; AT.
+DR   GO; GO:0016021; C:integral component of membrane; IEA:UniProtKB-KW.
+DR   GO; GO:0016020; C:membrane; IDA:TAIR.
+DR   GO; GO:0005886; C:plasma membrane; IDA:TAIR.
+DR   GO; GO:0009506; C:plasmodesma; IBA:GO_Central.
+DR   GO; GO:0005773; C:vacuole; IBA:GO_Central.
+DR   GO; GO:0015250; F:water channel activity; ISS:TAIR.
+DR   GO; GO:0009414; P:response to water deprivation; IEP:TAIR.
+DR   GO; GO:0006833; P:water transport; IMP:TAIR.
+DR   CDD; cd00333; MIP; 1.
+DR   Gene3D; 1.20.1080.10; -; 1.
+DR   InterPro; IPR023271; Aquaporin-like.
+DR   InterPro; IPR034294; Aquaporin_transptr.
+DR   InterPro; IPR000425; MIP.
+DR   InterPro; IPR022357; MIP_CS.
+DR   PANTHER; PTHR19139; PTHR19139; 1.
+DR   Pfam; PF00230; MIP; 1.
+DR   PRINTS; PR00783; MINTRINSICP.
+DR   SUPFAM; SSF81338; SSF81338; 1.
+DR   TIGRFAMs; TIGR00861; MIP; 1.
+DR   PROSITE; PS00221; MIP; 1.
+PE   1: Evidence at protein level;
+KW   Acetylation; Alternative splicing; Cell membrane; Complete proteome;
+KW   Membrane; Phosphoprotein; Reference proteome; Repeat; Transmembrane;
+KW   Transmembrane helix; Transport.
+FT   CHAIN         1    287       Probable aquaporin PIP1-4.
+FT                                /FTId=PRO_0000064049.
+FT   TOPO_DOM      1     55       Cytoplasmic. {ECO:0000255}.
+FT   TRANSMEM     56     76       Helical; Name=1. {ECO:0000255}.
+FT   TOPO_DOM     77     92       Extracellular. {ECO:0000255}.
+FT   TRANSMEM     93    113       Helical; Name=2. {ECO:0000255}.
+FT   TOPO_DOM    114    133       Cytoplasmic. {ECO:0000255}.
+FT   TRANSMEM    134    154       Helical; Name=3. {ECO:0000255}.
+FT   TOPO_DOM    155    175       Extracellular. {ECO:0000255}.
+FT   TRANSMEM    176    196       Helical; Name=4. {ECO:0000255}.
+FT   TOPO_DOM    197    209       Cytoplasmic. {ECO:0000255}.
+FT   TRANSMEM    210    230       Helical; Name=5. {ECO:0000255}.
+FT   TOPO_DOM    231    257       Extracellular. {ECO:0000255}.
+FT   TRANSMEM    258    278       Helical; Name=6. {ECO:0000255}.
+FT   TOPO_DOM    279    287       Cytoplasmic. {ECO:0000255}.
+FT   MOTIF       115    117       NPA 1.
+FT   MOTIF       236    238       NPA 2.
+FT   MOD_RES       1      1       N-acetylmethionine.
+FT                                {ECO:0000269|PubMed:16839310}.
+FT   MOD_RES     285    285       Phosphoserine.
+FT                                {ECO:0000250|UniProtKB:P43286}.
+FT   CONFLICT     25     25       A -> V (in Ref. 2; BAA22097).
+FT                                {ECO:0000305}.
+FT   CONFLICT     39     39       P -> S (in Ref. 2; BAA22097).
+FT                                {ECO:0000305}.
+FT   CONFLICT    169    169       V -> G (in Ref. 2; BAA22097).
+FT                                {ECO:0000305}.
+FT   CONFLICT    199    199       A -> D (in Ref. 2; BAA22097).
+FT                                {ECO:0000305}.
+FT   CONFLICT    203    203       A -> V (in Ref. 2; BAA22097).
+FT                                {ECO:0000305}.
+SQ   SEQUENCE   287 AA;  30693 MW;  8CE76043F389B3B8 CRC64;
+     MEGKEEDVRV GANKFPERQP IGTSAQSTDK DYKEPPPAPL FEPGELSSWS FYRAGIAEFI
+     ATFLFLYITV LTVMGVKRAP NMCASVGIQG IAWAFGGMIF ALVYCTAGIS GGHINPAVTF
+     GLFLARKLSL TRAVFYMIMQ CLGAICGAGV VKGFQPTPYQ TLGGGANTVA HGYTKGSGLG
+     AEIIGTFVLV YTVFSATDAK RSARDSHVPI LAPLPIGFAV FLVHLATIPI TGTGINPARS
+     LGAAIIYNKD HSWDDHWIFW VGPFIGAALA ALYHQIVIRA IPFKSKS
+//

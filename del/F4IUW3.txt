@@ -1,0 +1,161 @@
+ID   AVT1C_ARATH             Reviewed;         550 AA.
+AC   F4IUW3; Q8S8P2; Q949Y8; Q9ZUZ5;
+DT   07-JUN-2017, integrated into UniProtKB/Swiss-Prot.
+DT   28-JUN-2011, sequence version 1.
+DT   16-JAN-2019, entry version 56.
+DE   RecName: Full=Amino acid transporter AVT1C {ECO:0000305};
+DE            Short=AtAvt1C {ECO:0000303|PubMed:27925655};
+GN   Name=AVT1C {ECO:0000303|PubMed:27925655};
+GN   OrderedLocusNames=At2g39130 {ECO:0000312|Araport:AT2G39130};
+GN   ORFNames=T16B24.23 {ECO:0000312|EMBL:AAM14997.1},
+GN   T7F6.1 {ECO:0000312|EMBL:AAC79623.3};
+OS   Arabidopsis thaliana (Mouse-ear cress).
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+OC   Pentapetalae; rosids; malvids; Brassicales; Brassicaceae; Camelineae;
+OC   Arabidopsis.
+OX   NCBI_TaxID=3702;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=cv. Columbia;
+RX   PubMed=10617197; DOI=10.1038/45471;
+RA   Lin X., Kaul S., Rounsley S.D., Shea T.P., Benito M.-I., Town C.D.,
+RA   Fujii C.Y., Mason T.M., Bowman C.L., Barnstead M.E., Feldblyum T.V.,
+RA   Buell C.R., Ketchum K.A., Lee J.J., Ronning C.M., Koo H.L.,
+RA   Moffat K.S., Cronin L.A., Shen M., Pai G., Van Aken S., Umayam L.,
+RA   Tallon L.J., Gill J.E., Adams M.D., Carrera A.J., Creasy T.H.,
+RA   Goodman H.M., Somerville C.R., Copenhaver G.P., Preuss D.,
+RA   Nierman W.C., White O., Eisen J.A., Salzberg S.L., Fraser C.M.,
+RA   Venter J.C.;
+RT   "Sequence and analysis of chromosome 2 of the plant Arabidopsis
+RT   thaliana.";
+RL   Nature 402:761-768(1999).
+RN   [2]
+RP   GENOME REANNOTATION.
+RC   STRAIN=cv. Columbia;
+RX   PubMed=27862469; DOI=10.1111/tpj.13415;
+RA   Cheng C.Y., Krishnakumar V., Chan A.P., Thibaud-Nissen F., Schobel S.,
+RA   Town C.D.;
+RT   "Araport11: a complete reannotation of the Arabidopsis thaliana
+RT   reference genome.";
+RL   Plant J. 89:789-804(2017).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   STRAIN=cv. Columbia;
+RX   PubMed=14593172; DOI=10.1126/science.1088305;
+RA   Yamada K., Lim J., Dale J.M., Chen H., Shinn P., Palm C.J.,
+RA   Southwick A.M., Wu H.C., Kim C.J., Nguyen M., Pham P.K., Cheuk R.F.,
+RA   Karlin-Newmann G., Liu S.X., Lam B., Sakano H., Wu T., Yu G.,
+RA   Miranda M., Quach H.L., Tripp M., Chang C.H., Lee J.M., Toriumi M.J.,
+RA   Chan M.M., Tang C.C., Onodera C.S., Deng J.M., Akiyama K., Ansari Y.,
+RA   Arakawa T., Banh J., Banno F., Bowser L., Brooks S.Y., Carninci P.,
+RA   Chao Q., Choy N., Enju A., Goldsmith A.D., Gurjal M., Hansen N.F.,
+RA   Hayashizaki Y., Johnson-Hopson C., Hsuan V.W., Iida K., Karnes M.,
+RA   Khan S., Koesema E., Ishida J., Jiang P.X., Jones T., Kawai J.,
+RA   Kamiya A., Meyers C., Nakajima M., Narusaka M., Seki M., Sakurai T.,
+RA   Satou M., Tamse R., Vaysberg M., Wallender E.K., Wong C., Yamamura Y.,
+RA   Yuan S., Shinozaki K., Davis R.W., Theologis A., Ecker J.R.;
+RT   "Empirical analysis of transcriptional activity in the Arabidopsis
+RT   genome.";
+RL   Science 302:842-846(2003).
+RN   [4]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=19376835; DOI=10.1104/pp.109.138677;
+RA   Reiland S., Messerli G., Baerenfaller K., Gerrits B., Endler A.,
+RA   Grossmann J., Gruissem W., Baginsky S.;
+RT   "Large-scale Arabidopsis phosphoproteome profiling reveals novel
+RT   chloroplast kinase substrates and phosphorylation networks.";
+RL   Plant Physiol. 150:889-903(2009).
+RN   [5]
+RP   GENE FAMILY, AND NOMENCLATURE.
+RX   PubMed=27925655; DOI=10.1002/1873-3468.12507;
+RA   Fujiki Y., Teshima H., Kashiwao S., Kawano-Kawada M., Ohsumi Y.,
+RA   Kakinuma Y., Sekito T.;
+RT   "Functional identification of AtAVT3, a family of vacuolar amino acid
+RT   transporters, in Arabidopsis.";
+RL   FEBS Lett. 591:5-15(2017).
+CC   -!- SUBCELLULAR LOCATION: Membrane {ECO:0000255}; Multi-pass membrane
+CC       protein {ECO:0000255}.
+CC   -!- SIMILARITY: Belongs to the amino acid/polyamine transporter 2
+CC       family. Amino acid/auxin permease (AAAP) (TC 2.A.18.5) subfamily.
+CC       {ECO:0000305}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=AAC79623.3; Type=Erroneous gene model prediction; Evidence={ECO:0000305};
+CC       Sequence=AAM14997.1; Type=Erroneous gene model prediction; Evidence={ECO:0000305};
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AC004697; AAM14997.1; ALT_SEQ; Genomic_DNA.
+DR   EMBL; AC005770; AAC79623.3; ALT_SEQ; Genomic_DNA.
+DR   EMBL; CP002685; AEC09638.1; -; Genomic_DNA.
+DR   EMBL; CP002685; ANM62501.1; -; Genomic_DNA.
+DR   EMBL; AY050801; AAK92736.1; -; mRNA.
+DR   PIR; E84813; E84813.
+DR   PIR; T02589; T02589.
+DR   RefSeq; NP_001324655.1; NM_001336758.1.
+DR   RefSeq; NP_850312.1; NM_179981.3.
+DR   UniGene; At.13254; -.
+DR   UniGene; At.66409; -.
+DR   ProteinModelPortal; F4IUW3; -.
+DR   IntAct; F4IUW3; 2.
+DR   STRING; 3702.AT2G39130.1; -.
+DR   iPTMnet; F4IUW3; -.
+DR   PaxDb; F4IUW3; -.
+DR   PRIDE; F4IUW3; -.
+DR   EnsemblPlants; AT2G39130.1; AT2G39130.1; AT2G39130.
+DR   EnsemblPlants; AT2G39130.2; AT2G39130.2; AT2G39130.
+DR   GeneID; 818499; -.
+DR   Gramene; AT2G39130.1; AT2G39130.1; AT2G39130.
+DR   Gramene; AT2G39130.2; AT2G39130.2; AT2G39130.
+DR   KEGG; ath:AT2G39130; -.
+DR   Araport; AT2G39130; -.
+DR   TAIR; locus:2056118; AT2G39130.
+DR   eggNOG; KOG1303; Eukaryota.
+DR   eggNOG; COG0814; LUCA.
+DR   HOGENOM; HOG000238029; -.
+DR   InParanoid; F4IUW3; -.
+DR   KO; K15015; -.
+DR   OMA; HLKLQWR; -.
+DR   OrthoDB; 570025at2759; -.
+DR   Reactome; R-ATH-425393; Transport of inorganic cations/anions and amino acids/oligopeptides.
+DR   Reactome; R-ATH-888590; GABA synthesis, release, reuptake and degradation.
+DR   PRO; PR:F4IUW3; -.
+DR   Proteomes; UP000006548; Chromosome 2.
+DR   ExpressionAtlas; F4IUW3; baseline and differential.
+DR   GO; GO:0016021; C:integral component of membrane; IEA:UniProtKB-KW.
+DR   GO; GO:0005774; C:vacuolar membrane; IDA:TAIR.
+DR   GO; GO:0015171; F:amino acid transmembrane transporter activity; IBA:GO_Central.
+DR   GO; GO:0003333; P:amino acid transmembrane transport; IBA:GO_Central.
+DR   InterPro; IPR013057; AA_transpt_TM.
+DR   Pfam; PF01490; Aa_trans; 1.
+PE   1: Evidence at protein level;
+KW   Amino-acid transport; Complete proteome; Membrane; Reference proteome;
+KW   Transmembrane; Transmembrane helix; Transport.
+FT   CHAIN         1    550       Amino acid transporter AVT1C.
+FT                                /FTId=PRO_0000440104.
+FT   TRANSMEM    165    185       Helical; Name=1. {ECO:0000255}.
+FT   TRANSMEM    190    210       Helical; Name=2. {ECO:0000255}.
+FT   TRANSMEM    237    257       Helical; Name=3. {ECO:0000255}.
+FT   TRANSMEM    283    303       Helical; Name=4. {ECO:0000255}.
+FT   TRANSMEM    307    327       Helical; Name=5. {ECO:0000255}.
+FT   TRANSMEM    342    362       Helical; Name=6. {ECO:0000255}.
+FT   TRANSMEM    377    397       Helical; Name=7. {ECO:0000255}.
+FT   TRANSMEM    422    442       Helical; Name=8. {ECO:0000255}.
+FT   TRANSMEM    462    484       Helical; Name=9. {ECO:0000255}.
+FT   TRANSMEM    488    510       Helical; Name=10. {ECO:0000255}.
+FT   TRANSMEM    521    541       Helical; Name=11. {ECO:0000255}.
+FT   CONFLICT    259    259       S -> I (in Ref. 3; AAK92736).
+FT                                {ECO:0000305}.
+SQ   SEQUENCE   550 AA;  60070 MW;  F79A94AE7DEFD0D7 CRC64;
+     MNHVPSDQSF YIESEDEDDR KDYVEEDGGS HSDSSDDVYD ENQAHIKPSS YTTAWPQSYR
+     QSIDLYSSVP SPGIGFLGNN SMTRFGSSFL SSGLIRRHTP ESLPTVTKPL LEEQADEQAL
+     PKHRLSSQGL LSPIPSRRGS MRKDEKSSMV SHEIPMSRNS SYGQAVLNGL NVLCGVGILS
+     TPYAAKEGGW LGLMILFVYG LLSFYTGILL RYCLDSESDL ETYPDIGQAA FGTTGRIFVS
+     IVLYLELYAC CVEYIILESD NLSSLYPNAA LSIGGFQLDA RHLFALLTTL AVLPTVWLRD
+     LSVLSYISAG GVIASVLVVL CLFWIGLVDE VGIHSKGTTL NLSTLPVAIG LYGYCYSGHA
+     VFPNIYTSMA KPSQYPAVLL TCFGICTLMY AGVAVMGYTM FGESTQSQFT LNLPQDLIAT
+     KIAVWTTVVN PFTKYALTIS PVAMSLEELI PSRHIRSHWY AIGIRTLLVF STLLVGLAIP
+     FFGLVMSLIG SLLTMLVTLI LPPACFLSIV RRKVTPTQMM LCVLIIIVGA ISSVIGSYSA
+     LSKIVEKLTN
+//

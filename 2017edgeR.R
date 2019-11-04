@@ -1,9 +1,9 @@
-setwd("D:\\New folder1\\404")
+setwd("D:\\B4")
 library(edgeR)
 #read count data
 
-filename=("404")
-alldata <- read.csv("D:\\New folder1\\all.csv",row.names=1)
+filename=("all")
+alldata <- read.csv("D:\\B4_gene_count_matrix.csv",row.names=1)
 #alldata <- read.delim("allcountB2.txt",row.names=1)
 rnaidata<- read.csv("307V4count.csv",row.names=1)
 
@@ -15,7 +15,7 @@ x<-alldata[c(1:12)]
 #defane the grorup and design
 group<-factor(c(1,1,1,2,2,2,3,3,3,3,3,3))
 
-y <- DGEList(counts=x,group=group)
+y <- DGEList(counts=cts,group=coldata$group)
 
 y <- calcNormFactors(y)
 #y <- estimateGLMCommonDisp(y,design,verbose=TRUE)

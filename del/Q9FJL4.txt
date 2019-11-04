@@ -1,0 +1,170 @@
+ID   BH078_ARATH             Reviewed;         498 AA.
+AC   Q9FJL4; Q8S3D4;
+DT   16-DEC-2008, integrated into UniProtKB/Swiss-Prot.
+DT   01-MAR-2001, sequence version 1.
+DT   16-JAN-2019, entry version 110.
+DE   RecName: Full=Transcription factor bHLH78;
+DE   AltName: Full=Basic helix-loop-helix protein 78;
+DE            Short=AtbHLH78;
+DE            Short=bHLH 78;
+DE   AltName: Full=Transcription factor EN 86;
+DE   AltName: Full=bHLH transcription factor bHLH078;
+GN   Name=BHLH78; Synonyms=CIB2, EN86; OrderedLocusNames=At5g48560;
+GN   ORFNames=K15N18.2;
+OS   Arabidopsis thaliana (Mouse-ear cress).
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+OC   Pentapetalae; rosids; malvids; Brassicales; Brassicaceae; Camelineae;
+OC   Arabidopsis.
+OX   NCBI_TaxID=3702;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA], TISSUE SPECIFICITY, GENE FAMILY, AND
+RP   NOMENCLATURE.
+RC   STRAIN=cv. Columbia;
+RX   PubMed=12679534; DOI=10.1093/molbev/msg088;
+RA   Heim M.A., Jakoby M., Werber M., Martin C., Weisshaar B., Bailey P.C.;
+RT   "The basic helix-loop-helix transcription factor family in plants: a
+RT   genome-wide study of protein structure and functional diversity.";
+RL   Mol. Biol. Evol. 20:735-747(2003).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=cv. Columbia;
+RX   PubMed=9872454; DOI=10.1093/dnares/5.5.297;
+RA   Nakamura Y., Sato S., Asamizu E., Kaneko T., Kotani H., Miyajima N.,
+RA   Tabata S.;
+RT   "Structural analysis of Arabidopsis thaliana chromosome 5. VII.
+RT   Sequence features of the regions of 1,013,767 bp covered by sixteen
+RT   physically assigned P1 and TAC clones.";
+RL   DNA Res. 5:297-308(1998).
+RN   [3]
+RP   GENOME REANNOTATION.
+RC   STRAIN=cv. Columbia;
+RX   PubMed=27862469; DOI=10.1111/tpj.13415;
+RA   Cheng C.Y., Krishnakumar V., Chan A.P., Thibaud-Nissen F., Schobel S.,
+RA   Town C.D.;
+RT   "Araport11: a complete reannotation of the Arabidopsis thaliana
+RT   reference genome.";
+RL   Plant J. 89:789-804(2017).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   STRAIN=cv. Columbia;
+RX   PubMed=14593172; DOI=10.1126/science.1088305;
+RA   Yamada K., Lim J., Dale J.M., Chen H., Shinn P., Palm C.J.,
+RA   Southwick A.M., Wu H.C., Kim C.J., Nguyen M., Pham P.K., Cheuk R.F.,
+RA   Karlin-Newmann G., Liu S.X., Lam B., Sakano H., Wu T., Yu G.,
+RA   Miranda M., Quach H.L., Tripp M., Chang C.H., Lee J.M., Toriumi M.J.,
+RA   Chan M.M., Tang C.C., Onodera C.S., Deng J.M., Akiyama K., Ansari Y.,
+RA   Arakawa T., Banh J., Banno F., Bowser L., Brooks S.Y., Carninci P.,
+RA   Chao Q., Choy N., Enju A., Goldsmith A.D., Gurjal M., Hansen N.F.,
+RA   Hayashizaki Y., Johnson-Hopson C., Hsuan V.W., Iida K., Karnes M.,
+RA   Khan S., Koesema E., Ishida J., Jiang P.X., Jones T., Kawai J.,
+RA   Kamiya A., Meyers C., Nakajima M., Narusaka M., Seki M., Sakurai T.,
+RA   Satou M., Tamse R., Vaysberg M., Wallender E.K., Wong C., Yamamura Y.,
+RA   Yuan S., Shinozaki K., Davis R.W., Theologis A., Ecker J.R.;
+RT   "Empirical analysis of transcriptional activity in the Arabidopsis
+RT   genome.";
+RL   Science 302:842-846(2003).
+RN   [5]
+RP   GENE FAMILY.
+RX   PubMed=12897250; DOI=10.1105/tpc.013839;
+RA   Toledo-Ortiz G., Huq E., Quail P.H.;
+RT   "The Arabidopsis basic/helix-loop-helix transcription factor family.";
+RL   Plant Cell 15:1749-1770(2003).
+RN   [6]
+RP   GENE FAMILY, AND NOMENCLATURE.
+RX   PubMed=14600211; DOI=10.1105/tpc.151140;
+RA   Bailey P.C., Martin C., Toledo-Ortiz G., Quail P.H., Huq E.,
+RA   Heim M.A., Jakoby M., Werber M., Weisshaar B.;
+RT   "Update on the basic helix-loop-helix transcription factor gene family
+RT   in Arabidopsis thaliana.";
+RL   Plant Cell 15:2497-2502(2003).
+RN   [7]
+RP   FUNCTION, AND INTERACTION WITH CRY2.
+RX   PubMed=24130508; DOI=10.1371/journal.pgen.1003861;
+RA   Liu Y., Li X., Li K., Liu H., Lin C.;
+RT   "Multiple bHLH proteins form heterodimers to mediate CRY2-dependent
+RT   regulation of flowering-time in Arabidopsis.";
+RL   PLoS Genet. 9:E1003861-E1003861(2013).
+CC   -!- FUNCTION: Transcription factor that binds DNA to G box 5'-CACGTG-
+CC       3' and to E-box 5'-CANNTG-3' (By similarity). Binds to chromatin
+CC       DNA of the FT gene and promotes its expression, and thus triggers
+CC       flowering in response to blue light (PubMed:24130508).
+CC       {ECO:0000250|UniProtKB:Q8GY61, ECO:0000269|PubMed:24130508}.
+CC   -!- SUBUNIT: Homodimer (Probable). Binds reversibly to CRY2 after blue
+CC       light illumination (PubMed:24130508).
+CC       {ECO:0000269|PubMed:24130508, ECO:0000305}.
+CC   -!- SUBCELLULAR LOCATION: Nucleus {ECO:0000255|PROSITE-
+CC       ProRule:PRU00981}.
+CC   -!- TISSUE SPECIFICITY: Expressed constitutively in roots, leaves,
+CC       stems, and flowers. {ECO:0000269|PubMed:12679534}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AF488610; AAM10957.1; -; mRNA.
+DR   EMBL; AB015468; BAB10689.1; -; Genomic_DNA.
+DR   EMBL; CP002688; AED95688.1; -; Genomic_DNA.
+DR   EMBL; BT002945; AAO22758.1; -; mRNA.
+DR   EMBL; BT005637; AAO64057.1; -; mRNA.
+DR   RefSeq; NP_199667.1; NM_124232.4.
+DR   UniGene; At.43769; -.
+DR   ProteinModelPortal; Q9FJL4; -.
+DR   SMR; Q9FJL4; -.
+DR   BioGrid; 20158; 3.
+DR   IntAct; Q9FJL4; 1.
+DR   STRING; 3702.AT5G48560.1; -.
+DR   PaxDb; Q9FJL4; -.
+DR   PRIDE; Q9FJL4; -.
+DR   EnsemblPlants; AT5G48560.1; AT5G48560.1; AT5G48560.
+DR   GeneID; 834912; -.
+DR   Gramene; AT5G48560.1; AT5G48560.1; AT5G48560.
+DR   KEGG; ath:AT5G48560; -.
+DR   Araport; AT5G48560; -.
+DR   TAIR; locus:2152551; AT5G48560.
+DR   eggNOG; ENOG410IHY1; Eukaryota.
+DR   eggNOG; ENOG4111T9V; LUCA.
+DR   HOGENOM; HOG000238007; -.
+DR   InParanoid; Q9FJL4; -.
+DR   OMA; SHMKVEL; -.
+DR   OrthoDB; 616690at2759; -.
+DR   PhylomeDB; Q9FJL4; -.
+DR   PRO; PR:Q9FJL4; -.
+DR   Proteomes; UP000006548; Chromosome 5.
+DR   ExpressionAtlas; Q9FJL4; baseline and differential.
+DR   Genevisible; Q9FJL4; AT.
+DR   GO; GO:0005634; C:nucleus; IDA:TAIR.
+DR   GO; GO:0003700; F:DNA-binding transcription factor activity; ISS:TAIR.
+DR   GO; GO:0046983; F:protein dimerization activity; IEA:InterPro.
+DR   GO; GO:0043565; F:sequence-specific DNA binding; IBA:GO_Central.
+DR   GO; GO:0006355; P:regulation of transcription, DNA-templated; TAS:TAIR.
+DR   GO; GO:0009637; P:response to blue light; IDA:UniProtKB.
+DR   CDD; cd00083; HLH; 1.
+DR   Gene3D; 4.10.280.10; -; 1.
+DR   InterPro; IPR011598; bHLH_dom.
+DR   InterPro; IPR024097; bHLH_ZIP_TF.
+DR   InterPro; IPR036638; HLH_DNA-bd_sf.
+DR   PANTHER; PTHR12565; PTHR12565; 1.
+DR   Pfam; PF00010; HLH; 1.
+DR   SMART; SM00353; HLH; 1.
+DR   SUPFAM; SSF47459; SSF47459; 1.
+DR   PROSITE; PS50888; BHLH; 1.
+PE   1: Evidence at protein level;
+KW   Complete proteome; DNA-binding; Nucleus; Reference proteome;
+KW   Transcription; Transcription regulation.
+FT   CHAIN         1    498       Transcription factor bHLH78.
+FT                                /FTId=PRO_0000358770.
+FT   DOMAIN      307    357       bHLH. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00981}.
+FT   CONFLICT    280    280       E -> G (in Ref. 1; AAM10957).
+FT                                {ECO:0000305}.
+SQ   SEQUENCE   498 AA;  54878 MW;  848D588791A15E52 CRC64;
+     MDNELFMNTE FPPPPEMATH FEHQQSSSSA MMLNWALMDP NPHQDSSFLW EKSTEQQQQQ
+     SIFDSALSSL VSSPTPSNSN FSGGGGDGFL IRELIGKLGN IGNNNNNSGE IYGTPMSRSA
+     SCYATPMSSP PPPTNSNSQM MMNRTTPLTE FSADPGFAER AARFSCFGSR SFNGRTNTNL
+     PINNGNNMVN NSGKLTRVSS TPALKALVSP EVTPGGEFSR KRKSVPKGKS KENPISTASP
+     SPSFSKTAEK NGGKGGSKSS EEKGGKRRRE EEDDEEEEGE GEGNKSNNTK PPEPPKDYIH
+     VRARRGQATD SHSLAERVRR EKIGERMKLL QDLVPGCNKV TGKALMLDEI INYVQSLQRQ
+     VEFLSMKLSS VNDTRLDFNV DALVSKDVMI PSSNNRLHEE GLQSKSSSHH HQQQLNIYNN
+     NSQLLPNISS NNMMLQSPMN SLETSTLARS FTHLPTLTQF TDSISQYQMF SEEDLQSIVG
+     MGVAENPNNE SQHMKIEL
+//

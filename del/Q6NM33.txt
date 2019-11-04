@@ -1,0 +1,121 @@
+ID   Q6NM33_ARATH            Unreviewed;       263 AA.
+AC   Q6NM33;
+DT   05-JUL-2004, integrated into UniProtKB/TrEMBL.
+DT   05-JUL-2004, sequence version 1.
+DT   16-JAN-2019, entry version 87.
+DE   SubName: Full=At5g19340 {ECO:0000313|EMBL:AAS76239.1};
+GN   OrderedLocusNames=At5g19340 {ECO:0000313|Araport:AT5G19340,
+GN   ECO:0000313|EMBL:AED92688.1};
+GN   ORFNames=F7K24.90 {ECO:0000313|EMBL:AED92688.1},
+GN   F7K24_90 {ECO:0000313|EMBL:AED92688.1};
+OS   Arabidopsis thaliana (Mouse-ear cress).
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+OC   Pentapetalae; rosids; malvids; Brassicales; Brassicaceae; Camelineae;
+OC   Arabidopsis.
+OX   NCBI_TaxID=3702 {ECO:0000313|EMBL:AAS76239.1};
+RN   [1] {ECO:0000313|EMBL:AED92688.1, ECO:0000313|Proteomes:UP000006548}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=cv. Columbia {ECO:0000313|Proteomes:UP000006548};
+RX   PubMed=11130714; DOI=10.1038/35048507;
+RG   Kazusa DNA Research Institute;
+RG   Cold Spring Harbor and Washington University in St Louis Sequencing Consortium;
+RG   European Union Arabidopsis Genome Sequencing Consortium;
+RA   Tabata S., Kaneko T., Nakamura Y., Kotani H., Kato T., Asamizu E.,
+RA   Miyajima N., Sasamoto S., Kimura T., Hosouchi T., Kawashima K.,
+RA   Kohara M., Matsumoto M., Matsuno A., Muraki A., Nakayama S.,
+RA   Nakazaki N., Naruo K., Okumura S., Shinpo S., Takeuchi C., Wada T.,
+RA   Watanabe A., Yamada M., Yasuda M., Sato S., de la Bastide M.,
+RA   Huang E., Spiegel L., Gnoj L., O'Shaughnessy A., Preston R.,
+RA   Habermann K., Murray J., Johnson D., Rohlfing T., Nelson J.,
+RA   Stoneking T., Pepin K., Spieth J., Sekhon M., Armstrong J., Becker M.,
+RA   Belter E., Cordum H., Cordes M., Courtney L., Courtney W., Dante M.,
+RA   Du H., Edwards J., Fryman J., Haakensen B., Lamar E., Latreille P.,
+RA   Leonard S., Meyer R., Mulvaney E., Ozersky P., Riley A., Strowmatt C.,
+RA   Wagner-McPherson C., Wollam A., Yoakum M., Bell M., Dedhia N.,
+RA   Parnell L., Shah R., Rodriguez M., See L.H., Vil D., Baker J.,
+RA   Kirchoff K., Toth K., King L., Bahret A., Miller B., Marra M.,
+RA   Martienssen R., McCombie W.R., Wilson R.K., Murphy G., Bancroft I.,
+RA   Volckaert G., Wambutt R., Dusterhoft A., Stiekema W., Pohl T.,
+RA   Entian K.D., Terryn N., Hartley N., Bent E., Johnson S., Langham S.A.,
+RA   McCullagh B., Robben J., Grymonprez B., Zimmermann W., Ramsperger U.,
+RA   Wedler H., Balke K., Wedler E., Peters S., van Staveren M., Dirkse W.,
+RA   Mooijman P., Lankhorst R.K., Weitzenegger T., Bothe G., Rose M.,
+RA   Hauf J., Berneiser S., Hempel S., Feldpausch M., Lamberth S.,
+RA   Villarroel R., Gielen J., Ardiles W., Bents O., Lemcke K., Kolesov G.,
+RA   Mayer K., Rudd S., Schoof H., Schueller C., Zaccaria P., Mewes H.W.,
+RA   Bevan M., Fransz P.;
+RT   "Sequence and analysis of chromosome 5 of the plant Arabidopsis
+RT   thaliana.";
+RL   Nature 408:823-826(2000).
+RN   [2] {ECO:0000313|EMBL:AAR92257.1}
+RP   NUCLEOTIDE SEQUENCE.
+RA   Cheuk R., Chen H., Kim C.J., Shinn P., Ecker J.R.;
+RT   "Arabidopsis ORF clones.";
+RL   Submitted (JAN-2004) to the EMBL/GenBank/DDBJ databases.
+RN   [3] {ECO:0000313|EMBL:AAS76239.1}
+RP   NUCLEOTIDE SEQUENCE.
+RA   Kim C.J., Chen H., Cheuk R., Shinn P., Ecker J.R.;
+RT   "Arabidopsis ORF clones.";
+RL   Submitted (MAR-2004) to the EMBL/GenBank/DDBJ databases.
+RN   [4] {ECO:0000313|EMBL:BAF01168.1}
+RP   NUCLEOTIDE SEQUENCE.
+RA   Totoki Y., Seki M., Ishida J., Nakajima M., Enju A., Morosawa T.,
+RA   Kamiya A., Narusaka M., Shin-i T., Nakagawa M., Sakamoto N., Oishi K.,
+RA   Kohara Y., Kobayashi M., Toyoda A., Sakaki Y., Sakurai T., Iida K.,
+RA   Akiyama K., Satou M., Toyoda T., Konagaya A., Carninci P., Kawai J.,
+RA   Hayashizaki Y., Shinozaki K.;
+RT   "Large-scale analysis of RIKEN Arabidopsis full-length (RAFL) cDNAs.";
+RL   Submitted (JUL-2006) to the EMBL/GenBank/DDBJ databases.
+RN   [5] {ECO:0000313|EMBL:AED92688.1}
+RP   NUCLEOTIDE SEQUENCE.
+RG   TAIR;
+RA   Swarbreck D., Lamesch P., Wilks C., Huala E.;
+RL   Submitted (FEB-2011) to the EMBL/GenBank/DDBJ databases.
+RN   [6] {ECO:0000313|EMBL:AED92688.1}
+RP   GENOME REANNOTATION.
+RG   The Arabidopsis Information Portal (Araport);
+RL   Submitted (MAY-2016) to the EMBL/GenBank/DDBJ databases.
+RN   [7] {ECO:0000313|Proteomes:UP000006548}
+RP   GENOME REANNOTATION.
+RC   STRAIN=cv. Columbia {ECO:0000313|Proteomes:UP000006548};
+RX   PubMed=27862469; DOI=10.1111/tpj.13415;
+RA   Cheng C.Y., Krishnakumar V., Chan A.P., Thibaud-Nissen F., Schobel S.,
+RA   Town C.D.;
+RT   "Araport11: a complete reannotation of the Arabidopsis thaliana
+RT   reference genome.";
+RL   Plant J. 89:789-804(2017).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   -----------------------------------------------------------------------
+DR   EMBL; BT011221; AAR92257.1; -; mRNA.
+DR   EMBL; BT012144; AAS76239.1; -; mRNA.
+DR   EMBL; CP002688; AED92688.1; -; Genomic_DNA.
+DR   EMBL; AK229305; BAF01168.1; -; mRNA.
+DR   RefSeq; NP_197435.2; NM_121939.3.
+DR   UniGene; At.43486; -.
+DR   STRING; 3702.AT5G19340.1; -.
+DR   EnsemblPlants; AT5G19340.1; AT5G19340.1; AT5G19340.
+DR   GeneID; 832054; -.
+DR   Gramene; AT5G19340.1; AT5G19340.1; AT5G19340.
+DR   KEGG; ath:AT5G19340; -.
+DR   Araport; AT5G19340; -.
+DR   TAIR; locus:2150300; AT5G19340.
+DR   eggNOG; ENOG410JCSH; Eukaryota.
+DR   eggNOG; ENOG41113TE; LUCA.
+DR   HOGENOM; HOG000143352; -.
+DR   OMA; GNMTTAD; -.
+DR   OrthoDB; 1143662at2759; -.
+DR   Proteomes; UP000006548; Chromosome 5.
+DR   ExpressionAtlas; Q6NM33; baseline and differential.
+PE   2: Evidence at transcript level;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000006548};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000006548}.
+SQ   SEQUENCE   263 AA;  29355 MW;  A63C453DA8F6DE68 CRC64;
+     MVSAETATMA EAEPSTTGPR ISFSADLSSS DSDGDFICIN PVMNLIVGRE EKDKSSVKAG
+     DFEFLSENAT MLSADELFSE GKLLPFWQVK HSEKLKNVTL KPKVEVQQEE EDHKVVNEEG
+     FVHNKEQENN NNNNNNNNNR GSWFLDDDPS PRPPKCTVLW KELLRLKKQR TTTTTTASTR
+     VSSLSPSSSS SSTSSSSSSI GDAVKKEERE KEGKRGKKGL ERTRSVTMRI RPMIHVPVCT
+     PSKSSSRLPP LFPLRLQKNR VER
+//

@@ -1,0 +1,556 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2011-05-03" modified="2019-01-16" version="100">
+<accession>Q9FZJ1</accession>
+<accession>W8PVA7</accession>
+<name>IRX10_ARATH</name>
+<protein>
+<recommendedName>
+<fullName>Probable beta-1,4-xylosyltransferase IRX10</fullName>
+<ecNumber>2.4.2.-</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>Glucuronoxylan glucuronosyltransferase 1</fullName>
+<shortName>AtGUT1</shortName>
+</alternativeName>
+<alternativeName>
+<fullName>Glucuronoxylan glucuronosyltransferase 2</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Protein IRREGULAR XYLEM 10</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Xylan xylosyltransferase IRX10</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">IRX10</name>
+<name type="synonym">GUT1</name>
+<name type="synonym">GUT2</name>
+<name type="ordered locus">At1g27440</name>
+<name type="ORF">F17L21.23</name>
+</gene>
+<organism>
+<name type="scientific">Arabidopsis thaliana</name>
+<name type="common">Mouse-ear cress</name>
+<dbReference type="NCBI Taxonomy" id="3702"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Viridiplantae</taxon>
+<taxon>Streptophyta</taxon>
+<taxon>Embryophyta</taxon>
+<taxon>Tracheophyta</taxon>
+<taxon>Spermatophyta</taxon>
+<taxon>Magnoliophyta</taxon>
+<taxon>eudicotyledons</taxon>
+<taxon>Gunneridae</taxon>
+<taxon>Pentapetalae</taxon>
+<taxon>rosids</taxon>
+<taxon>malvids</taxon>
+<taxon>Brassicales</taxon>
+<taxon>Brassicaceae</taxon>
+<taxon>Camelineae</taxon>
+<taxon>Arabidopsis</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="2014" name="Plant J." volume="79" first="517" last="529">
+<title>The plant glycosyltransferase clone collection for functional genomics.</title>
+<authorList>
+<person name="Lao J."/>
+<person name="Oikawa A."/>
+<person name="Bromley J.R."/>
+<person name="McInerney P."/>
+<person name="Suttangkakul A."/>
+<person name="Smith-Moritz A.M."/>
+<person name="Plahar H."/>
+<person name="Chiu T.-Y."/>
+<person name="Gonzalez Fernandez-Nino S.M.G."/>
+<person name="Ebert B."/>
+<person name="Yang F."/>
+<person name="Christiansen K.M."/>
+<person name="Hansen S.F."/>
+<person name="Stonebloom S."/>
+<person name="Adams P.D."/>
+<person name="Ronald P.C."/>
+<person name="Hillson N.J."/>
+<person name="Hadi M.Z."/>
+<person name="Vega-Sanchez M.E."/>
+<person name="Loque D."/>
+<person name="Scheller H.V."/>
+<person name="Heazlewood J.L."/>
+</authorList>
+<dbReference type="PubMed" id="24905498"/>
+<dbReference type="DOI" id="10.1111/tpj.12577"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+<scope>WEB RESOURCE</scope>
+<scope>GENE FAMILY</scope>
+<source>
+<strain>cv. Columbia</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2000" name="Nature" volume="408" first="816" last="820">
+<title>Sequence and analysis of chromosome 1 of the plant Arabidopsis thaliana.</title>
+<authorList>
+<person name="Theologis A."/>
+<person name="Ecker J.R."/>
+<person name="Palm C.J."/>
+<person name="Federspiel N.A."/>
+<person name="Kaul S."/>
+<person name="White O."/>
+<person name="Alonso J."/>
+<person name="Altafi H."/>
+<person name="Araujo R."/>
+<person name="Bowman C.L."/>
+<person name="Brooks S.Y."/>
+<person name="Buehler E."/>
+<person name="Chan A."/>
+<person name="Chao Q."/>
+<person name="Chen H."/>
+<person name="Cheuk R.F."/>
+<person name="Chin C.W."/>
+<person name="Chung M.K."/>
+<person name="Conn L."/>
+<person name="Conway A.B."/>
+<person name="Conway A.R."/>
+<person name="Creasy T.H."/>
+<person name="Dewar K."/>
+<person name="Dunn P."/>
+<person name="Etgu P."/>
+<person name="Feldblyum T.V."/>
+<person name="Feng J.-D."/>
+<person name="Fong B."/>
+<person name="Fujii C.Y."/>
+<person name="Gill J.E."/>
+<person name="Goldsmith A.D."/>
+<person name="Haas B."/>
+<person name="Hansen N.F."/>
+<person name="Hughes B."/>
+<person name="Huizar L."/>
+<person name="Hunter J.L."/>
+<person name="Jenkins J."/>
+<person name="Johnson-Hopson C."/>
+<person name="Khan S."/>
+<person name="Khaykin E."/>
+<person name="Kim C.J."/>
+<person name="Koo H.L."/>
+<person name="Kremenetskaia I."/>
+<person name="Kurtz D.B."/>
+<person name="Kwan A."/>
+<person name="Lam B."/>
+<person name="Langin-Hooper S."/>
+<person name="Lee A."/>
+<person name="Lee J.M."/>
+<person name="Lenz C.A."/>
+<person name="Li J.H."/>
+<person name="Li Y.-P."/>
+<person name="Lin X."/>
+<person name="Liu S.X."/>
+<person name="Liu Z.A."/>
+<person name="Luros J.S."/>
+<person name="Maiti R."/>
+<person name="Marziali A."/>
+<person name="Militscher J."/>
+<person name="Miranda M."/>
+<person name="Nguyen M."/>
+<person name="Nierman W.C."/>
+<person name="Osborne B.I."/>
+<person name="Pai G."/>
+<person name="Peterson J."/>
+<person name="Pham P.K."/>
+<person name="Rizzo M."/>
+<person name="Rooney T."/>
+<person name="Rowley D."/>
+<person name="Sakano H."/>
+<person name="Salzberg S.L."/>
+<person name="Schwartz J.R."/>
+<person name="Shinn P."/>
+<person name="Southwick A.M."/>
+<person name="Sun H."/>
+<person name="Tallon L.J."/>
+<person name="Tambunga G."/>
+<person name="Toriumi M.J."/>
+<person name="Town C.D."/>
+<person name="Utterback T."/>
+<person name="Van Aken S."/>
+<person name="Vaysberg M."/>
+<person name="Vysotskaia V.S."/>
+<person name="Walker M."/>
+<person name="Wu D."/>
+<person name="Yu G."/>
+<person name="Fraser C.M."/>
+<person name="Venter J.C."/>
+<person name="Davis R.W."/>
+</authorList>
+<dbReference type="PubMed" id="11130712"/>
+<dbReference type="DOI" id="10.1038/35048500"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>cv. Columbia</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2017" name="Plant J." volume="89" first="789" last="804">
+<title>Araport11: a complete reannotation of the Arabidopsis thaliana reference genome.</title>
+<authorList>
+<person name="Cheng C.Y."/>
+<person name="Krishnakumar V."/>
+<person name="Chan A.P."/>
+<person name="Thibaud-Nissen F."/>
+<person name="Schobel S."/>
+<person name="Town C.D."/>
+</authorList>
+<dbReference type="PubMed" id="27862469"/>
+<dbReference type="DOI" id="10.1111/tpj.13415"/>
+</citation>
+<scope>GENOME REANNOTATION</scope>
+<source>
+<strain>cv. Columbia</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="submission" date="2005-05" db="EMBL/GenBank/DDBJ databases">
+<title>Arabidopsis ORF clones.</title>
+<authorList>
+<person name="Cheuk R.F."/>
+<person name="Chen H."/>
+<person name="Kim C.J."/>
+<person name="Shinn P."/>
+<person name="Ecker J.R."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+<source>
+<strain>cv. Columbia</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="submission" date="2006-05" db="EMBL/GenBank/DDBJ databases">
+<title>Arabidopsis ORF clones.</title>
+<authorList>
+<person name="Shinn P."/>
+<person name="Chen H."/>
+<person name="Kim C.J."/>
+<person name="Quinitio C."/>
+<person name="Ecker J.R."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+<source>
+<strain>cv. Columbia</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2005" name="Plant Cell" volume="17" first="2281" last="2295">
+<title>Identification of novel genes in Arabidopsis involved in secondary cell wall formation using expression profiling and reverse genetics.</title>
+<authorList>
+<person name="Brown D.M."/>
+<person name="Zeef L.A.H."/>
+<person name="Ellis J."/>
+<person name="Goodacre R."/>
+<person name="Turner S.R."/>
+</authorList>
+<dbReference type="PubMed" id="15980264"/>
+<dbReference type="DOI" id="10.1105/tpc.105.031542"/>
+</citation>
+<scope>DISRUPTION PHENOTYPE</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2009" name="Plant J." volume="57" first="718" last="731">
+<title>The Arabidopsis IRX10 and IRX10-LIKE glycosyltransferases are critical for glucuronoxylan biosynthesis during secondary cell wall formation.</title>
+<authorList>
+<person name="Wu A.-M."/>
+<person name="Rihouey C."/>
+<person name="Seveno M."/>
+<person name="Hoernblad E."/>
+<person name="Singh S.K."/>
+<person name="Matsunaga T."/>
+<person name="Ishii T."/>
+<person name="Lerouge P."/>
+<person name="Marchant A."/>
+</authorList>
+<dbReference type="PubMed" id="18980649"/>
+<dbReference type="DOI" id="10.1111/j.1365-313X.2008.03724.x"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<scope>TISSUE SPECIFICITY</scope>
+<scope>DEVELOPMENTAL STAGE</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2009" name="Plant J." volume="57" first="732" last="746">
+<title>Characterization of IRX10 and IRX10-like reveals an essential role in glucuronoxylan biosynthesis in Arabidopsis.</title>
+<authorList>
+<person name="Brown D.M."/>
+<person name="Zhang Z."/>
+<person name="Stephens E."/>
+<person name="Dupree P."/>
+<person name="Turner S.R."/>
+</authorList>
+<dbReference type="PubMed" id="18980662"/>
+<dbReference type="DOI" id="10.1111/j.1365-313X.2008.03729.x"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2010" name="Plant Physiol." volume="153" first="542" last="554">
+<title>Analysis of the Arabidopsis IRX9/IRX9-L and IRX14/IRX14-L pairs of glycosyltransferase genes reveals critical contributions to biosynthesis of the hemicellulose glucuronoxylan.</title>
+<authorList>
+<person name="Wu A.M."/>
+<person name="Hoernblad E."/>
+<person name="Voxeur A."/>
+<person name="Gerber L."/>
+<person name="Rihouey C."/>
+<person name="Lerouge P."/>
+<person name="Marchant A."/>
+</authorList>
+<dbReference type="PubMed" id="20424005"/>
+<dbReference type="DOI" id="10.1104/pp.110.154971"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>TISSUE SPECIFICITY</scope>
+</reference>
+<comment type="function">
+<text evidence="5 6 7">Involved in the synthesis of the hemicellulose glucuronoxylan, a major component of secondary cell walls. Probably involved in the elongation of glucuronoxylan xylosyl backbone, especially in the formation of GlcUA side chain of xylans.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="1">Golgi apparatus membrane</location>
+<topology evidence="1">Single-pass type II membrane protein</topology>
+</subcellularLocation>
+</comment>
+<comment type="tissue specificity">
+<text evidence="5 7">Limited to xylem cells. Expressed in the root tip, xylem cells of roots, and in the vasculature of roots, cotyledons and leaves.</text>
+</comment>
+<comment type="developmental stage">
+<text evidence="5">In flowers, restricted to anthers.</text>
+</comment>
+<comment type="disruption phenotype">
+<text evidence="4 5 6">Moderate IRX phenotype. Slight reduction of secondary wall thickness and xylan content in cell wall (PubMed:15980264, PubMed:18980662). Specific loss of the GlcUA side chain in xylans. Slightly short inflorescence and reduced fertility (PubMed:18980649).</text>
+</comment>
+<comment type="similarity">
+<text evidence="8">Belongs to the glycosyltransferase 47 family.</text>
+</comment>
+<comment type="online information" name="JBEI Glycosyltransferase (GT) Collection">
+<link uri="http://gt.jbei.org/arabidopsis.html"/>
+</comment>
+<comment type="online information" name="CAZY, the Carbohydrate Active enZYmes database">
+<link uri="http://www.cazy.org/GT64_all.html"/>
+</comment>
+<dbReference type="EC" id="2.4.2.-"/>
+<dbReference type="EMBL" id="KJ138982">
+<property type="protein sequence ID" value="AHL38922.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AC004557">
+<property type="protein sequence ID" value="AAF99743.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CP002684">
+<property type="protein sequence ID" value="AEE30830.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BT022053">
+<property type="protein sequence ID" value="AAY25465.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BT025555">
+<property type="protein sequence ID" value="ABF58973.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_174064.1">
+<property type="nucleotide sequence ID" value="NM_102508.3"/>
+</dbReference>
+<dbReference type="UniGene" id="At.49923"/>
+<dbReference type="ProteinModelPortal" id="Q9FZJ1"/>
+<dbReference type="SMR" id="Q9FZJ1"/>
+<dbReference type="BioGrid" id="24870">
+<property type="interactions" value="9"/>
+</dbReference>
+<dbReference type="IntAct" id="Q9FZJ1">
+<property type="interactions" value="9"/>
+</dbReference>
+<dbReference type="STRING" id="3702.AT1G27440.1"/>
+<dbReference type="CAZy" id="GT47">
+<property type="family name" value="Glycosyltransferase Family 47"/>
+</dbReference>
+<dbReference type="PaxDb" id="Q9FZJ1"/>
+<dbReference type="EnsemblPlants" id="AT1G27440.1">
+<property type="protein sequence ID" value="AT1G27440.1"/>
+<property type="gene ID" value="AT1G27440"/>
+</dbReference>
+<dbReference type="GeneID" id="839635"/>
+<dbReference type="Gramene" id="AT1G27440.1">
+<property type="protein sequence ID" value="AT1G27440.1"/>
+<property type="gene ID" value="AT1G27440"/>
+</dbReference>
+<dbReference type="KEGG" id="ath:AT1G27440"/>
+<dbReference type="Araport" id="AT1G27440"/>
+<dbReference type="TAIR" id="locus:2016004">
+<property type="gene designation" value="AT1G27440"/>
+</dbReference>
+<dbReference type="eggNOG" id="KOG1021">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG410XTFH">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000238629"/>
+<dbReference type="InParanoid" id="Q9FZJ1"/>
+<dbReference type="KO" id="K20870"/>
+<dbReference type="OMA" id="QAHFIPP"/>
+<dbReference type="OrthoDB" id="789556at2759"/>
+<dbReference type="PhylomeDB" id="Q9FZJ1"/>
+<dbReference type="BioCyc" id="ARA:AT1G27440-MONOMER"/>
+<dbReference type="PRO" id="PR:Q9FZJ1"/>
+<dbReference type="Proteomes" id="UP000006548">
+<property type="component" value="Chromosome 1"/>
+</dbReference>
+<dbReference type="ExpressionAtlas" id="Q9FZJ1">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevisible" id="Q9FZJ1">
+<property type="organism ID" value="AT"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000139">
+<property type="term" value="C:Golgi membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016021">
+<property type="term" value="C:integral component of membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0047517">
+<property type="term" value="F:1,4-beta-D-xylan synthase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="TAIR"/>
+</dbReference>
+<dbReference type="GO" id="GO:0080116">
+<property type="term" value="F:glucuronoxylan glucuronosyltransferase activity"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="TAIR"/>
+</dbReference>
+<dbReference type="GO" id="GO:0071555">
+<property type="term" value="P:cell wall organization"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010417">
+<property type="term" value="P:glucuronoxylan biosynthetic process"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="TAIR"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009834">
+<property type="term" value="P:plant-type secondary cell wall biogenesis"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="TAIR"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006486">
+<property type="term" value="P:protein glycosylation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR004263">
+<property type="entry name" value="Exostosin"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR11062">
+<property type="entry name" value="PTHR11062"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF03016">
+<property type="entry name" value="Exostosin"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0961">Cell wall biogenesis/degradation</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0325">Glycoprotein</keyword>
+<keyword id="KW-0328">Glycosyltransferase</keyword>
+<keyword id="KW-0333">Golgi apparatus</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0735">Signal-anchor</keyword>
+<keyword id="KW-0808">Transferase</keyword>
+<keyword id="KW-0812">Transmembrane</keyword>
+<keyword id="KW-1133">Transmembrane helix</keyword>
+<feature type="chain" description="Probable beta-1,4-xylosyltransferase IRX10" id="PRO_0000407576">
+<location>
+<begin position="1"/>
+<end position="412"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical; Signal-anchor for type II membrane protein" evidence="2">
+<location>
+<begin position="1"/>
+<end position="21"/>
+</location>
+</feature>
+<feature type="topological domain" description="Lumenal" evidence="2">
+<location>
+<begin position="22"/>
+<end position="412"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="3">
+<location>
+<position position="139"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="3">
+<location>
+<position position="400"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="Q9ZUV3"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000255"/>
+<evidence key="3" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00498"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15980264"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18980649"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18980662"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20424005"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000305"/>
+<sequence length="412" mass="46843" checksum="37F694D052F80D39" modified="2001-03-01" version="1">
+MKIHSCLSAILLFLFFSASSAKQNVRTERISGSAGDVLEDDPVGKLKVYVYELPSKYNKK
+LLQKDPRCLTHMFAAEIFMHRFLLSSPVRTRNPDEADWFYTPIYPTCDLTPTGLPLPFKS
+PRMMRSSIQLISSNWPYWNRTEGADHFFVVPHDFGACFHYQEEKAIERGILPLLQRATLV
+QTFGQRNHVCLDEGSITIPPFAPPQKMQAHFIPPDIPRSIFVYFRGLFYDVNNDPEGGYY
+ARGARAAVWENFKNNPLFDISTDHPTTYYEDMQRAIFCLCPLGWAPWSPRLVEAVVFGCI
+PVIIADDIVLPFADAIPWEEIGVFVAEKDVPELDTILTSIPTEVILRKQRLLANPSMKRA
+MLFPQPAQPGDAFHQILNGLARKLPHDKSIYLKTGEKALNWTAGPVADLKPW
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

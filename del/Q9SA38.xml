@@ -1,0 +1,628 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2012-01-25" modified="2019-01-16" version="115">
+<accession>Q9SA38</accession>
+<name>OCT3_ARATH</name>
+<protein>
+<recommendedName>
+<fullName>Organic cation/carnitine transporter 3</fullName>
+<shortName>AtOCT3</shortName>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary">OCT3</name>
+<name type="synonym">3-Oct</name>
+<name type="ordered locus">At1g16390</name>
+<name type="ORF">F3O9.19</name>
+</gene>
+<organism>
+<name type="scientific">Arabidopsis thaliana</name>
+<name type="common">Mouse-ear cress</name>
+<dbReference type="NCBI Taxonomy" id="3702"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Viridiplantae</taxon>
+<taxon>Streptophyta</taxon>
+<taxon>Embryophyta</taxon>
+<taxon>Tracheophyta</taxon>
+<taxon>Spermatophyta</taxon>
+<taxon>Magnoliophyta</taxon>
+<taxon>eudicotyledons</taxon>
+<taxon>Gunneridae</taxon>
+<taxon>Pentapetalae</taxon>
+<taxon>rosids</taxon>
+<taxon>malvids</taxon>
+<taxon>Brassicales</taxon>
+<taxon>Brassicaceae</taxon>
+<taxon>Camelineae</taxon>
+<taxon>Arabidopsis</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="2000" name="Nature" volume="408" first="816" last="820">
+<title>Sequence and analysis of chromosome 1 of the plant Arabidopsis thaliana.</title>
+<authorList>
+<person name="Theologis A."/>
+<person name="Ecker J.R."/>
+<person name="Palm C.J."/>
+<person name="Federspiel N.A."/>
+<person name="Kaul S."/>
+<person name="White O."/>
+<person name="Alonso J."/>
+<person name="Altafi H."/>
+<person name="Araujo R."/>
+<person name="Bowman C.L."/>
+<person name="Brooks S.Y."/>
+<person name="Buehler E."/>
+<person name="Chan A."/>
+<person name="Chao Q."/>
+<person name="Chen H."/>
+<person name="Cheuk R.F."/>
+<person name="Chin C.W."/>
+<person name="Chung M.K."/>
+<person name="Conn L."/>
+<person name="Conway A.B."/>
+<person name="Conway A.R."/>
+<person name="Creasy T.H."/>
+<person name="Dewar K."/>
+<person name="Dunn P."/>
+<person name="Etgu P."/>
+<person name="Feldblyum T.V."/>
+<person name="Feng J.-D."/>
+<person name="Fong B."/>
+<person name="Fujii C.Y."/>
+<person name="Gill J.E."/>
+<person name="Goldsmith A.D."/>
+<person name="Haas B."/>
+<person name="Hansen N.F."/>
+<person name="Hughes B."/>
+<person name="Huizar L."/>
+<person name="Hunter J.L."/>
+<person name="Jenkins J."/>
+<person name="Johnson-Hopson C."/>
+<person name="Khan S."/>
+<person name="Khaykin E."/>
+<person name="Kim C.J."/>
+<person name="Koo H.L."/>
+<person name="Kremenetskaia I."/>
+<person name="Kurtz D.B."/>
+<person name="Kwan A."/>
+<person name="Lam B."/>
+<person name="Langin-Hooper S."/>
+<person name="Lee A."/>
+<person name="Lee J.M."/>
+<person name="Lenz C.A."/>
+<person name="Li J.H."/>
+<person name="Li Y.-P."/>
+<person name="Lin X."/>
+<person name="Liu S.X."/>
+<person name="Liu Z.A."/>
+<person name="Luros J.S."/>
+<person name="Maiti R."/>
+<person name="Marziali A."/>
+<person name="Militscher J."/>
+<person name="Miranda M."/>
+<person name="Nguyen M."/>
+<person name="Nierman W.C."/>
+<person name="Osborne B.I."/>
+<person name="Pai G."/>
+<person name="Peterson J."/>
+<person name="Pham P.K."/>
+<person name="Rizzo M."/>
+<person name="Rooney T."/>
+<person name="Rowley D."/>
+<person name="Sakano H."/>
+<person name="Salzberg S.L."/>
+<person name="Schwartz J.R."/>
+<person name="Shinn P."/>
+<person name="Southwick A.M."/>
+<person name="Sun H."/>
+<person name="Tallon L.J."/>
+<person name="Tambunga G."/>
+<person name="Toriumi M.J."/>
+<person name="Town C.D."/>
+<person name="Utterback T."/>
+<person name="Van Aken S."/>
+<person name="Vaysberg M."/>
+<person name="Vysotskaia V.S."/>
+<person name="Walker M."/>
+<person name="Wu D."/>
+<person name="Yu G."/>
+<person name="Fraser C.M."/>
+<person name="Venter J.C."/>
+<person name="Davis R.W."/>
+</authorList>
+<dbReference type="PubMed" id="11130712"/>
+<dbReference type="DOI" id="10.1038/35048500"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>cv. Columbia</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2017" name="Plant J." volume="89" first="789" last="804">
+<title>Araport11: a complete reannotation of the Arabidopsis thaliana reference genome.</title>
+<authorList>
+<person name="Cheng C.Y."/>
+<person name="Krishnakumar V."/>
+<person name="Chan A.P."/>
+<person name="Thibaud-Nissen F."/>
+<person name="Schobel S."/>
+<person name="Town C.D."/>
+</authorList>
+<dbReference type="PubMed" id="27862469"/>
+<dbReference type="DOI" id="10.1111/tpj.13415"/>
+</citation>
+<scope>GENOME REANNOTATION</scope>
+<source>
+<strain>cv. Columbia</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2003" name="Science" volume="302" first="842" last="846">
+<title>Empirical analysis of transcriptional activity in the Arabidopsis genome.</title>
+<authorList>
+<person name="Yamada K."/>
+<person name="Lim J."/>
+<person name="Dale J.M."/>
+<person name="Chen H."/>
+<person name="Shinn P."/>
+<person name="Palm C.J."/>
+<person name="Southwick A.M."/>
+<person name="Wu H.C."/>
+<person name="Kim C.J."/>
+<person name="Nguyen M."/>
+<person name="Pham P.K."/>
+<person name="Cheuk R.F."/>
+<person name="Karlin-Newmann G."/>
+<person name="Liu S.X."/>
+<person name="Lam B."/>
+<person name="Sakano H."/>
+<person name="Wu T."/>
+<person name="Yu G."/>
+<person name="Miranda M."/>
+<person name="Quach H.L."/>
+<person name="Tripp M."/>
+<person name="Chang C.H."/>
+<person name="Lee J.M."/>
+<person name="Toriumi M.J."/>
+<person name="Chan M.M."/>
+<person name="Tang C.C."/>
+<person name="Onodera C.S."/>
+<person name="Deng J.M."/>
+<person name="Akiyama K."/>
+<person name="Ansari Y."/>
+<person name="Arakawa T."/>
+<person name="Banh J."/>
+<person name="Banno F."/>
+<person name="Bowser L."/>
+<person name="Brooks S.Y."/>
+<person name="Carninci P."/>
+<person name="Chao Q."/>
+<person name="Choy N."/>
+<person name="Enju A."/>
+<person name="Goldsmith A.D."/>
+<person name="Gurjal M."/>
+<person name="Hansen N.F."/>
+<person name="Hayashizaki Y."/>
+<person name="Johnson-Hopson C."/>
+<person name="Hsuan V.W."/>
+<person name="Iida K."/>
+<person name="Karnes M."/>
+<person name="Khan S."/>
+<person name="Koesema E."/>
+<person name="Ishida J."/>
+<person name="Jiang P.X."/>
+<person name="Jones T."/>
+<person name="Kawai J."/>
+<person name="Kamiya A."/>
+<person name="Meyers C."/>
+<person name="Nakajima M."/>
+<person name="Narusaka M."/>
+<person name="Seki M."/>
+<person name="Sakurai T."/>
+<person name="Satou M."/>
+<person name="Tamse R."/>
+<person name="Vaysberg M."/>
+<person name="Wallender E.K."/>
+<person name="Wong C."/>
+<person name="Yamamura Y."/>
+<person name="Yuan S."/>
+<person name="Shinozaki K."/>
+<person name="Davis R.W."/>
+<person name="Theologis A."/>
+<person name="Ecker J.R."/>
+</authorList>
+<dbReference type="PubMed" id="14593172"/>
+<dbReference type="DOI" id="10.1126/science.1088305"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+<source>
+<strain>cv. Columbia</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2008" name="BMC Res. Notes" volume="1" first="43" last="43">
+<title>Stress regulated members of the plant organic cation transporter family are localized to the vacuolar membrane.</title>
+<authorList>
+<person name="Kuefner I."/>
+<person name="Koch W."/>
+</authorList>
+<dbReference type="PubMed" id="18710496"/>
+<dbReference type="DOI" id="10.1186/1756-0500-1-43"/>
+</citation>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>INDUCTION BY ABIOTIC STRESS</scope>
+<scope>TISSUE SPECIFICITY</scope>
+<source>
+<strain>cv. Columbia</strain>
+</source>
+</reference>
+<comment type="function">
+<text evidence="1">High affinity carnitine transporter involved in the active cellular uptake of carnitine. Also transports organic cations (By similarity).</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="3">Vacuole membrane</location>
+<topology evidence="3">Multi-pass membrane protein</topology>
+</subcellularLocation>
+</comment>
+<comment type="tissue specificity">
+<text evidence="3">Mostly expressed in siliques, mainly in young seeds. Present in stems (cortical cells and parenchyma cells), at the basis of secondary inflorescences, and at the base of trichomes.</text>
+</comment>
+<comment type="induction">
+<text evidence="3">During cold stress treatment.</text>
+</comment>
+<comment type="similarity">
+<text evidence="4">Belongs to the major facilitator (TC 2.A.1) superfamily. Organic cation transporter (TC 2.A.1.19) family.</text>
+</comment>
+<dbReference type="EMBL" id="AC006341">
+<property type="protein sequence ID" value="AAD34691.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CP002684">
+<property type="protein sequence ID" value="AEE29445.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY078972">
+<property type="protein sequence ID" value="AAL79578.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BT000863">
+<property type="protein sequence ID" value="AAN38700.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="PIR" id="B86299">
+<property type="entry name" value="B86299"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_173089.1">
+<property type="nucleotide sequence ID" value="NM_101505.3"/>
+</dbReference>
+<dbReference type="UniGene" id="At.28085"/>
+<dbReference type="ProteinModelPortal" id="Q9SA38"/>
+<dbReference type="STRING" id="3702.AT1G16390.1"/>
+<dbReference type="PaxDb" id="Q9SA38"/>
+<dbReference type="EnsemblPlants" id="AT1G16390.1">
+<property type="protein sequence ID" value="AT1G16390.1"/>
+<property type="gene ID" value="AT1G16390"/>
+</dbReference>
+<dbReference type="GeneID" id="838209"/>
+<dbReference type="Gramene" id="AT1G16390.1">
+<property type="protein sequence ID" value="AT1G16390.1"/>
+<property type="gene ID" value="AT1G16390"/>
+</dbReference>
+<dbReference type="KEGG" id="ath:AT1G16390"/>
+<dbReference type="Araport" id="AT1G16390"/>
+<dbReference type="TAIR" id="locus:2032825">
+<property type="gene designation" value="AT1G16390"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG410IRHX">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG410XR6G">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000234568"/>
+<dbReference type="InParanoid" id="Q9SA38"/>
+<dbReference type="OMA" id="LMYLWFS"/>
+<dbReference type="OrthoDB" id="762280at2759"/>
+<dbReference type="PhylomeDB" id="Q9SA38"/>
+<dbReference type="Reactome" id="R-ATH-112311">
+<property type="pathway name" value="Neurotransmitter clearance"/>
+</dbReference>
+<dbReference type="Reactome" id="R-ATH-181430">
+<property type="pathway name" value="Norepinephrine Neurotransmitter Release Cycle"/>
+</dbReference>
+<dbReference type="Reactome" id="R-ATH-197264">
+<property type="pathway name" value="Nicotinamide salvaging"/>
+</dbReference>
+<dbReference type="Reactome" id="R-ATH-200425">
+<property type="pathway name" value="Import of palmitoyl-CoA into the mitochondrial matrix"/>
+</dbReference>
+<dbReference type="Reactome" id="R-ATH-2161517">
+<property type="pathway name" value="Abacavir transmembrane transport"/>
+</dbReference>
+<dbReference type="Reactome" id="R-ATH-442660">
+<property type="pathway name" value="Na+/Cl- dependent neurotransmitter transporters"/>
+</dbReference>
+<dbReference type="Reactome" id="R-ATH-549127">
+<property type="pathway name" value="Organic cation transport"/>
+</dbReference>
+<dbReference type="Reactome" id="R-ATH-561048">
+<property type="pathway name" value="Organic anion transport"/>
+</dbReference>
+<dbReference type="PRO" id="PR:Q9SA38"/>
+<dbReference type="Proteomes" id="UP000006548">
+<property type="component" value="Chromosome 1"/>
+</dbReference>
+<dbReference type="ExpressionAtlas" id="Q9SA38">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevisible" id="Q9SA38">
+<property type="organism ID" value="AT"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016021">
+<property type="term" value="C:integral component of membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009705">
+<property type="term" value="C:plant-type vacuole membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0022857">
+<property type="term" value="F:transmembrane transporter activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070417">
+<property type="term" value="P:cellular response to cold"/>
+<property type="evidence" value="ECO:0000270"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006811">
+<property type="term" value="P:ion transport"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="CDD" id="cd06174">
+<property type="entry name" value="MFS"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR020846">
+<property type="entry name" value="MFS_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR005828">
+<property type="entry name" value="MFS_sugar_transport-like"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036259">
+<property type="entry name" value="MFS_trans_sf"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00083">
+<property type="entry name" value="Sugar_tr"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF103473">
+<property type="entry name" value="SSF103473"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50850">
+<property type="entry name" value="MFS"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0325">Glycoprotein</keyword>
+<keyword id="KW-0406">Ion transport</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0812">Transmembrane</keyword>
+<keyword id="KW-1133">Transmembrane helix</keyword>
+<keyword id="KW-0813">Transport</keyword>
+<keyword id="KW-0926">Vacuole</keyword>
+<feature type="chain" description="Organic cation/carnitine transporter 3" id="PRO_0000415359">
+<location>
+<begin position="1"/>
+<end position="518"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="2">
+<location>
+<begin position="1"/>
+<end position="32"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical; Name=1" evidence="2">
+<location>
+<begin position="33"/>
+<end position="53"/>
+</location>
+</feature>
+<feature type="topological domain" description="Extracellular" evidence="2">
+<location>
+<begin position="54"/>
+<end position="122"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical; Name=2" evidence="2">
+<location>
+<begin position="123"/>
+<end position="143"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="2">
+<location>
+<begin position="144"/>
+<end position="157"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical; Name=3" evidence="2">
+<location>
+<begin position="158"/>
+<end position="178"/>
+</location>
+</feature>
+<feature type="topological domain" description="Extracellular" evidence="2">
+<location>
+<begin position="179"/>
+<end position="180"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical; Name=4" evidence="2">
+<location>
+<begin position="181"/>
+<end position="197"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="2">
+<location>
+<begin position="198"/>
+<end position="210"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical; Name=5" evidence="2">
+<location>
+<begin position="211"/>
+<end position="231"/>
+</location>
+</feature>
+<feature type="topological domain" description="Extracellular" evidence="2">
+<location>
+<begin position="232"/>
+<end position="239"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical; Name=6" evidence="2">
+<location>
+<begin position="240"/>
+<end position="259"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="2">
+<location>
+<begin position="260"/>
+<end position="325"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical; Name=7" evidence="2">
+<location>
+<begin position="326"/>
+<end position="346"/>
+</location>
+</feature>
+<feature type="topological domain" description="Extracellular" evidence="2">
+<location>
+<begin position="347"/>
+<end position="355"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical; Name=8" evidence="2">
+<location>
+<begin position="356"/>
+<end position="376"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="2">
+<location>
+<begin position="377"/>
+<end position="383"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical; Name=9" evidence="2">
+<location>
+<begin position="384"/>
+<end position="404"/>
+</location>
+</feature>
+<feature type="topological domain" description="Extracellular" evidence="2">
+<location>
+<begin position="405"/>
+<end position="410"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical; Name=10" evidence="2">
+<location>
+<begin position="411"/>
+<end position="431"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="2">
+<location>
+<begin position="432"/>
+<end position="443"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical; Name=11" evidence="2">
+<location>
+<begin position="444"/>
+<end position="464"/>
+</location>
+</feature>
+<feature type="topological domain" description="Extracellular" evidence="2">
+<location>
+<begin position="465"/>
+<end position="470"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical; Name=12" evidence="2">
+<location>
+<begin position="471"/>
+<end position="491"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="2">
+<location>
+<begin position="492"/>
+<end position="518"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="2">
+<location>
+<begin position="198"/>
+<end position="205"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="2">
+<location>
+<position position="83"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="2">
+<location>
+<position position="94"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000250"/>
+<evidence key="2" type="ECO:0000255"/>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18710496"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000305"/>
+<sequence length="518" mass="57393" checksum="53D48122D575645C" modified="2000-05-01" version="1">
+MADSTRPLLSDFNSSESNLPPPRSLEETIERCIGDFGWAQFLQAALVSFAWFFDAQQTFI
+TVFTDSQPMWHCDNSDRVDSVCNTSSSNLCTLPNQTWSWDLNPHVSIISEWGLQCAGSFL
+KGFPASSFFLGCLIGGLALSTLADSSLGRKNMLLLSCLIMSLSSMLTAFSTSIWVYAFLR
+FLNGCGRATIGTCALVLSTELVGKKWRGQVGAMGFFCFTLGFLSLPMLGYINEGNSWRNL
+YVWTSIPTLIYCCLVRSFVRESPRWLIVKGRKEEAVSILQSIASNAITMSFTNLCFEVEN
+DQSKSNPDVYDALKILVRKSWSFRRLLAAMVVGFGIGMVYYGMPLALTNLNFNLYLGVVF
+NALSEFPAFLITFFFIDKINRRDALIGFTALSGISSALIAVLGQQLGSLQIVLELVSFFS
+ACTAFNMTLIYTIEMFPTCVRNSAISMVRQALVFGGVFSPVMVAAGRENQFWSYGLFGLI
+IGLCGLFVFGLPETRGSVLCDTMDEEEYKTLAKRQFIG
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

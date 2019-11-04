@@ -1,0 +1,375 @@
+ID   CESA8_ARATH             Reviewed;         985 AA.
+AC   Q8LPK5; Q9C5Z8; Q9SN37;
+DT   30-AUG-2005, integrated into UniProtKB/Swiss-Prot.
+DT   01-OCT-2002, sequence version 1.
+DT   16-JAN-2019, entry version 122.
+DE   RecName: Full=Cellulose synthase A catalytic subunit 8 [UDP-forming];
+DE            Short=AtCesA8;
+DE            EC=2.4.1.12;
+DE   AltName: Full=Protein IRREGULAR XYLEM 1;
+DE            Short=AtIRX1;
+DE   AltName: Full=Protein LEAF WILTING 2;
+GN   Name=CESA8; Synonyms=IRX1, LEW2; OrderedLocusNames=At4g18780;
+GN   ORFNames=F28A21.190;
+OS   Arabidopsis thaliana (Mouse-ear cress).
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+OC   Pentapetalae; rosids; malvids; Brassicales; Brassicaceae; Camelineae;
+OC   Arabidopsis.
+OX   NCBI_TaxID=3702;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA], FUNCTION, TISSUE SPECIFICITY,
+RP   DEVELOPMENTAL STAGE, INTERACTION WITH CESA7, AND MUTAGENESIS OF
+RP   SER-679 AND ASP-683.
+RX   PubMed=11148295; DOI=10.1105/tpc.12.12.2529;
+RA   Taylor N.G., Laurie S., Turner S.R.;
+RT   "Multiple cellulose synthase catalytic subunits are required for
+RT   cellulose synthesis in Arabidopsis.";
+RL   Plant Cell 12:2529-2539(2000).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=cv. Columbia;
+RX   PubMed=10617198; DOI=10.1038/47134;
+RA   Mayer K.F.X., Schueller C., Wambutt R., Murphy G., Volckaert G.,
+RA   Pohl T., Duesterhoeft A., Stiekema W., Entian K.-D., Terryn N.,
+RA   Harris B., Ansorge W., Brandt P., Grivell L.A., Rieger M.,
+RA   Weichselgartner M., de Simone V., Obermaier B., Mache R., Mueller M.,
+RA   Kreis M., Delseny M., Puigdomenech P., Watson M., Schmidtheini T.,
+RA   Reichert B., Portetelle D., Perez-Alonso M., Boutry M., Bancroft I.,
+RA   Vos P., Hoheisel J., Zimmermann W., Wedler H., Ridley P.,
+RA   Langham S.-A., McCullagh B., Bilham L., Robben J.,
+RA   van der Schueren J., Grymonprez B., Chuang Y.-J., Vandenbussche F.,
+RA   Braeken M., Weltjens I., Voet M., Bastiaens I., Aert R., Defoor E.,
+RA   Weitzenegger T., Bothe G., Ramsperger U., Hilbert H., Braun M.,
+RA   Holzer E., Brandt A., Peters S., van Staveren M., Dirkse W.,
+RA   Mooijman P., Klein Lankhorst R., Rose M., Hauf J., Koetter P.,
+RA   Berneiser S., Hempel S., Feldpausch M., Lamberth S., Van den Daele H.,
+RA   De Keyser A., Buysshaert C., Gielen J., Villarroel R., De Clercq R.,
+RA   van Montagu M., Rogers J., Cronin A., Quail M.A., Bray-Allen S.,
+RA   Clark L., Doggett J., Hall S., Kay M., Lennard N., McLay K., Mayes R.,
+RA   Pettett A., Rajandream M.A., Lyne M., Benes V., Rechmann S.,
+RA   Borkova D., Bloecker H., Scharfe M., Grimm M., Loehnert T.-H.,
+RA   Dose S., de Haan M., Maarse A.C., Schaefer M., Mueller-Auer S.,
+RA   Gabel C., Fuchs M., Fartmann B., Granderath K., Dauner D., Herzl A.,
+RA   Neumann S., Argiriou A., Vitale D., Liguori R., Piravandi E.,
+RA   Massenet O., Quigley F., Clabauld G., Muendlein A., Felber R.,
+RA   Schnabl S., Hiller R., Schmidt W., Lecharny A., Aubourg S.,
+RA   Chefdor F., Cooke R., Berger C., Monfort A., Casacuberta E.,
+RA   Gibbons T., Weber N., Vandenbol M., Bargues M., Terol J., Torres A.,
+RA   Perez-Perez A., Purnelle B., Bent E., Johnson S., Tacon D., Jesse T.,
+RA   Heijnen L., Schwarz S., Scholler P., Heber S., Francs P., Bielke C.,
+RA   Frishman D., Haase D., Lemcke K., Mewes H.-W., Stocker S.,
+RA   Zaccaria P., Bevan M., Wilson R.K., de la Bastide M., Habermann K.,
+RA   Parnell L., Dedhia N., Gnoj L., Schutz K., Huang E., Spiegel L.,
+RA   Sekhon M., Murray J., Sheet P., Cordes M., Abu-Threideh J.,
+RA   Stoneking T., Kalicki J., Graves T., Harmon G., Edwards J.,
+RA   Latreille P., Courtney L., Cloud J., Abbott A., Scott K., Johnson D.,
+RA   Minx P., Bentley D., Fulton B., Miller N., Greco T., Kemp K.,
+RA   Kramer J., Fulton L., Mardis E., Dante M., Pepin K., Hillier L.W.,
+RA   Nelson J., Spieth J., Ryan E., Andrews S., Geisel C., Layman D.,
+RA   Du H., Ali J., Berghoff A., Jones K., Drone K., Cotton M., Joshu C.,
+RA   Antonoiu B., Zidanic M., Strong C., Sun H., Lamar B., Yordan C.,
+RA   Ma P., Zhong J., Preston R., Vil D., Shekher M., Matero A., Shah R.,
+RA   Swaby I.K., O'Shaughnessy A., Rodriguez M., Hoffman J., Till S.,
+RA   Granat S., Shohdy N., Hasegawa A., Hameed A., Lodhi M., Johnson A.,
+RA   Chen E., Marra M.A., Martienssen R., McCombie W.R.;
+RT   "Sequence and analysis of chromosome 4 of the plant Arabidopsis
+RT   thaliana.";
+RL   Nature 402:769-777(1999).
+RN   [3]
+RP   GENOME REANNOTATION.
+RC   STRAIN=cv. Columbia;
+RX   PubMed=27862469; DOI=10.1111/tpj.13415;
+RA   Cheng C.Y., Krishnakumar V., Chan A.P., Thibaud-Nissen F., Schobel S.,
+RA   Town C.D.;
+RT   "Araport11: a complete reannotation of the Arabidopsis thaliana
+RT   reference genome.";
+RL   Plant J. 89:789-804(2017).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   STRAIN=cv. Columbia;
+RX   PubMed=14593172; DOI=10.1126/science.1088305;
+RA   Yamada K., Lim J., Dale J.M., Chen H., Shinn P., Palm C.J.,
+RA   Southwick A.M., Wu H.C., Kim C.J., Nguyen M., Pham P.K., Cheuk R.F.,
+RA   Karlin-Newmann G., Liu S.X., Lam B., Sakano H., Wu T., Yu G.,
+RA   Miranda M., Quach H.L., Tripp M., Chang C.H., Lee J.M., Toriumi M.J.,
+RA   Chan M.M., Tang C.C., Onodera C.S., Deng J.M., Akiyama K., Ansari Y.,
+RA   Arakawa T., Banh J., Banno F., Bowser L., Brooks S.Y., Carninci P.,
+RA   Chao Q., Choy N., Enju A., Goldsmith A.D., Gurjal M., Hansen N.F.,
+RA   Hayashizaki Y., Johnson-Hopson C., Hsuan V.W., Iida K., Karnes M.,
+RA   Khan S., Koesema E., Ishida J., Jiang P.X., Jones T., Kawai J.,
+RA   Kamiya A., Meyers C., Nakajima M., Narusaka M., Seki M., Sakurai T.,
+RA   Satou M., Tamse R., Vaysberg M., Wallender E.K., Wong C., Yamamura Y.,
+RA   Yuan S., Shinozaki K., Davis R.W., Theologis A., Ecker J.R.;
+RT   "Empirical analysis of transcriptional activity in the Arabidopsis
+RT   genome.";
+RL   Science 302:842-846(2003).
+RN   [5]
+RP   FUNCTION, AND MUTAGENESIS OF SER-679 AND ASP-683.
+RX   PubMed=9165747; DOI=10.1105/tpc.9.5.689;
+RA   Turner S.R., Somerville C.R.;
+RT   "Collapsed xylem phenotype of Arabidopsis identifies mutants deficient
+RT   in cellulose deposition in the secondary cell wall.";
+RL   Plant Cell 9:689-701(1997).
+RN   [6]
+RP   GENE FAMILY, AND NOMENCLATURE.
+RX   PubMed=11178255; DOI=10.1186/gb-2000-1-4-reviews3001;
+RA   Richmond T.;
+RT   "Higher plant cellulose synthases.";
+RL   Genome Biol. 1:REVIEWS3001.1-REVIEWS3001.6(2000).
+RN   [7]
+RP   TISSUE SPECIFICITY.
+RX   PubMed=12481071; DOI=10.1104/pp.102.010603;
+RA   Beeckman T., Przemeck G.K.H., Stamatiou G., Lau R., Terryn N.,
+RA   De Rycke R., Inze D., Berleth T.;
+RT   "Genetic complexity of cellulose synthase A gene function in
+RT   Arabidopsis embryogenesis.";
+RL   Plant Physiol. 130:1883-1893(2002).
+RN   [8]
+RP   SUBUNIT.
+RX   PubMed=12897249; DOI=10.1105/tpc.012815;
+RA   Gardiner J.C., Taylor N.G., Turner S.R.;
+RT   "Control of cellulose synthase complex localization in developing
+RT   xylem.";
+RL   Plant Cell 15:1740-1748(2003).
+RN   [9]
+RP   TISSUE SPECIFICITY, AND INTERACTION WITH CESA4 AND CESA7.
+RX   PubMed=12538856; DOI=10.1073/pnas.0337628100;
+RA   Taylor N.G., Howells R.M., Huttly A.K., Vickers K., Turner S.R.;
+RT   "Interactions among three distinct CesA proteins essential for
+RT   cellulose synthesis.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 100:1450-1455(2003).
+RN   [10]
+RP   FUNCTION, AND MUTAGENESIS OF LEU-802.
+RX   PubMed=15998313; DOI=10.1111/j.1365-313X.2005.02452.x;
+RA   Chen Z., Hong X., Zhang H., Wang Y., Li X., Zhu J.-K., Gong Z.;
+RT   "Disruption of the cellulose synthase gene, AtCesA8/IRX1, enhances
+RT   drought and osmotic stress tolerance in Arabidopsis.";
+RL   Plant J. 43:273-283(2005).
+RN   [11]
+RP   FUNCTION, AND DISRUPTION PHENOTYPE.
+RX   PubMed=17351116; DOI=10.1105/tpc.106.048058;
+RA   Hernandez-Blanco C., Feng D.X., Hu J., Sanchez-Vallet A.,
+RA   Deslandes L., Llorente F., Berrocal-Lobo M., Keller H., Barlet X.,
+RA   Sanchez-Rodriguez C., Anderson L.K., Somerville S., Marco Y.,
+RA   Molina A.;
+RT   "Impairment of cellulose synthases required for Arabidopsis secondary
+RT   cell wall formation enhances disease resistance.";
+RL   Plant Cell 19:890-903(2007).
+RN   [12]
+RP   INTERACTION WITH STL1 AND STL2, AND LACK OF INTERACTION WITH GOT1.
+RX   PubMed=27277162; DOI=10.1038/ncomms11656;
+RA   Zhang Y., Nikolovski N., Sorieul M., Vellosillo T., McFarlane H.E.,
+RA   Dupree R., Kesten C., Schneider R., Driemeier C., Lathe R.,
+RA   Lampugnani E., Yu X., Ivakov A., Doblin M.S., Mortimer J.C.,
+RA   Brown S.P., Persson S., Dupree P.;
+RT   "Golgi-localized STELLO proteins regulate the assembly and trafficking
+RT   of cellulose synthase complexes in Arabidopsis.";
+RL   Nat. Commun. 7:11656-11656(2016).
+RN   [13]
+RP   S-ACYLATION.
+RX   PubMed=27387950; DOI=10.1126/science.aaf4009;
+RA   Kumar M., Wightman R., Atanassov I., Gupta A., Hurst C.H.,
+RA   Hemsley P.A., Turner S.;
+RT   "S-acylation of the cellulose synthase complex is essential for its
+RT   plasma membrane localization.";
+RL   Science 353:166-169(2016).
+CC   -!- FUNCTION: Catalytic subunit of cellulose synthase terminal
+CC       complexes ('rosettes'), required for beta-1,4-glucan microfibril
+CC       crystallization, a major mechanism of the cell wall formation.
+CC       Involved in the secondary cell wall formation. Required for the
+CC       xylem cell wall thickening. {ECO:0000269|PubMed:11148295,
+CC       ECO:0000269|PubMed:15998313, ECO:0000269|PubMed:17351116,
+CC       ECO:0000269|PubMed:9165747}.
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=[(1->4)-beta-D-glucosyl](n) + UDP-alpha-D-glucose =
+CC         [(1->4)-beta-D-glucosyl](n+1) + H(+) + UDP;
+CC         Xref=Rhea:RHEA:19929, Rhea:RHEA-COMP:10033, Rhea:RHEA-
+CC         COMP:10034, ChEBI:CHEBI:15378, ChEBI:CHEBI:18246,
+CC         ChEBI:CHEBI:58223, ChEBI:CHEBI:58885; EC=2.4.1.12;
+CC   -!- COFACTOR:
+CC       Name=Zn(2+); Xref=ChEBI:CHEBI:29105; Evidence={ECO:0000250};
+CC       Note=Binds 2 Zn(2+) ions per subunit. {ECO:0000250};
+CC   -!- PATHWAY: Glycan metabolism; plant cellulose biosynthesis.
+CC   -!- SUBUNIT: Interacts with CESA4 and CESA7. Assembly with CESA4 and
+CC       CESA7 is required for functional complex and localization in
+CC       secondary cell wall deposition sites. Interacts with STL1 and
+CC       STL2, but not with GOT1 (PubMed:27277162).
+CC       {ECO:0000269|PubMed:11148295, ECO:0000269|PubMed:12538856,
+CC       ECO:0000269|PubMed:12897249, ECO:0000269|PubMed:27277162}.
+CC   -!- INTERACTION:
+CC       Q84JA6:CESA4; NbExp=4; IntAct=EBI-8579199, EBI-8579072;
+CC       Q9SWW6:CESA7; NbExp=7; IntAct=EBI-8579199, EBI-4477361;
+CC   -!- SUBCELLULAR LOCATION: Cell membrane {ECO:0000305}; Multi-pass
+CC       membrane protein {ECO:0000305}.
+CC   -!- TISSUE SPECIFICITY: Confined to secondary cell wall developing
+CC       tissues such as xylems and interfascicular regions. Expressed in
+CC       young plants, stems, flowers and inflorescences, but not in
+CC       leaves. {ECO:0000269|PubMed:11148295, ECO:0000269|PubMed:12481071,
+CC       ECO:0000269|PubMed:12538856}.
+CC   -!- DEVELOPMENTAL STAGE: Not found in embryos. Increasing amount as
+CC       stems mature. {ECO:0000269|PubMed:11148295}.
+CC   -!- PTM: S-acylated. {ECO:0000269|PubMed:27387950}.
+CC   -!- DISRUPTION PHENOTYPE: Enhanced resistance to the pathogens
+CC       Ralstonia solanacearum and Plectosphaerella cucumerina.
+CC       {ECO:0000269|PubMed:17351116}.
+CC   -!- SIMILARITY: Belongs to the glycosyltransferase 2 family. Plant
+CC       cellulose synthase subfamily. {ECO:0000305}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=CAB37463.1; Type=Erroneous gene model prediction; Evidence={ECO:0000305};
+CC       Sequence=CAB78880.1; Type=Erroneous gene model prediction; Evidence={ECO:0000305};
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AF267742; AAK08700.1; -; mRNA.
+DR   EMBL; AL035526; CAB37463.1; ALT_SEQ; Genomic_DNA.
+DR   EMBL; AL161549; CAB78880.1; ALT_SEQ; Genomic_DNA.
+DR   EMBL; CP002687; AEE84089.1; -; Genomic_DNA.
+DR   EMBL; AY099636; AAM20487.1; -; mRNA.
+DR   PIR; T04870; T04870.
+DR   RefSeq; NP_567564.1; NM_117994.4.
+DR   UniGene; At.66621; -.
+DR   UniGene; At.68239; -.
+DR   ProteinModelPortal; Q8LPK5; -.
+DR   SMR; Q8LPK5; -.
+DR   BioGrid; 12905; 17.
+DR   IntAct; Q8LPK5; 11.
+DR   MINT; Q8LPK5; -.
+DR   STRING; 3702.AT4G18780.1; -.
+DR   CAZy; GT2; Glycosyltransferase Family 2.
+DR   TCDB; 4.D.3.1.7; the glycan glucosyl transferase (opgh) family.
+DR   SwissPalm; Q8LPK5; -.
+DR   PaxDb; Q8LPK5; -.
+DR   EnsemblPlants; AT4G18780.1; AT4G18780.1; AT4G18780.
+DR   GeneID; 827612; -.
+DR   Gramene; AT4G18780.1; AT4G18780.1; AT4G18780.
+DR   KEGG; ath:AT4G18780; -.
+DR   Araport; AT4G18780; -.
+DR   TAIR; locus:2124167; AT4G18780.
+DR   eggNOG; ENOG410IGV4; Eukaryota.
+DR   eggNOG; COG1215; LUCA.
+DR   HOGENOM; HOG000241942; -.
+DR   InParanoid; Q8LPK5; -.
+DR   KO; K10999; -.
+DR   OMA; HIPENPF; -.
+DR   OrthoDB; 679241at2759; -.
+DR   PhylomeDB; Q8LPK5; -.
+DR   BioCyc; MetaCyc:MONOMER-2366; -.
+DR   BRENDA; 2.4.1.12; 399.
+DR   UniPathway; UPA00695; -.
+DR   PRO; PR:Q8LPK5; -.
+DR   Proteomes; UP000006548; Chromosome 4.
+DR   ExpressionAtlas; Q8LPK5; baseline and differential.
+DR   Genevisible; Q8LPK5; AT.
+DR   GO; GO:0005618; C:cell wall; IDA:TAIR.
+DR   GO; GO:0005794; C:Golgi apparatus; IBA:GO_Central.
+DR   GO; GO:0016021; C:integral component of membrane; IEA:UniProtKB-KW.
+DR   GO; GO:0005886; C:plasma membrane; IBA:GO_Central.
+DR   GO; GO:0005802; C:trans-Golgi network; IBA:GO_Central.
+DR   GO; GO:0016760; F:cellulose synthase (UDP-forming) activity; IMP:CACAO.
+DR   GO; GO:0016759; F:cellulose synthase activity; IBA:GO_Central.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0071555; P:cell wall organization; IEA:UniProtKB-KW.
+DR   GO; GO:0030244; P:cellulose biosynthetic process; IMP:TAIR.
+DR   GO; GO:0042742; P:defense response to bacterium; IMP:TAIR.
+DR   GO; GO:0050832; P:defense response to fungus; IMP:TAIR.
+DR   GO; GO:0009833; P:plant-type primary cell wall biogenesis; IBA:GO_Central.
+DR   GO; GO:0009834; P:plant-type secondary cell wall biogenesis; IMP:TAIR.
+DR   GO; GO:0006970; P:response to osmotic stress; IMP:TAIR.
+DR   GO; GO:0009414; P:response to water deprivation; IMP:TAIR.
+DR   Gene3D; 3.30.40.10; -; 1.
+DR   Gene3D; 3.90.550.10; -; 1.
+DR   InterPro; IPR005150; Cellulose_synth.
+DR   InterPro; IPR027934; CES_Znf_RING.
+DR   InterPro; IPR029044; Nucleotide-diphossugar_trans.
+DR   InterPro; IPR013083; Znf_RING/FYVE/PHD.
+DR   Pfam; PF03552; Cellulose_synt; 1.
+DR   Pfam; PF14569; zf-UDP; 1.
+DR   SUPFAM; SSF53448; SSF53448; 1.
+PE   1: Evidence at protein level;
+KW   Cell membrane; Cell wall biogenesis/degradation;
+KW   Cellulose biosynthesis; Coiled coil; Complete proteome; Glycoprotein;
+KW   Glycosyltransferase; Lipoprotein; Membrane; Metal-binding;
+KW   Reference proteome; Transferase; Transmembrane; Transmembrane helix;
+KW   Zinc; Zinc-finger.
+FT   CHAIN         1    985       Cellulose synthase A catalytic subunit 8
+FT                                [UDP-forming].
+FT                                /FTId=PRO_0000166374.
+FT   TOPO_DOM      1    179       Cytoplasmic. {ECO:0000255}.
+FT   TRANSMEM    180    200       Helical. {ECO:0000255}.
+FT   TOPO_DOM    201    208       Extracellular. {ECO:0000255}.
+FT   TRANSMEM    209    229       Helical. {ECO:0000255}.
+FT   TOPO_DOM    230    767       Cytoplasmic. {ECO:0000255}.
+FT   TRANSMEM    768    788       Helical. {ECO:0000255}.
+FT   TOPO_DOM    789    793       Extracellular. {ECO:0000255}.
+FT   TRANSMEM    794    814       Helical. {ECO:0000255}.
+FT   TOPO_DOM    815    829       Cytoplasmic. {ECO:0000255}.
+FT   TRANSMEM    830    850       Helical. {ECO:0000255}.
+FT   TOPO_DOM    851    879       Extracellular. {ECO:0000255}.
+FT   TRANSMEM    880    900       Helical. {ECO:0000255}.
+FT   TOPO_DOM    901    911       Cytoplasmic. {ECO:0000255}.
+FT   TRANSMEM    912    932       Helical. {ECO:0000255}.
+FT   TOPO_DOM    933    941       Extracellular. {ECO:0000255}.
+FT   TRANSMEM    942    962       Helical. {ECO:0000255}.
+FT   TOPO_DOM    963    985       Cytoplasmic. {ECO:0000255}.
+FT   ZN_FING       9     55       RING-type; degenerate.
+FT   COILED      358    385       {ECO:0000255}.
+FT   COMPBIAS    122    140       Lys-rich.
+FT   COMPBIAS    565    569       Poly-Ser.
+FT   ACT_SITE    304    304       {ECO:0000255}.
+FT   ACT_SITE    683    683       {ECO:0000255}.
+FT   METAL         9      9       Zinc 1. {ECO:0000250|UniProtKB:Q9SWW6}.
+FT   METAL        12     12       Zinc 1. {ECO:0000250|UniProtKB:Q9SWW6}.
+FT   METAL        28     28       Zinc 2. {ECO:0000250|UniProtKB:Q9SWW6}.
+FT   METAL        31     31       Zinc 2. {ECO:0000250|UniProtKB:Q9SWW6}.
+FT   METAL        36     36       Zinc 1. {ECO:0000250|UniProtKB:Q9SWW6}.
+FT   METAL        39     39       Zinc 1. {ECO:0000250|UniProtKB:Q9SWW6}.
+FT   METAL        51     51       Zinc 2. {ECO:0000250|UniProtKB:Q9SWW6}.
+FT   METAL        54     54       Zinc 2. {ECO:0000250|UniProtKB:Q9SWW6}.
+FT   BINDING     470    470       Substrate. {ECO:0000255}.
+FT   BINDING     472    472       Substrate. {ECO:0000255}.
+FT   CARBOHYD    857    857       N-linked (GlcNAc...) asparagine.
+FT                                {ECO:0000255}.
+FT   MUTAGEN     679    679       S->L: In irx1-2; reduced levels of
+FT                                crystalline cellulose in secondary cell
+FT                                wall. {ECO:0000269|PubMed:11148295,
+FT                                ECO:0000269|PubMed:9165747}.
+FT   MUTAGEN     683    683       D->N: In irx1-1; reduced levels of
+FT                                crystalline cellulose in secondary cell
+FT                                wall. {ECO:0000269|PubMed:11148295,
+FT                                ECO:0000269|PubMed:9165747}.
+FT   MUTAGEN     802    802       L->F: In lew2-2; enhanced tolerance to
+FT                                drought, salt and osmotic stresses.
+FT                                Higher accumulation of abscisic acid
+FT                                (ABA), proline and soluble sugars.
+FT                                {ECO:0000269|PubMed:15998313}.
+FT   CONFLICT     18     18       V -> A (in Ref. 1; AAK08700).
+FT                                {ECO:0000305}.
+FT   CONFLICT    144    145       HE -> QD (in Ref. 1; AAK08700).
+FT                                {ECO:0000305}.
+FT   CONFLICT    148    148       I -> V (in Ref. 1; AAK08700).
+FT                                {ECO:0000305}.
+FT   CONFLICT    157    157       T -> M (in Ref. 1; AAK08700).
+FT                                {ECO:0000305}.
+FT   CONFLICT    583    583       S -> A (in Ref. 1; AAK08700).
+FT                                {ECO:0000305}.
+SQ   SEQUENCE   985 AA;  111521 MW;  D299F357625768E0 CRC64;
+     MMESRSPICN TCGEEIGVKS NGEFFVACHE CSFPICKACL EYEFKEGRRI CLRCGNPYDE
+     NVFDDVETKT SKTQSIVPTQ TNNTSQDSGI HARHISTVST IDSELNDEYG NPIWKNRVES
+     WKDKKDKKSK KKKKDPKATK AEQHEAQIPT QQHMEDTPPN TESGATDVLS VVIPIPRTKI
+     TSYRIVIIMR LIILALFFNY RITHPVDSAY GLWLTSVICE IWFAVSWVLD QFPKWSPINR
+     ETYIDRLSAR FEREGEQSQL AAVDFFVSTV DPLKEPPLIT ANTVLSILAL DYPVDKVSCY
+     VSDDGAAMLS FESLVETADF ARKWVPFCKK YSIEPRAPEF YFSLKIDYLR DKVQPSFVKE
+     RRAMKRDYEE FKIRMNALVA KAQKTPEEGW TMQDGTSWPG NNTRDHPGMI QVFLGYSGAR
+     DIEGNELPRL VYVSREKRPG YQHHKKAGAE NALVRVSAVL TNAPFILNLD CDHYVNNSKA
+     VREAMCFLMD PVVGQDVCFV QFPQRFDGID KSDRYANRNI VFFDVNMRGL DGIQGPVYVG
+     TGTVFRRQAL YGYSPPSKPR ILPQSSSSSC CCLTKKKQPQ DPSEIYKDAK REELDAAIFN
+     LGDLDNYDEY DRSMLISQTS FEKTFGLSTV FIESTLMENG GVPDSVNPST LIKEAIHVIS
+     CGYEEKTEWG KEIGWIYGSI TEDILTGFKM HCRGWRSIYC MPLRPAFKGS APINLSDRLH
+     QVLRWALGSV EIFLSRHCPL WYGCSGGRLK LLQRLAYINT IVYPFTSLPL VAYCTLPAIC
+     LLTGKFIIPT LSNLASMLFL GLFISIILTS VLELRWSGVS IEDLWRNEQF WVIGGVSAHL
+     FAVFQGFLKM LAGLDTNFTV TSKTADDLEF GELYIVKWTT LLIPPTSLLI INLVGVVAGF
+     SDALNKGYEA WGPLFGKVFF AFWVILHLYP FLKGLMGRQN RTPTIVILWS ILLASVFSLV
+     WVRINPFVSK TDTTSLSLNC LLIDC
+//

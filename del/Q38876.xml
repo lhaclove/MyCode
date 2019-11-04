@@ -1,0 +1,586 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1998-12-15" modified="2019-01-16" version="156">
+<accession>Q38876</accession>
+<name>AGL8_ARATH</name>
+<protein>
+<recommendedName>
+<fullName>Agamous-like MADS-box protein AGL8</fullName>
+</recommendedName>
+<alternativeName>
+<fullName>Floral homeotic protein AGL8</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Transcription factor FRUITFULL</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">AGL8</name>
+<name type="synonym">FUL</name>
+<name type="ordered locus">At5g60910</name>
+<name type="ORF">MSL3.3</name>
+</gene>
+<organism>
+<name type="scientific">Arabidopsis thaliana</name>
+<name type="common">Mouse-ear cress</name>
+<dbReference type="NCBI Taxonomy" id="3702"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Viridiplantae</taxon>
+<taxon>Streptophyta</taxon>
+<taxon>Embryophyta</taxon>
+<taxon>Tracheophyta</taxon>
+<taxon>Spermatophyta</taxon>
+<taxon>Magnoliophyta</taxon>
+<taxon>eudicotyledons</taxon>
+<taxon>Gunneridae</taxon>
+<taxon>Pentapetalae</taxon>
+<taxon>rosids</taxon>
+<taxon>malvids</taxon>
+<taxon>Brassicales</taxon>
+<taxon>Brassicaceae</taxon>
+<taxon>Camelineae</taxon>
+<taxon>Arabidopsis</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1995" name="Plant Cell" volume="7" first="1763" last="1771">
+<title>The Arabidopsis AGL8 MADS box gene is expressed in inflorescence meristems and is negatively regulated by APETALA1.</title>
+<authorList>
+<person name="Mandel M.A."/>
+<person name="Yanofsky M.F."/>
+</authorList>
+<dbReference type="PubMed" id="8535133"/>
+<dbReference type="DOI" id="10.1105/tpc.7.11.1763"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+<source>
+<strain>cv. Columbia</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1997" name="DNA Res." volume="4" first="401" last="414">
+<title>Structural analysis of Arabidopsis thaliana chromosome 5. III. Sequence features of the regions of 1,191,918 bp covered by seventeen physically assigned P1 clones.</title>
+<authorList>
+<person name="Nakamura Y."/>
+<person name="Sato S."/>
+<person name="Kaneko T."/>
+<person name="Kotani H."/>
+<person name="Asamizu E."/>
+<person name="Miyajima N."/>
+<person name="Tabata S."/>
+</authorList>
+<dbReference type="PubMed" id="9501997"/>
+<dbReference type="DOI" id="10.1093/dnares/4.6.401"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>cv. Columbia</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2017" name="Plant J." volume="89" first="789" last="804">
+<title>Araport11: a complete reannotation of the Arabidopsis thaliana reference genome.</title>
+<authorList>
+<person name="Cheng C.Y."/>
+<person name="Krishnakumar V."/>
+<person name="Chan A.P."/>
+<person name="Thibaud-Nissen F."/>
+<person name="Schobel S."/>
+<person name="Town C.D."/>
+</authorList>
+<dbReference type="PubMed" id="27862469"/>
+<dbReference type="DOI" id="10.1111/tpj.13415"/>
+</citation>
+<scope>GENOME REANNOTATION</scope>
+<source>
+<strain>cv. Columbia</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2003" name="Science" volume="302" first="842" last="846">
+<title>Empirical analysis of transcriptional activity in the Arabidopsis genome.</title>
+<authorList>
+<person name="Yamada K."/>
+<person name="Lim J."/>
+<person name="Dale J.M."/>
+<person name="Chen H."/>
+<person name="Shinn P."/>
+<person name="Palm C.J."/>
+<person name="Southwick A.M."/>
+<person name="Wu H.C."/>
+<person name="Kim C.J."/>
+<person name="Nguyen M."/>
+<person name="Pham P.K."/>
+<person name="Cheuk R.F."/>
+<person name="Karlin-Newmann G."/>
+<person name="Liu S.X."/>
+<person name="Lam B."/>
+<person name="Sakano H."/>
+<person name="Wu T."/>
+<person name="Yu G."/>
+<person name="Miranda M."/>
+<person name="Quach H.L."/>
+<person name="Tripp M."/>
+<person name="Chang C.H."/>
+<person name="Lee J.M."/>
+<person name="Toriumi M.J."/>
+<person name="Chan M.M."/>
+<person name="Tang C.C."/>
+<person name="Onodera C.S."/>
+<person name="Deng J.M."/>
+<person name="Akiyama K."/>
+<person name="Ansari Y."/>
+<person name="Arakawa T."/>
+<person name="Banh J."/>
+<person name="Banno F."/>
+<person name="Bowser L."/>
+<person name="Brooks S.Y."/>
+<person name="Carninci P."/>
+<person name="Chao Q."/>
+<person name="Choy N."/>
+<person name="Enju A."/>
+<person name="Goldsmith A.D."/>
+<person name="Gurjal M."/>
+<person name="Hansen N.F."/>
+<person name="Hayashizaki Y."/>
+<person name="Johnson-Hopson C."/>
+<person name="Hsuan V.W."/>
+<person name="Iida K."/>
+<person name="Karnes M."/>
+<person name="Khan S."/>
+<person name="Koesema E."/>
+<person name="Ishida J."/>
+<person name="Jiang P.X."/>
+<person name="Jones T."/>
+<person name="Kawai J."/>
+<person name="Kamiya A."/>
+<person name="Meyers C."/>
+<person name="Nakajima M."/>
+<person name="Narusaka M."/>
+<person name="Seki M."/>
+<person name="Sakurai T."/>
+<person name="Satou M."/>
+<person name="Tamse R."/>
+<person name="Vaysberg M."/>
+<person name="Wallender E.K."/>
+<person name="Wong C."/>
+<person name="Yamamura Y."/>
+<person name="Yuan S."/>
+<person name="Shinozaki K."/>
+<person name="Davis R.W."/>
+<person name="Theologis A."/>
+<person name="Ecker J.R."/>
+</authorList>
+<dbReference type="PubMed" id="14593172"/>
+<dbReference type="DOI" id="10.1126/science.1088305"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+<source>
+<strain>cv. Columbia</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1998" name="Development" volume="125" first="1509" last="1517">
+<title>The FRUITFULL MADS-box gene mediates cell differentiation during Arabidopsis fruit development.</title>
+<authorList>
+<person name="Gu Q."/>
+<person name="Ferrandiz C."/>
+<person name="Yanofsky M.F."/>
+<person name="Martienssen R."/>
+</authorList>
+<dbReference type="PubMed" id="9502732"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>TISSUE SPECIFICITY</scope>
+<source>
+<strain>cv. Landsberg erecta</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2000" name="Development" volume="127" first="725" last="734">
+<title>Redundant regulation of meristem identity and plant architecture by FRUITFULL, APETALA1 and CAULIFLOWER.</title>
+<authorList>
+<person name="Ferrandiz C."/>
+<person name="Gu Q."/>
+<person name="Martienssen R."/>
+<person name="Yanofsky M.F."/>
+</authorList>
+<dbReference type="PubMed" id="10648231"/>
+</citation>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2004" name="Cell" volume="116" first="843" last="853">
+<title>Control of fruit patterning in Arabidopsis by INDEHISCENT.</title>
+<authorList>
+<person name="Liljegren S.J."/>
+<person name="Roeder A.H.K."/>
+<person name="Kempin S.A."/>
+<person name="Gremski K."/>
+<person name="Ostergaard L."/>
+<person name="Guimil S."/>
+<person name="Reyes D.K."/>
+<person name="Yanofsky M.F."/>
+</authorList>
+<dbReference type="PubMed" id="15035986"/>
+<dbReference type="DOI" id="10.1016/S0092-8674(04)00217-X"/>
+</citation>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2017" name="J. Exp. Bot." volume="68" first="3391" last="3403">
+<title>FRUITFULL controls SAUR10 expression and regulates Arabidopsis growth and architecture.</title>
+<authorList>
+<person name="Bemer M."/>
+<person name="van Mourik H."/>
+<person name="Muino J.M."/>
+<person name="Ferrandiz C."/>
+<person name="Kaufmann K."/>
+<person name="Angenent G.C."/>
+</authorList>
+<dbReference type="PubMed" id="28586421"/>
+<dbReference type="DOI" id="10.1093/jxb/erx184"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>cv. Columbia</strain>
+</source>
+</reference>
+<comment type="function">
+<text evidence="5 6 7 8">Probable transcription factor that promotes early floral meristem identity in synergy with APETALA1 and CAULIFLOWER. Is required subsequently for the transition of an inflorescence meristem into a floral meristem (PubMed:28586421). Seems to be partially redundant to the function of APETALA1 and CAULIFLOWER in the up-regulation of LEAFY. Is also required for normal pattern of cell division, expansion and differentiation during morphogenesis of the silique (PubMed:28586421). Probably not required for fruit elongation but instead is required to prevent ectopic activity of IND. Represses SAUR10 expression in stems and inflorescence branches (PubMed:28586421).</text>
+</comment>
+<comment type="subunit">
+<text evidence="1">Homodimer capable of binding to CArG-box sequences.</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-621912"/>
+<interactant intactId="EBI-592083">
+<id>O82794</id>
+<label>AGL24</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-621912"/>
+<interactant intactId="EBI-592041">
+<id>O64645</id>
+<label>SOC1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>4</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="3">Nucleus</location>
+</subcellularLocation>
+</comment>
+<comment type="alternative products">
+<event type="alternative splicing"/>
+<isoform>
+<id>Q38876-1</id>
+<name>1</name>
+<sequence type="displayed"/>
+</isoform>
+<text>A number of isoforms are produced. According to EST sequences.</text>
+</comment>
+<comment type="tissue specificity">
+<text evidence="8">Vascular tissue of cauline leaves, floral shoot apex and valves of carpels and fruits.</text>
+</comment>
+<comment type="induction">
+<text>Dramatically up-regulated upon the transition from vegetative to reproductive development.</text>
+</comment>
+<comment type="disruption phenotype">
+<text evidence="7">Altered cauline leaf shape, abnormal stem development and architecture, including enhanced branching, decreased inflorescence branch angles, and shorter stem and internode lengths. Reduced stems elongation after bolting.</text>
+</comment>
+<dbReference type="EMBL" id="U33473">
+<property type="protein sequence ID" value="AAA97403.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AB008269">
+<property type="protein sequence ID" value="BAB10640.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CP002688">
+<property type="protein sequence ID" value="AED97395.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF386929">
+<property type="protein sequence ID" value="AAK62374.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY072463">
+<property type="protein sequence ID" value="AAL66878.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="PIR" id="S71208">
+<property type="entry name" value="S71208"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_568929.1">
+<molecule id="Q38876-1"/>
+<property type="nucleotide sequence ID" value="NM_125484.4"/>
+</dbReference>
+<dbReference type="UniGene" id="At.5426"/>
+<dbReference type="ProteinModelPortal" id="Q38876"/>
+<dbReference type="SMR" id="Q38876"/>
+<dbReference type="BioGrid" id="21456">
+<property type="interactions" value="13"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-33794N"/>
+<dbReference type="IntAct" id="Q38876">
+<property type="interactions" value="18"/>
+</dbReference>
+<dbReference type="STRING" id="3702.AT5G60910.1"/>
+<dbReference type="PaxDb" id="Q38876"/>
+<dbReference type="EnsemblPlants" id="AT5G60910.1">
+<molecule id="Q38876-1"/>
+<property type="protein sequence ID" value="AT5G60910.1"/>
+<property type="gene ID" value="AT5G60910"/>
+</dbReference>
+<dbReference type="GeneID" id="836212"/>
+<dbReference type="Gramene" id="AT5G60910.1">
+<molecule id="Q38876-1"/>
+<property type="protein sequence ID" value="AT5G60910.1"/>
+<property type="gene ID" value="AT5G60910"/>
+</dbReference>
+<dbReference type="KEGG" id="ath:AT5G60910"/>
+<dbReference type="Araport" id="AT5G60910"/>
+<dbReference type="TAIR" id="locus:2173522">
+<property type="gene designation" value="AT5G60910"/>
+</dbReference>
+<dbReference type="eggNOG" id="KOG0014">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG5068">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000155301"/>
+<dbReference type="InParanoid" id="Q38876"/>
+<dbReference type="KO" id="K09264"/>
+<dbReference type="OMA" id="RCDERTP"/>
+<dbReference type="OrthoDB" id="1178730at2759"/>
+<dbReference type="PhylomeDB" id="Q38876"/>
+<dbReference type="PRO" id="PR:Q38876"/>
+<dbReference type="Proteomes" id="UP000006548">
+<property type="component" value="Chromosome 5"/>
+</dbReference>
+<dbReference type="ExpressionAtlas" id="Q38876">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevisible" id="Q38876">
+<property type="organism ID" value="AT"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005634">
+<property type="term" value="C:nucleus"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003700">
+<property type="term" value="F:DNA-binding transcription factor activity"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="TAIR"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000981">
+<property type="term" value="F:DNA-binding transcription factor activity, RNA polymerase II-specific"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046983">
+<property type="term" value="F:protein dimerization activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000977">
+<property type="term" value="F:RNA polymerase II regulatory region sequence-specific DNA binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043565">
+<property type="term" value="F:sequence-specific DNA binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008134">
+<property type="term" value="F:transcription factor binding"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0044212">
+<property type="term" value="F:transcription regulatory region DNA binding"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030154">
+<property type="term" value="P:cell differentiation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060560">
+<property type="term" value="P:developmental growth involved in morphogenesis"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009908">
+<property type="term" value="P:flower development"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010154">
+<property type="term" value="P:fruit development"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="TAIR"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010077">
+<property type="term" value="P:maintenance of inflorescence meristem identity"/>
+<property type="evidence" value="ECO:0000316"/>
+<property type="project" value="TAIR"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007275">
+<property type="term" value="P:multicellular organism development"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009911">
+<property type="term" value="P:positive regulation of flower development"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045944">
+<property type="term" value="P:positive regulation of transcription by RNA polymerase II"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="CDD" id="cd00265">
+<property type="entry name" value="MADS_MEF2_like"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.40.1810.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR033896">
+<property type="entry name" value="MADS_MEF2-like"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002487">
+<property type="entry name" value="TF_Kbox"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002100">
+<property type="entry name" value="TF_MADSbox"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036879">
+<property type="entry name" value="TF_MADSbox_sf"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01486">
+<property type="entry name" value="K-box"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00319">
+<property type="entry name" value="SRF-TF"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00404">
+<property type="entry name" value="MADSDOMAIN"/>
+</dbReference>
+<dbReference type="SMART" id="SM00432">
+<property type="entry name" value="MADS"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF55455">
+<property type="entry name" value="SSF55455"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51297">
+<property type="entry name" value="K_BOX"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00350">
+<property type="entry name" value="MADS_BOX_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50066">
+<property type="entry name" value="MADS_BOX_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0010">Activator</keyword>
+<keyword id="KW-0025">Alternative splicing</keyword>
+<keyword id="KW-0175">Coiled coil</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0217">Developmental protein</keyword>
+<keyword id="KW-0221">Differentiation</keyword>
+<keyword id="KW-0238">DNA-binding</keyword>
+<keyword id="KW-0287">Flowering</keyword>
+<keyword id="KW-0539">Nucleus</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0804">Transcription</keyword>
+<keyword id="KW-0805">Transcription regulation</keyword>
+<feature type="chain" description="Agamous-like MADS-box protein AGL8" id="PRO_0000199461">
+<location>
+<begin position="1"/>
+<end position="242"/>
+</location>
+</feature>
+<feature type="domain" description="MADS-box" evidence="3">
+<location>
+<begin position="3"/>
+<end position="57"/>
+</location>
+</feature>
+<feature type="domain" description="K-box" evidence="4">
+<location>
+<begin position="88"/>
+<end position="178"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="2">
+<location>
+<begin position="89"/>
+<end position="178"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000250"/>
+<evidence key="2" type="ECO:0000255"/>
+<evidence key="3" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00251"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00629"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10648231"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15035986"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="28586421"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9502732"/>
+</source>
+</evidence>
+<sequence length="242" mass="27536" checksum="516499731EADB2D2" modified="1996-11-01" version="1">
+MGRGRVQLKRIENKINRQVTFSKRRSGLLKKAHEISVLCDAEVALIVFSSKGKLFEYSTD
+SCMERILERYDRYLYSDKQLVGRDVSQSENWVLEHAKLKARVEVLEKNKRNFMGEDLDSL
+SLKELQSLEHQLDAAIKSIRSRKNQAMFESISALQKKDKALQDHNNSLLKKIKEREKKTG
+QQEGQLVQCSNSSSVLLPQYCVTSSRDGFVERVGGENGGASSLTEPNSLLPAWMLRPTTT
+NE
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

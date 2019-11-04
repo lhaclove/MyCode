@@ -1,0 +1,925 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2000-12-01" modified="2019-01-16" version="138">
+<accession>Q38822</accession>
+<accession>O04741</accession>
+<name>IAA3_ARATH</name>
+<protein>
+<recommendedName>
+<fullName>Auxin-responsive protein IAA3</fullName>
+</recommendedName>
+<alternativeName>
+<fullName>Indoleacetic acid-induced protein 3</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Short hypocotyl</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Suppressor of HY2</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">IAA3</name>
+<name type="synonym">SHY2</name>
+<name type="ordered locus">At1g04240</name>
+<name type="ORF">F19P19.32</name>
+</gene>
+<organism>
+<name type="scientific">Arabidopsis thaliana</name>
+<name type="common">Mouse-ear cress</name>
+<dbReference type="NCBI Taxonomy" id="3702"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Viridiplantae</taxon>
+<taxon>Streptophyta</taxon>
+<taxon>Embryophyta</taxon>
+<taxon>Tracheophyta</taxon>
+<taxon>Spermatophyta</taxon>
+<taxon>Magnoliophyta</taxon>
+<taxon>eudicotyledons</taxon>
+<taxon>Gunneridae</taxon>
+<taxon>Pentapetalae</taxon>
+<taxon>rosids</taxon>
+<taxon>malvids</taxon>
+<taxon>Brassicales</taxon>
+<taxon>Brassicaceae</taxon>
+<taxon>Camelineae</taxon>
+<taxon>Arabidopsis</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1995" name="J. Mol. Biol." volume="251" first="533" last="549">
+<title>The PS-IAA4/5-like family of early auxin-inducible mRNAs in Arabidopsis thaliana.</title>
+<authorList>
+<person name="Abel S."/>
+<person name="Nguyen M.D."/>
+<person name="Theologis A."/>
+</authorList>
+<dbReference type="PubMed" id="7658471"/>
+<dbReference type="DOI" id="10.1006/jmbi.1995.0454"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+<scope>TISSUE SPECIFICITY</scope>
+<scope>INDUCTION</scope>
+<source>
+<strain>cv. Columbia</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2000" name="Nature" volume="408" first="816" last="820">
+<title>Sequence and analysis of chromosome 1 of the plant Arabidopsis thaliana.</title>
+<authorList>
+<person name="Theologis A."/>
+<person name="Ecker J.R."/>
+<person name="Palm C.J."/>
+<person name="Federspiel N.A."/>
+<person name="Kaul S."/>
+<person name="White O."/>
+<person name="Alonso J."/>
+<person name="Altafi H."/>
+<person name="Araujo R."/>
+<person name="Bowman C.L."/>
+<person name="Brooks S.Y."/>
+<person name="Buehler E."/>
+<person name="Chan A."/>
+<person name="Chao Q."/>
+<person name="Chen H."/>
+<person name="Cheuk R.F."/>
+<person name="Chin C.W."/>
+<person name="Chung M.K."/>
+<person name="Conn L."/>
+<person name="Conway A.B."/>
+<person name="Conway A.R."/>
+<person name="Creasy T.H."/>
+<person name="Dewar K."/>
+<person name="Dunn P."/>
+<person name="Etgu P."/>
+<person name="Feldblyum T.V."/>
+<person name="Feng J.-D."/>
+<person name="Fong B."/>
+<person name="Fujii C.Y."/>
+<person name="Gill J.E."/>
+<person name="Goldsmith A.D."/>
+<person name="Haas B."/>
+<person name="Hansen N.F."/>
+<person name="Hughes B."/>
+<person name="Huizar L."/>
+<person name="Hunter J.L."/>
+<person name="Jenkins J."/>
+<person name="Johnson-Hopson C."/>
+<person name="Khan S."/>
+<person name="Khaykin E."/>
+<person name="Kim C.J."/>
+<person name="Koo H.L."/>
+<person name="Kremenetskaia I."/>
+<person name="Kurtz D.B."/>
+<person name="Kwan A."/>
+<person name="Lam B."/>
+<person name="Langin-Hooper S."/>
+<person name="Lee A."/>
+<person name="Lee J.M."/>
+<person name="Lenz C.A."/>
+<person name="Li J.H."/>
+<person name="Li Y.-P."/>
+<person name="Lin X."/>
+<person name="Liu S.X."/>
+<person name="Liu Z.A."/>
+<person name="Luros J.S."/>
+<person name="Maiti R."/>
+<person name="Marziali A."/>
+<person name="Militscher J."/>
+<person name="Miranda M."/>
+<person name="Nguyen M."/>
+<person name="Nierman W.C."/>
+<person name="Osborne B.I."/>
+<person name="Pai G."/>
+<person name="Peterson J."/>
+<person name="Pham P.K."/>
+<person name="Rizzo M."/>
+<person name="Rooney T."/>
+<person name="Rowley D."/>
+<person name="Sakano H."/>
+<person name="Salzberg S.L."/>
+<person name="Schwartz J.R."/>
+<person name="Shinn P."/>
+<person name="Southwick A.M."/>
+<person name="Sun H."/>
+<person name="Tallon L.J."/>
+<person name="Tambunga G."/>
+<person name="Toriumi M.J."/>
+<person name="Town C.D."/>
+<person name="Utterback T."/>
+<person name="Van Aken S."/>
+<person name="Vaysberg M."/>
+<person name="Vysotskaia V.S."/>
+<person name="Walker M."/>
+<person name="Wu D."/>
+<person name="Yu G."/>
+<person name="Fraser C.M."/>
+<person name="Venter J.C."/>
+<person name="Davis R.W."/>
+</authorList>
+<dbReference type="PubMed" id="11130712"/>
+<dbReference type="DOI" id="10.1038/35048500"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>cv. Columbia</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2017" name="Plant J." volume="89" first="789" last="804">
+<title>Araport11: a complete reannotation of the Arabidopsis thaliana reference genome.</title>
+<authorList>
+<person name="Cheng C.Y."/>
+<person name="Krishnakumar V."/>
+<person name="Chan A.P."/>
+<person name="Thibaud-Nissen F."/>
+<person name="Schobel S."/>
+<person name="Town C.D."/>
+</authorList>
+<dbReference type="PubMed" id="27862469"/>
+<dbReference type="DOI" id="10.1111/tpj.13415"/>
+</citation>
+<scope>GENOME REANNOTATION</scope>
+<source>
+<strain>cv. Columbia</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2003" name="Science" volume="302" first="842" last="846">
+<title>Empirical analysis of transcriptional activity in the Arabidopsis genome.</title>
+<authorList>
+<person name="Yamada K."/>
+<person name="Lim J."/>
+<person name="Dale J.M."/>
+<person name="Chen H."/>
+<person name="Shinn P."/>
+<person name="Palm C.J."/>
+<person name="Southwick A.M."/>
+<person name="Wu H.C."/>
+<person name="Kim C.J."/>
+<person name="Nguyen M."/>
+<person name="Pham P.K."/>
+<person name="Cheuk R.F."/>
+<person name="Karlin-Newmann G."/>
+<person name="Liu S.X."/>
+<person name="Lam B."/>
+<person name="Sakano H."/>
+<person name="Wu T."/>
+<person name="Yu G."/>
+<person name="Miranda M."/>
+<person name="Quach H.L."/>
+<person name="Tripp M."/>
+<person name="Chang C.H."/>
+<person name="Lee J.M."/>
+<person name="Toriumi M.J."/>
+<person name="Chan M.M."/>
+<person name="Tang C.C."/>
+<person name="Onodera C.S."/>
+<person name="Deng J.M."/>
+<person name="Akiyama K."/>
+<person name="Ansari Y."/>
+<person name="Arakawa T."/>
+<person name="Banh J."/>
+<person name="Banno F."/>
+<person name="Bowser L."/>
+<person name="Brooks S.Y."/>
+<person name="Carninci P."/>
+<person name="Chao Q."/>
+<person name="Choy N."/>
+<person name="Enju A."/>
+<person name="Goldsmith A.D."/>
+<person name="Gurjal M."/>
+<person name="Hansen N.F."/>
+<person name="Hayashizaki Y."/>
+<person name="Johnson-Hopson C."/>
+<person name="Hsuan V.W."/>
+<person name="Iida K."/>
+<person name="Karnes M."/>
+<person name="Khan S."/>
+<person name="Koesema E."/>
+<person name="Ishida J."/>
+<person name="Jiang P.X."/>
+<person name="Jones T."/>
+<person name="Kawai J."/>
+<person name="Kamiya A."/>
+<person name="Meyers C."/>
+<person name="Nakajima M."/>
+<person name="Narusaka M."/>
+<person name="Seki M."/>
+<person name="Sakurai T."/>
+<person name="Satou M."/>
+<person name="Tamse R."/>
+<person name="Vaysberg M."/>
+<person name="Wallender E.K."/>
+<person name="Wong C."/>
+<person name="Yamamura Y."/>
+<person name="Yuan S."/>
+<person name="Shinozaki K."/>
+<person name="Davis R.W."/>
+<person name="Theologis A."/>
+<person name="Ecker J.R."/>
+</authorList>
+<dbReference type="PubMed" id="14593172"/>
+<dbReference type="DOI" id="10.1126/science.1088305"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+<source>
+<strain>cv. Columbia</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1999" name="Development" volume="126" first="711" last="721">
+<title>Control of auxin-regulated root development by the Arabidopsis thaliana SHY2/IAA3 gene.</title>
+<authorList>
+<person name="Tian Q."/>
+<person name="Reed J.W."/>
+</authorList>
+<dbReference type="PubMed" id="9895319"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>MUTAGENESIS OF GLY-67 AND PRO-69</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2000" name="Plant Physiol." volume="124" first="1728" last="1738">
+<title>Aux/IAA proteins are phosphorylated by phytochrome in vitro.</title>
+<authorList>
+<person name="Colon-Carmona A."/>
+<person name="Chen D.L."/>
+<person name="Yeh K.-C."/>
+<person name="Abel S."/>
+</authorList>
+<dbReference type="PubMed" id="11115889"/>
+<dbReference type="DOI" id="10.1104/pp.124.4.1728"/>
+</citation>
+<scope>PHOSPHORYLATION BY PHYTOCHROME A</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2002" name="Plant Cell" volume="14" first="301" last="319">
+<title>Arabidopsis SHY2/IAA3 inhibits auxin-regulated gene expression.</title>
+<authorList>
+<person name="Tian Q."/>
+<person name="Uhlir N.J."/>
+<person name="Reed J.W."/>
+</authorList>
+<dbReference type="PubMed" id="11884676"/>
+<dbReference type="DOI" id="10.1105/tpc.010283"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>TISSUE SPECIFICITY</scope>
+<scope>INDUCTION BY LIGHT</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2002" name="Plant Mol. Biol." volume="49" first="387" last="400">
+<title>Genetics of Aux/IAA and ARF action in plant growth and development.</title>
+<authorList>
+<person name="Liscum E."/>
+<person name="Reed J.W."/>
+</authorList>
+<dbReference type="PubMed" id="12036262"/>
+<dbReference type="DOI" id="10.1023/A:1015255030047"/>
+</citation>
+<scope>GENE FAMILY</scope>
+<scope>NOMENCLATURE</scope>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2003" name="Development" volume="130" first="5769" last="5777">
+<title>AXR3 and SHY2 interact to regulate root hair development.</title>
+<authorList>
+<person name="Knox K."/>
+<person name="Grierson C.S."/>
+<person name="Leyser O."/>
+</authorList>
+<dbReference type="PubMed" id="14534134"/>
+<dbReference type="DOI" id="10.1242/dev.00659"/>
+</citation>
+<scope>TISSUE SPECIFICITY</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2003" name="Plant J." volume="36" first="643" last="651">
+<title>Regulation of Arabidopsis SHY2/IAA3 protein turnover.</title>
+<authorList>
+<person name="Tian Q."/>
+<person name="Nagpal P."/>
+<person name="Reed J.W."/>
+</authorList>
+<dbReference type="PubMed" id="14617065"/>
+<dbReference type="DOI" id="10.1046/j.1365-313X.2003.01909.x"/>
+</citation>
+<scope>INTERACTION WITH TIR1</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2004" name="Plant Cell" volume="16" first="533" last="543">
+<title>Aux/IAA proteins contain a potent transcriptional repression domain.</title>
+<authorList>
+<person name="Tiwari S.B."/>
+<person name="Hagen G."/>
+<person name="Guilfoyle T.J."/>
+</authorList>
+<dbReference type="PubMed" id="14742873"/>
+<dbReference type="DOI" id="10.1105/tpc.017384"/>
+</citation>
+<scope>TRANSCRIPTIONAL REPRESSION DOMAIN</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="2008" name="Science" volume="319" first="1384" last="1386">
+<title>TOPLESS mediates auxin-dependent transcriptional repression during Arabidopsis embryogenesis.</title>
+<authorList>
+<person name="Szemenyei H."/>
+<person name="Hannon M."/>
+<person name="Long J.A."/>
+</authorList>
+<dbReference type="PubMed" id="18258861"/>
+<dbReference type="DOI" id="10.1126/science.1151461"/>
+</citation>
+<scope>INTERACTION WITH TPL</scope>
+</reference>
+<reference key="13">
+<citation type="journal article" date="2008" name="Science" volume="322" first="1380" last="1384">
+<title>A genetic framework for the control of cell division and differentiation in the root meristem.</title>
+<authorList>
+<person name="Dello Ioio R."/>
+<person name="Nakamura K."/>
+<person name="Moubayidin L."/>
+<person name="Perilli S."/>
+<person name="Taniguchi M."/>
+<person name="Morita M.T."/>
+<person name="Aoyama T."/>
+<person name="Costantino P."/>
+<person name="Sabatini S."/>
+</authorList>
+<dbReference type="PubMed" id="19039136"/>
+<dbReference type="DOI" id="10.1126/science.1164147"/>
+</citation>
+<scope>INDUCTION BY ARR1</scope>
+<scope>TISSUE SPECIFICITY</scope>
+<scope>INDUCTION BY CYTOKININ</scope>
+</reference>
+<reference key="14">
+<citation type="journal article" date="2010" name="Curr. Biol." volume="20" first="1138" last="1143">
+<title>The rate of cell differentiation controls the Arabidopsis root meristem growth phase.</title>
+<authorList>
+<person name="Moubayidin L."/>
+<person name="Perilli S."/>
+<person name="Dello Ioio R."/>
+<person name="Di Mambro R."/>
+<person name="Costantino P."/>
+<person name="Sabatini S."/>
+</authorList>
+<dbReference type="PubMed" id="20605455"/>
+<dbReference type="DOI" id="10.1016/j.cub.2010.05.035"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>DEVELOPMENTAL STAGE</scope>
+</reference>
+<reference key="15">
+<citation type="journal article" date="2010" name="Proc. Natl. Acad. Sci. U.S.A." volume="107" first="22734" last="22739">
+<title>Spatio-temporal sequence of cross-regulatory events in root meristem growth.</title>
+<authorList>
+<person name="Scacchi E."/>
+<person name="Salinas P."/>
+<person name="Gujas B."/>
+<person name="Santuari L."/>
+<person name="Krogan N."/>
+<person name="Ragni L."/>
+<person name="Berleth T."/>
+<person name="Hardtke C.S."/>
+</authorList>
+<dbReference type="PubMed" id="21149702"/>
+<dbReference type="DOI" id="10.1073/pnas.1014716108"/>
+</citation>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="16">
+<citation type="journal article" date="2013" name="New Phytol." volume="198" first="866" last="874">
+<title>Strigolactone signaling in the endodermis is sufficient to restore root responses and involves SHORT HYPOCOTYL 2 (SHY2) activity.</title>
+<authorList>
+<person name="Koren D."/>
+<person name="Resnick N."/>
+<person name="Mayzlish Gati E."/>
+<person name="Belausov E."/>
+<person name="Weininger S."/>
+<person name="Kapulnik Y."/>
+<person name="Koltai H."/>
+</authorList>
+<dbReference type="PubMed" id="23425316"/>
+<dbReference type="DOI" id="10.1111/nph.12189"/>
+</citation>
+<scope>FUNCTION</scope>
+</reference>
+<comment type="function">
+<text evidence="4 5 7 9 10 11 12 14">Aux/IAA proteins are short-lived transcriptional factors that function as repressors of early auxin response genes at low auxin concentrations. Repression is thought to result from the interaction with auxin response factors (ARFs), proteins that bind to the auxin-responsive promoter element (AuxRE). Plays a central role in auxin regulation of root growth, in gravitropism, and in lateral root formation (PubMed:9895319). Regulated by an auxin-induced protein turnover (PubMed:14617065). Formation of heterodimers with ARF proteins may alter their ability to modulate early auxin response genes expression. When activated by cytokinin, restricts the expression of the PIN genes to the vascular transition zone (PubMed:19039136). Induction of SHY2 in the vascular transition zone restricts BRX expression to down-regulate PIN3 and thus limit meristem growth, but proper SHY2 expression requires BRX (PubMed:21149702). Involved in meristem growth and in determining its size (PubMed:20605455). May participate in strigolactone signaling to regulate meristem size and lateral root formation (PubMed:23425316).</text>
+</comment>
+<comment type="subunit">
+<text evidence="1 7 8">Homodimers and heterodimers (By similarity). Interacts with TPL (PubMed:18258861). Interacts with TIR1, the F-box component of the Skp1-Cdc53/cullin-F-box (SCFTIR1) E3 ubiquitin ligase complex (PubMed:14617065).</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-307174"/>
+<interactant intactId="EBI-529887">
+<id>Q8RYC8</id>
+<label>ARF19</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>4</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-307174"/>
+<interactant intactId="EBI-632284">
+<id>P93022</id>
+<label>ARF7</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-307174"/>
+<interactant intactId="EBI-630505">
+<id>P49677</id>
+<label>IAA1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>6</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-307174"/>
+<interactant intactId="EBI-3946434">
+<id>Q38828</id>
+<label>IAA10</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-307174"/>
+<interactant intactId="EBI-2367923">
+<id>Q38829</id>
+<label>IAA11</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>4</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-307174"/>
+<interactant intactId="EBI-1554143">
+<id>Q38831</id>
+<label>IAA13</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>4</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-307174"/>
+<interactant intactId="EBI-2295562">
+<id>Q38832</id>
+<label>IAA14</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>4</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-307174"/>
+<interactant intactId="EBI-632231">
+<id>O24407</id>
+<label>IAA16</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>5</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-307174"/>
+<interactant intactId="EBI-632243">
+<id>P93830</id>
+<label>IAA17</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>5</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-307174"/>
+<interactant intactId="EBI-632257">
+<id>O24409</id>
+<label>IAA19</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>4</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-307174"/>
+<interactant intactId="EBI-632343">
+<id>P49678</id>
+<label>IAA2</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>5</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-307174"/>
+<interactant intactId="EBI-3947418">
+<id>Q8LAL2</id>
+<label>IAA26</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>4</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-307174"/>
+<interactant intactId="EBI-3946677">
+<id>Q9ZSY8</id>
+<label>IAA27</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>4</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-307174"/>
+<interactant intactId="EBI-3133404">
+<id>Q9XFM0</id>
+<label>IAA28</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-307174"/>
+<interactant intactId="EBI-3946408">
+<id>Q8H174</id>
+<label>IAA31</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>5</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-307174"/>
+<interactant intactId="EBI-3946459">
+<id>Q9C5X0</id>
+<label>IAA34</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>4</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-307174"/>
+<interactant intactId="EBI-632187">
+<id>P33077</id>
+<label>IAA4</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>4</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-307174"/>
+<interactant intactId="EBI-3946487">
+<id>P33078</id>
+<label>IAA5</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-307174"/>
+<interactant intactId="EBI-1554124">
+<id>Q38824</id>
+<label>IAA6</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-307174"/>
+<interactant intactId="EBI-602959">
+<id>Q38825</id>
+<label>IAA7</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-307174"/>
+<interactant intactId="EBI-632200">
+<id>Q38826</id>
+<label>IAA8</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>4</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-307174"/>
+<interactant intactId="EBI-307183">
+<id>Q570C0</id>
+<label>TIR1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="1">Nucleus</location>
+</subcellularLocation>
+</comment>
+<comment type="tissue specificity">
+<text evidence="4 6 9 13">Highly expressed in stems and flowers (PubMed:7658471). Expressed in hypocotyls, cotyledons and leaves, but barely detected in roots (PubMed:11884676). Expressed in root tips (PubMed:14534134). In the root meristem, specifically detected at the vascular tissue transition zone (PubMed:19039136).</text>
+</comment>
+<comment type="developmental stage">
+<text evidence="10">The level of expression increases during meristem growth, reaches a maximum at 5 days post germination and subsequently remaines constant in time.</text>
+</comment>
+<comment type="induction">
+<text evidence="4 9 13">By auxin (PubMed:7658471). Up-regulated by cytokinin treatment through the primary cytokinin-response transcription factor ARR1 (PubMed:19039136). Down-regulated by light in the presence of sucrose, but up-regulated in the absence of sucrose (PubMed:11884676).</text>
+</comment>
+<comment type="domain">
+<text>The N-terminal half of the protein contains two conserved domains I and II. Domain I includes a slightly degenerated ERF-associated amphiphilic repression (EAR) motif which seems to be involved in the activity of transcriptional repression. Domain II is required for the correct degradation of the protein through the SCF-mediated ubiquitin-proteasome pathway. Interactions between Aux/IAA proteins and auxin response factors (ARFs) occur through their C-terminal dimerization domains III and IV.</text>
+</comment>
+<comment type="PTM">
+<text evidence="3">Phosphorylated by phytochrome A in vitro.</text>
+</comment>
+<comment type="similarity">
+<text evidence="15">Belongs to the Aux/IAA family.</text>
+</comment>
+<dbReference type="EMBL" id="U18406">
+<property type="protein sequence ID" value="AAC49045.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AC000104">
+<property type="protein sequence ID" value="AAB70452.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CP002684">
+<property type="protein sequence ID" value="AEE27673.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF332393">
+<property type="protein sequence ID" value="AAG48757.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY064007">
+<property type="protein sequence ID" value="AAL36363.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="PIR" id="S58491">
+<property type="entry name" value="S58491"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_171920.1">
+<property type="nucleotide sequence ID" value="NM_100305.4"/>
+</dbReference>
+<dbReference type="UniGene" id="At.20801"/>
+<dbReference type="ProteinModelPortal" id="Q38822"/>
+<dbReference type="SMR" id="Q38822"/>
+<dbReference type="BioGrid" id="24805">
+<property type="interactions" value="42"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-31741N"/>
+<dbReference type="ELM" id="Q38822"/>
+<dbReference type="IntAct" id="Q38822">
+<property type="interactions" value="48"/>
+</dbReference>
+<dbReference type="STRING" id="3702.AT1G04240.1"/>
+<dbReference type="PaxDb" id="Q38822"/>
+<dbReference type="DNASU" id="839570"/>
+<dbReference type="EnsemblPlants" id="AT1G04240.1">
+<property type="protein sequence ID" value="AT1G04240.1"/>
+<property type="gene ID" value="AT1G04240"/>
+</dbReference>
+<dbReference type="GeneID" id="839570"/>
+<dbReference type="Gramene" id="AT1G04240.1">
+<property type="protein sequence ID" value="AT1G04240.1"/>
+<property type="gene ID" value="AT1G04240"/>
+</dbReference>
+<dbReference type="KEGG" id="ath:AT1G04240"/>
+<dbReference type="Araport" id="AT1G04240"/>
+<dbReference type="TAIR" id="locus:2018379">
+<property type="gene designation" value="AT1G04240"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG410IX07">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG410YIDV">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000238261"/>
+<dbReference type="InParanoid" id="Q38822"/>
+<dbReference type="KO" id="K14484"/>
+<dbReference type="OrthoDB" id="1265494at2759"/>
+<dbReference type="PhylomeDB" id="Q38822"/>
+<dbReference type="PRO" id="PR:Q38822"/>
+<dbReference type="Proteomes" id="UP000006548">
+<property type="component" value="Chromosome 1"/>
+</dbReference>
+<dbReference type="ExpressionAtlas" id="Q38822">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevisible" id="Q38822">
+<property type="organism ID" value="AT"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005634">
+<property type="term" value="C:nucleus"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003700">
+<property type="term" value="F:DNA-binding transcription factor activity"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="TAIR"/>
+</dbReference>
+<dbReference type="GO" id="GO:0044212">
+<property type="term" value="F:transcription regulatory region DNA binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="TAIR"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009734">
+<property type="term" value="P:auxin-activated signaling pathway"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009733">
+<property type="term" value="P:response to auxin"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="TAIR"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR033389">
+<property type="entry name" value="AUX/IAA_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003311">
+<property type="entry name" value="AUX_IAA"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000270">
+<property type="entry name" value="PB1_dom"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR31734">
+<property type="entry name" value="PTHR31734"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF02309">
+<property type="entry name" value="AUX_IAA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51745">
+<property type="entry name" value="PB1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0927">Auxin signaling pathway</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0539">Nucleus</keyword>
+<keyword id="KW-0597">Phosphoprotein</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0678">Repressor</keyword>
+<keyword id="KW-0804">Transcription</keyword>
+<keyword id="KW-0805">Transcription regulation</keyword>
+<feature type="chain" description="Auxin-responsive protein IAA3" id="PRO_0000112834">
+<location>
+<begin position="1"/>
+<end position="189"/>
+</location>
+</feature>
+<feature type="domain" description="PB1" evidence="2">
+<location>
+<begin position="92"/>
+<end position="179"/>
+</location>
+</feature>
+<feature type="short sequence motif" description="EAR-like (transcriptional repression)">
+<location>
+<begin position="12"/>
+<end position="16"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Poly-Asn">
+<location>
+<begin position="33"/>
+<end position="36"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="In shy2-3; gain of function. Affects auxin-related developmental processes. Affects photomorphogenesis." evidence="14">
+<original>G</original>
+<variation>E</variation>
+<location>
+<position position="67"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="In shy2-2; gain of function. Affects auxin-related developmental processes. Affects photomorphogenesis." evidence="14">
+<original>P</original>
+<variation>S</variation>
+<location>
+<position position="69"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000250"/>
+<evidence key="2" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU01081"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11115889"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11884676"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12036262"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="14534134"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="14617065"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18258861"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19039136"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20605455"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21149702"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23425316"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="7658471"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9895319"/>
+</source>
+</evidence>
+<evidence key="15" type="ECO:0000305"/>
+<sequence length="189" mass="21520" checksum="8627A4173363EF27" modified="1996-11-01" version="1">
+MDEFVNLKETELRLGLPGTDNVCEAKERVSCCNNNNKRVLSTDTEKEIESSSRKTETSPP
+RKAQIVGWPPVRSYRKNNIQSKKNESEHEGQGIYVKVSMDGAPYLRKIDLSCYKGYSELL
+KALEVMFKFSVGEYFERDGYKGSDFVPTYEDKDGDWMLIGDVPWEMFICTCKRLRIMKGS
+EAKGLGCGV
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

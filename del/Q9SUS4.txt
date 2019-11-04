@@ -1,0 +1,177 @@
+ID   RHA1A_ARATH             Reviewed;         159 AA.
+AC   Q9SUS4; Q9ZT52;
+DT   16-AUG-2004, integrated into UniProtKB/Swiss-Prot.
+DT   01-MAY-2000, sequence version 1.
+DT   16-JAN-2019, entry version 111.
+DE   RecName: Full=Probable E3 ubiquitin-protein ligase RHA1A {ECO:0000305};
+DE            EC=2.3.2.27;
+DE   AltName: Full=RING-H2 finger A1a {ECO:0000303|PubMed:9781696};
+DE   AltName: Full=RING-H2 zinc finger protein RHA1a {ECO:0000305};
+DE   AltName: Full=RING-type E3 ubiquitin transferase RHA1A {ECO:0000305};
+GN   Name=RHA1A {ECO:0000303|PubMed:9781696}; OrderedLocusNames=At4g11370;
+GN   ORFNames=F8L21.160;
+OS   Arabidopsis thaliana (Mouse-ear cress).
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+OC   Pentapetalae; rosids; malvids; Brassicales; Brassicaceae; Camelineae;
+OC   Arabidopsis.
+OX   NCBI_TaxID=3702;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA], AND TISSUE SPECIFICITY.
+RC   STRAIN=cv. Columbia;
+RX   PubMed=9781696; DOI=10.1016/S0014-5793(98)01143-0;
+RA   Jensen R.B., Jensen K.L., Jespersen H.M., Skriver K.;
+RT   "Widespread occurrence of a highly conserved RING-H2 zinc finger motif
+RT   in the model plant Arabidopsis thaliana.";
+RL   FEBS Lett. 436:283-287(1998).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=cv. Columbia;
+RX   PubMed=10617198; DOI=10.1038/47134;
+RA   Mayer K.F.X., Schueller C., Wambutt R., Murphy G., Volckaert G.,
+RA   Pohl T., Duesterhoeft A., Stiekema W., Entian K.-D., Terryn N.,
+RA   Harris B., Ansorge W., Brandt P., Grivell L.A., Rieger M.,
+RA   Weichselgartner M., de Simone V., Obermaier B., Mache R., Mueller M.,
+RA   Kreis M., Delseny M., Puigdomenech P., Watson M., Schmidtheini T.,
+RA   Reichert B., Portetelle D., Perez-Alonso M., Boutry M., Bancroft I.,
+RA   Vos P., Hoheisel J., Zimmermann W., Wedler H., Ridley P.,
+RA   Langham S.-A., McCullagh B., Bilham L., Robben J.,
+RA   van der Schueren J., Grymonprez B., Chuang Y.-J., Vandenbussche F.,
+RA   Braeken M., Weltjens I., Voet M., Bastiaens I., Aert R., Defoor E.,
+RA   Weitzenegger T., Bothe G., Ramsperger U., Hilbert H., Braun M.,
+RA   Holzer E., Brandt A., Peters S., van Staveren M., Dirkse W.,
+RA   Mooijman P., Klein Lankhorst R., Rose M., Hauf J., Koetter P.,
+RA   Berneiser S., Hempel S., Feldpausch M., Lamberth S., Van den Daele H.,
+RA   De Keyser A., Buysshaert C., Gielen J., Villarroel R., De Clercq R.,
+RA   van Montagu M., Rogers J., Cronin A., Quail M.A., Bray-Allen S.,
+RA   Clark L., Doggett J., Hall S., Kay M., Lennard N., McLay K., Mayes R.,
+RA   Pettett A., Rajandream M.A., Lyne M., Benes V., Rechmann S.,
+RA   Borkova D., Bloecker H., Scharfe M., Grimm M., Loehnert T.-H.,
+RA   Dose S., de Haan M., Maarse A.C., Schaefer M., Mueller-Auer S.,
+RA   Gabel C., Fuchs M., Fartmann B., Granderath K., Dauner D., Herzl A.,
+RA   Neumann S., Argiriou A., Vitale D., Liguori R., Piravandi E.,
+RA   Massenet O., Quigley F., Clabauld G., Muendlein A., Felber R.,
+RA   Schnabl S., Hiller R., Schmidt W., Lecharny A., Aubourg S.,
+RA   Chefdor F., Cooke R., Berger C., Monfort A., Casacuberta E.,
+RA   Gibbons T., Weber N., Vandenbol M., Bargues M., Terol J., Torres A.,
+RA   Perez-Perez A., Purnelle B., Bent E., Johnson S., Tacon D., Jesse T.,
+RA   Heijnen L., Schwarz S., Scholler P., Heber S., Francs P., Bielke C.,
+RA   Frishman D., Haase D., Lemcke K., Mewes H.-W., Stocker S.,
+RA   Zaccaria P., Bevan M., Wilson R.K., de la Bastide M., Habermann K.,
+RA   Parnell L., Dedhia N., Gnoj L., Schutz K., Huang E., Spiegel L.,
+RA   Sekhon M., Murray J., Sheet P., Cordes M., Abu-Threideh J.,
+RA   Stoneking T., Kalicki J., Graves T., Harmon G., Edwards J.,
+RA   Latreille P., Courtney L., Cloud J., Abbott A., Scott K., Johnson D.,
+RA   Minx P., Bentley D., Fulton B., Miller N., Greco T., Kemp K.,
+RA   Kramer J., Fulton L., Mardis E., Dante M., Pepin K., Hillier L.W.,
+RA   Nelson J., Spieth J., Ryan E., Andrews S., Geisel C., Layman D.,
+RA   Du H., Ali J., Berghoff A., Jones K., Drone K., Cotton M., Joshu C.,
+RA   Antonoiu B., Zidanic M., Strong C., Sun H., Lamar B., Yordan C.,
+RA   Ma P., Zhong J., Preston R., Vil D., Shekher M., Matero A., Shah R.,
+RA   Swaby I.K., O'Shaughnessy A., Rodriguez M., Hoffman J., Till S.,
+RA   Granat S., Shohdy N., Hasegawa A., Hameed A., Lodhi M., Johnson A.,
+RA   Chen E., Marra M.A., Martienssen R., McCombie W.R.;
+RT   "Sequence and analysis of chromosome 4 of the plant Arabidopsis
+RT   thaliana.";
+RL   Nature 402:769-777(1999).
+RN   [3]
+RP   GENOME REANNOTATION.
+RC   STRAIN=cv. Columbia;
+RX   PubMed=27862469; DOI=10.1111/tpj.13415;
+RA   Cheng C.Y., Krishnakumar V., Chan A.P., Thibaud-Nissen F., Schobel S.,
+RA   Town C.D.;
+RT   "Araport11: a complete reannotation of the Arabidopsis thaliana
+RT   reference genome.";
+RL   Plant J. 89:789-804(2017).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RA   Brover V.V., Troukhan M.E., Alexandrov N.A., Lu Y.-P., Flavell R.B.,
+RA   Feldmann K.A.;
+RT   "Full-length cDNA from Arabidopsis thaliana.";
+RL   Submitted (MAR-2002) to the EMBL/GenBank/DDBJ databases.
+CC   -!- FUNCTION: Probable E3 ubiquitin-protein ligase that may possess E3
+CC       ubiquitin ligase activity in vitro.
+CC       {ECO:0000250|UniProtKB:Q9ZT50}.
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=S-ubiquitinyl-[E2 ubiquitin-conjugating enzyme]-L-
+CC         cysteine + [acceptor protein]-L-lysine = [E2 ubiquitin-
+CC         conjugating enzyme]-L-cysteine + N(6)-ubiquitinyl-[acceptor
+CC         protein]-L-lysine.; EC=2.3.2.27;
+CC   -!- PATHWAY: Protein modification; protein ubiquitination.
+CC       {ECO:0000305}.
+CC   -!- TISSUE SPECIFICITY: Predominantly expressed in stems.
+CC       {ECO:0000269|PubMed:9781696}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AF078683; AAC68664.1; -; mRNA.
+DR   EMBL; AL096882; CAB51421.1; -; Genomic_DNA.
+DR   EMBL; AL161531; CAB81238.1; -; Genomic_DNA.
+DR   EMBL; CP002687; AEE83002.1; -; Genomic_DNA.
+DR   EMBL; AY086119; AAM63325.1; -; mRNA.
+DR   PIR; T13028; T13028.
+DR   PIR; T51840; T51840.
+DR   RefSeq; NP_192876.1; NM_117208.4.
+DR   UniGene; At.24904; -.
+DR   ProteinModelPortal; Q9SUS4; -.
+DR   SMR; Q9SUS4; -.
+DR   BioGrid; 12038; 11.
+DR   IntAct; Q9SUS4; 10.
+DR   STRING; 3702.AT4G11370.1; -.
+DR   PaxDb; Q9SUS4; -.
+DR   EnsemblPlants; AT4G11370.1; AT4G11370.1; AT4G11370.
+DR   GeneID; 826739; -.
+DR   Gramene; AT4G11370.1; AT4G11370.1; AT4G11370.
+DR   KEGG; ath:AT4G11370; -.
+DR   Araport; AT4G11370; -.
+DR   TAIR; locus:2128303; AT4G11370.
+DR   eggNOG; KOG0800; Eukaryota.
+DR   eggNOG; ENOG41121N2; LUCA.
+DR   HOGENOM; HOG000239353; -.
+DR   InParanoid; Q9SUS4; -.
+DR   KO; K16281; -.
+DR   OMA; FRDMINA; -.
+DR   OrthoDB; 472012at2759; -.
+DR   PhylomeDB; Q9SUS4; -.
+DR   UniPathway; UPA00143; -.
+DR   PRO; PR:Q9SUS4; -.
+DR   Proteomes; UP000006548; Chromosome 4.
+DR   ExpressionAtlas; Q9SUS4; baseline and differential.
+DR   Genevisible; Q9SUS4; AT.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0016740; F:transferase activity; IEA:UniProtKB-KW.
+DR   GO; GO:0016567; P:protein ubiquitination; IEA:UniProtKB-UniPathway.
+DR   Gene3D; 3.30.40.10; -; 1.
+DR   InterPro; IPR001841; Znf_RING.
+DR   InterPro; IPR013083; Znf_RING/FYVE/PHD.
+DR   Pfam; PF13639; zf-RING_2; 1.
+DR   SMART; SM00184; RING; 1.
+DR   PROSITE; PS50089; ZF_RING_2; 1.
+PE   2: Evidence at transcript level;
+KW   Complete proteome; Metal-binding; Reference proteome; Transferase;
+KW   Ubl conjugation pathway; Zinc; Zinc-finger.
+FT   CHAIN         1    159       Probable E3 ubiquitin-protein ligase
+FT                                RHA1A.
+FT                                /FTId=PRO_0000056033.
+FT   ZN_FING      86    130       RING-type; atypical.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU00175}.
+FT   CONFLICT     15     15       S -> G (in Ref. 1; AAC68664 and 4;
+FT                                AAM63325). {ECO:0000305}.
+FT   CONFLICT     30     30       I -> M (in Ref. 1; AAC68664 and 4;
+FT                                AAM63325). {ECO:0000305}.
+FT   CONFLICT     42     42       R -> S (in Ref. 1; AAC68664 and 4;
+FT                                AAM63325). {ECO:0000305}.
+FT   CONFLICT     51     51       A -> G (in Ref. 1; AAC68664 and 4;
+FT                                AAM63325). {ECO:0000305}.
+FT   CONFLICT     54     54       L -> P (in Ref. 1; AAC68664 and 4;
+FT                                AAM63325). {ECO:0000305}.
+FT   CONFLICT    112    112       Y -> H (in Ref. 1; AAC68664 and 4;
+FT                                AAM63325). {ECO:0000305}.
+FT   CONFLICT    142    142       S -> C (in Ref. 1; AAC68664 and 4;
+FT                                AAM63325). {ECO:0000305}.
+SQ   SEQUENCE   159 AA;  18309 MW;  10E928A3976E4215 CRC64;
+     MGLPEDFITE LQIPSYILKI LYVIGFFRDI VDALCPYIGL PRFLDHNETS APDLTRHALS
+     TSASLANELI PVVRFSDLPT DPEDCCTVCL SDFESDDKVR QLPKCGHVFH HYCLDRWIVD
+     YNKMKCPVCR HRFLPKEKYT QSDWGSGSDW FSDEVESTN
+//

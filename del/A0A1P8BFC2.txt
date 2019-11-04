@@ -1,0 +1,89 @@
+ID   A0A1P8BFC2_ARATH        Unreviewed;       229 AA.
+AC   A0A1P8BFC2;
+DT   12-APR-2017, integrated into UniProtKB/TrEMBL.
+DT   12-APR-2017, sequence version 1.
+DT   16-JAN-2019, entry version 8.
+DE   SubName: Full=Remorin family protein {ECO:0000313|EMBL:ANM70284.1};
+GN   Name=MRO11.21 {ECO:0000313|EMBL:ANM70284.1};
+GN   Synonyms=MRO11_21 {ECO:0000313|EMBL:ANM70284.1};
+GN   OrderedLocusNames=At5g23750 {ECO:0000313|EMBL:ANM70284.1};
+OS   Arabidopsis thaliana (Mouse-ear cress).
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+OC   Pentapetalae; rosids; malvids; Brassicales; Brassicaceae; Camelineae;
+OC   Arabidopsis.
+OX   NCBI_TaxID=3702 {ECO:0000313|EMBL:ANM70284.1, ECO:0000313|Proteomes:UP000006548};
+RN   [1] {ECO:0000313|EMBL:ANM70284.1, ECO:0000313|Proteomes:UP000006548}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=cv. Columbia {ECO:0000313|Proteomes:UP000006548};
+RX   PubMed=11130714; DOI=10.1038/35048507;
+RG   Kazusa DNA Research Institute;
+RG   Cold Spring Harbor and Washington University in St Louis Sequencing Consortium;
+RG   European Union Arabidopsis Genome Sequencing Consortium;
+RA   Tabata S., Kaneko T., Nakamura Y., Kotani H., Kato T., Asamizu E.,
+RA   Miyajima N., Sasamoto S., Kimura T., Hosouchi T., Kawashima K.,
+RA   Kohara M., Matsumoto M., Matsuno A., Muraki A., Nakayama S.,
+RA   Nakazaki N., Naruo K., Okumura S., Shinpo S., Takeuchi C., Wada T.,
+RA   Watanabe A., Yamada M., Yasuda M., Sato S., de la Bastide M.,
+RA   Huang E., Spiegel L., Gnoj L., O'Shaughnessy A., Preston R.,
+RA   Habermann K., Murray J., Johnson D., Rohlfing T., Nelson J.,
+RA   Stoneking T., Pepin K., Spieth J., Sekhon M., Armstrong J., Becker M.,
+RA   Belter E., Cordum H., Cordes M., Courtney L., Courtney W., Dante M.,
+RA   Du H., Edwards J., Fryman J., Haakensen B., Lamar E., Latreille P.,
+RA   Leonard S., Meyer R., Mulvaney E., Ozersky P., Riley A., Strowmatt C.,
+RA   Wagner-McPherson C., Wollam A., Yoakum M., Bell M., Dedhia N.,
+RA   Parnell L., Shah R., Rodriguez M., See L.H., Vil D., Baker J.,
+RA   Kirchoff K., Toth K., King L., Bahret A., Miller B., Marra M.,
+RA   Martienssen R., McCombie W.R., Wilson R.K., Murphy G., Bancroft I.,
+RA   Volckaert G., Wambutt R., Dusterhoft A., Stiekema W., Pohl T.,
+RA   Entian K.D., Terryn N., Hartley N., Bent E., Johnson S., Langham S.A.,
+RA   McCullagh B., Robben J., Grymonprez B., Zimmermann W., Ramsperger U.,
+RA   Wedler H., Balke K., Wedler E., Peters S., van Staveren M., Dirkse W.,
+RA   Mooijman P., Lankhorst R.K., Weitzenegger T., Bothe G., Rose M.,
+RA   Hauf J., Berneiser S., Hempel S., Feldpausch M., Lamberth S.,
+RA   Villarroel R., Gielen J., Ardiles W., Bents O., Lemcke K., Kolesov G.,
+RA   Mayer K., Rudd S., Schoof H., Schueller C., Zaccaria P., Mewes H.W.,
+RA   Bevan M., Fransz P.;
+RT   "Sequence and analysis of chromosome 5 of the plant Arabidopsis
+RT   thaliana.";
+RL   Nature 408:823-826(2000).
+RN   [2] {ECO:0000313|Proteomes:UP000006548}
+RP   GENOME REANNOTATION.
+RC   STRAIN=cv. Columbia {ECO:0000313|Proteomes:UP000006548};
+RX   PubMed=27862469; DOI=10.1111/tpj.13415;
+RA   Cheng C.Y., Krishnakumar V., Chan A.P., Thibaud-Nissen F., Schobel S.,
+RA   Town C.D.;
+RT   "Araport11: a complete reannotation of the Arabidopsis thaliana
+RT   reference genome.";
+RL   Plant J. 89:789-804(2017).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   -----------------------------------------------------------------------
+DR   EMBL; CP002688; ANM70284.1; -; Genomic_DNA.
+DR   RefSeq; NP_001331907.1; NM_001343821.1.
+DR   UniGene; At.22829; -.
+DR   EnsemblPlants; AT5G23750.3; AT5G23750.3; AT5G23750.
+DR   GeneID; 832440; -.
+DR   Gramene; AT5G23750.3; AT5G23750.3; AT5G23750.
+DR   KEGG; ath:AT5G23750; -.
+DR   OrthoDB; 1592521at2759; -.
+DR   Proteomes; UP000006548; Chromosome 5.
+DR   ExpressionAtlas; A0A1P8BFC2; baseline and differential.
+DR   InterPro; IPR005516; Remorin_C.
+DR   InterPro; IPR005518; Remorin_N.
+DR   Pfam; PF03763; Remorin_C; 1.
+DR   Pfam; PF03766; Remorin_N; 1.
+PE   4: Predicted;
+KW   Coiled coil {ECO:0000256|SAM:Coils};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000006548};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000006548}.
+FT   DOMAIN       58    115       Remorin_N. {ECO:0000259|Pfam:PF03766}.
+FT   DOMAIN      119    224       Remorin_C. {ECO:0000259|Pfam:PF03763}.
+FT   COILED      154    196       {ECO:0000256|SAM:Coils}.
+SQ   SEQUENCE   229 AA;  25364 MW;  1431FF55EC60AE7F CRC64;
+     MTTRNRTSLP NISSSVSSNK NIVVPNIMAE EEPKKVTETV SEPTPTPEVP VEKPAAAADV
+     APQEKPVAPP PVLPSPAPAE EKQEDSKAIV PVVPKEVEEE KKEGSVNRDA VLARVETEKR
+     MSLIKAWEEA EKCKVENKAE KKLSSIGSWE NNKKAAVEAE LKKMEEQLEK KKAEYVEQMK
+     NKIAQIHKEA EEKRAMIEAK RGEEILKAEE LAAKYRATGT APKKLFGCM
+//

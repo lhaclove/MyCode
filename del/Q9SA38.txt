@@ -1,0 +1,189 @@
+ID   OCT3_ARATH              Reviewed;         518 AA.
+AC   Q9SA38;
+DT   25-JAN-2012, integrated into UniProtKB/Swiss-Prot.
+DT   01-MAY-2000, sequence version 1.
+DT   16-JAN-2019, entry version 115.
+DE   RecName: Full=Organic cation/carnitine transporter 3;
+DE            Short=AtOCT3;
+GN   Name=OCT3; Synonyms=3-Oct; OrderedLocusNames=At1g16390;
+GN   ORFNames=F3O9.19;
+OS   Arabidopsis thaliana (Mouse-ear cress).
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+OC   Pentapetalae; rosids; malvids; Brassicales; Brassicaceae; Camelineae;
+OC   Arabidopsis.
+OX   NCBI_TaxID=3702;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=cv. Columbia;
+RX   PubMed=11130712; DOI=10.1038/35048500;
+RA   Theologis A., Ecker J.R., Palm C.J., Federspiel N.A., Kaul S.,
+RA   White O., Alonso J., Altafi H., Araujo R., Bowman C.L., Brooks S.Y.,
+RA   Buehler E., Chan A., Chao Q., Chen H., Cheuk R.F., Chin C.W.,
+RA   Chung M.K., Conn L., Conway A.B., Conway A.R., Creasy T.H., Dewar K.,
+RA   Dunn P., Etgu P., Feldblyum T.V., Feng J.-D., Fong B., Fujii C.Y.,
+RA   Gill J.E., Goldsmith A.D., Haas B., Hansen N.F., Hughes B., Huizar L.,
+RA   Hunter J.L., Jenkins J., Johnson-Hopson C., Khan S., Khaykin E.,
+RA   Kim C.J., Koo H.L., Kremenetskaia I., Kurtz D.B., Kwan A., Lam B.,
+RA   Langin-Hooper S., Lee A., Lee J.M., Lenz C.A., Li J.H., Li Y.-P.,
+RA   Lin X., Liu S.X., Liu Z.A., Luros J.S., Maiti R., Marziali A.,
+RA   Militscher J., Miranda M., Nguyen M., Nierman W.C., Osborne B.I.,
+RA   Pai G., Peterson J., Pham P.K., Rizzo M., Rooney T., Rowley D.,
+RA   Sakano H., Salzberg S.L., Schwartz J.R., Shinn P., Southwick A.M.,
+RA   Sun H., Tallon L.J., Tambunga G., Toriumi M.J., Town C.D.,
+RA   Utterback T., Van Aken S., Vaysberg M., Vysotskaia V.S., Walker M.,
+RA   Wu D., Yu G., Fraser C.M., Venter J.C., Davis R.W.;
+RT   "Sequence and analysis of chromosome 1 of the plant Arabidopsis
+RT   thaliana.";
+RL   Nature 408:816-820(2000).
+RN   [2]
+RP   GENOME REANNOTATION.
+RC   STRAIN=cv. Columbia;
+RX   PubMed=27862469; DOI=10.1111/tpj.13415;
+RA   Cheng C.Y., Krishnakumar V., Chan A.P., Thibaud-Nissen F., Schobel S.,
+RA   Town C.D.;
+RT   "Araport11: a complete reannotation of the Arabidopsis thaliana
+RT   reference genome.";
+RL   Plant J. 89:789-804(2017).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   STRAIN=cv. Columbia;
+RX   PubMed=14593172; DOI=10.1126/science.1088305;
+RA   Yamada K., Lim J., Dale J.M., Chen H., Shinn P., Palm C.J.,
+RA   Southwick A.M., Wu H.C., Kim C.J., Nguyen M., Pham P.K., Cheuk R.F.,
+RA   Karlin-Newmann G., Liu S.X., Lam B., Sakano H., Wu T., Yu G.,
+RA   Miranda M., Quach H.L., Tripp M., Chang C.H., Lee J.M., Toriumi M.J.,
+RA   Chan M.M., Tang C.C., Onodera C.S., Deng J.M., Akiyama K., Ansari Y.,
+RA   Arakawa T., Banh J., Banno F., Bowser L., Brooks S.Y., Carninci P.,
+RA   Chao Q., Choy N., Enju A., Goldsmith A.D., Gurjal M., Hansen N.F.,
+RA   Hayashizaki Y., Johnson-Hopson C., Hsuan V.W., Iida K., Karnes M.,
+RA   Khan S., Koesema E., Ishida J., Jiang P.X., Jones T., Kawai J.,
+RA   Kamiya A., Meyers C., Nakajima M., Narusaka M., Seki M., Sakurai T.,
+RA   Satou M., Tamse R., Vaysberg M., Wallender E.K., Wong C., Yamamura Y.,
+RA   Yuan S., Shinozaki K., Davis R.W., Theologis A., Ecker J.R.;
+RT   "Empirical analysis of transcriptional activity in the Arabidopsis
+RT   genome.";
+RL   Science 302:842-846(2003).
+RN   [4]
+RP   SUBCELLULAR LOCATION, INDUCTION BY ABIOTIC STRESS, AND TISSUE
+RP   SPECIFICITY.
+RC   STRAIN=cv. Columbia;
+RX   PubMed=18710496; DOI=10.1186/1756-0500-1-43;
+RA   Kuefner I., Koch W.;
+RT   "Stress regulated members of the plant organic cation transporter
+RT   family are localized to the vacuolar membrane.";
+RL   BMC Res. Notes 1:43-43(2008).
+CC   -!- FUNCTION: High affinity carnitine transporter involved in the
+CC       active cellular uptake of carnitine. Also transports organic
+CC       cations (By similarity). {ECO:0000250}.
+CC   -!- SUBCELLULAR LOCATION: Vacuole membrane
+CC       {ECO:0000269|PubMed:18710496}; Multi-pass membrane protein
+CC       {ECO:0000269|PubMed:18710496}.
+CC   -!- TISSUE SPECIFICITY: Mostly expressed in siliques, mainly in young
+CC       seeds. Present in stems (cortical cells and parenchyma cells), at
+CC       the basis of secondary inflorescences, and at the base of
+CC       trichomes. {ECO:0000269|PubMed:18710496}.
+CC   -!- INDUCTION: During cold stress treatment.
+CC       {ECO:0000269|PubMed:18710496}.
+CC   -!- SIMILARITY: Belongs to the major facilitator (TC 2.A.1)
+CC       superfamily. Organic cation transporter (TC 2.A.1.19) family.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AC006341; AAD34691.1; -; Genomic_DNA.
+DR   EMBL; CP002684; AEE29445.1; -; Genomic_DNA.
+DR   EMBL; AY078972; AAL79578.1; -; mRNA.
+DR   EMBL; BT000863; AAN38700.1; -; mRNA.
+DR   PIR; B86299; B86299.
+DR   RefSeq; NP_173089.1; NM_101505.3.
+DR   UniGene; At.28085; -.
+DR   ProteinModelPortal; Q9SA38; -.
+DR   STRING; 3702.AT1G16390.1; -.
+DR   PaxDb; Q9SA38; -.
+DR   EnsemblPlants; AT1G16390.1; AT1G16390.1; AT1G16390.
+DR   GeneID; 838209; -.
+DR   Gramene; AT1G16390.1; AT1G16390.1; AT1G16390.
+DR   KEGG; ath:AT1G16390; -.
+DR   Araport; AT1G16390; -.
+DR   TAIR; locus:2032825; AT1G16390.
+DR   eggNOG; ENOG410IRHX; Eukaryota.
+DR   eggNOG; ENOG410XR6G; LUCA.
+DR   HOGENOM; HOG000234568; -.
+DR   InParanoid; Q9SA38; -.
+DR   OMA; LMYLWFS; -.
+DR   OrthoDB; 762280at2759; -.
+DR   PhylomeDB; Q9SA38; -.
+DR   Reactome; R-ATH-112311; Neurotransmitter clearance.
+DR   Reactome; R-ATH-181430; Norepinephrine Neurotransmitter Release Cycle.
+DR   Reactome; R-ATH-197264; Nicotinamide salvaging.
+DR   Reactome; R-ATH-200425; Import of palmitoyl-CoA into the mitochondrial matrix.
+DR   Reactome; R-ATH-2161517; Abacavir transmembrane transport.
+DR   Reactome; R-ATH-442660; Na+/Cl- dependent neurotransmitter transporters.
+DR   Reactome; R-ATH-549127; Organic cation transport.
+DR   Reactome; R-ATH-561048; Organic anion transport.
+DR   PRO; PR:Q9SA38; -.
+DR   Proteomes; UP000006548; Chromosome 1.
+DR   ExpressionAtlas; Q9SA38; baseline and differential.
+DR   Genevisible; Q9SA38; AT.
+DR   GO; GO:0016021; C:integral component of membrane; IEA:UniProtKB-KW.
+DR   GO; GO:0009705; C:plant-type vacuole membrane; IDA:UniProtKB.
+DR   GO; GO:0005524; F:ATP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0022857; F:transmembrane transporter activity; IEA:InterPro.
+DR   GO; GO:0070417; P:cellular response to cold; IEP:UniProtKB.
+DR   GO; GO:0006811; P:ion transport; IEA:UniProtKB-KW.
+DR   CDD; cd06174; MFS; 1.
+DR   InterPro; IPR020846; MFS_dom.
+DR   InterPro; IPR005828; MFS_sugar_transport-like.
+DR   InterPro; IPR036259; MFS_trans_sf.
+DR   Pfam; PF00083; Sugar_tr; 1.
+DR   SUPFAM; SSF103473; SSF103473; 1.
+DR   PROSITE; PS50850; MFS; 1.
+PE   2: Evidence at transcript level;
+KW   ATP-binding; Complete proteome; Glycoprotein; Ion transport; Membrane;
+KW   Nucleotide-binding; Reference proteome; Transmembrane;
+KW   Transmembrane helix; Transport; Vacuole.
+FT   CHAIN         1    518       Organic cation/carnitine transporter 3.
+FT                                /FTId=PRO_0000415359.
+FT   TOPO_DOM      1     32       Cytoplasmic. {ECO:0000255}.
+FT   TRANSMEM     33     53       Helical; Name=1. {ECO:0000255}.
+FT   TOPO_DOM     54    122       Extracellular. {ECO:0000255}.
+FT   TRANSMEM    123    143       Helical; Name=2. {ECO:0000255}.
+FT   TOPO_DOM    144    157       Cytoplasmic. {ECO:0000255}.
+FT   TRANSMEM    158    178       Helical; Name=3. {ECO:0000255}.
+FT   TOPO_DOM    179    180       Extracellular. {ECO:0000255}.
+FT   TRANSMEM    181    197       Helical; Name=4. {ECO:0000255}.
+FT   TOPO_DOM    198    210       Cytoplasmic. {ECO:0000255}.
+FT   TRANSMEM    211    231       Helical; Name=5. {ECO:0000255}.
+FT   TOPO_DOM    232    239       Extracellular. {ECO:0000255}.
+FT   TRANSMEM    240    259       Helical; Name=6. {ECO:0000255}.
+FT   TOPO_DOM    260    325       Cytoplasmic. {ECO:0000255}.
+FT   TRANSMEM    326    346       Helical; Name=7. {ECO:0000255}.
+FT   TOPO_DOM    347    355       Extracellular. {ECO:0000255}.
+FT   TRANSMEM    356    376       Helical; Name=8. {ECO:0000255}.
+FT   TOPO_DOM    377    383       Cytoplasmic. {ECO:0000255}.
+FT   TRANSMEM    384    404       Helical; Name=9. {ECO:0000255}.
+FT   TOPO_DOM    405    410       Extracellular. {ECO:0000255}.
+FT   TRANSMEM    411    431       Helical; Name=10. {ECO:0000255}.
+FT   TOPO_DOM    432    443       Cytoplasmic. {ECO:0000255}.
+FT   TRANSMEM    444    464       Helical; Name=11. {ECO:0000255}.
+FT   TOPO_DOM    465    470       Extracellular. {ECO:0000255}.
+FT   TRANSMEM    471    491       Helical; Name=12. {ECO:0000255}.
+FT   TOPO_DOM    492    518       Cytoplasmic. {ECO:0000255}.
+FT   NP_BIND     198    205       ATP. {ECO:0000255}.
+FT   CARBOHYD     83     83       N-linked (GlcNAc...) asparagine.
+FT                                {ECO:0000255}.
+FT   CARBOHYD     94     94       N-linked (GlcNAc...) asparagine.
+FT                                {ECO:0000255}.
+SQ   SEQUENCE   518 AA;  57393 MW;  53D48122D575645C CRC64;
+     MADSTRPLLS DFNSSESNLP PPRSLEETIE RCIGDFGWAQ FLQAALVSFA WFFDAQQTFI
+     TVFTDSQPMW HCDNSDRVDS VCNTSSSNLC TLPNQTWSWD LNPHVSIISE WGLQCAGSFL
+     KGFPASSFFL GCLIGGLALS TLADSSLGRK NMLLLSCLIM SLSSMLTAFS TSIWVYAFLR
+     FLNGCGRATI GTCALVLSTE LVGKKWRGQV GAMGFFCFTL GFLSLPMLGY INEGNSWRNL
+     YVWTSIPTLI YCCLVRSFVR ESPRWLIVKG RKEEAVSILQ SIASNAITMS FTNLCFEVEN
+     DQSKSNPDVY DALKILVRKS WSFRRLLAAM VVGFGIGMVY YGMPLALTNL NFNLYLGVVF
+     NALSEFPAFL ITFFFIDKIN RRDALIGFTA LSGISSALIA VLGQQLGSLQ IVLELVSFFS
+     ACTAFNMTLI YTIEMFPTCV RNSAISMVRQ ALVFGGVFSP VMVAAGRENQ FWSYGLFGLI
+     IGLCGLFVFG LPETRGSVLC DTMDEEEYKT LAKRQFIG
+//

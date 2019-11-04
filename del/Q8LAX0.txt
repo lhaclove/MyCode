@@ -1,0 +1,184 @@
+ID   HMT3_ARATH              Reviewed;         347 AA.
+AC   Q8LAX0; Q9LUI7;
+DT   19-JUL-2004, integrated into UniProtKB/Swiss-Prot.
+DT   19-JUL-2004, sequence version 2.
+DT   16-JAN-2019, entry version 103.
+DE   RecName: Full=Homocysteine S-methyltransferase 3;
+DE            EC=2.1.1.10;
+DE   AltName: Full=S-methylmethionine:homocysteine methyltransferase 3;
+DE            Short=AtHMT-3;
+DE            Short=SMM:Hcy S-methyltransferase 3;
+GN   Name=HMT3; OrderedLocusNames=At3g22740; ORFNames=MWI23.11;
+OS   Arabidopsis thaliana (Mouse-ear cress).
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+OC   Pentapetalae; rosids; malvids; Brassicales; Brassicaceae; Camelineae;
+OC   Arabidopsis.
+OX   NCBI_TaxID=3702;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA], ENZYME ACTIVITY, PROBABLE FUNCTION OF SMM
+RP   CYCLE, BIOPHYSICOCHEMICAL PROPERTIES, AND TISSUE SPECIFICITY.
+RC   STRAIN=cv. Columbia; TISSUE=Leaf;
+RX   PubMed=11309147; DOI=10.1046/j.1365-313x.2001.00988.x;
+RA   Ranocha P., McNeil S.D., Ziemak M.J., Li C., Tarczynski M.C.,
+RA   Hanson A.D.;
+RT   "The S-methylmethionine cycle in angiosperms: ubiquity, antiquity and
+RT   activity.";
+RL   Plant J. 25:575-584(2001).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=cv. Columbia;
+RX   PubMed=10819329; DOI=10.1093/dnares/7.2.131;
+RA   Sato S., Nakamura Y., Kaneko T., Katoh T., Asamizu E., Tabata S.;
+RT   "Structural analysis of Arabidopsis thaliana chromosome 3. I. Sequence
+RT   features of the regions of 4,504,864 bp covered by sixty P1 and TAC
+RT   clones.";
+RL   DNA Res. 7:131-135(2000).
+RN   [3]
+RP   GENOME REANNOTATION.
+RC   STRAIN=cv. Columbia;
+RX   PubMed=27862469; DOI=10.1111/tpj.13415;
+RA   Cheng C.Y., Krishnakumar V., Chan A.P., Thibaud-Nissen F., Schobel S.,
+RA   Town C.D.;
+RT   "Araport11: a complete reannotation of the Arabidopsis thaliana
+RT   reference genome.";
+RL   Plant J. 89:789-804(2017).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   STRAIN=cv. Columbia;
+RX   PubMed=11910074; DOI=10.1126/science.1071006;
+RA   Seki M., Narusaka M., Kamiya A., Ishida J., Satou M., Sakurai T.,
+RA   Nakajima M., Enju A., Akiyama K., Oono Y., Muramatsu M.,
+RA   Hayashizaki Y., Kawai J., Carninci P., Itoh M., Ishii Y., Arakawa T.,
+RA   Shibata K., Shinagawa A., Shinozaki K.;
+RT   "Functional annotation of a full-length Arabidopsis cDNA collection.";
+RL   Science 296:141-145(2002).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   STRAIN=cv. Columbia;
+RX   PubMed=14593172; DOI=10.1126/science.1088305;
+RA   Yamada K., Lim J., Dale J.M., Chen H., Shinn P., Palm C.J.,
+RA   Southwick A.M., Wu H.C., Kim C.J., Nguyen M., Pham P.K., Cheuk R.F.,
+RA   Karlin-Newmann G., Liu S.X., Lam B., Sakano H., Wu T., Yu G.,
+RA   Miranda M., Quach H.L., Tripp M., Chang C.H., Lee J.M., Toriumi M.J.,
+RA   Chan M.M., Tang C.C., Onodera C.S., Deng J.M., Akiyama K., Ansari Y.,
+RA   Arakawa T., Banh J., Banno F., Bowser L., Brooks S.Y., Carninci P.,
+RA   Chao Q., Choy N., Enju A., Goldsmith A.D., Gurjal M., Hansen N.F.,
+RA   Hayashizaki Y., Johnson-Hopson C., Hsuan V.W., Iida K., Karnes M.,
+RA   Khan S., Koesema E., Ishida J., Jiang P.X., Jones T., Kawai J.,
+RA   Kamiya A., Meyers C., Nakajima M., Narusaka M., Seki M., Sakurai T.,
+RA   Satou M., Tamse R., Vaysberg M., Wallender E.K., Wong C., Yamamura Y.,
+RA   Yuan S., Shinozaki K., Davis R.W., Theologis A., Ecker J.R.;
+RT   "Empirical analysis of transcriptional activity in the Arabidopsis
+RT   genome.";
+RL   Science 302:842-846(2003).
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RA   Brover V.V., Troukhan M.E., Alexandrov N.A., Lu Y.-P., Flavell R.B.,
+RA   Feldmann K.A.;
+RT   "Full-length cDNA from Arabidopsis thaliana.";
+RL   Submitted (MAR-2002) to the EMBL/GenBank/DDBJ databases.
+CC   -!- FUNCTION: Catalyzes methyl transfer from S-methylmethionine (SMM)
+CC       to adenosyl-L-homocysteine (AdoMet). SMM degradation (by HMT-1,
+CC       HMT-2 and HMT-3) and biosynthesis (by MMT1) constitute the SMM
+CC       cycle in plants, which is probably required to achieve short term
+CC       control of AdoMet level.
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=L-homocysteine + S-methyl-L-methionine = H(+) + 2 L-
+CC         methionine; Xref=Rhea:RHEA:26337, ChEBI:CHEBI:15378,
+CC         ChEBI:CHEBI:57844, ChEBI:CHEBI:58199, ChEBI:CHEBI:58252;
+CC         EC=2.1.1.10; Evidence={ECO:0000269|PubMed:11309147};
+CC   -!- COFACTOR:
+CC       Name=Zn(2+); Xref=ChEBI:CHEBI:29105;
+CC         Evidence={ECO:0000255|PROSITE-ProRule:PRU00333};
+CC   -!- BIOPHYSICOCHEMICAL PROPERTIES:
+CC       Kinetic parameters:
+CC         KM=335 uM for S-methylmethionine {ECO:0000269|PubMed:11309147};
+CC         KM=1760 uM for (S,S)-AdoMet {ECO:0000269|PubMed:11309147};
+CC   -!- SUBUNIT: Monomer. {ECO:0000250}.
+CC   -!- TISSUE SPECIFICITY: Expressed predominantly in rosette leaves.
+CC       Expressed in roots, cauline leaves and developing seeds.
+CC       {ECO:0000269|PubMed:11309147}.
+CC   -!- MISCELLANEOUS: In contrast to HMT-1, it is not inhibited by
+CC       methionine.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AF297394; AAG10301.1; -; mRNA.
+DR   EMBL; AB022223; BAB01249.1; -; Genomic_DNA.
+DR   EMBL; CP002686; AEE76672.1; -; Genomic_DNA.
+DR   EMBL; AK118021; BAC42654.1; -; mRNA.
+DR   EMBL; BT005318; AAO63382.1; -; mRNA.
+DR   EMBL; AY087554; AAM65096.1; -; mRNA.
+DR   RefSeq; NP_566715.1; NM_113173.3.
+DR   UniGene; At.6305; -.
+DR   ProteinModelPortal; Q8LAX0; -.
+DR   SMR; Q8LAX0; -.
+DR   STRING; 3702.AT3G22740.1; -.
+DR   PaxDb; Q8LAX0; -.
+DR   EnsemblPlants; AT3G22740.1; AT3G22740.1; AT3G22740.
+DR   GeneID; 821845; -.
+DR   Gramene; AT3G22740.1; AT3G22740.1; AT3G22740.
+DR   KEGG; ath:AT3G22740; -.
+DR   Araport; AT3G22740; -.
+DR   TAIR; locus:2094419; AT3G22740.
+DR   eggNOG; ENOG410ITI9; Eukaryota.
+DR   eggNOG; COG2040; LUCA.
+DR   HOGENOM; HOG000265278; -.
+DR   InParanoid; Q8LAX0; -.
+DR   KO; K00547; -.
+DR   OMA; YIGGCCK; -.
+DR   OrthoDB; 731388at2759; -.
+DR   PhylomeDB; Q8LAX0; -.
+DR   BioCyc; ARA:AT3G22740-MONOMER; -.
+DR   BioCyc; MetaCyc:AT3G22740-MONOMER; -.
+DR   BRENDA; 2.1.1.10; 399.
+DR   SABIO-RK; Q8LAX0; -.
+DR   PRO; PR:Q8LAX0; -.
+DR   Proteomes; UP000006548; Chromosome 3.
+DR   ExpressionAtlas; Q8LAX0; baseline and differential.
+DR   Genevisible; Q8LAX0; AT.
+DR   GO; GO:0005737; C:cytoplasm; IEA:InterPro.
+DR   GO; GO:0005886; C:plasma membrane; IDA:TAIR.
+DR   GO; GO:0047150; F:betaine-homocysteine S-methyltransferase activity; IEA:InterPro.
+DR   GO; GO:0008898; F:S-adenosylmethionine-homocysteine S-methyltransferase activity; IBA:GO_Central.
+DR   GO; GO:0008270; F:zinc ion binding; IEA:InterPro.
+DR   GO; GO:0009086; P:methionine biosynthetic process; IBA:GO_Central.
+DR   GO; GO:0033528; P:S-methylmethionine cycle; IBA:GO_Central.
+DR   Gene3D; 3.20.20.330; -; 1.
+DR   InterPro; IPR017226; Betaine-hCys_S-MeTrfase_BHMT.
+DR   InterPro; IPR003726; HCY_dom.
+DR   InterPro; IPR036589; HCY_dom_sf.
+DR   Pfam; PF02574; S-methyl_trans; 1.
+DR   PIRSF; PIRSF037505; Betaine_HMT; 1.
+DR   SUPFAM; SSF82282; SSF82282; 1.
+DR   PROSITE; PS50970; HCY; 1.
+PE   1: Evidence at protein level;
+KW   Amino-acid biosynthesis; Complete proteome; Metal-binding;
+KW   Methionine biosynthesis; Methyltransferase; Reference proteome;
+KW   S-adenosyl-L-methionine; Transferase; Zinc.
+FT   CHAIN         1    347       Homocysteine S-methyltransferase 3.
+FT                                /FTId=PRO_0000114613.
+FT   DOMAIN       12    333       Hcy-binding. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00333}.
+FT   METAL       251    251       Zinc. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00333}.
+FT   METAL       318    318       Zinc. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00333}.
+FT   METAL       319    319       Zinc. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00333}.
+FT   CONFLICT     24     24       A -> E (in Ref. 6; AAM65096).
+FT                                {ECO:0000305}.
+FT   CONFLICT     45     45       L -> I (in Ref. 6; AAM65096).
+FT                                {ECO:0000305}.
+FT   CONFLICT    117    117       C -> W (in Ref. 6; AAM65096).
+FT                                {ECO:0000305}.
+SQ   SEQUENCE   347 AA;  37882 MW;  45CDC34973F820CC CRC64;
+     MGSFVKEETS SLMTDFLEKC GGYAVVDGGF ATELQRHGAD INDPLWSAKC LITSPHLVTK
+     VHLDYLESGA NIIITASYQA TIQGFVAKGL SVGEAENLLR RSVEITYEAR EIFYNRCTKG
+     SWDFAYAGKA SRRPILVAAS VGSYGAYLAD GSEYSGIYGD SVSKETLKDF HRRRVQILAK
+     SGADLIAFET IPNKLEAEAY ADLLEEEDID IPAWFSFTSK DGVSVPRGDS VVECAKVADS
+     CKNVVAIGIN CTAPRYIHAL IISLRQMTRK PIVVYPNSGE VYDGLNKKWI KSEGESEEDF
+     VSYVSKWRDA GASLFGGCCR TTPNTIRAIA KVLSDEPSAA SKPKFGQ
+//

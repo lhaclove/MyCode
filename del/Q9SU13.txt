@@ -1,0 +1,223 @@
+ID   FLA2_ARATH              Reviewed;         403 AA.
+AC   Q9SU13; Q8L9T2; Q9C5Q6;
+DT   03-OCT-2006, integrated into UniProtKB/Swiss-Prot.
+DT   01-MAY-2000, sequence version 1.
+DT   16-JAN-2019, entry version 105.
+DE   RecName: Full=Fasciclin-like arabinogalactan protein 2;
+DE   Flags: Precursor;
+GN   Name=FLA2; OrderedLocusNames=At4g12730; ORFNames=T20K18.80;
+OS   Arabidopsis thaliana (Mouse-ear cress).
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+OC   Pentapetalae; rosids; malvids; Brassicales; Brassicaceae; Camelineae;
+OC   Arabidopsis.
+OX   NCBI_TaxID=3702;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RX   PubMed=11554470; DOI=10.1023/A:1010683432529;
+RA   Gaspar Y., Johnson K.L., McKenna J.A., Bacic A., Schultz C.J.;
+RT   "The complex structures of arabinogalactan-proteins and the journey
+RT   towards understanding function.";
+RL   Plant Mol. Biol. 47:161-176(2001).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=cv. Columbia;
+RX   PubMed=10617198; DOI=10.1038/47134;
+RA   Mayer K.F.X., Schueller C., Wambutt R., Murphy G., Volckaert G.,
+RA   Pohl T., Duesterhoeft A., Stiekema W., Entian K.-D., Terryn N.,
+RA   Harris B., Ansorge W., Brandt P., Grivell L.A., Rieger M.,
+RA   Weichselgartner M., de Simone V., Obermaier B., Mache R., Mueller M.,
+RA   Kreis M., Delseny M., Puigdomenech P., Watson M., Schmidtheini T.,
+RA   Reichert B., Portetelle D., Perez-Alonso M., Boutry M., Bancroft I.,
+RA   Vos P., Hoheisel J., Zimmermann W., Wedler H., Ridley P.,
+RA   Langham S.-A., McCullagh B., Bilham L., Robben J.,
+RA   van der Schueren J., Grymonprez B., Chuang Y.-J., Vandenbussche F.,
+RA   Braeken M., Weltjens I., Voet M., Bastiaens I., Aert R., Defoor E.,
+RA   Weitzenegger T., Bothe G., Ramsperger U., Hilbert H., Braun M.,
+RA   Holzer E., Brandt A., Peters S., van Staveren M., Dirkse W.,
+RA   Mooijman P., Klein Lankhorst R., Rose M., Hauf J., Koetter P.,
+RA   Berneiser S., Hempel S., Feldpausch M., Lamberth S., Van den Daele H.,
+RA   De Keyser A., Buysshaert C., Gielen J., Villarroel R., De Clercq R.,
+RA   van Montagu M., Rogers J., Cronin A., Quail M.A., Bray-Allen S.,
+RA   Clark L., Doggett J., Hall S., Kay M., Lennard N., McLay K., Mayes R.,
+RA   Pettett A., Rajandream M.A., Lyne M., Benes V., Rechmann S.,
+RA   Borkova D., Bloecker H., Scharfe M., Grimm M., Loehnert T.-H.,
+RA   Dose S., de Haan M., Maarse A.C., Schaefer M., Mueller-Auer S.,
+RA   Gabel C., Fuchs M., Fartmann B., Granderath K., Dauner D., Herzl A.,
+RA   Neumann S., Argiriou A., Vitale D., Liguori R., Piravandi E.,
+RA   Massenet O., Quigley F., Clabauld G., Muendlein A., Felber R.,
+RA   Schnabl S., Hiller R., Schmidt W., Lecharny A., Aubourg S.,
+RA   Chefdor F., Cooke R., Berger C., Monfort A., Casacuberta E.,
+RA   Gibbons T., Weber N., Vandenbol M., Bargues M., Terol J., Torres A.,
+RA   Perez-Perez A., Purnelle B., Bent E., Johnson S., Tacon D., Jesse T.,
+RA   Heijnen L., Schwarz S., Scholler P., Heber S., Francs P., Bielke C.,
+RA   Frishman D., Haase D., Lemcke K., Mewes H.-W., Stocker S.,
+RA   Zaccaria P., Bevan M., Wilson R.K., de la Bastide M., Habermann K.,
+RA   Parnell L., Dedhia N., Gnoj L., Schutz K., Huang E., Spiegel L.,
+RA   Sekhon M., Murray J., Sheet P., Cordes M., Abu-Threideh J.,
+RA   Stoneking T., Kalicki J., Graves T., Harmon G., Edwards J.,
+RA   Latreille P., Courtney L., Cloud J., Abbott A., Scott K., Johnson D.,
+RA   Minx P., Bentley D., Fulton B., Miller N., Greco T., Kemp K.,
+RA   Kramer J., Fulton L., Mardis E., Dante M., Pepin K., Hillier L.W.,
+RA   Nelson J., Spieth J., Ryan E., Andrews S., Geisel C., Layman D.,
+RA   Du H., Ali J., Berghoff A., Jones K., Drone K., Cotton M., Joshu C.,
+RA   Antonoiu B., Zidanic M., Strong C., Sun H., Lamar B., Yordan C.,
+RA   Ma P., Zhong J., Preston R., Vil D., Shekher M., Matero A., Shah R.,
+RA   Swaby I.K., O'Shaughnessy A., Rodriguez M., Hoffman J., Till S.,
+RA   Granat S., Shohdy N., Hasegawa A., Hameed A., Lodhi M., Johnson A.,
+RA   Chen E., Marra M.A., Martienssen R., McCombie W.R.;
+RT   "Sequence and analysis of chromosome 4 of the plant Arabidopsis
+RT   thaliana.";
+RL   Nature 402:769-777(1999).
+RN   [3]
+RP   GENOME REANNOTATION.
+RC   STRAIN=cv. Columbia;
+RX   PubMed=27862469; DOI=10.1111/tpj.13415;
+RA   Cheng C.Y., Krishnakumar V., Chan A.P., Thibaud-Nissen F., Schobel S.,
+RA   Town C.D.;
+RT   "Araport11: a complete reannotation of the Arabidopsis thaliana
+RT   reference genome.";
+RL   Plant J. 89:789-804(2017).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   STRAIN=cv. Columbia;
+RX   PubMed=14593172; DOI=10.1126/science.1088305;
+RA   Yamada K., Lim J., Dale J.M., Chen H., Shinn P., Palm C.J.,
+RA   Southwick A.M., Wu H.C., Kim C.J., Nguyen M., Pham P.K., Cheuk R.F.,
+RA   Karlin-Newmann G., Liu S.X., Lam B., Sakano H., Wu T., Yu G.,
+RA   Miranda M., Quach H.L., Tripp M., Chang C.H., Lee J.M., Toriumi M.J.,
+RA   Chan M.M., Tang C.C., Onodera C.S., Deng J.M., Akiyama K., Ansari Y.,
+RA   Arakawa T., Banh J., Banno F., Bowser L., Brooks S.Y., Carninci P.,
+RA   Chao Q., Choy N., Enju A., Goldsmith A.D., Gurjal M., Hansen N.F.,
+RA   Hayashizaki Y., Johnson-Hopson C., Hsuan V.W., Iida K., Karnes M.,
+RA   Khan S., Koesema E., Ishida J., Jiang P.X., Jones T., Kawai J.,
+RA   Kamiya A., Meyers C., Nakajima M., Narusaka M., Seki M., Sakurai T.,
+RA   Satou M., Tamse R., Vaysberg M., Wallender E.K., Wong C., Yamamura Y.,
+RA   Yuan S., Shinozaki K., Davis R.W., Theologis A., Ecker J.R.;
+RT   "Empirical analysis of transcriptional activity in the Arabidopsis
+RT   genome.";
+RL   Science 302:842-846(2003).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   STRAIN=cv. Columbia;
+RA   Totoki Y., Seki M., Ishida J., Nakajima M., Enju A., Kamiya A.,
+RA   Narusaka M., Shin-i T., Nakagawa M., Sakamoto N., Oishi K., Kohara Y.,
+RA   Kobayashi M., Toyoda A., Sakaki Y., Sakurai T., Iida K., Akiyama K.,
+RA   Satou M., Toyoda T., Konagaya A., Carninci P., Kawai J.,
+RA   Hayashizaki Y., Shinozaki K.;
+RT   "Large-scale analysis of RIKEN Arabidopsis full-length (RAFL) cDNAs.";
+RL   Submitted (JUL-2006) to the EMBL/GenBank/DDBJ databases.
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RA   Brover V.V., Troukhan M.E., Alexandrov N.A., Lu Y.-P., Flavell R.B.,
+RA   Feldmann K.A.;
+RT   "Full-length cDNA from Arabidopsis thaliana.";
+RL   Submitted (MAR-2002) to the EMBL/GenBank/DDBJ databases.
+RN   [7]
+RP   GENE FAMILY ORGANIZATION, NOMENCLATURE, TISSUE SPECIFICITY, AND
+RP   INDUCTION.
+RX   PubMed=14645732; DOI=10.1104/pp.103.031237;
+RA   Johnson K.L., Jones B.J., Bacic A., Schultz C.J.;
+RT   "The fasciclin-like arabinogalactan proteins of Arabidopsis. A
+RT   multigene family of putative cell adhesion molecules.";
+RL   Plant Physiol. 133:1911-1925(2003).
+CC   -!- FUNCTION: May be a cell surface adhesion protein.
+CC   -!- SUBCELLULAR LOCATION: Cell membrane {ECO:0000305}; Lipid-anchor,
+CC       GPI-anchor {ECO:0000305}.
+CC   -!- TISSUE SPECIFICITY: Expressed mainly in flowers and to a lesser
+CC       extent in leaves and roots. {ECO:0000269|PubMed:14645732}.
+CC   -!- INDUCTION: Down-regulated by abscisic acid (ABA).
+CC       {ECO:0000269|PubMed:14645732}.
+CC   -!- SIMILARITY: Belongs to the fasciclin-like AGP family.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AF333971; AAK20858.1; -; mRNA.
+DR   EMBL; AL049640; CAB40990.1; -; Genomic_DNA.
+DR   EMBL; AL161534; CAB78315.1; -; Genomic_DNA.
+DR   EMBL; CP002687; AEE83171.1; -; Genomic_DNA.
+DR   EMBL; AY142065; AAM98329.1; -; mRNA.
+DR   EMBL; AY060582; AAL31207.1; -; mRNA.
+DR   EMBL; AK230362; BAF02161.1; -; mRNA.
+DR   EMBL; AY088236; AAM65777.1; -; mRNA.
+DR   PIR; T06631; T06631.
+DR   RefSeq; NP_193009.1; NM_117342.3.
+DR   UniGene; At.3092; -.
+DR   UniGene; At.71598; -.
+DR   ProteinModelPortal; Q9SU13; -.
+DR   BioGrid; 12182; 6.
+DR   IntAct; Q9SU13; 4.
+DR   STRING; 3702.AT4G12730.1; -.
+DR   PaxDb; Q9SU13; -.
+DR   PRIDE; Q9SU13; -.
+DR   EnsemblPlants; AT4G12730.1; AT4G12730.1; AT4G12730.
+DR   GeneID; 826885; -.
+DR   Gramene; AT4G12730.1; AT4G12730.1; AT4G12730.
+DR   KEGG; ath:AT4G12730; -.
+DR   Araport; AT4G12730; -.
+DR   TAIR; locus:2135818; AT4G12730.
+DR   eggNOG; ENOG410IGMQ; Eukaryota.
+DR   eggNOG; ENOG410YBWT; LUCA.
+DR   HOGENOM; HOG000240961; -.
+DR   InParanoid; Q9SU13; -.
+DR   OMA; FANEDND; -.
+DR   OrthoDB; 984651at2759; -.
+DR   PhylomeDB; Q9SU13; -.
+DR   PRO; PR:Q9SU13; -.
+DR   Proteomes; UP000006548; Chromosome 4.
+DR   ExpressionAtlas; Q9SU13; baseline and differential.
+DR   Genevisible; Q9SU13; AT.
+DR   GO; GO:0031225; C:anchored component of membrane; TAS:TAIR.
+DR   GO; GO:0046658; C:anchored component of plasma membrane; IDA:TAIR.
+DR   GO; GO:0016020; C:membrane; IDA:TAIR.
+DR   GO; GO:0005886; C:plasma membrane; IDA:TAIR.
+DR   GO; GO:0005774; C:vacuolar membrane; IDA:TAIR.
+DR   Gene3D; 2.30.180.10; -; 2.
+DR   InterPro; IPR036378; FAS1_dom_sf.
+DR   InterPro; IPR000782; FAS1_domain.
+DR   InterPro; IPR033254; Plant_FLA.
+DR   PANTHER; PTHR32382; PTHR32382; 1.
+DR   Pfam; PF02469; Fasciclin; 2.
+DR   SMART; SM00554; FAS1; 2.
+DR   SUPFAM; SSF82153; SSF82153; 2.
+DR   PROSITE; PS50213; FAS1; 2.
+PE   2: Evidence at transcript level;
+KW   Cell membrane; Complete proteome; Glycoprotein; GPI-anchor;
+KW   Lipoprotein; Membrane; Proteoglycan; Reference proteome; Repeat;
+KW   Signal.
+FT   SIGNAL        1     26       {ECO:0000255}.
+FT   CHAIN        27    378       Fasciclin-like arabinogalactan protein 2.
+FT                                /FTId=PRO_0000251257.
+FT   PROPEP      379    403       Removed in mature form. {ECO:0000255}.
+FT                                /FTId=PRO_0000251258.
+FT   DOMAIN       27    174       FAS1 1. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00082}.
+FT   DOMAIN      187    326       FAS1 2. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00082}.
+FT   LIPID       378    378       GPI-anchor amidated alanine.
+FT                                {ECO:0000255}.
+FT   CARBOHYD     28     28       N-linked (GlcNAc...) asparagine.
+FT                                {ECO:0000255}.
+FT   CARBOHYD    130    130       N-linked (GlcNAc...) asparagine.
+FT                                {ECO:0000255}.
+FT   CARBOHYD    164    164       N-linked (GlcNAc...) asparagine.
+FT                                {ECO:0000255}.
+FT   CARBOHYD    248    248       N-linked (GlcNAc...) asparagine.
+FT                                {ECO:0000255}.
+FT   CONFLICT      4      4       L -> F (in Ref. 1; AAK20858 and 6;
+FT                                AAM65777). {ECO:0000305}.
+FT   CONFLICT    369    369       V -> G (in Ref. 6; AAM65777).
+FT                                {ECO:0000305}.
+FT   CONFLICT    388    388       N -> S (in Ref. 1; AAK20858 and 6;
+FT                                AAM65777). {ECO:0000305}.
+SQ   SEQUENCE   403 AA;  43448 MW;  1F130E64DD5A7CAD CRC64;
+     MAYLRRAATA LVLIFQLHLF LSLSNAHNIT RILAKDPDFS TFNHYLSATH LADEINRRQT
+     ITVLAVDNSA MSSILSNGYS LYQIRNILSL HVLVDYFGTK KLHQITDGST STASMFQSTG
+     SATGTSGYIN ITDIKGGKVA FGVQDDDSKL TAHYVKSVFE KPYNISVLHI SQVLTSPEAE
+     APTASPSDLI LTTILEKQGC KAFSDILKST GADKTFQDTV DGGLTVFCPS DSAVGKFMPK
+     FKSLSPANKT ALVLYHGMPV YQSLQMLRSG NGAVNTLATE GNNKFDFTVQ NDGEDVTLET
+     DVVTAKVMGT LKDQEPLIVY KIDKVLLPRE IYKAVKTSAP APKSSKKKPK NAEADADGPS
+     ADAPSDDDVE VADDKNGAVS AMITRTSNVV TAIVGLCFGV WLM
+//

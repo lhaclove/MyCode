@@ -1,0 +1,142 @@
+ID   Q8LGC7_ARATH            Unreviewed;       357 AA.
+AC   Q8LGC7;
+DT   01-OCT-2002, integrated into UniProtKB/TrEMBL.
+DT   01-OCT-2002, sequence version 1.
+DT   16-JAN-2019, entry version 120.
+DE   SubName: Full=ARM repeat superfamily protein {ECO:0000313|EMBL:AED97084.1};
+DE   SubName: Full=Armadillo/beta-catenin repeat family protein {ECO:0000313|EMBL:ABE66259.1};
+GN   Name=MZN1.14 {ECO:0000313|EMBL:AED97084.1};
+GN   Synonyms=MZN1_14 {ECO:0000313|EMBL:AED97084.1};
+GN   OrderedLocusNames=At5g58680 {ECO:0000313|Araport:AT5G58680,
+GN   ECO:0000313|EMBL:AED97084.1};
+OS   Arabidopsis thaliana (Mouse-ear cress).
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+OC   Pentapetalae; rosids; malvids; Brassicales; Brassicaceae; Camelineae;
+OC   Arabidopsis.
+OX   NCBI_TaxID=3702 {ECO:0000313|EMBL:AAM60927.1};
+RN   [1] {ECO:0000313|EMBL:AED97084.1, ECO:0000313|Proteomes:UP000006548}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=cv. Columbia {ECO:0000313|Proteomes:UP000006548};
+RX   PubMed=11130714; DOI=10.1038/35048507;
+RG   Kazusa DNA Research Institute;
+RG   Cold Spring Harbor and Washington University in St Louis Sequencing Consortium;
+RG   European Union Arabidopsis Genome Sequencing Consortium;
+RA   Tabata S., Kaneko T., Nakamura Y., Kotani H., Kato T., Asamizu E.,
+RA   Miyajima N., Sasamoto S., Kimura T., Hosouchi T., Kawashima K.,
+RA   Kohara M., Matsumoto M., Matsuno A., Muraki A., Nakayama S.,
+RA   Nakazaki N., Naruo K., Okumura S., Shinpo S., Takeuchi C., Wada T.,
+RA   Watanabe A., Yamada M., Yasuda M., Sato S., de la Bastide M.,
+RA   Huang E., Spiegel L., Gnoj L., O'Shaughnessy A., Preston R.,
+RA   Habermann K., Murray J., Johnson D., Rohlfing T., Nelson J.,
+RA   Stoneking T., Pepin K., Spieth J., Sekhon M., Armstrong J., Becker M.,
+RA   Belter E., Cordum H., Cordes M., Courtney L., Courtney W., Dante M.,
+RA   Du H., Edwards J., Fryman J., Haakensen B., Lamar E., Latreille P.,
+RA   Leonard S., Meyer R., Mulvaney E., Ozersky P., Riley A., Strowmatt C.,
+RA   Wagner-McPherson C., Wollam A., Yoakum M., Bell M., Dedhia N.,
+RA   Parnell L., Shah R., Rodriguez M., See L.H., Vil D., Baker J.,
+RA   Kirchoff K., Toth K., King L., Bahret A., Miller B., Marra M.,
+RA   Martienssen R., McCombie W.R., Wilson R.K., Murphy G., Bancroft I.,
+RA   Volckaert G., Wambutt R., Dusterhoft A., Stiekema W., Pohl T.,
+RA   Entian K.D., Terryn N., Hartley N., Bent E., Johnson S., Langham S.A.,
+RA   McCullagh B., Robben J., Grymonprez B., Zimmermann W., Ramsperger U.,
+RA   Wedler H., Balke K., Wedler E., Peters S., van Staveren M., Dirkse W.,
+RA   Mooijman P., Lankhorst R.K., Weitzenegger T., Bothe G., Rose M.,
+RA   Hauf J., Berneiser S., Hempel S., Feldpausch M., Lamberth S.,
+RA   Villarroel R., Gielen J., Ardiles W., Bents O., Lemcke K., Kolesov G.,
+RA   Mayer K., Rudd S., Schoof H., Schueller C., Zaccaria P., Mewes H.W.,
+RA   Bevan M., Fransz P.;
+RT   "Sequence and analysis of chromosome 5 of the plant Arabidopsis
+RT   thaliana.";
+RL   Nature 408:823-826(2000).
+RN   [2] {ECO:0000313|EMBL:AAM60927.1}
+RP   NUCLEOTIDE SEQUENCE.
+RX   PubMed=12093376;
+RA   Haas B.J., Volfovsky N., Town C.D., Troukhan M., Alexandrov N.,
+RA   Feldmann K.A., Flavell R.B., White O., Salzberg S.L.;
+RT   "Full-length messenger RNA sequences greatly improve genome
+RT   annotation.";
+RL   Genome Biol. 3:RESEARCH0029-RESEARCH0029(2002).
+RN   [3] {ECO:0000313|EMBL:AAM60927.1}
+RP   NUCLEOTIDE SEQUENCE.
+RA   Brover V., Troukhan M., Alexandrov N., Lu Y.-P., Flavell R.,
+RA   Feldmann K.;
+RL   Submitted (MAR-2002) to the EMBL/GenBank/DDBJ databases.
+RN   [4] {ECO:0000313|EMBL:AAM60927.1}
+RP   NUCLEOTIDE SEQUENCE.
+RA   Alexandrov N.A., Troukhan M.E., Brover V.V., Flavell R.B.,
+RA   Feldmann K.A.;
+RT   "Features of Arabidopsis genes and genome discovered using full-length
+RT   cDNAs.";
+RL   Plant Mol. Biol. 60:71-87(2006).
+RN   [5] {ECO:0000313|EMBL:ABE66259.1}
+RP   NUCLEOTIDE SEQUENCE.
+RA   Underwood B.A., Xiao Y., Moskal W., Monaghan E., Wang W., Redman J.,
+RA   Wu H.C., Utterback T., Town C.D.;
+RL   Submitted (MAR-2006) to the EMBL/GenBank/DDBJ databases.
+RN   [6] {ECO:0000313|EMBL:AED97084.1}
+RP   NUCLEOTIDE SEQUENCE.
+RG   TAIR;
+RA   Swarbreck D., Lamesch P., Wilks C., Huala E.;
+RL   Submitted (FEB-2011) to the EMBL/GenBank/DDBJ databases.
+RN   [7] {ECO:0000313|EMBL:AED97084.1}
+RP   GENOME REANNOTATION.
+RG   The Arabidopsis Information Portal (Araport);
+RL   Submitted (MAY-2016) to the EMBL/GenBank/DDBJ databases.
+RN   [8] {ECO:0000313|Proteomes:UP000006548}
+RP   GENOME REANNOTATION.
+RC   STRAIN=cv. Columbia {ECO:0000313|Proteomes:UP000006548};
+RX   PubMed=27862469; DOI=10.1111/tpj.13415;
+RA   Cheng C.Y., Krishnakumar V., Chan A.P., Thibaud-Nissen F., Schobel S.,
+RA   Town C.D.;
+RT   "Araport11: a complete reannotation of the Arabidopsis thaliana
+RT   reference genome.";
+RL   Plant J. 89:789-804(2017).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AY084344; AAM60927.1; -; mRNA.
+DR   EMBL; DQ447090; ABE66259.1; -; mRNA.
+DR   EMBL; CP002688; AED97084.1; -; Genomic_DNA.
+DR   RefSeq; NP_200676.1; NM_125255.3.
+DR   UniGene; At.29268; -.
+DR   STRING; 3702.AT5G58680.1; -.
+DR   EnsemblPlants; AT5G58680.1; AT5G58680.1; AT5G58680.
+DR   GeneID; 835982; -.
+DR   Gramene; AT5G58680.1; AT5G58680.1; AT5G58680.
+DR   KEGG; ath:AT5G58680; -.
+DR   Araport; AT5G58680; -.
+DR   TAIR; locus:2178818; AT5G58680.
+DR   eggNOG; ENOG410ITMC; Eukaryota.
+DR   eggNOG; ENOG410YBHS; LUCA.
+DR   HOGENOM; HOG000084464; -.
+DR   OMA; LCSTNEN; -.
+DR   OrthoDB; 1050821at2759; -.
+DR   Proteomes; UP000006548; Chromosome 5.
+DR   ExpressionAtlas; Q8LGC7; baseline and differential.
+DR   GO; GO:0005737; C:cytoplasm; IBA:GO_Central.
+DR   GO; GO:0005634; C:nucleus; IBA:GO_Central.
+DR   Gene3D; 1.25.10.10; -; 2.
+DR   InterPro; IPR011989; ARM-like.
+DR   InterPro; IPR016024; ARM-type_fold.
+DR   InterPro; IPR000225; Armadillo.
+DR   Pfam; PF00514; Arm; 3.
+DR   SMART; SM00185; ARM; 6.
+DR   SUPFAM; SSF48371; SSF48371; 1.
+DR   PROSITE; PS50176; ARM_REPEAT; 2.
+PE   2: Evidence at transcript level;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000006548};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000006548}.
+FT   REPEAT      103    145       ARM. {ECO:0000256|PROSITE-
+FT                                ProRule:PRU00259}.
+FT   REPEAT      185    227       ARM. {ECO:0000256|PROSITE-
+FT                                ProRule:PRU00259}.
+SQ   SEQUENCE   357 AA;  39038 MW;  325C745183CEA55A CRC64;
+     MANHNSFTYM DHSFSDISLN FDSSAFSDCN SDISCEFPTT TSESRQRKLF LSCAVDNSDD
+     VIRNLITHLE SSSSIEEQKQ AAMEIRLLSK NKPENRIKLA KAGAIKPLVS LISSSDLQLQ
+     EYGVTAVLNL SLCDENKEMI VSSGAVKPLV NALRLGTPTT KENAACALLR LSQVEENKIT
+     IGRSGAIPLL VNLLENGGFR AKKDASTALY SLCSTNENKT RAVESGIMKP LVELMIDFES
+     DMVDKSAFVM NLLMSAPESK PAVVEEGGVP VLVEIVEAGT QRQKEISVSI LLQLCEESVV
+     YRTMVAREGA VPPLVALSQG SASRGAKVKA EALIELLRQP RQQQQQQQHF ESNDNER
+//

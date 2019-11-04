@@ -1,0 +1,394 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2017-04-12" modified="2019-01-16" version="11">
+<accession>A0A1P8AM96</accession>
+<name>A0A1P8AM96_ARATH</name>
+<protein>
+<submittedName>
+<fullName evidence="4">Sulfate transporter 91</fullName>
+</submittedName>
+</protein>
+<gene>
+<name type="primary" evidence="4">AST91</name>
+<name type="synonym" evidence="4">SULFATE TRANSPORTER</name>
+<name type="synonym" evidence="4">sulfate transporter 91</name>
+<name type="synonym" evidence="4">SULTR3;3</name>
+<name type="ordered locus" evidence="4">At1g23090</name>
+<name type="ORF" evidence="4">T26J12.13</name>
+<name type="ORF" evidence="4">T26J12_13</name>
+</gene>
+<organism evidence="4 5">
+<name type="scientific">Arabidopsis thaliana</name>
+<name type="common">Mouse-ear cress</name>
+<dbReference type="NCBI Taxonomy" id="3702"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Viridiplantae</taxon>
+<taxon>Streptophyta</taxon>
+<taxon>Embryophyta</taxon>
+<taxon>Tracheophyta</taxon>
+<taxon>Spermatophyta</taxon>
+<taxon>Magnoliophyta</taxon>
+<taxon>eudicotyledons</taxon>
+<taxon>Gunneridae</taxon>
+<taxon>Pentapetalae</taxon>
+<taxon>rosids</taxon>
+<taxon>malvids</taxon>
+<taxon>Brassicales</taxon>
+<taxon>Brassicaceae</taxon>
+<taxon>Camelineae</taxon>
+<taxon>Arabidopsis</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="4 5">
+<citation type="journal article" date="2000" name="Nature" volume="408" first="816" last="820">
+<title>Sequence and analysis of chromosome 1 of the plant Arabidopsis thaliana.</title>
+<authorList>
+<person name="Theologis A."/>
+<person name="Ecker J.R."/>
+<person name="Palm C.J."/>
+<person name="Federspiel N.A."/>
+<person name="Kaul S."/>
+<person name="White O."/>
+<person name="Alonso J."/>
+<person name="Altafi H."/>
+<person name="Araujo R."/>
+<person name="Bowman C.L."/>
+<person name="Brooks S.Y."/>
+<person name="Buehler E."/>
+<person name="Chan A."/>
+<person name="Chao Q."/>
+<person name="Chen H."/>
+<person name="Cheuk R.F."/>
+<person name="Chin C.W."/>
+<person name="Chung M.K."/>
+<person name="Conn L."/>
+<person name="Conway A.B."/>
+<person name="Conway A.R."/>
+<person name="Creasy T.H."/>
+<person name="Dewar K."/>
+<person name="Dunn P."/>
+<person name="Etgu P."/>
+<person name="Feldblyum T.V."/>
+<person name="Feng J."/>
+<person name="Fong B."/>
+<person name="Fujii C.Y."/>
+<person name="Gill J.E."/>
+<person name="Goldsmith A.D."/>
+<person name="Haas B."/>
+<person name="Hansen N.F."/>
+<person name="Hughes B."/>
+<person name="Huizar L."/>
+<person name="Hunter J.L."/>
+<person name="Jenkins J."/>
+<person name="Johnson-Hopson C."/>
+<person name="Khan S."/>
+<person name="Khaykin E."/>
+<person name="Kim C.J."/>
+<person name="Koo H.L."/>
+<person name="Kremenetskaia I."/>
+<person name="Kurtz D.B."/>
+<person name="Kwan A."/>
+<person name="Lam B."/>
+<person name="Langin-Hooper S."/>
+<person name="Lee A."/>
+<person name="Lee J.M."/>
+<person name="Lenz C.A."/>
+<person name="Li J.H."/>
+<person name="Li Y."/>
+<person name="Lin X."/>
+<person name="Liu S.X."/>
+<person name="Liu Z.A."/>
+<person name="Luros J.S."/>
+<person name="Maiti R."/>
+<person name="Marziali A."/>
+<person name="Militscher J."/>
+<person name="Miranda M."/>
+<person name="Nguyen M."/>
+<person name="Nierman W.C."/>
+<person name="Osborne B.I."/>
+<person name="Pai G."/>
+<person name="Peterson J."/>
+<person name="Pham P.K."/>
+<person name="Rizzo M."/>
+<person name="Rooney T."/>
+<person name="Rowley D."/>
+<person name="Sakano H."/>
+<person name="Salzberg S.L."/>
+<person name="Schwartz J.R."/>
+<person name="Shinn P."/>
+<person name="Southwick A.M."/>
+<person name="Sun H."/>
+<person name="Tallon L.J."/>
+<person name="Tambunga G."/>
+<person name="Toriumi M.J."/>
+<person name="Town C.D."/>
+<person name="Utterback T."/>
+<person name="Van Aken S."/>
+<person name="Vaysberg M."/>
+<person name="Vysotskaia V.S."/>
+<person name="Walker M."/>
+<person name="Wu D."/>
+<person name="Yu G."/>
+<person name="Fraser C.M."/>
+<person name="Venter J.C."/>
+<person name="Davis R.W."/>
+</authorList>
+<dbReference type="PubMed" id="11130712"/>
+<dbReference type="DOI" id="10.1038/35048500"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain evidence="5">cv. Columbia</strain>
+</source>
+</reference>
+<reference key="2" evidence="4">
+<citation type="submission" date="2011-02" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<consortium name="TAIR"/>
+<person name="Swarbreck D."/>
+<person name="Lamesch P."/>
+<person name="Wilks C."/>
+<person name="Huala E."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+</reference>
+<reference key="3" evidence="4">
+<citation type="submission" date="2016-05" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Lavstsen T."/>
+<person name="Jespersen J.S."/>
+</authorList>
+</citation>
+<scope>GENOME REANNOTATION</scope>
+</reference>
+<reference key="4" evidence="5">
+<citation type="journal article" date="2017" name="Plant J." volume="89" first="789" last="804">
+<title>Araport11: a complete reannotation of the Arabidopsis thaliana reference genome.</title>
+<authorList>
+<person name="Cheng C.Y."/>
+<person name="Krishnakumar V."/>
+<person name="Chan A.P."/>
+<person name="Thibaud-Nissen F."/>
+<person name="Schobel S."/>
+<person name="Town C.D."/>
+</authorList>
+<dbReference type="PubMed" id="27862469"/>
+<dbReference type="DOI" id="10.1111/tpj.13415"/>
+</citation>
+<scope>GENOME REANNOTATION</scope>
+<source>
+<strain evidence="5">cv. Columbia</strain>
+</source>
+</reference>
+<dbReference type="EMBL" id="CP002684">
+<property type="protein sequence ID" value="ANM57745.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CP002684">
+<property type="protein sequence ID" value="ANM57746.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CP002684">
+<property type="protein sequence ID" value="ANM57747.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001320230.1">
+<property type="nucleotide sequence ID" value="NM_001332586.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001320231.1">
+<property type="nucleotide sequence ID" value="NM_001332587.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001320232.1">
+<property type="nucleotide sequence ID" value="NM_001332588.1"/>
+</dbReference>
+<dbReference type="UniGene" id="At.353"/>
+<dbReference type="EnsemblPlants" id="AT1G23090.2">
+<property type="protein sequence ID" value="AT1G23090.2"/>
+<property type="gene ID" value="AT1G23090"/>
+</dbReference>
+<dbReference type="EnsemblPlants" id="AT1G23090.3">
+<property type="protein sequence ID" value="AT1G23090.3"/>
+<property type="gene ID" value="AT1G23090"/>
+</dbReference>
+<dbReference type="EnsemblPlants" id="AT1G23090.4">
+<property type="protein sequence ID" value="AT1G23090.4"/>
+<property type="gene ID" value="AT1G23090"/>
+</dbReference>
+<dbReference type="GeneID" id="838917"/>
+<dbReference type="Gramene" id="AT1G23090.2">
+<property type="protein sequence ID" value="AT1G23090.2"/>
+<property type="gene ID" value="AT1G23090"/>
+</dbReference>
+<dbReference type="Gramene" id="AT1G23090.3">
+<property type="protein sequence ID" value="AT1G23090.3"/>
+<property type="gene ID" value="AT1G23090"/>
+</dbReference>
+<dbReference type="Gramene" id="AT1G23090.4">
+<property type="protein sequence ID" value="AT1G23090.4"/>
+<property type="gene ID" value="AT1G23090"/>
+</dbReference>
+<dbReference type="OMA" id="ALYWIPK"/>
+<dbReference type="OrthoDB" id="690428at2759"/>
+<dbReference type="Proteomes" id="UP000006548">
+<property type="component" value="Chromosome 1"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016021">
+<property type="term" value="C:integral component of membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008271">
+<property type="term" value="F:secondary active sulfate transmembrane transporter activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.30.750.24">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011547">
+<property type="entry name" value="SLC26A/SulP_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001902">
+<property type="entry name" value="SLC26A/SulP_fam"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002645">
+<property type="entry name" value="STAS_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036513">
+<property type="entry name" value="STAS_dom_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR030313">
+<property type="entry name" value="Sul_transpt_3.3"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR11814">
+<property type="entry name" value="PTHR11814"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR11814:SF93">
+<property type="entry name" value="PTHR11814:SF93"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01740">
+<property type="entry name" value="STAS"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00916">
+<property type="entry name" value="Sulfate_transp"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52091">
+<property type="entry name" value="SSF52091"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00815">
+<property type="entry name" value="sulP"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50801">
+<property type="entry name" value="STAS"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="predicted"/>
+<keyword id="KW-0181" evidence="5">Complete proteome</keyword>
+<keyword id="KW-0472" evidence="1 2">Membrane</keyword>
+<keyword id="KW-1185" evidence="5">Reference proteome</keyword>
+<keyword id="KW-0812" evidence="1 2">Transmembrane</keyword>
+<keyword id="KW-1133" evidence="1 2">Transmembrane helix</keyword>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="12"/>
+<end position="36"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="48"/>
+<end position="75"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="95"/>
+<end position="111"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="123"/>
+<end position="145"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="216"/>
+<end position="239"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="251"/>
+<end position="273"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="279"/>
+<end position="302"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="309"/>
+<end position="337"/>
+</location>
+</feature>
+<feature type="domain" description="STAS" evidence="3">
+<location>
+<begin position="365"/>
+<end position="489"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00445631"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000256">
+<source>
+<dbReference type="SAM" id="Phobius"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50801"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="ANM57747.1"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000313">
+<source>
+<dbReference type="Proteomes" id="UP000006548"/>
+</source>
+</evidence>
+<sequence length="499" mass="54725" checksum="E7419F2480BE3466" modified="2017-04-12" version="1">
+MLRQQVSPVDDPVLFLQLAFSSTFFAGLFQASLGILRLGFIIDFLSKATLIGFMGGAAII
+VSLQQLKGLLGITHFTKHMSVVPVLSSVFQHTNEWSWQTIVMGVCFLLFLLSTRHLSMKK
+PKLFWVSAGAPLLSVIVSTLLVFVFRAERHGISVIGKLPEGLNPPSWNMLQFHGSHLALV
+AKTGLVTGIVSLTEGIAVGRTFAALKNYHVDGNKEMIAIGLMNVVGSATSCYVTTGAFSR
+SAVNNNAGAKTAVSNIVMSVTVMVTLLFLMPLFEYTPNVVLGAIIVTAVIGLIDLPAACH
+IWKIDKFDFLVMLCAFFGVIFLSVQNGLAIAVGLSLFKILMQVTRPKMVIMGNIPGTDIY
+RDLHHYKEAQRIPGFLVLSIESPVNFANSNYLTERTSRWIEECEEEEAQEKHSSLQFLIL
+EMSAVSGVDTNGVSFFKELKKTTAKKDIELVFVNPLSEVVEKLQRADEQKEFMRPEFLFL
+TVAEAVASLSLKGPSLSNV
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

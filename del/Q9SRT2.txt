@@ -1,0 +1,180 @@
+ID   BH062_ARATH             Reviewed;         456 AA.
+AC   Q9SRT2; Q67Y05; Q8S3E0;
+DT   16-DEC-2008, integrated into UniProtKB/Swiss-Prot.
+DT   01-MAY-2000, sequence version 1.
+DT   16-JAN-2019, entry version 117.
+DE   RecName: Full=Transcription factor bHLH62;
+DE   AltName: Full=Basic helix-loop-helix protein 62;
+DE            Short=AtbHLH62;
+DE            Short=bHLH 62;
+DE   AltName: Full=Transcription factor EN 85;
+DE   AltName: Full=bHLH transcription factor bHLH062;
+GN   Name=BHLH62; Synonyms=CIB3, EN85; OrderedLocusNames=At3g07340;
+GN   ORFNames=F21O3.5;
+OS   Arabidopsis thaliana (Mouse-ear cress).
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+OC   Pentapetalae; rosids; malvids; Brassicales; Brassicaceae; Camelineae;
+OC   Arabidopsis.
+OX   NCBI_TaxID=3702;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=cv. Columbia;
+RX   PubMed=11130713; DOI=10.1038/35048706;
+RA   Salanoubat M., Lemcke K., Rieger M., Ansorge W., Unseld M.,
+RA   Fartmann B., Valle G., Bloecker H., Perez-Alonso M., Obermaier B.,
+RA   Delseny M., Boutry M., Grivell L.A., Mache R., Puigdomenech P.,
+RA   De Simone V., Choisne N., Artiguenave F., Robert C., Brottier P.,
+RA   Wincker P., Cattolico L., Weissenbach J., Saurin W., Quetier F.,
+RA   Schaefer M., Mueller-Auer S., Gabel C., Fuchs M., Benes V.,
+RA   Wurmbach E., Drzonek H., Erfle H., Jordan N., Bangert S.,
+RA   Wiedelmann R., Kranz H., Voss H., Holland R., Brandt P., Nyakatura G.,
+RA   Vezzi A., D'Angelo M., Pallavicini A., Toppo S., Simionati B.,
+RA   Conrad A., Hornischer K., Kauer G., Loehnert T.-H., Nordsiek G.,
+RA   Reichelt J., Scharfe M., Schoen O., Bargues M., Terol J., Climent J.,
+RA   Navarro P., Collado C., Perez-Perez A., Ottenwaelder B., Duchemin D.,
+RA   Cooke R., Laudie M., Berger-Llauro C., Purnelle B., Masuy D.,
+RA   de Haan M., Maarse A.C., Alcaraz J.-P., Cottet A., Casacuberta E.,
+RA   Monfort A., Argiriou A., Flores M., Liguori R., Vitale D.,
+RA   Mannhaupt G., Haase D., Schoof H., Rudd S., Zaccaria P., Mewes H.-W.,
+RA   Mayer K.F.X., Kaul S., Town C.D., Koo H.L., Tallon L.J., Jenkins J.,
+RA   Rooney T., Rizzo M., Walts A., Utterback T., Fujii C.Y., Shea T.P.,
+RA   Creasy T.H., Haas B., Maiti R., Wu D., Peterson J., Van Aken S.,
+RA   Pai G., Militscher J., Sellers P., Gill J.E., Feldblyum T.V.,
+RA   Preuss D., Lin X., Nierman W.C., Salzberg S.L., White O., Venter J.C.,
+RA   Fraser C.M., Kaneko T., Nakamura Y., Sato S., Kato T., Asamizu E.,
+RA   Sasamoto S., Kimura T., Idesawa K., Kawashima K., Kishida Y.,
+RA   Kiyokawa C., Kohara M., Matsumoto M., Matsuno A., Muraki A.,
+RA   Nakayama S., Nakazaki N., Shinpo S., Takeuchi C., Wada T.,
+RA   Watanabe A., Yamada M., Yasuda M., Tabata S.;
+RT   "Sequence and analysis of chromosome 3 of the plant Arabidopsis
+RT   thaliana.";
+RL   Nature 408:820-822(2000).
+RN   [2]
+RP   GENOME REANNOTATION.
+RC   STRAIN=cv. Columbia;
+RX   PubMed=27862469; DOI=10.1111/tpj.13415;
+RA   Cheng C.Y., Krishnakumar V., Chan A.P., Thibaud-Nissen F., Schobel S.,
+RA   Town C.D.;
+RT   "Araport11: a complete reannotation of the Arabidopsis thaliana
+RT   reference genome.";
+RL   Plant J. 89:789-804(2017).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   STRAIN=cv. Columbia;
+RA   Totoki Y., Seki M., Ishida J., Nakajima M., Enju A., Kamiya A.,
+RA   Narusaka M., Shin-i T., Nakagawa M., Sakamoto N., Oishi K., Kohara Y.,
+RA   Kobayashi M., Toyoda A., Sakaki Y., Sakurai T., Iida K., Akiyama K.,
+RA   Satou M., Toyoda T., Konagaya A., Carninci P., Kawai J.,
+RA   Hayashizaki Y., Shinozaki K.;
+RT   "Large-scale analysis of RIKEN Arabidopsis full-length (RAFL) cDNAs.";
+RL   Submitted (SEP-2004) to the EMBL/GenBank/DDBJ databases.
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   STRAIN=cv. Columbia;
+RA   Quinitio C., Chen H., Kim C.J., Shinn P., Ecker J.R.;
+RT   "Arabidopsis ORF clones.";
+RL   Submitted (AUG-2006) to the EMBL/GenBank/DDBJ databases.
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 3-456, TISSUE SPECIFICITY, GENE FAMILY,
+RP   AND NOMENCLATURE.
+RC   STRAIN=cv. Columbia;
+RX   PubMed=12679534; DOI=10.1093/molbev/msg088;
+RA   Heim M.A., Jakoby M., Werber M., Martin C., Weisshaar B., Bailey P.C.;
+RT   "The basic helix-loop-helix transcription factor family in plants: a
+RT   genome-wide study of protein structure and functional diversity.";
+RL   Mol. Biol. Evol. 20:735-747(2003).
+RN   [6]
+RP   GENE FAMILY.
+RX   PubMed=12897250; DOI=10.1105/tpc.013839;
+RA   Toledo-Ortiz G., Huq E., Quail P.H.;
+RT   "The Arabidopsis basic/helix-loop-helix transcription factor family.";
+RL   Plant Cell 15:1749-1770(2003).
+RN   [7]
+RP   GENE FAMILY, AND NOMENCLATURE.
+RX   PubMed=14600211; DOI=10.1105/tpc.151140;
+RA   Bailey P.C., Martin C., Toledo-Ortiz G., Quail P.H., Huq E.,
+RA   Heim M.A., Jakoby M., Werber M., Weisshaar B.;
+RT   "Update on the basic helix-loop-helix transcription factor gene family
+RT   in Arabidopsis thaliana.";
+RL   Plant Cell 15:2497-2502(2003).
+CC   -!- SUBUNIT: Homodimer. {ECO:0000305}.
+CC   -!- SUBCELLULAR LOCATION: Nucleus {ECO:0000255|PROSITE-
+CC       ProRule:PRU00981}.
+CC   -!- TISSUE SPECIFICITY: Expressed constitutively in roots, leaves,
+CC       stems, and flowers. {ECO:0000269|PubMed:12679534}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=AAM10951.1; Type=Erroneous initiation; Note=Translation N-terminally extended.; Evidence={ECO:0000305};
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AC009853; AAF02164.1; -; Genomic_DNA.
+DR   EMBL; CP002686; AEE74530.1; -; Genomic_DNA.
+DR   EMBL; AK175369; BAD43132.1; -; mRNA.
+DR   EMBL; AK175496; BAD43259.1; -; mRNA.
+DR   EMBL; AK176563; BAD44326.1; -; mRNA.
+DR   EMBL; AK176663; BAD44426.1; -; mRNA.
+DR   EMBL; BT026497; ABH04604.1; -; mRNA.
+DR   EMBL; AF488595; AAM10951.1; ALT_INIT; mRNA.
+DR   RefSeq; NP_187390.1; NM_111613.5.
+DR   UniGene; At.40357; -.
+DR   ProteinModelPortal; Q9SRT2; -.
+DR   SMR; Q9SRT2; -.
+DR   BioGrid; 5257; 3.
+DR   IntAct; Q9SRT2; 5.
+DR   STRING; 3702.AT3G07340.1; -.
+DR   iPTMnet; Q9SRT2; -.
+DR   PaxDb; Q9SRT2; -.
+DR   PRIDE; Q9SRT2; -.
+DR   EnsemblPlants; AT3G07340.1; AT3G07340.1; AT3G07340.
+DR   GeneID; 819922; -.
+DR   Gramene; AT3G07340.1; AT3G07340.1; AT3G07340.
+DR   KEGG; ath:AT3G07340; -.
+DR   Araport; AT3G07340; -.
+DR   TAIR; locus:2079676; AT3G07340.
+DR   eggNOG; ENOG410IHY1; Eukaryota.
+DR   eggNOG; ENOG4111T9V; LUCA.
+DR   HOGENOM; HOG000238007; -.
+DR   InParanoid; Q9SRT2; -.
+DR   OMA; IHMGFAQ; -.
+DR   OrthoDB; 616690at2759; -.
+DR   PhylomeDB; Q9SRT2; -.
+DR   PRO; PR:Q9SRT2; -.
+DR   Proteomes; UP000006548; Chromosome 3.
+DR   ExpressionAtlas; Q9SRT2; baseline and differential.
+DR   Genevisible; Q9SRT2; AT.
+DR   GO; GO:0005634; C:nucleus; IBA:GO_Central.
+DR   GO; GO:0003700; F:DNA-binding transcription factor activity; ISS:TAIR.
+DR   GO; GO:0046983; F:protein dimerization activity; IEA:InterPro.
+DR   GO; GO:0043565; F:sequence-specific DNA binding; IBA:GO_Central.
+DR   GO; GO:0006355; P:regulation of transcription, DNA-templated; TAS:TAIR.
+DR   CDD; cd00083; HLH; 1.
+DR   Gene3D; 4.10.280.10; -; 1.
+DR   InterPro; IPR011598; bHLH_dom.
+DR   InterPro; IPR024097; bHLH_ZIP_TF.
+DR   InterPro; IPR036638; HLH_DNA-bd_sf.
+DR   PANTHER; PTHR12565; PTHR12565; 1.
+DR   Pfam; PF00010; HLH; 1.
+DR   SMART; SM00353; HLH; 1.
+DR   SUPFAM; SSF47459; SSF47459; 1.
+DR   PROSITE; PS50888; BHLH; 1.
+PE   2: Evidence at transcript level;
+KW   Complete proteome; DNA-binding; Nucleus; Reference proteome;
+KW   Transcription; Transcription regulation.
+FT   CHAIN         1    456       Transcription factor bHLH62.
+FT                                /FTId=PRO_0000358757.
+FT   DOMAIN      264    314       bHLH. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00981}.
+FT   CONFLICT    421    421       E -> G (in Ref. 3; BAD44326/BAD44426).
+FT                                {ECO:0000305}.
+SQ   SEQUENCE   456 AA;  50247 MW;  02D38D2E3BD22821 CRC64;
+     MENELFMNAG VSHPPVMTSP SSSSAMLKWV SMETQPVDPS LSRNLFWEKS TEQSIFDSAL
+     SSLVSSPTPS NSNFSVGGVG GENVIMRELI GKLGNIGDIY GITASNGNSC YATPMSSPPP
+     GSMMETKTTT PMAELSGDPG FAERAARFSC FGSRSFNSRT NSPFPINNEP PITTNEKMPR
+     VSSSPVFKPL ASHVPAGESS GELSRKRKTK SKQNSPSAVS SSKEIEEKED SDPKRCKKSE
+     ENGDKTKSID PYKDYIHVRA RRGQATDSHS LAERVRREKI SERMKLLQDL VPGCNKVTGK
+     ALMLDEIINY VQSLQRQVEF LSMKLSSVNT RLDFNMDALL SKDIFPSSNN LMHHQQVLQL
+     DSSAETLLGD HHNKNLQLNP DISSNNVINP LETSETRSFI SHLPTLAHFT DSISQYSTFS
+     EDDLHSIIHM GFAQNRLQEL NQGSSNQVPS HMKAEL
+//

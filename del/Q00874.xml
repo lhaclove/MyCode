@@ -1,0 +1,561 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1994-06-01" modified="2019-01-16" version="139">
+<accession>Q00874</accession>
+<accession>Q9LHK0</accession>
+<name>DR100_ARATH</name>
+<protein>
+<recommendedName>
+<fullName>DNA damage-repair/toleration protein DRT100</fullName>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary">DRT100</name>
+<name type="ordered locus">At3g12610</name>
+<name type="ORF">MMF12.5</name>
+<name type="ORF">T2E22.8</name>
+<name type="ORF">T2E22_107</name>
+</gene>
+<organism>
+<name type="scientific">Arabidopsis thaliana</name>
+<name type="common">Mouse-ear cress</name>
+<dbReference type="NCBI Taxonomy" id="3702"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Viridiplantae</taxon>
+<taxon>Streptophyta</taxon>
+<taxon>Embryophyta</taxon>
+<taxon>Tracheophyta</taxon>
+<taxon>Spermatophyta</taxon>
+<taxon>Magnoliophyta</taxon>
+<taxon>eudicotyledons</taxon>
+<taxon>Gunneridae</taxon>
+<taxon>Pentapetalae</taxon>
+<taxon>rosids</taxon>
+<taxon>malvids</taxon>
+<taxon>Brassicales</taxon>
+<taxon>Brassicaceae</taxon>
+<taxon>Camelineae</taxon>
+<taxon>Arabidopsis</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1992" name="Proc. Natl. Acad. Sci. U.S.A." volume="89" first="8073" last="8077">
+<title>A plant cDNA that partially complements Escherichia coli recA mutations predicts a polypeptide not strongly homologous to RecA proteins.</title>
+<authorList>
+<person name="Pang Q."/>
+<person name="Hays J.B."/>
+<person name="Rajagopal I."/>
+</authorList>
+<dbReference type="PubMed" id="1518832"/>
+<dbReference type="DOI" id="10.1073/pnas.89.17.8073"/>
+</citation>
+<scope>PRELIMINARY NUCLEOTIDE SEQUENCE OF 4-372</scope>
+<source>
+<strain>cv. Columbia</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2000" name="DNA Res." volume="7" first="217" last="221">
+<title>Structural analysis of Arabidopsis thaliana chromosome 3. II. Sequence features of the 4,251,695 bp regions covered by 90 P1, TAC and BAC clones.</title>
+<authorList>
+<person name="Kaneko T."/>
+<person name="Katoh T."/>
+<person name="Sato S."/>
+<person name="Nakamura Y."/>
+<person name="Asamizu E."/>
+<person name="Tabata S."/>
+</authorList>
+<dbReference type="PubMed" id="10907853"/>
+<dbReference type="DOI" id="10.1093/dnares/7.3.217"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>cv. Columbia</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2000" name="Nature" volume="408" first="820" last="822">
+<title>Sequence and analysis of chromosome 3 of the plant Arabidopsis thaliana.</title>
+<authorList>
+<person name="Salanoubat M."/>
+<person name="Lemcke K."/>
+<person name="Rieger M."/>
+<person name="Ansorge W."/>
+<person name="Unseld M."/>
+<person name="Fartmann B."/>
+<person name="Valle G."/>
+<person name="Bloecker H."/>
+<person name="Perez-Alonso M."/>
+<person name="Obermaier B."/>
+<person name="Delseny M."/>
+<person name="Boutry M."/>
+<person name="Grivell L.A."/>
+<person name="Mache R."/>
+<person name="Puigdomenech P."/>
+<person name="De Simone V."/>
+<person name="Choisne N."/>
+<person name="Artiguenave F."/>
+<person name="Robert C."/>
+<person name="Brottier P."/>
+<person name="Wincker P."/>
+<person name="Cattolico L."/>
+<person name="Weissenbach J."/>
+<person name="Saurin W."/>
+<person name="Quetier F."/>
+<person name="Schaefer M."/>
+<person name="Mueller-Auer S."/>
+<person name="Gabel C."/>
+<person name="Fuchs M."/>
+<person name="Benes V."/>
+<person name="Wurmbach E."/>
+<person name="Drzonek H."/>
+<person name="Erfle H."/>
+<person name="Jordan N."/>
+<person name="Bangert S."/>
+<person name="Wiedelmann R."/>
+<person name="Kranz H."/>
+<person name="Voss H."/>
+<person name="Holland R."/>
+<person name="Brandt P."/>
+<person name="Nyakatura G."/>
+<person name="Vezzi A."/>
+<person name="D'Angelo M."/>
+<person name="Pallavicini A."/>
+<person name="Toppo S."/>
+<person name="Simionati B."/>
+<person name="Conrad A."/>
+<person name="Hornischer K."/>
+<person name="Kauer G."/>
+<person name="Loehnert T.-H."/>
+<person name="Nordsiek G."/>
+<person name="Reichelt J."/>
+<person name="Scharfe M."/>
+<person name="Schoen O."/>
+<person name="Bargues M."/>
+<person name="Terol J."/>
+<person name="Climent J."/>
+<person name="Navarro P."/>
+<person name="Collado C."/>
+<person name="Perez-Perez A."/>
+<person name="Ottenwaelder B."/>
+<person name="Duchemin D."/>
+<person name="Cooke R."/>
+<person name="Laudie M."/>
+<person name="Berger-Llauro C."/>
+<person name="Purnelle B."/>
+<person name="Masuy D."/>
+<person name="de Haan M."/>
+<person name="Maarse A.C."/>
+<person name="Alcaraz J.-P."/>
+<person name="Cottet A."/>
+<person name="Casacuberta E."/>
+<person name="Monfort A."/>
+<person name="Argiriou A."/>
+<person name="Flores M."/>
+<person name="Liguori R."/>
+<person name="Vitale D."/>
+<person name="Mannhaupt G."/>
+<person name="Haase D."/>
+<person name="Schoof H."/>
+<person name="Rudd S."/>
+<person name="Zaccaria P."/>
+<person name="Mewes H.-W."/>
+<person name="Mayer K.F.X."/>
+<person name="Kaul S."/>
+<person name="Town C.D."/>
+<person name="Koo H.L."/>
+<person name="Tallon L.J."/>
+<person name="Jenkins J."/>
+<person name="Rooney T."/>
+<person name="Rizzo M."/>
+<person name="Walts A."/>
+<person name="Utterback T."/>
+<person name="Fujii C.Y."/>
+<person name="Shea T.P."/>
+<person name="Creasy T.H."/>
+<person name="Haas B."/>
+<person name="Maiti R."/>
+<person name="Wu D."/>
+<person name="Peterson J."/>
+<person name="Van Aken S."/>
+<person name="Pai G."/>
+<person name="Militscher J."/>
+<person name="Sellers P."/>
+<person name="Gill J.E."/>
+<person name="Feldblyum T.V."/>
+<person name="Preuss D."/>
+<person name="Lin X."/>
+<person name="Nierman W.C."/>
+<person name="Salzberg S.L."/>
+<person name="White O."/>
+<person name="Venter J.C."/>
+<person name="Fraser C.M."/>
+<person name="Kaneko T."/>
+<person name="Nakamura Y."/>
+<person name="Sato S."/>
+<person name="Kato T."/>
+<person name="Asamizu E."/>
+<person name="Sasamoto S."/>
+<person name="Kimura T."/>
+<person name="Idesawa K."/>
+<person name="Kawashima K."/>
+<person name="Kishida Y."/>
+<person name="Kiyokawa C."/>
+<person name="Kohara M."/>
+<person name="Matsumoto M."/>
+<person name="Matsuno A."/>
+<person name="Muraki A."/>
+<person name="Nakayama S."/>
+<person name="Nakazaki N."/>
+<person name="Shinpo S."/>
+<person name="Takeuchi C."/>
+<person name="Wada T."/>
+<person name="Watanabe A."/>
+<person name="Yamada M."/>
+<person name="Yasuda M."/>
+<person name="Tabata S."/>
+</authorList>
+<dbReference type="PubMed" id="11130713"/>
+<dbReference type="DOI" id="10.1038/35048706"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>cv. Columbia</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2017" name="Plant J." volume="89" first="789" last="804">
+<title>Araport11: a complete reannotation of the Arabidopsis thaliana reference genome.</title>
+<authorList>
+<person name="Cheng C.Y."/>
+<person name="Krishnakumar V."/>
+<person name="Chan A.P."/>
+<person name="Thibaud-Nissen F."/>
+<person name="Schobel S."/>
+<person name="Town C.D."/>
+</authorList>
+<dbReference type="PubMed" id="27862469"/>
+<dbReference type="DOI" id="10.1111/tpj.13415"/>
+</citation>
+<scope>GENOME REANNOTATION</scope>
+<source>
+<strain>cv. Columbia</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2003" name="Science" volume="302" first="842" last="846">
+<title>Empirical analysis of transcriptional activity in the Arabidopsis genome.</title>
+<authorList>
+<person name="Yamada K."/>
+<person name="Lim J."/>
+<person name="Dale J.M."/>
+<person name="Chen H."/>
+<person name="Shinn P."/>
+<person name="Palm C.J."/>
+<person name="Southwick A.M."/>
+<person name="Wu H.C."/>
+<person name="Kim C.J."/>
+<person name="Nguyen M."/>
+<person name="Pham P.K."/>
+<person name="Cheuk R.F."/>
+<person name="Karlin-Newmann G."/>
+<person name="Liu S.X."/>
+<person name="Lam B."/>
+<person name="Sakano H."/>
+<person name="Wu T."/>
+<person name="Yu G."/>
+<person name="Miranda M."/>
+<person name="Quach H.L."/>
+<person name="Tripp M."/>
+<person name="Chang C.H."/>
+<person name="Lee J.M."/>
+<person name="Toriumi M.J."/>
+<person name="Chan M.M."/>
+<person name="Tang C.C."/>
+<person name="Onodera C.S."/>
+<person name="Deng J.M."/>
+<person name="Akiyama K."/>
+<person name="Ansari Y."/>
+<person name="Arakawa T."/>
+<person name="Banh J."/>
+<person name="Banno F."/>
+<person name="Bowser L."/>
+<person name="Brooks S.Y."/>
+<person name="Carninci P."/>
+<person name="Chao Q."/>
+<person name="Choy N."/>
+<person name="Enju A."/>
+<person name="Goldsmith A.D."/>
+<person name="Gurjal M."/>
+<person name="Hansen N.F."/>
+<person name="Hayashizaki Y."/>
+<person name="Johnson-Hopson C."/>
+<person name="Hsuan V.W."/>
+<person name="Iida K."/>
+<person name="Karnes M."/>
+<person name="Khan S."/>
+<person name="Koesema E."/>
+<person name="Ishida J."/>
+<person name="Jiang P.X."/>
+<person name="Jones T."/>
+<person name="Kawai J."/>
+<person name="Kamiya A."/>
+<person name="Meyers C."/>
+<person name="Nakajima M."/>
+<person name="Narusaka M."/>
+<person name="Seki M."/>
+<person name="Sakurai T."/>
+<person name="Satou M."/>
+<person name="Tamse R."/>
+<person name="Vaysberg M."/>
+<person name="Wallender E.K."/>
+<person name="Wong C."/>
+<person name="Yamamura Y."/>
+<person name="Yuan S."/>
+<person name="Shinozaki K."/>
+<person name="Davis R.W."/>
+<person name="Theologis A."/>
+<person name="Ecker J.R."/>
+</authorList>
+<dbReference type="PubMed" id="14593172"/>
+<dbReference type="DOI" id="10.1126/science.1088305"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+<source>
+<strain>cv. Columbia</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="submission" date="2002-03" db="EMBL/GenBank/DDBJ databases">
+<title>Full-length cDNA from Arabidopsis thaliana.</title>
+<authorList>
+<person name="Brover V.V."/>
+<person name="Troukhan M.E."/>
+<person name="Alexandrov N.A."/>
+<person name="Lu Y.-P."/>
+<person name="Flavell R.B."/>
+<person name="Feldmann K.A."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+</reference>
+<comment type="function">
+<text>This protein is able to complement bacterial recA mutations, but its native function in the plant is not known.</text>
+</comment>
+<comment type="sequence caution" evidence="2">
+<conflict type="frameshift">
+<sequence resource="EMBL-CDS" id="CAA47109" version="2"/>
+</conflict>
+</comment>
+<dbReference type="EMBL" id="X66482">
+<property type="protein sequence ID" value="CAA47109.2"/>
+<property type="status" value="ALT_FRAME"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP002044">
+<property type="protein sequence ID" value="BAB02252.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AC069474">
+<property type="protein sequence ID" value="AAG51016.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CP002686">
+<property type="protein sequence ID" value="AEE75223.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BT000814">
+<property type="protein sequence ID" value="AAN33189.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY057652">
+<property type="protein sequence ID" value="AAL15283.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY086931">
+<property type="protein sequence ID" value="AAM64495.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="PIR" id="A46260">
+<property type="entry name" value="A46260"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_187867.1">
+<property type="nucleotide sequence ID" value="NM_112096.3"/>
+</dbReference>
+<dbReference type="UniGene" id="At.24073"/>
+<dbReference type="UniGene" id="At.72447"/>
+<dbReference type="ProteinModelPortal" id="Q00874"/>
+<dbReference type="SMR" id="Q00874"/>
+<dbReference type="STRING" id="3702.AT3G12610.1"/>
+<dbReference type="PaxDb" id="Q00874"/>
+<dbReference type="PRIDE" id="Q00874"/>
+<dbReference type="EnsemblPlants" id="AT3G12610.1">
+<property type="protein sequence ID" value="AT3G12610.1"/>
+<property type="gene ID" value="AT3G12610"/>
+</dbReference>
+<dbReference type="GeneID" id="820441"/>
+<dbReference type="Gramene" id="AT3G12610.1">
+<property type="protein sequence ID" value="AT3G12610.1"/>
+<property type="gene ID" value="AT3G12610"/>
+</dbReference>
+<dbReference type="KEGG" id="ath:AT3G12610"/>
+<dbReference type="Araport" id="AT3G12610"/>
+<dbReference type="TAIR" id="locus:2091260">
+<property type="gene designation" value="AT3G12610"/>
+</dbReference>
+<dbReference type="eggNOG" id="KOG0619">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG4886">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000066206"/>
+<dbReference type="InParanoid" id="Q00874"/>
+<dbReference type="OMA" id="VFGSKTY"/>
+<dbReference type="OrthoDB" id="826997at2759"/>
+<dbReference type="PhylomeDB" id="Q00874"/>
+<dbReference type="PRO" id="PR:Q00874"/>
+<dbReference type="Proteomes" id="UP000006548">
+<property type="component" value="Chromosome 3"/>
+</dbReference>
+<dbReference type="ExpressionAtlas" id="Q00874">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevisible" id="Q00874">
+<property type="organism ID" value="AT"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009507">
+<property type="term" value="C:chloroplast"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="TAIR"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000166">
+<property type="term" value="F:nucleotide binding"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="TAIR"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006281">
+<property type="term" value="P:DNA repair"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.80.10.10">
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001611">
+<property type="entry name" value="Leu-rich_rpt"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR032675">
+<property type="entry name" value="LRR_dom_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013210">
+<property type="entry name" value="LRR_N_plant-typ"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00560">
+<property type="entry name" value="LRR_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF13516">
+<property type="entry name" value="LRR_6"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF13855">
+<property type="entry name" value="LRR_8"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF08263">
+<property type="entry name" value="LRRNT_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0227">DNA damage</keyword>
+<keyword id="KW-0234">DNA repair</keyword>
+<keyword id="KW-0433">Leucine-rich repeat</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0677">Repeat</keyword>
+<keyword id="KW-0732">Signal</keyword>
+<feature type="signal peptide" evidence="1">
+<location>
+<begin position="1"/>
+<end position="26"/>
+</location>
+</feature>
+<feature type="chain" description="DNA damage-repair/toleration protein DRT100" id="PRO_0000021118">
+<location>
+<begin position="27"/>
+<end position="372"/>
+</location>
+</feature>
+<feature type="repeat" description="LRR 1">
+<location>
+<begin position="136"/>
+<end position="158"/>
+</location>
+</feature>
+<feature type="repeat" description="LRR 2">
+<location>
+<begin position="160"/>
+<end position="183"/>
+</location>
+</feature>
+<feature type="repeat" description="LRR 3">
+<location>
+<begin position="184"/>
+<end position="205"/>
+</location>
+</feature>
+<feature type="repeat" description="LRR 4">
+<location>
+<begin position="208"/>
+<end position="230"/>
+</location>
+</feature>
+<feature type="repeat" description="LRR 5">
+<location>
+<begin position="232"/>
+<end position="254"/>
+</location>
+</feature>
+<feature type="repeat" description="LRR 6">
+<location>
+<begin position="256"/>
+<end position="277"/>
+</location>
+</feature>
+<feature type="repeat" description="LRR 7">
+<location>
+<begin position="280"/>
+<end position="302"/>
+</location>
+</feature>
+<feature type="repeat" description="LRR 8">
+<location>
+<begin position="304"/>
+<end position="326"/>
+</location>
+</feature>
+<feature type="repeat" description="LRR 9">
+<location>
+<begin position="328"/>
+<end position="350"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000255"/>
+<evidence key="2" type="ECO:0000305"/>
+<sequence length="372" mass="39556" checksum="BA4361101AC45659" modified="2002-04-16" version="2" precursor="true">
+MRKLLASPFSSLLAVVFISVISVVRCCSPKDQTALNAFKSSLSEPNLGIFNTWSENTDCC
+KEWYGISCDPDSGRVTDISLRGESEDAIFQKAGRSGYMSGSIDPAVCDLTALTSLVLADW
+KGITGEIPPCITSLASLRILDLAGNKITGEIPAEIGKLSKLAVLNLAENQMSGEIPASLT
+SLIELKHLELTENGITGVIPADFGSLKMLSRVLLGRNELTGSIPESISGMERLADLDLSK
+NHIEGPIPEWMGNMKVLSLLNLDCNSLTGPIPGSLLSNSGLDVANLSRNALEGTIPDVFG
+SKTYLVSLDLSHNSLSGRIPDSLSSAKFVGHLDISHNKLCGRIPTGFPFDHLEATSFSDN
+QCLCGGPLTTSC
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

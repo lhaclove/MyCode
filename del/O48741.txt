@@ -1,0 +1,229 @@
+ID   PORC_ARATH              Reviewed;         401 AA.
+AC   O48741;
+DT   01-DEC-2000, integrated into UniProtKB/Swiss-Prot.
+DT   01-JUN-1998, sequence version 1.
+DT   16-JAN-2019, entry version 155.
+DE   RecName: Full=Protochlorophyllide reductase C, chloroplastic;
+DE            Short=PCR C;
+DE            EC=1.3.1.33;
+DE   AltName: Full=NADPH-protochlorophyllide oxidoreductase C;
+DE            Short=POR C;
+DE   Flags: Precursor;
+GN   Name=PORC; OrderedLocusNames=At1g03630;
+GN   ORFNames=F21B7.24, F21B7.35, F21B7_11;
+OS   Arabidopsis thaliana (Mouse-ear cress).
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+OC   Pentapetalae; rosids; malvids; Brassicales; Brassicaceae; Camelineae;
+OC   Arabidopsis.
+OX   NCBI_TaxID=3702;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA], INDUCTION BY LIGHT, AND TISSUE
+RP   SPECIFICITY.
+RC   STRAIN=cv. Columbia;
+RX   PubMed=10838072; DOI=10.1016/S0014-5793(00)01568-4;
+RA   Oosawa N., Masuda T., Awai K., Fusada N., Shimada H., Ohta H.,
+RA   Takamiya K.;
+RT   "Identification and light-induced expression of a novel gene of NADPH-
+RT   protochlorophyllide oxidoreductase isoform in Arabidopsis thaliana.";
+RL   FEBS Lett. 474:133-136(2000).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=cv. Columbia;
+RX   PubMed=11130712; DOI=10.1038/35048500;
+RA   Theologis A., Ecker J.R., Palm C.J., Federspiel N.A., Kaul S.,
+RA   White O., Alonso J., Altafi H., Araujo R., Bowman C.L., Brooks S.Y.,
+RA   Buehler E., Chan A., Chao Q., Chen H., Cheuk R.F., Chin C.W.,
+RA   Chung M.K., Conn L., Conway A.B., Conway A.R., Creasy T.H., Dewar K.,
+RA   Dunn P., Etgu P., Feldblyum T.V., Feng J.-D., Fong B., Fujii C.Y.,
+RA   Gill J.E., Goldsmith A.D., Haas B., Hansen N.F., Hughes B., Huizar L.,
+RA   Hunter J.L., Jenkins J., Johnson-Hopson C., Khan S., Khaykin E.,
+RA   Kim C.J., Koo H.L., Kremenetskaia I., Kurtz D.B., Kwan A., Lam B.,
+RA   Langin-Hooper S., Lee A., Lee J.M., Lenz C.A., Li J.H., Li Y.-P.,
+RA   Lin X., Liu S.X., Liu Z.A., Luros J.S., Maiti R., Marziali A.,
+RA   Militscher J., Miranda M., Nguyen M., Nierman W.C., Osborne B.I.,
+RA   Pai G., Peterson J., Pham P.K., Rizzo M., Rooney T., Rowley D.,
+RA   Sakano H., Salzberg S.L., Schwartz J.R., Shinn P., Southwick A.M.,
+RA   Sun H., Tallon L.J., Tambunga G., Toriumi M.J., Town C.D.,
+RA   Utterback T., Van Aken S., Vaysberg M., Vysotskaia V.S., Walker M.,
+RA   Wu D., Yu G., Fraser C.M., Venter J.C., Davis R.W.;
+RT   "Sequence and analysis of chromosome 1 of the plant Arabidopsis
+RT   thaliana.";
+RL   Nature 408:816-820(2000).
+RN   [3]
+RP   GENOME REANNOTATION.
+RC   STRAIN=cv. Columbia;
+RX   PubMed=27862469; DOI=10.1111/tpj.13415;
+RA   Cheng C.Y., Krishnakumar V., Chan A.P., Thibaud-Nissen F., Schobel S.,
+RA   Town C.D.;
+RT   "Araport11: a complete reannotation of the Arabidopsis thaliana
+RT   reference genome.";
+RL   Plant J. 89:789-804(2017).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   STRAIN=cv. Columbia;
+RX   PubMed=14593172; DOI=10.1126/science.1088305;
+RA   Yamada K., Lim J., Dale J.M., Chen H., Shinn P., Palm C.J.,
+RA   Southwick A.M., Wu H.C., Kim C.J., Nguyen M., Pham P.K., Cheuk R.F.,
+RA   Karlin-Newmann G., Liu S.X., Lam B., Sakano H., Wu T., Yu G.,
+RA   Miranda M., Quach H.L., Tripp M., Chang C.H., Lee J.M., Toriumi M.J.,
+RA   Chan M.M., Tang C.C., Onodera C.S., Deng J.M., Akiyama K., Ansari Y.,
+RA   Arakawa T., Banh J., Banno F., Bowser L., Brooks S.Y., Carninci P.,
+RA   Chao Q., Choy N., Enju A., Goldsmith A.D., Gurjal M., Hansen N.F.,
+RA   Hayashizaki Y., Johnson-Hopson C., Hsuan V.W., Iida K., Karnes M.,
+RA   Khan S., Koesema E., Ishida J., Jiang P.X., Jones T., Kawai J.,
+RA   Kamiya A., Meyers C., Nakajima M., Narusaka M., Seki M., Sakurai T.,
+RA   Satou M., Tamse R., Vaysberg M., Wallender E.K., Wong C., Yamamura Y.,
+RA   Yuan S., Shinozaki K., Davis R.W., Theologis A., Ecker J.R.;
+RT   "Empirical analysis of transcriptional activity in the Arabidopsis
+RT   genome.";
+RL   Science 302:842-846(2003).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RA   Brover V.V., Troukhan M.E., Alexandrov N.A., Lu Y.-P., Flavell R.B.,
+RA   Feldmann K.A.;
+RT   "Full-length cDNA from Arabidopsis thaliana.";
+RL   Submitted (MAR-2002) to the EMBL/GenBank/DDBJ databases.
+RN   [6]
+RP   CHARACTERIZATION.
+RA   Su Q., Armstrong G., Frick G., Apel K.;
+RT   "The identification and characterization of a novel NADPH-
+RT   protochlorophyllide oxidoreductase C.";
+RL   (In) Proceedings of ELSO 2000: European Life Scientist Organization,
+RL   pp.72-72, Geneva (2000).
+RN   [7]
+RP   FUNCTION, AND INDUCTION BY LIGHT.
+RC   STRAIN=cv. Columbia;
+RX   PubMed=11785941; DOI=10.1023/A:1013699721301;
+RA   Su Q., Frick G., Armstrong G., Apel K.;
+RT   "POR C of Arabidopsis thaliana: a third light- and NADPH-dependent
+RT   protochlorophyllide oxidoreductase that is differentially regulated by
+RT   light.";
+RL   Plant Mol. Biol. 47:805-813(2001).
+RN   [8]
+RP   FUNCTION, AND DISRUPTION PHENOTYPE.
+RX   PubMed=12848821; DOI=10.1046/j.1365-313X.2003.01798.x;
+RA   Frick G., Su Q., Apel K., Armstrong G.A.;
+RT   "An Arabidopsis porB porC double mutant lacking light-dependent
+RT   NADPH:protochlorophyllide oxidoreductases B and C is highly
+RT   chlorophyll-deficient and developmentally arrested.";
+RL   Plant J. 35:141-153(2003).
+RN   [9]
+RP   SUBCELLULAR LOCATION, AND IDENTIFICATION IN THE FLU-CONTAINING
+RP   CHLOROPLAST MEMBRANE COMPLEX.
+RX   PubMed=22212719; DOI=10.1016/j.febslet.2011.12.029;
+RA   Kauss D., Bischof S., Steiner S., Apel K., Meskauskiene R.;
+RT   "FLU, a negative feedback regulator of tetrapyrrole biosynthesis, is
+RT   physically linked to the final steps of the Mg(++)-branch of this
+RT   pathway.";
+RL   FEBS Lett. 586:211-216(2012).
+CC   -!- FUNCTION: Phototransformation of protochlorophyllide (Pchlide) to
+CC       chlorophyllide (Chlide). {ECO:0000269|PubMed:11785941,
+CC       ECO:0000269|PubMed:12848821}.
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=chlorophyllide a + NADP(+) = H(+) + NADPH +
+CC         protochlorophyllide a; Xref=Rhea:RHEA:11132, ChEBI:CHEBI:15378,
+CC         ChEBI:CHEBI:57783, ChEBI:CHEBI:58349, ChEBI:CHEBI:83348,
+CC         ChEBI:CHEBI:83350; EC=1.3.1.33;
+CC   -!- PATHWAY: Porphyrin-containing compound metabolism; chlorophyll
+CC       biosynthesis.
+CC   -!- SUBUNIT: Part of the FLU-containing chloroplast membrane complex
+CC       composed of FLU, CRD1, PORB, PORC, CHLP and HEMA1.
+CC       {ECO:0000269|PubMed:22212719}.
+CC   -!- SUBCELLULAR LOCATION: Plastid, chloroplast membrane
+CC       {ECO:0000269|PubMed:22212719}. Note=Prolamellar body of etiolated
+CC       seedling.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=1;
+CC         Comment=A number of isoforms are produced. According to EST
+CC         sequences.;
+CC       Name=1;
+CC         IsoId=O48741-1; Sequence=Displayed;
+CC   -!- TISSUE SPECIFICITY: Expressed in flowers, upper leaves, rosette
+CC       and cauline leaves, stem. Not detectable in non-photosynthetic
+CC       tissues such as roots and seeds. {ECO:0000269|PubMed:10838072}.
+CC   -!- INDUCTION: Up-regulated by light. Not under circadian regulation.
+CC       {ECO:0000269|PubMed:10838072, ECO:0000269|PubMed:11785941}.
+CC   -!- DISRUPTION PHENOTYPE: No visible phenotype at the levels of the
+CC       whole plant or chloroplast ultrastructure; due to the redundancy
+CC       with PORB. Porb and porc double mutants have a seedling-lethal
+CC       pale-yellow xantha phenotype at the cotyledon stage, contain only
+CC       small amounts of Chla, and possess chloroplasts with mostly
+CC       unstacked thylakoid membranes. {ECO:0000269|PubMed:12848821}.
+CC   -!- SIMILARITY: Belongs to the short-chain dehydrogenases/reductases
+CC       (SDR) family. POR subfamily. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AB035746; BAA96654.1; -; mRNA.
+DR   EMBL; AC002560; AAF86518.1; -; Genomic_DNA.
+DR   EMBL; CP002684; AEE27591.1; -; Genomic_DNA.
+DR   EMBL; AY048263; AAK82525.1; -; mRNA.
+DR   EMBL; AY133569; AAM91399.1; -; mRNA.
+DR   EMBL; AY088529; AAM66062.1; -; mRNA.
+DR   PIR; T00897; T00897.
+DR   RefSeq; NP_171860.1; NM_100243.4. [O48741-1]
+DR   UniGene; At.24740; -.
+DR   ProteinModelPortal; O48741; -.
+DR   SMR; O48741; -.
+DR   BioGrid; 24247; 12.
+DR   IntAct; O48741; 13.
+DR   MINT; O48741; -.
+DR   STRING; 3702.AT1G03630.1; -.
+DR   PaxDb; O48741; -.
+DR   PRIDE; O48741; -.
+DR   EnsemblPlants; AT1G03630.1; AT1G03630.1; AT1G03630. [O48741-1]
+DR   GeneID; 839009; -.
+DR   Gramene; AT1G03630.1; AT1G03630.1; AT1G03630. [O48741-1]
+DR   KEGG; ath:AT1G03630; -.
+DR   Araport; AT1G03630; -.
+DR   TAIR; locus:2020738; AT1G03630.
+DR   eggNOG; KOG1208; Eukaryota.
+DR   eggNOG; COG1028; LUCA.
+DR   InParanoid; O48741; -.
+DR   KO; K00218; -.
+DR   OrthoDB; 1032903at2759; -.
+DR   PhylomeDB; O48741; -.
+DR   BioCyc; ARA:AT1G03630-MONOMER; -.
+DR   BioCyc; MetaCyc:AT1G03630-MONOMER; -.
+DR   BRENDA; 1.3.1.33; 399.
+DR   UniPathway; UPA00668; -.
+DR   PRO; PR:O48741; -.
+DR   Proteomes; UP000006548; Chromosome 1.
+DR   ExpressionAtlas; O48741; baseline and differential.
+DR   Genevisible; O48741; AT.
+DR   GO; GO:0009507; C:chloroplast; IDA:TAIR.
+DR   GO; GO:0009941; C:chloroplast envelope; IDA:TAIR.
+DR   GO; GO:0031969; C:chloroplast membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0009534; C:chloroplast thylakoid; IDA:TAIR.
+DR   GO; GO:0009535; C:chloroplast thylakoid membrane; IDA:TAIR.
+DR   GO; GO:0003959; F:NADPH dehydrogenase activity; IDA:TAIR.
+DR   GO; GO:0016630; F:protochlorophyllide reductase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0015995; P:chlorophyll biosynthetic process; IEA:UniProtKB-UniPathway.
+DR   GO; GO:0015979; P:photosynthesis; IEA:UniProtKB-KW.
+DR   InterPro; IPR036291; NAD(P)-bd_dom_sf.
+DR   InterPro; IPR005979; Prochl_reduct.
+DR   InterPro; IPR002347; SDR_fam.
+DR   PANTHER; PTHR44419; PTHR44419; 1.
+DR   Pfam; PF00106; adh_short; 1.
+DR   PRINTS; PR00081; GDHRDH.
+DR   SUPFAM; SSF51735; SSF51735; 1.
+DR   TIGRFAMs; TIGR01289; LPOR; 1.
+PE   1: Evidence at protein level;
+KW   Alternative splicing; Chlorophyll biosynthesis; Chloroplast;
+KW   Complete proteome; Membrane; NADP; Oxidoreductase; Photosynthesis;
+KW   Plastid; Reference proteome; Transit peptide.
+FT   TRANSIT       1     67       Chloroplast. {ECO:0000255}.
+FT   CHAIN        68    401       Protochlorophyllide reductase C,
+FT                                chloroplastic.
+FT                                /FTId=PRO_0000023289.
+SQ   SEQUENCE   401 AA;  43883 MW;  6F395276DCE54A3A CRC64;
+     MALQAAYSLL PSTISIQKEG KFNASLKETT FTGSSFSNHL RAEKISTLLT IKEQRRQKPR
+     FSTGIRAQTV TATPPANEAS PEQKKTERKG TAVITGASSG LGLATAKALA DTGKWHVIMA
+     CRNFLKAEKA ARSVGMSKED YTVMHLDLAS LESVKQFVEN FRRTEQPLDV LVCNAAVYQP
+     TAKEPSFTAE GFEISVGTNH LGHFLLSRLL LDDLKKSDYP SKRMIIVGSI TGNTNTLAGN
+     VPPKANLGDL RGLASGLNGQ NSSMIDGGEF DGAKAYKDSK VCNMLTMQEL HRRYHEETGV
+     TFASLYPGCI ATTGLFREHI PLFRLLFPPF QKYITKGYVS EEEAGKRLAQ VVSDPSLGKS
+     GVYWSWNNNS SSFENQLSKE ASDAEKAKKL WEVSEKLVGL A
+//

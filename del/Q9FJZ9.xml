@@ -1,0 +1,638 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2002-12-06" modified="2019-01-16" version="134">
+<accession>Q9FJZ9</accession>
+<accession>Q43736</accession>
+<name>PER72_ARATH</name>
+<protein>
+<recommendedName>
+<fullName>Peroxidase 72</fullName>
+<shortName>Atperox P72</shortName>
+<ecNumber>1.11.1.7</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>ATP6a</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>PRXR8</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">PER72</name>
+<name type="synonym">P72</name>
+<name type="ordered locus">At5g66390</name>
+<name type="ORF">K1F13.4</name>
+<name type="ORF">K1L20.16</name>
+</gene>
+<organism>
+<name type="scientific">Arabidopsis thaliana</name>
+<name type="common">Mouse-ear cress</name>
+<dbReference type="NCBI Taxonomy" id="3702"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Viridiplantae</taxon>
+<taxon>Streptophyta</taxon>
+<taxon>Embryophyta</taxon>
+<taxon>Tracheophyta</taxon>
+<taxon>Spermatophyta</taxon>
+<taxon>Magnoliophyta</taxon>
+<taxon>eudicotyledons</taxon>
+<taxon>Gunneridae</taxon>
+<taxon>Pentapetalae</taxon>
+<taxon>rosids</taxon>
+<taxon>malvids</taxon>
+<taxon>Brassicales</taxon>
+<taxon>Brassicaceae</taxon>
+<taxon>Camelineae</taxon>
+<taxon>Arabidopsis</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="online journal article" date="1996" name="Plant Gene Register">
+<title>Eleven cDNA clones from Arabidopsis thaliana encoding isoperoxidases.</title>
+<authorList>
+<person name="Capelli N."/>
+<person name="Tognolli M."/>
+<person name="Flach J."/>
+<person name="Overney S."/>
+<person name="Penel C."/>
+<person name="Greppin H."/>
+<person name="Simon P."/>
+</authorList>
+<locator>PGR96-066</locator>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+<source>
+<strain>cv. Columbia</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="submission" date="1996-07" db="EMBL/GenBank/DDBJ databases">
+<title>From expressed sequence tags to structure, function, evolution and expression of 28 ER-targeted Arabidopsis peroxidases.</title>
+<authorList>
+<person name="Welinder K.G."/>
+<person name="Jespersen H.M."/>
+<person name="Kjaersgaard I.V.H."/>
+<person name="Justesen A.F."/>
+<person name="Oestergaard L."/>
+<person name="Abelskov A.K."/>
+<person name="Jensen R.B."/>
+<person name="Hansen L.N."/>
+<person name="Rasmussen S.K."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+<source>
+<strain>cv. Columbia</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1998" name="DNA Res." volume="5" first="203" last="216">
+<title>Structural analysis of Arabidopsis thaliana chromosome 5. VI. Sequence features of the regions of 1,367,185 bp covered by 19 physically assigned P1 and TAC clones.</title>
+<authorList>
+<person name="Kotani H."/>
+<person name="Nakamura Y."/>
+<person name="Sato S."/>
+<person name="Asamizu E."/>
+<person name="Kaneko T."/>
+<person name="Miyajima N."/>
+<person name="Tabata S."/>
+</authorList>
+<dbReference type="PubMed" id="9734815"/>
+<dbReference type="DOI" id="10.1093/dnares/5.3.203"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>cv. Columbia</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2017" name="Plant J." volume="89" first="789" last="804">
+<title>Araport11: a complete reannotation of the Arabidopsis thaliana reference genome.</title>
+<authorList>
+<person name="Cheng C.Y."/>
+<person name="Krishnakumar V."/>
+<person name="Chan A.P."/>
+<person name="Thibaud-Nissen F."/>
+<person name="Schobel S."/>
+<person name="Town C.D."/>
+</authorList>
+<dbReference type="PubMed" id="27862469"/>
+<dbReference type="DOI" id="10.1111/tpj.13415"/>
+</citation>
+<scope>GENOME REANNOTATION</scope>
+<source>
+<strain>cv. Columbia</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2003" name="Science" volume="302" first="842" last="846">
+<title>Empirical analysis of transcriptional activity in the Arabidopsis genome.</title>
+<authorList>
+<person name="Yamada K."/>
+<person name="Lim J."/>
+<person name="Dale J.M."/>
+<person name="Chen H."/>
+<person name="Shinn P."/>
+<person name="Palm C.J."/>
+<person name="Southwick A.M."/>
+<person name="Wu H.C."/>
+<person name="Kim C.J."/>
+<person name="Nguyen M."/>
+<person name="Pham P.K."/>
+<person name="Cheuk R.F."/>
+<person name="Karlin-Newmann G."/>
+<person name="Liu S.X."/>
+<person name="Lam B."/>
+<person name="Sakano H."/>
+<person name="Wu T."/>
+<person name="Yu G."/>
+<person name="Miranda M."/>
+<person name="Quach H.L."/>
+<person name="Tripp M."/>
+<person name="Chang C.H."/>
+<person name="Lee J.M."/>
+<person name="Toriumi M.J."/>
+<person name="Chan M.M."/>
+<person name="Tang C.C."/>
+<person name="Onodera C.S."/>
+<person name="Deng J.M."/>
+<person name="Akiyama K."/>
+<person name="Ansari Y."/>
+<person name="Arakawa T."/>
+<person name="Banh J."/>
+<person name="Banno F."/>
+<person name="Bowser L."/>
+<person name="Brooks S.Y."/>
+<person name="Carninci P."/>
+<person name="Chao Q."/>
+<person name="Choy N."/>
+<person name="Enju A."/>
+<person name="Goldsmith A.D."/>
+<person name="Gurjal M."/>
+<person name="Hansen N.F."/>
+<person name="Hayashizaki Y."/>
+<person name="Johnson-Hopson C."/>
+<person name="Hsuan V.W."/>
+<person name="Iida K."/>
+<person name="Karnes M."/>
+<person name="Khan S."/>
+<person name="Koesema E."/>
+<person name="Ishida J."/>
+<person name="Jiang P.X."/>
+<person name="Jones T."/>
+<person name="Kawai J."/>
+<person name="Kamiya A."/>
+<person name="Meyers C."/>
+<person name="Nakajima M."/>
+<person name="Narusaka M."/>
+<person name="Seki M."/>
+<person name="Sakurai T."/>
+<person name="Satou M."/>
+<person name="Tamse R."/>
+<person name="Vaysberg M."/>
+<person name="Wallender E.K."/>
+<person name="Wong C."/>
+<person name="Yamamura Y."/>
+<person name="Yuan S."/>
+<person name="Shinozaki K."/>
+<person name="Davis R.W."/>
+<person name="Theologis A."/>
+<person name="Ecker J.R."/>
+</authorList>
+<dbReference type="PubMed" id="14593172"/>
+<dbReference type="DOI" id="10.1126/science.1088305"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+<source>
+<strain>cv. Columbia</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1998" name="FEBS Lett." volume="433" first="98" last="102">
+<title>Computational analyses and annotations of the Arabidopsis peroxidase gene family.</title>
+<authorList>
+<person name="Oestergaard L."/>
+<person name="Pedersen A.G."/>
+<person name="Jespersen H.M."/>
+<person name="Brunak S."/>
+<person name="Welinder K.G."/>
+</authorList>
+<dbReference type="PubMed" id="9738941"/>
+<dbReference type="DOI" id="10.1016/S0014-5793(98)00849-7"/>
+</citation>
+<scope>CHARACTERIZATION</scope>
+<source>
+<strain>cv. Columbia</strain>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2001" name="Plant Physiol. Biochem." volume="39" first="221" last="242">
+<title>Toward elucidating the global gene expression patterns of developing Arabidopsis: parallel analysis of 8300 genes by a high-density oligonucleotide probe array.</title>
+<authorList>
+<person name="Zhu T."/>
+<person name="Budworth P."/>
+<person name="Han B."/>
+<person name="Brown D."/>
+<person name="Chang H.-S."/>
+<person name="Zou G."/>
+<person name="Wang X."/>
+</authorList>
+</citation>
+<scope>TISSUE SPECIFICITY</scope>
+<source>
+<strain>cv. Columbia</strain>
+</source>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2002" name="Plant Cell" volume="14" first="1675" last="1690">
+<title>Arabidopsis transcriptome profiling indicates that multiple regulatory pathways are activated during cold acclimation in addition to the CBF cold response pathway.</title>
+<authorList>
+<person name="Fowler S."/>
+<person name="Thomashow M.F."/>
+</authorList>
+<dbReference type="PubMed" id="12172015"/>
+<dbReference type="DOI" id="10.1105/tpc.003483"/>
+</citation>
+<scope>INDUCTION</scope>
+<source>
+<strain>cv. Columbia</strain>
+</source>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2002" name="Gene" volume="288" first="129" last="138">
+<title>Analysis and expression of the class III peroxidase large gene family in Arabidopsis thaliana.</title>
+<authorList>
+<person name="Tognolli M."/>
+<person name="Penel C."/>
+<person name="Greppin H."/>
+<person name="Simon P."/>
+</authorList>
+<dbReference type="PubMed" id="12034502"/>
+<dbReference type="DOI" id="10.1016/S0378-1119(02)00465-1"/>
+</citation>
+<scope>GENE FAMILY ORGANIZATION</scope>
+<scope>NOMENCLATURE</scope>
+<source>
+<strain>cv. Columbia</strain>
+</source>
+</reference>
+<comment type="function">
+<text>Removal of H(2)O(2), oxidation of toxic reductants, biosynthesis and degradation of lignin, suberization, auxin catabolism, response to environmental stresses such as wounding, pathogen attack and oxidative stress. These functions might be dependent on each isozyme/isoform in each plant tissue.</text>
+</comment>
+<comment type="catalytic activity">
+<reaction>
+<text>2 a phenolic donor + H2O2 = 2 a phenolic radical donor + 2 H2O</text>
+<dbReference type="Rhea" id="RHEA:56136"/>
+<dbReference type="ChEBI" id="CHEBI:15377"/>
+<dbReference type="ChEBI" id="CHEBI:16240"/>
+<dbReference type="ChEBI" id="CHEBI:139520"/>
+<dbReference type="ChEBI" id="CHEBI:139521"/>
+<dbReference type="EC" id="1.11.1.7"/>
+</reaction>
+</comment>
+<comment type="cofactor">
+<cofactor evidence="2">
+<name>heme b</name>
+<dbReference type="ChEBI" id="CHEBI:60344"/>
+</cofactor>
+<text evidence="2">Binds 1 heme b (iron(II)-protoporphyrin IX) group per subunit.</text>
+</comment>
+<comment type="cofactor">
+<cofactor evidence="2">
+<name>Ca(2+)</name>
+<dbReference type="ChEBI" id="CHEBI:29108"/>
+</cofactor>
+<text evidence="2">Binds 2 calcium ions per subunit.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="2">Secreted</location>
+</subcellularLocation>
+</comment>
+<comment type="tissue specificity">
+<text evidence="4">Slightly expressed in roots.</text>
+</comment>
+<comment type="induction">
+<text evidence="3">Up-regulated transiently by a cold treatment.</text>
+</comment>
+<comment type="miscellaneous">
+<text>There are 73 peroxidase genes in A.thaliana.</text>
+</comment>
+<comment type="similarity">
+<text evidence="2">Belongs to the peroxidase family. Classical plant (class III) peroxidase subfamily.</text>
+</comment>
+<dbReference type="EC" id="1.11.1.7"/>
+<dbReference type="EMBL" id="X98320">
+<property type="protein sequence ID" value="CAA66964.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X98774">
+<property type="protein sequence ID" value="CAA67310.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AB013389">
+<property type="protein sequence ID" value="BAB10915.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CP002688">
+<property type="protein sequence ID" value="AED98207.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BT008314">
+<property type="protein sequence ID" value="AAP37673.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_201440.1">
+<property type="nucleotide sequence ID" value="NM_126037.5"/>
+</dbReference>
+<dbReference type="UniGene" id="At.25460"/>
+<dbReference type="ProteinModelPortal" id="Q9FJZ9"/>
+<dbReference type="SMR" id="Q9FJZ9"/>
+<dbReference type="STRING" id="3702.AT5G66390.1"/>
+<dbReference type="PeroxiBase" id="238">
+<property type="entry name" value="AtPrx72"/>
+</dbReference>
+<dbReference type="PaxDb" id="Q9FJZ9"/>
+<dbReference type="PRIDE" id="Q9FJZ9"/>
+<dbReference type="EnsemblPlants" id="AT5G66390.1">
+<property type="protein sequence ID" value="AT5G66390.1"/>
+<property type="gene ID" value="AT5G66390"/>
+</dbReference>
+<dbReference type="GeneID" id="836771"/>
+<dbReference type="Gramene" id="AT5G66390.1">
+<property type="protein sequence ID" value="AT5G66390.1"/>
+<property type="gene ID" value="AT5G66390"/>
+</dbReference>
+<dbReference type="KEGG" id="ath:AT5G66390"/>
+<dbReference type="Araport" id="AT5G66390"/>
+<dbReference type="TAIR" id="locus:2154925">
+<property type="gene designation" value="AT5G66390"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG410IIQM">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG410YA1B">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000237557"/>
+<dbReference type="InParanoid" id="Q9FJZ9"/>
+<dbReference type="KO" id="K00430"/>
+<dbReference type="OMA" id="EAACPHT"/>
+<dbReference type="OrthoDB" id="820366at2759"/>
+<dbReference type="PhylomeDB" id="Q9FJZ9"/>
+<dbReference type="BioCyc" id="ARA:AT5G66390-MONOMER"/>
+<dbReference type="PRO" id="PR:Q9FJZ9"/>
+<dbReference type="Proteomes" id="UP000006548">
+<property type="component" value="Chromosome 5"/>
+</dbReference>
+<dbReference type="ExpressionAtlas" id="Q9FJZ9">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevisible" id="Q9FJZ9">
+<property type="organism ID" value="AT"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005576">
+<property type="term" value="C:extracellular region"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0020037">
+<property type="term" value="F:heme binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046872">
+<property type="term" value="F:metal ion binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004601">
+<property type="term" value="F:peroxidase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042744">
+<property type="term" value="P:hydrogen peroxide catabolic process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009809">
+<property type="term" value="P:lignin biosynthetic process"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="TAIR"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006979">
+<property type="term" value="P:response to oxidative stress"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="CDD" id="cd00693">
+<property type="entry name" value="secretory_peroxidase"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002016">
+<property type="entry name" value="Haem_peroxidase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR010255">
+<property type="entry name" value="Haem_peroxidase_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000823">
+<property type="entry name" value="Peroxidase_pln"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR019793">
+<property type="entry name" value="Peroxidases_heam-ligand_BS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR033905">
+<property type="entry name" value="Secretory_peroxidase"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00141">
+<property type="entry name" value="peroxidase"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00458">
+<property type="entry name" value="PEROXIDASE"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00461">
+<property type="entry name" value="PLPEROXIDASE"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF48113">
+<property type="entry name" value="SSF48113"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00435">
+<property type="entry name" value="PEROXIDASE_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50873">
+<property type="entry name" value="PEROXIDASE_4"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0106">Calcium</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-1015">Disulfide bond</keyword>
+<keyword id="KW-0325">Glycoprotein</keyword>
+<keyword id="KW-0349">Heme</keyword>
+<keyword id="KW-0376">Hydrogen peroxide</keyword>
+<keyword id="KW-0408">Iron</keyword>
+<keyword id="KW-0479">Metal-binding</keyword>
+<keyword id="KW-0560">Oxidoreductase</keyword>
+<keyword id="KW-0575">Peroxidase</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0964">Secreted</keyword>
+<keyword id="KW-0732">Signal</keyword>
+<feature type="signal peptide" evidence="1">
+<location>
+<begin position="1"/>
+<end position="23"/>
+</location>
+</feature>
+<feature type="chain" description="Peroxidase 72" id="PRO_0000023737">
+<location>
+<begin position="24"/>
+<end position="336"/>
+</location>
+</feature>
+<feature type="active site" description="Proton acceptor" evidence="2">
+<location>
+<position position="73"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Calcium 1" evidence="2">
+<location>
+<position position="74"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Calcium 1; via carbonyl oxygen" evidence="2">
+<location>
+<position position="77"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Calcium 1; via carbonyl oxygen" evidence="2">
+<location>
+<position position="79"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Calcium 1" evidence="2">
+<location>
+<position position="81"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Calcium 1" evidence="2">
+<location>
+<position position="83"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron (heme axial ligand)" evidence="2">
+<location>
+<position position="200"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Calcium 2" evidence="2">
+<location>
+<position position="201"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Calcium 2" evidence="2">
+<location>
+<position position="252"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Calcium 2" evidence="2">
+<location>
+<position position="255"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Calcium 2" evidence="2">
+<location>
+<position position="260"/>
+</location>
+</feature>
+<feature type="binding site" description="Substrate; via carbonyl oxygen" evidence="2">
+<location>
+<position position="170"/>
+</location>
+</feature>
+<feature type="site" description="Transition state stabilizer" evidence="2">
+<location>
+<position position="69"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="1">
+<location>
+<position position="173"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="1">
+<location>
+<position position="216"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="2">
+<location>
+<begin position="42"/>
+<end position="122"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="2">
+<location>
+<begin position="75"/>
+<end position="80"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="2">
+<location>
+<begin position="128"/>
+<end position="329"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="2">
+<location>
+<begin position="207"/>
+<end position="239"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1 and 2." ref="1 2" evidence="5">
+<original>P</original>
+<variation>R</variation>
+<location>
+<position position="151"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1 and 2." ref="1 2" evidence="5">
+<original>K</original>
+<variation>I</variation>
+<location>
+<position position="307"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000255"/>
+<evidence key="2" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00297"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12172015"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source ref="7"/>
+</evidence>
+<evidence key="5" type="ECO:0000305"/>
+<sequence length="336" mass="37427" checksum="4DAD91C4693A0833" modified="2001-03-01" version="1" precursor="true">
+MAKSLNILIAALSLIAFSPFCLCSKAYGSGGYLFPQFYDQSCPKAQEIVQSIVAKAFEHD
+PRMPASLLRLHFHDCFVKGCDASILLDSSGTIISEKRSNPNRNSARGFELIEEIKHALEQ
+ECPETVSCADILALAARDSTVITGGPSWEVPLGRRDARGASLSGSNNDIPAPNNTFQTIL
+TKFKRQGLDLVDLVSLSGSHTIGNSRCTSFRQRLYNQSGNGKPDMTLSQYYATLLRQRCP
+RSGGDQTLFFLDFATPFKFDNHYFKNLIMYKGLLSSDEILFTKNKQSKELVELYAENQEA
+FFEQFAKSMVKMGNISPLTGAKGEIRRICRRVNHAY
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

@@ -28,8 +28,8 @@ fi
 
 while read samplename;
 do
-fastp -i $prefix/raw/${samplename}.R1.clean.fastq.gz -I $prefix/raw/${samplename}.R2.clean.fastq.gz -o $prefix/raw/${samplename}.1.filt.fq.gz -O $prefix/raw/${samplename}.2.filt.fq.gz -h $tprefix/raw/${samplename}.html &&
+fastp -i $prefix/raw/${samplename}.R1.clean.fastq -I $prefix/raw/${samplename}.R2.clean.fastq -o $prefix/raw/${samplename}.1.filt.fq -O $prefix/raw/${samplename}.2.filt.fq -h $prefix/report/${samplename}.html &&
 hisat2 -p 60 -t --dta -x $REF439HTI -1 $prefix/raw/${samplename}.1.filt.fq.gz -2 $prefix/raw/${samplename}.2.filt.fq.gz -S $prefix/align/${samplename}.sam &&
 samtools  sort -@60 $prefix/aligned/${samplename}.sam -o $prefix/aligned/${samplename}_sorted.bam &&
 stringtie -e -B -p 60 -G $REF439GTF -o $prefix/ballgown/${samplename}/${samplename}_sorted.gtf -l ${samplename} $prefix/aligned/${samplename}_sorted.bam;
-  done  < sample
+done  < sample

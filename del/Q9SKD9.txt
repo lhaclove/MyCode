@@ -1,0 +1,228 @@
+ID   WRK46_ARATH             Reviewed;         295 AA.
+AC   Q9SKD9;
+DT   11-APR-2003, integrated into UniProtKB/Swiss-Prot.
+DT   01-MAY-2000, sequence version 1.
+DT   16-JAN-2019, entry version 119.
+DE   RecName: Full=Probable WRKY transcription factor 46;
+DE   AltName: Full=WRKY DNA-binding protein 46;
+GN   Name=WRKY46; OrderedLocusNames=At2g46400; ORFNames=F11C10.9;
+OS   Arabidopsis thaliana (Mouse-ear cress).
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+OC   Pentapetalae; rosids; malvids; Brassicales; Brassicaceae; Camelineae;
+OC   Arabidopsis.
+OX   NCBI_TaxID=3702;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RC   STRAIN=cv. Columbia; TISSUE=Flower;
+RA   Ulker B., Somssich I.E.;
+RL   Submitted (JUL-2001) to the EMBL/GenBank/DDBJ databases.
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=cv. Columbia;
+RX   PubMed=10617197; DOI=10.1038/45471;
+RA   Lin X., Kaul S., Rounsley S.D., Shea T.P., Benito M.-I., Town C.D.,
+RA   Fujii C.Y., Mason T.M., Bowman C.L., Barnstead M.E., Feldblyum T.V.,
+RA   Buell C.R., Ketchum K.A., Lee J.J., Ronning C.M., Koo H.L.,
+RA   Moffat K.S., Cronin L.A., Shen M., Pai G., Van Aken S., Umayam L.,
+RA   Tallon L.J., Gill J.E., Adams M.D., Carrera A.J., Creasy T.H.,
+RA   Goodman H.M., Somerville C.R., Copenhaver G.P., Preuss D.,
+RA   Nierman W.C., White O., Eisen J.A., Salzberg S.L., Fraser C.M.,
+RA   Venter J.C.;
+RT   "Sequence and analysis of chromosome 2 of the plant Arabidopsis
+RT   thaliana.";
+RL   Nature 402:761-768(1999).
+RN   [3]
+RP   GENOME REANNOTATION.
+RC   STRAIN=cv. Columbia;
+RX   PubMed=27862469; DOI=10.1111/tpj.13415;
+RA   Cheng C.Y., Krishnakumar V., Chan A.P., Thibaud-Nissen F., Schobel S.,
+RA   Town C.D.;
+RT   "Araport11: a complete reannotation of the Arabidopsis thaliana
+RT   reference genome.";
+RL   Plant J. 89:789-804(2017).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   STRAIN=cv. Columbia;
+RX   PubMed=14593172; DOI=10.1126/science.1088305;
+RA   Yamada K., Lim J., Dale J.M., Chen H., Shinn P., Palm C.J.,
+RA   Southwick A.M., Wu H.C., Kim C.J., Nguyen M., Pham P.K., Cheuk R.F.,
+RA   Karlin-Newmann G., Liu S.X., Lam B., Sakano H., Wu T., Yu G.,
+RA   Miranda M., Quach H.L., Tripp M., Chang C.H., Lee J.M., Toriumi M.J.,
+RA   Chan M.M., Tang C.C., Onodera C.S., Deng J.M., Akiyama K., Ansari Y.,
+RA   Arakawa T., Banh J., Banno F., Bowser L., Brooks S.Y., Carninci P.,
+RA   Chao Q., Choy N., Enju A., Goldsmith A.D., Gurjal M., Hansen N.F.,
+RA   Hayashizaki Y., Johnson-Hopson C., Hsuan V.W., Iida K., Karnes M.,
+RA   Khan S., Koesema E., Ishida J., Jiang P.X., Jones T., Kawai J.,
+RA   Kamiya A., Meyers C., Nakajima M., Narusaka M., Seki M., Sakurai T.,
+RA   Satou M., Tamse R., Vaysberg M., Wallender E.K., Wong C., Yamamura Y.,
+RA   Yuan S., Shinozaki K., Davis R.W., Theologis A., Ecker J.R.;
+RT   "Empirical analysis of transcriptional activity in the Arabidopsis
+RT   genome.";
+RL   Science 302:842-846(2003).
+RN   [5]
+RP   INDUCTION BY SALICYLIC ACID.
+RC   STRAIN=cv. Columbia;
+RX   PubMed=22268143; DOI=10.1093/jxb/err450;
+RA   Besseau S., Li J., Palva E.T.;
+RT   "WRKY54 and WRKY70 co-operate as negative regulators of leaf
+RT   senescence in Arabidopsis thaliana.";
+RL   J. Exp. Bot. 63:2667-2679(2012).
+RN   [6]
+RP   FUNCTION, DISRUPTION PHENOTYPE, AND INDUCTION BY ERWINIA AMYLOVORA.
+RC   STRAIN=cv. Columbia;
+RX   PubMed=22316300; DOI=10.1094/MPMI-05-11-0111;
+RA   Moreau M., Degrave A., Vedel R., Bitton F., Patrit O., Renou J.-P.,
+RA   Barny M.-A., Fagard M.;
+RT   "EDS1 contributes to nonhost resistance of Arabidopsis thaliana
+RT   against Erwinia amylovora.";
+RL   Mol. Plant Microbe Interact. 25:421-430(2012).
+RN   [7]
+RP   FUNCTION, DISRUPTION PHENOTYPE, INDUCTION BY SALICYLIC ACID AND
+RP   PSEUDOMONAS SYRINGAE, AND TISSUE SPECIFICITY.
+RC   STRAIN=cv. Columbia;
+RX   PubMed=22325892; DOI=10.1016/j.plantsci.2011.12.003;
+RA   Hu Y., Dong Q., Yu D.;
+RT   "Arabidopsis WRKY46 coordinates with WRKY70 and WRKY53 in basal
+RT   resistance against pathogen Pseudomonas syringae.";
+RL   Plant Sci. 185:288-297(2012).
+RN   [8]
+RP   FUNCTION, INDUCTION, DISRUPTION PHENOTYPE, AND TISSUE SPECIFICITY.
+RX   PubMed=24773321; DOI=10.1111/tpj.12538;
+RA   Ding Z.J., Yan J.Y., Xu X.Y., Yu D.Q., Li G.X., Zhang S.Q.,
+RA   Zheng S.J.;
+RT   "Transcription factor WRKY46 regulates osmotic stress responses and
+RT   stomatal movement independently in Arabidopsis.";
+RL   Plant J. 79:13-27(2014).
+RN   [9]
+RP   FUNCTION, DISRUPTION PHENOTYPE, INTERACTION WITH BZR2/BES1, AND
+RP   PHOSPHORYLATION BY ASK7/BIN2.
+RC   STRAIN=cv. Columbia;
+RX   PubMed=28576847; DOI=10.1105/tpc.17.00364;
+RA   Chen J., Nolan T.M., Ye H., Zhang M., Tong H., Xin P., Chu J., Chu C.,
+RA   Li Z., Yin Y.;
+RT   "Arabidopsis WRKY46, WRKY54, and WRKY70 transcription factors are
+RT   involved in brassinosteroid-regulated plant growth and drought
+RT   responses.";
+RL   Plant Cell 29:1425-1439(2017).
+CC   -!- FUNCTION: Transcription factor involved in the regulation of
+CC       osmotic stress responses and stomatal movement (PubMed:24773321).
+CC       Interacts specifically with the W box (5'-(T)TGAC[CT]-3'), a
+CC       frequently occurring elicitor-responsive cis-acting element (By
+CC       similarity). Positive regulator of EDS1-dependent defense against
+CC       E.amylovora (PubMed:22316300). Together with WRKY70 and WRKY53,
+CC       promotes resistance to P.syringae, probably by enhancing salicylic
+CC       acid (SA)- dependent genes. Contributes to the suppression of
+CC       jasmonic acid (MeJA)-induced expression of PDF1.2
+CC       (PubMed:22325892). Together with WRKY54 and WRKY70, promotes
+CC       brassinosteroid (BR)-regulated plant growth but prevent drought
+CC       response by modulating gene expression (PubMed:28576847).
+CC       {ECO:0000250, ECO:0000269|PubMed:22316300,
+CC       ECO:0000269|PubMed:22325892, ECO:0000269|PubMed:24773321,
+CC       ECO:0000269|PubMed:28576847}.
+CC   -!- SUBUNIT: Binds to BZR2/BES1 to cooperatively regulate the
+CC       expression of target genes. {ECO:0000269|PubMed:28576847}.
+CC   -!- SUBCELLULAR LOCATION: Nucleus {ECO:0000255|PROSITE-
+CC       ProRule:PRU00223}.
+CC   -!- TISSUE SPECIFICITY: Expressed in guard cells, hypocotyls, and in
+CC       the vascular tissues of cotyledon and root (PubMed:24773321).
+CC       Mostly expressed in roots, at lower levels in leaves and petioles,
+CC       and, to a lower extent, in stems, flowers and siliques
+CC       (PubMed:22325892). {ECO:0000269|PubMed:22325892,
+CC       ECO:0000269|PubMed:24773321}.
+CC   -!- INDUCTION: Up-regulated by drought, salt and hydrogen peroxide
+CC       treatments (PubMed:24773321). Induced by salicylic acid (SA)
+CC       (PubMed:22268143, PubMed:22325892). Up-regulated by E.amylovora
+CC       (PubMed:22316300). Triggered by P.syringae (PubMed:22325892).
+CC       {ECO:0000269|PubMed:22268143, ECO:0000269|PubMed:22316300,
+CC       ECO:0000269|PubMed:22325892, ECO:0000269|PubMed:24773321}.
+CC   -!- PTM: Phosphorylated and destabilized by ASK7/BIN2.
+CC       {ECO:0000269|PubMed:28576847}.
+CC   -!- DISRUPTION PHENOTYPE: Decreased tolerance to dehydration and salt
+CC       stress (PubMed:24773321). Increase in the number of necrotic
+CC       leaves and in the intensity of necrosis in response to E.amylovora
+CC       (PubMed:22316300). Increased susceptibility to P.syringae
+CC       associated with reduced PR1 induction in double mutants wrky46
+CC       wrky70 and wrky46 wrky53,and triple mutant wrky46 wrky70 wrky53.
+CC       In these mutants, higher induction of PDF1.2 upon jasmonic acid
+CC       (MeJA) treatment (PubMed:22325892). The triple mutant wrky46
+CC       wrky54 wrky70 has defects in brassinosteroid (BR)-regulated growth
+CC       and is more tolerant to drought stress (PubMed:28576847).
+CC       {ECO:0000269|PubMed:22316300, ECO:0000269|PubMed:22325892,
+CC       ECO:0000269|PubMed:24773321, ECO:0000269|PubMed:28576847}.
+CC   -!- SIMILARITY: Belongs to the WRKY group III family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AY046275; AAK96020.1; -; mRNA.
+DR   EMBL; AC006526; AAD23042.1; -; Genomic_DNA.
+DR   EMBL; CP002685; AEC10690.1; -; Genomic_DNA.
+DR   EMBL; AY080812; AAL87292.1; -; mRNA.
+DR   EMBL; AY117210; AAM51285.1; -; mRNA.
+DR   PIR; D84902; D84902.
+DR   RefSeq; NP_182163.1; NM_130204.3.
+DR   UniGene; At.26510; -.
+DR   ProteinModelPortal; Q9SKD9; -.
+DR   SMR; Q9SKD9; -.
+DR   BioGrid; 4583; 1.
+DR   IntAct; Q9SKD9; 4.
+DR   STRING; 3702.AT2G46400.1; -.
+DR   iPTMnet; Q9SKD9; -.
+DR   PaxDb; Q9SKD9; -.
+DR   DNASU; 819248; -.
+DR   EnsemblPlants; AT2G46400.1; AT2G46400.1; AT2G46400.
+DR   GeneID; 819248; -.
+DR   Gramene; AT2G46400.1; AT2G46400.1; AT2G46400.
+DR   KEGG; ath:AT2G46400; -.
+DR   Araport; AT2G46400; -.
+DR   TAIR; locus:2039119; AT2G46400.
+DR   eggNOG; ENOG410JAHG; Eukaryota.
+DR   eggNOG; ENOG410YBEV; LUCA.
+DR   HOGENOM; HOG000006380; -.
+DR   InParanoid; Q9SKD9; -.
+DR   OMA; HETENVG; -.
+DR   OrthoDB; 1331082at2759; -.
+DR   PhylomeDB; Q9SKD9; -.
+DR   PRO; PR:Q9SKD9; -.
+DR   Proteomes; UP000006548; Chromosome 2.
+DR   ExpressionAtlas; Q9SKD9; baseline and differential.
+DR   Genevisible; Q9SKD9; AT.
+DR   GO; GO:0005730; C:nucleolus; IDA:TAIR.
+DR   GO; GO:0005634; C:nucleus; IBA:GO_Central.
+DR   GO; GO:0003700; F:DNA-binding transcription factor activity; ISS:TAIR.
+DR   GO; GO:0000987; F:proximal promoter sequence-specific DNA binding; IPI:TAIR.
+DR   GO; GO:0043565; F:sequence-specific DNA binding; IDA:TAIR.
+DR   GO; GO:0044212; F:transcription regulatory region DNA binding; IPI:TAIR.
+DR   GO; GO:0009742; P:brassinosteroid mediated signaling pathway; IEA:UniProtKB-KW.
+DR   GO; GO:0042742; P:defense response to bacterium; IMP:UniProtKB.
+DR   GO; GO:0048527; P:lateral root development; IMP:TAIR.
+DR   GO; GO:1900457; P:regulation of brassinosteroid mediated signaling pathway; IMP:UniProtKB.
+DR   GO; GO:2000022; P:regulation of jasmonic acid mediated signaling pathway; IMP:UniProtKB.
+DR   GO; GO:2000070; P:regulation of response to water deprivation; IMP:UniProtKB.
+DR   GO; GO:0006355; P:regulation of transcription, DNA-templated; IMP:TAIR.
+DR   GO; GO:0009617; P:response to bacterium; IEP:UniProtKB.
+DR   GO; GO:0010200; P:response to chitin; IEP:TAIR.
+DR   GO; GO:0009751; P:response to salicylic acid; IEP:UniProtKB.
+DR   Gene3D; 2.20.25.80; -; 1.
+DR   InterPro; IPR003657; WRKY_dom.
+DR   InterPro; IPR036576; WRKY_dom_sf.
+DR   Pfam; PF03106; WRKY; 1.
+DR   SMART; SM00774; WRKY; 1.
+DR   SUPFAM; SSF118290; SSF118290; 1.
+DR   PROSITE; PS50811; WRKY; 1.
+PE   1: Evidence at protein level;
+KW   Brassinosteroid signaling pathway; Complete proteome; DNA-binding;
+KW   Jasmonic acid signaling pathway; Nucleus; Plant defense;
+KW   Reference proteome; Transcription; Transcription regulation.
+FT   CHAIN         1    295       Probable WRKY transcription factor 46.
+FT                                /FTId=PRO_0000133687.
+FT   DNA_BIND     98    166       WRKY. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00223}.
+SQ   SEQUENCE   295 AA;  33635 MW;  116F5DF206AD854F CRC64;
+     MMMEEKLVIN ELELGKELAN RLMNNLKHTS SVDSNKTLIS DILRIYQNAI FMLSFNQDKN
+     ILKRSLEIDG KDSKNVFKKR KVSEKNTEKV KVFVATEQEN GSIDDGHCWR KYGQKEIHGS
+     KNPRAYYRCT HRFTQDCLAV KQVQKSDTDP SLFEVKYLGN HTCNNITSPK TTTNFSVSLT
+     NTNIFEGNRV HVTEQSEDMK PTKSEEVMIS LEDLENKKNI FRTFSFSNHE IENGVWKSNL
+     FLGNFVEDLS PATSGSAITS EVLSAPAAVE NSETADSYFS SLDNIIDFGQ DWLWS
+//

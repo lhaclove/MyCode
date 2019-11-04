@@ -1,0 +1,163 @@
+ID   P2C02_ARATH             Reviewed;         380 AA.
+AC   Q8RX37; Q9LMK9;
+DT   14-APR-2009, integrated into UniProtKB/Swiss-Prot.
+DT   01-JUN-2002, sequence version 1.
+DT   16-JAN-2019, entry version 114.
+DE   RecName: Full=Probable protein phosphatase 2C 2;
+DE            Short=AtPP2C02;
+DE            EC=3.1.3.16;
+DE   AltName: Full=Protein phosphatase AP2C2;
+GN   OrderedLocusNames=At1g07160; ORFNames=F10K1.13;
+OS   Arabidopsis thaliana (Mouse-ear cress).
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+OC   Pentapetalae; rosids; malvids; Brassicales; Brassicaceae; Camelineae;
+OC   Arabidopsis.
+OX   NCBI_TaxID=3702;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=cv. Columbia;
+RX   PubMed=11130712; DOI=10.1038/35048500;
+RA   Theologis A., Ecker J.R., Palm C.J., Federspiel N.A., Kaul S.,
+RA   White O., Alonso J., Altafi H., Araujo R., Bowman C.L., Brooks S.Y.,
+RA   Buehler E., Chan A., Chao Q., Chen H., Cheuk R.F., Chin C.W.,
+RA   Chung M.K., Conn L., Conway A.B., Conway A.R., Creasy T.H., Dewar K.,
+RA   Dunn P., Etgu P., Feldblyum T.V., Feng J.-D., Fong B., Fujii C.Y.,
+RA   Gill J.E., Goldsmith A.D., Haas B., Hansen N.F., Hughes B., Huizar L.,
+RA   Hunter J.L., Jenkins J., Johnson-Hopson C., Khan S., Khaykin E.,
+RA   Kim C.J., Koo H.L., Kremenetskaia I., Kurtz D.B., Kwan A., Lam B.,
+RA   Langin-Hooper S., Lee A., Lee J.M., Lenz C.A., Li J.H., Li Y.-P.,
+RA   Lin X., Liu S.X., Liu Z.A., Luros J.S., Maiti R., Marziali A.,
+RA   Militscher J., Miranda M., Nguyen M., Nierman W.C., Osborne B.I.,
+RA   Pai G., Peterson J., Pham P.K., Rizzo M., Rooney T., Rowley D.,
+RA   Sakano H., Salzberg S.L., Schwartz J.R., Shinn P., Southwick A.M.,
+RA   Sun H., Tallon L.J., Tambunga G., Toriumi M.J., Town C.D.,
+RA   Utterback T., Van Aken S., Vaysberg M., Vysotskaia V.S., Walker M.,
+RA   Wu D., Yu G., Fraser C.M., Venter J.C., Davis R.W.;
+RT   "Sequence and analysis of chromosome 1 of the plant Arabidopsis
+RT   thaliana.";
+RL   Nature 408:816-820(2000).
+RN   [2]
+RP   GENOME REANNOTATION.
+RC   STRAIN=cv. Columbia;
+RX   PubMed=27862469; DOI=10.1111/tpj.13415;
+RA   Cheng C.Y., Krishnakumar V., Chan A.P., Thibaud-Nissen F., Schobel S.,
+RA   Town C.D.;
+RT   "Araport11: a complete reannotation of the Arabidopsis thaliana
+RT   reference genome.";
+RL   Plant J. 89:789-804(2017).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   STRAIN=cv. Columbia;
+RX   PubMed=14593172; DOI=10.1126/science.1088305;
+RA   Yamada K., Lim J., Dale J.M., Chen H., Shinn P., Palm C.J.,
+RA   Southwick A.M., Wu H.C., Kim C.J., Nguyen M., Pham P.K., Cheuk R.F.,
+RA   Karlin-Newmann G., Liu S.X., Lam B., Sakano H., Wu T., Yu G.,
+RA   Miranda M., Quach H.L., Tripp M., Chang C.H., Lee J.M., Toriumi M.J.,
+RA   Chan M.M., Tang C.C., Onodera C.S., Deng J.M., Akiyama K., Ansari Y.,
+RA   Arakawa T., Banh J., Banno F., Bowser L., Brooks S.Y., Carninci P.,
+RA   Chao Q., Choy N., Enju A., Goldsmith A.D., Gurjal M., Hansen N.F.,
+RA   Hayashizaki Y., Johnson-Hopson C., Hsuan V.W., Iida K., Karnes M.,
+RA   Khan S., Koesema E., Ishida J., Jiang P.X., Jones T., Kawai J.,
+RA   Kamiya A., Meyers C., Nakajima M., Narusaka M., Seki M., Sakurai T.,
+RA   Satou M., Tamse R., Vaysberg M., Wallender E.K., Wong C., Yamamura Y.,
+RA   Yuan S., Shinozaki K., Davis R.W., Theologis A., Ecker J.R.;
+RT   "Empirical analysis of transcriptional activity in the Arabidopsis
+RT   genome.";
+RL   Science 302:842-846(2003).
+RN   [4]
+RP   GENE FAMILY, AND NOMENCLATURE.
+RX   PubMed=19021904; DOI=10.1186/1471-2164-9-550;
+RA   Xue T., Wang D., Zhang S., Ehlting J., Ni F., Jacab S., Zheng C.,
+RA   Zhong Y.;
+RT   "Genome-wide and expression analysis of protein phosphatase 2C in rice
+RT   and Arabidopsis.";
+RL   BMC Genomics 9:550-550(2008).
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=H2O + O-phospho-L-seryl-[protein] = L-seryl-[protein] +
+CC         phosphate; Xref=Rhea:RHEA:20629, Rhea:RHEA-COMP:9863, Rhea:RHEA-
+CC         COMP:11604, ChEBI:CHEBI:15377, ChEBI:CHEBI:29999,
+CC         ChEBI:CHEBI:43474, ChEBI:CHEBI:83421; EC=3.1.3.16;
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=H2O + O-phospho-L-threonyl-[protein] = L-threonyl-
+CC         [protein] + phosphate; Xref=Rhea:RHEA:47004, Rhea:RHEA-
+CC         COMP:11060, Rhea:RHEA-COMP:11605, ChEBI:CHEBI:15377,
+CC         ChEBI:CHEBI:30013, ChEBI:CHEBI:43474, ChEBI:CHEBI:61977;
+CC         EC=3.1.3.16;
+CC   -!- COFACTOR:
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420; Evidence={ECO:0000250};
+CC       Name=Mn(2+); Xref=ChEBI:CHEBI:29035; Evidence={ECO:0000250};
+CC       Note=Binds 2 magnesium or manganese ions per subunit.
+CC       {ECO:0000250};
+CC   -!- SIMILARITY: Belongs to the PP2C family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AC067971; AAF82204.1; -; Genomic_DNA.
+DR   EMBL; CP002684; AEE28084.1; -; Genomic_DNA.
+DR   EMBL; AY090917; AAM13912.1; -; mRNA.
+DR   PIR; F86206; F86206.
+DR   RefSeq; NP_172196.1; NM_100590.4.
+DR   UniGene; At.42311; -.
+DR   ProteinModelPortal; Q8RX37; -.
+DR   SMR; Q8RX37; -.
+DR   BioGrid; 22468; 9.
+DR   IntAct; Q8RX37; 9.
+DR   STRING; 3702.AT1G07160.1; -.
+DR   PaxDb; Q8RX37; -.
+DR   PRIDE; Q8RX37; -.
+DR   EnsemblPlants; AT1G07160.1; AT1G07160.1; AT1G07160.
+DR   GeneID; 837227; -.
+DR   Gramene; AT1G07160.1; AT1G07160.1; AT1G07160.
+DR   KEGG; ath:AT1G07160; -.
+DR   Araport; AT1G07160; -.
+DR   TAIR; locus:2007327; AT1G07160.
+DR   eggNOG; KOG0698; Eukaryota.
+DR   eggNOG; COG0631; LUCA.
+DR   HOGENOM; HOG000233896; -.
+DR   InParanoid; Q8RX37; -.
+DR   OMA; RINPQHE; -.
+DR   OrthoDB; 1044139at2759; -.
+DR   PhylomeDB; Q8RX37; -.
+DR   PRO; PR:Q8RX37; -.
+DR   Proteomes; UP000006548; Chromosome 1.
+DR   ExpressionAtlas; Q8RX37; baseline and differential.
+DR   Genevisible; Q8RX37; AT.
+DR   GO; GO:0004724; F:magnesium-dependent protein serine/threonine phosphatase activity; IBA:GO_Central.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0004722; F:protein serine/threonine phosphatase activity; IBA:GO_Central.
+DR   CDD; cd00143; PP2Cc; 1.
+DR   Gene3D; 3.60.40.10; -; 1.
+DR   InterPro; IPR015655; PP2C.
+DR   InterPro; IPR000222; PP2C_BS.
+DR   InterPro; IPR036457; PPM-type_dom_sf.
+DR   InterPro; IPR001932; PPM-type_phosphatase_dom.
+DR   PANTHER; PTHR13832; PTHR13832; 1.
+DR   Pfam; PF00481; PP2C; 1.
+DR   SMART; SM00332; PP2Cc; 1.
+DR   SUPFAM; SSF81606; SSF81606; 1.
+DR   PROSITE; PS01032; PPM_1; 1.
+DR   PROSITE; PS51746; PPM_2; 1.
+PE   2: Evidence at transcript level;
+KW   Complete proteome; Hydrolase; Magnesium; Manganese; Metal-binding;
+KW   Protein phosphatase; Reference proteome.
+FT   CHAIN         1    380       Probable protein phosphatase 2C 2.
+FT                                /FTId=PRO_0000367936.
+FT   DOMAIN      122    376       PPM-type phosphatase.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU01082}.
+FT   METAL       158    158       Manganese 1. {ECO:0000250}.
+FT   METAL       158    158       Manganese 2. {ECO:0000250}.
+FT   METAL       159    159       Manganese 1; via carbonyl oxygen.
+FT                                {ECO:0000250}.
+FT   METAL       321    321       Manganese 2. {ECO:0000250}.
+FT   METAL       367    367       Manganese 2. {ECO:0000250}.
+SQ   SEQUENCE   380 AA;  40709 MW;  7EA1D8B991F0E88D CRC64;
+     MSSSVAVCNS PVFSPSSSLF CNKPLNTSPA HETLTLSLSH LNPPVSSTSP SAASPTSPFC
+     LRLLKPPAKL GFGSDSGPGS ILKRKRPTTL DIPVAPVGIA APISNADTPR EESRAVEREG
+     DGYSVYCKRG KREAMEDRFS AITNLQGDPK QAIFGVYDGH GGPTAAEFAA KNLCSNILGE
+     IVGGRNESKI EEAVKRGYLA TDSEFLKEKN VKGGSCCVTA LISDGNLVVA NAGDCRAVLS
+     VGGFAEALTS DHRPSRDDER NRIESSGGYV DTFNSVWRIQ GSLAVSRGIG DAHLKQWIIS
+     EPEINILRIN PQHEFLILAS DGLWDKVSNQ EAVDIARPFC KGTDQKRKPL LACKKLVDLS
+     VSRGSLDDIS VMLIQLCHLF
+//

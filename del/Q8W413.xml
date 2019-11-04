@@ -1,0 +1,482 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2008-09-02" modified="2019-01-16" version="111">
+<accession>Q8W413</accession>
+<accession>Q8L5V2</accession>
+<accession>Q9SJN5</accession>
+<name>INV4_ARATH</name>
+<protein>
+<recommendedName>
+<fullName>Beta-fructofuranosidase, insoluble isoenzyme CWINV4</fullName>
+<ecNumber>3.2.1.26</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>Beta-fructofuranosidase 6</fullName>
+<shortName>AtFruct6</shortName>
+</alternativeName>
+<alternativeName>
+<fullName>Cell wall beta-fructosidase 4</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Cell wall invertase 4</fullName>
+<shortName>AtcwINV4</shortName>
+</alternativeName>
+<alternativeName>
+<fullName>Sucrose hydrolase 4</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">CWINV4</name>
+<name type="synonym">FRUCT6</name>
+<name type="ordered locus">At2g36190</name>
+<name type="ORF">F9C22.8</name>
+</gene>
+<organism>
+<name type="scientific">Arabidopsis thaliana</name>
+<name type="common">Mouse-ear cress</name>
+<dbReference type="NCBI Taxonomy" id="3702"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Viridiplantae</taxon>
+<taxon>Streptophyta</taxon>
+<taxon>Embryophyta</taxon>
+<taxon>Tracheophyta</taxon>
+<taxon>Spermatophyta</taxon>
+<taxon>Magnoliophyta</taxon>
+<taxon>eudicotyledons</taxon>
+<taxon>Gunneridae</taxon>
+<taxon>Pentapetalae</taxon>
+<taxon>rosids</taxon>
+<taxon>malvids</taxon>
+<taxon>Brassicales</taxon>
+<taxon>Brassicaceae</taxon>
+<taxon>Camelineae</taxon>
+<taxon>Arabidopsis</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="submission" date="2000-10" db="EMBL/GenBank/DDBJ databases">
+<title>acid invertase gene No. 6 from Arabidopsis.</title>
+<authorList>
+<person name="Toyomasu T."/>
+<person name="Sasaki S."/>
+<person name="Mitsuhasi W."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1999" name="Nature" volume="402" first="761" last="768">
+<title>Sequence and analysis of chromosome 2 of the plant Arabidopsis thaliana.</title>
+<authorList>
+<person name="Lin X."/>
+<person name="Kaul S."/>
+<person name="Rounsley S.D."/>
+<person name="Shea T.P."/>
+<person name="Benito M.-I."/>
+<person name="Town C.D."/>
+<person name="Fujii C.Y."/>
+<person name="Mason T.M."/>
+<person name="Bowman C.L."/>
+<person name="Barnstead M.E."/>
+<person name="Feldblyum T.V."/>
+<person name="Buell C.R."/>
+<person name="Ketchum K.A."/>
+<person name="Lee J.J."/>
+<person name="Ronning C.M."/>
+<person name="Koo H.L."/>
+<person name="Moffat K.S."/>
+<person name="Cronin L.A."/>
+<person name="Shen M."/>
+<person name="Pai G."/>
+<person name="Van Aken S."/>
+<person name="Umayam L."/>
+<person name="Tallon L.J."/>
+<person name="Gill J.E."/>
+<person name="Adams M.D."/>
+<person name="Carrera A.J."/>
+<person name="Creasy T.H."/>
+<person name="Goodman H.M."/>
+<person name="Somerville C.R."/>
+<person name="Copenhaver G.P."/>
+<person name="Preuss D."/>
+<person name="Nierman W.C."/>
+<person name="White O."/>
+<person name="Eisen J.A."/>
+<person name="Salzberg S.L."/>
+<person name="Fraser C.M."/>
+<person name="Venter J.C."/>
+</authorList>
+<dbReference type="PubMed" id="10617197"/>
+<dbReference type="DOI" id="10.1038/45471"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>cv. Columbia</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2017" name="Plant J." volume="89" first="789" last="804">
+<title>Araport11: a complete reannotation of the Arabidopsis thaliana reference genome.</title>
+<authorList>
+<person name="Cheng C.Y."/>
+<person name="Krishnakumar V."/>
+<person name="Chan A.P."/>
+<person name="Thibaud-Nissen F."/>
+<person name="Schobel S."/>
+<person name="Town C.D."/>
+</authorList>
+<dbReference type="PubMed" id="27862469"/>
+<dbReference type="DOI" id="10.1111/tpj.13415"/>
+</citation>
+<scope>GENOME REANNOTATION</scope>
+<source>
+<strain>cv. Columbia</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="submission" date="2002-03" db="EMBL/GenBank/DDBJ databases">
+<title>Full-length cDNA from Arabidopsis thaliana.</title>
+<authorList>
+<person name="Brover V.V."/>
+<person name="Troukhan M.E."/>
+<person name="Alexandrov N.A."/>
+<person name="Lu Y.-P."/>
+<person name="Flavell R.B."/>
+<person name="Feldmann K.A."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2003" name="J. Exp. Bot." volume="54" first="525" last="531">
+<title>Roles of cell-wall invertases and monosaccharide transporters in the growth and development of Arabidopsis.</title>
+<authorList>
+<person name="Sherson S.M."/>
+<person name="Alford H.L."/>
+<person name="Forbes S.M."/>
+<person name="Wallace G."/>
+<person name="Smith S.M."/>
+</authorList>
+<dbReference type="PubMed" id="12508063"/>
+<dbReference type="DOI" id="10.1093/jxb/erg055"/>
+</citation>
+<scope>TISSUE SPECIFICITY</scope>
+<scope>GENE FAMILY</scope>
+<scope>NOMENCLATURE</scope>
+</reference>
+<comment type="catalytic activity">
+<reaction evidence="3">
+<text>Hydrolysis of terminal non-reducing beta-D-fructofuranoside residues in beta-D-fructofuranosides.</text>
+<dbReference type="EC" id="3.2.1.26"/>
+</reaction>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="5">Secreted</location>
+<location evidence="5">Extracellular space</location>
+<location evidence="5">Apoplast</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="5">Secreted</location>
+<location evidence="5">Cell wall</location>
+</subcellularLocation>
+<text evidence="5">Associated to the cell wall.</text>
+</comment>
+<comment type="tissue specificity">
+<text evidence="4">Expressed in flowers, and seeds, and, to a lower extent, in seedlings.</text>
+</comment>
+<comment type="similarity">
+<text evidence="5">Belongs to the glycosyl hydrolase 32 family.</text>
+</comment>
+<dbReference type="EC" id="3.2.1.26"/>
+<dbReference type="EMBL" id="AB049617">
+<property type="protein sequence ID" value="BAB83031.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AC006921">
+<property type="protein sequence ID" value="AAD21446.2"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AC007135">
+<property type="protein sequence ID" value="AAM15406.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CP002685">
+<property type="protein sequence ID" value="AEC09214.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY084792">
+<property type="protein sequence ID" value="AAM61359.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="PIR" id="G84777">
+<property type="entry name" value="G84777"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_565837.1">
+<property type="nucleotide sequence ID" value="NM_129177.3"/>
+</dbReference>
+<dbReference type="UniGene" id="At.14109"/>
+<dbReference type="ProteinModelPortal" id="Q8W413"/>
+<dbReference type="SMR" id="Q8W413"/>
+<dbReference type="STRING" id="3702.AT2G36190.1"/>
+<dbReference type="CAZy" id="GH32">
+<property type="family name" value="Glycoside Hydrolase Family 32"/>
+</dbReference>
+<dbReference type="PaxDb" id="Q8W413"/>
+<dbReference type="EnsemblPlants" id="AT2G36190.1">
+<property type="protein sequence ID" value="AT2G36190.1"/>
+<property type="gene ID" value="AT2G36190"/>
+</dbReference>
+<dbReference type="GeneID" id="818191"/>
+<dbReference type="Gramene" id="AT2G36190.1">
+<property type="protein sequence ID" value="AT2G36190.1"/>
+<property type="gene ID" value="AT2G36190"/>
+</dbReference>
+<dbReference type="KEGG" id="ath:AT2G36190"/>
+<dbReference type="Araport" id="AT2G36190"/>
+<dbReference type="TAIR" id="locus:2049445">
+<property type="gene designation" value="AT2G36190"/>
+</dbReference>
+<dbReference type="eggNOG" id="KOG0228">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG1621">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000181427"/>
+<dbReference type="InParanoid" id="Q8W413"/>
+<dbReference type="KO" id="K01193"/>
+<dbReference type="OMA" id="FTPEANW"/>
+<dbReference type="OrthoDB" id="405663at2759"/>
+<dbReference type="PhylomeDB" id="Q8W413"/>
+<dbReference type="BRENDA" id="3.2.1.26">
+<property type="organism ID" value="399"/>
+</dbReference>
+<dbReference type="PRO" id="PR:Q8W413"/>
+<dbReference type="Proteomes" id="UP000006548">
+<property type="component" value="Chromosome 2"/>
+</dbReference>
+<dbReference type="ExpressionAtlas" id="Q8W413">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevisible" id="Q8W413">
+<property type="organism ID" value="AT"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048046">
+<property type="term" value="C:apoplast"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005618">
+<property type="term" value="C:cell wall"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="TAIR"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004575">
+<property type="term" value="F:sucrose alpha-glucosidase activity"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="TAIR"/>
+</dbReference>
+<dbReference type="GO" id="GO:0071836">
+<property type="term" value="P:nectar secretion"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="TAIR"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005982">
+<property type="term" value="P:starch metabolic process"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="TAIR"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005987">
+<property type="term" value="P:sucrose catabolic process"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="TAIR"/>
+</dbReference>
+<dbReference type="Gene3D" id="2.115.10.20">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013320">
+<property type="entry name" value="ConA-like_dom_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001362">
+<property type="entry name" value="Glyco_hydro_32"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR018053">
+<property type="entry name" value="Glyco_hydro_32_AS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013189">
+<property type="entry name" value="Glyco_hydro_32_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013148">
+<property type="entry name" value="Glyco_hydro_32_N"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR023296">
+<property type="entry name" value="Glyco_hydro_beta-prop_sf"/>
+</dbReference>
+<dbReference type="Pfam" id="PF08244">
+<property type="entry name" value="Glyco_hydro_32C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00251">
+<property type="entry name" value="Glyco_hydro_32N"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00640">
+<property type="entry name" value="Glyco_32"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF49899">
+<property type="entry name" value="SSF49899"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF75005">
+<property type="entry name" value="SSF75005"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00609">
+<property type="entry name" value="GLYCOSYL_HYDROL_F32"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0052">Apoplast</keyword>
+<keyword id="KW-0134">Cell wall</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-1015">Disulfide bond</keyword>
+<keyword id="KW-0325">Glycoprotein</keyword>
+<keyword id="KW-0326">Glycosidase</keyword>
+<keyword id="KW-0378">Hydrolase</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0964">Secreted</keyword>
+<keyword id="KW-0732">Signal</keyword>
+<feature type="signal peptide" evidence="2">
+<location>
+<begin position="1"/>
+<end position="22"/>
+</location>
+</feature>
+<feature type="chain" description="Beta-fructofuranosidase, insoluble isoenzyme CWINV4" id="PRO_0000348350">
+<location>
+<begin position="23"/>
+<end position="591"/>
+</location>
+</feature>
+<feature type="region of interest" description="Substrate binding" evidence="1">
+<location>
+<begin position="61"/>
+<end position="64"/>
+</location>
+</feature>
+<feature type="region of interest" description="Substrate binding" evidence="1">
+<location>
+<begin position="123"/>
+<end position="124"/>
+</location>
+</feature>
+<feature type="region of interest" description="Substrate binding" evidence="1">
+<location>
+<begin position="187"/>
+<end position="188"/>
+</location>
+</feature>
+<feature type="active site" evidence="3">
+<location>
+<position position="64"/>
+</location>
+</feature>
+<feature type="binding site" description="Substrate" evidence="1">
+<location>
+<position position="80"/>
+</location>
+</feature>
+<feature type="binding site" description="Substrate" evidence="1">
+<location>
+<position position="88"/>
+</location>
+</feature>
+<feature type="binding site" description="Substrate" evidence="1">
+<location>
+<position position="242"/>
+</location>
+</feature>
+<feature type="binding site" description="Substrate" evidence="1">
+<location>
+<position position="276"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="2">
+<location>
+<position position="145"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="5">
+<location>
+<position position="182"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="5">
+<location>
+<position position="336"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="2">
+<location>
+<position position="472"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="2">
+<location>
+<position position="565"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="1">
+<location>
+<begin position="436"/>
+<end position="484"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 4; AAM61359." ref="4" evidence="5">
+<original>G</original>
+<variation>V</variation>
+<location>
+<position position="134"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 4; AAM61359." ref="4" evidence="5">
+<original>P</original>
+<variation>R</variation>
+<location>
+<position position="158"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000250"/>
+<evidence key="2" type="ECO:0000255"/>
+<evidence key="3" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU10067"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12508063"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000305"/>
+<sequence length="591" mass="67413" checksum="2886EE8BC024E511" modified="2002-03-01" version="1" precursor="true">
+MAISNVISVLLLLLVLINLSNQNIKGIDAFHQIYEELQSESVESVNHLHRPSFHFQPPKH
+WINDPNGPVYYKGLYHLFYQYNTKGAVWGNIIWAHSVSKDLVNWEALEPALSPSKWFDIG
+GTWSGSITIVPGKGPIILYTGVNQNETQLQNYAIPEDPSDPYLRKWIKPDDNPIAIPDYT
+MNGSAFRDPTTAWFSKDGHWRTVVGSKRKRRGIAYIYRSRDFKHWVKAKHPVHSKQSTGM
+WECPDFFPVSLTDFRNGLDLDYVGPNTKHVLKVSLDITRYEYYTLGKYDLKKDRYIPDGN
+TPDGWEGLRFDYGNFYASKTFFDYKKNRRILWGWANESDTVEDDILKGWAGLQVIPRTVL
+LDSSKKQLVFWPVEEIESLRGNYVRMNNHDIKMGQRIEVKGITPAQADVEVTFYVGSLEK
+AEIFDPSFTWKPLELCNIKGSNVRGGVGPFGLITLATPDLEEYTPVFFRVFNDTKTHKPK
+VLMCSDARPSSLKQDTGLLAKDRMYKPSFAGFVDVDMADGRISLRSLIDHSVVESFGALG
+KTVITSRVYPVKAVKENAHLYVFNNGTQTVTIESLNAWNMDRPLQMNDGAL
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

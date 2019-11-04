@@ -1,0 +1,183 @@
+ID   BGL20_ARATH             Reviewed;         535 AA.
+AC   Q84WV2; O49117; Q8VXW3; Q9LQS3;
+DT   24-NOV-2009, integrated into UniProtKB/Swiss-Prot.
+DT   01-JUN-2003, sequence version 1.
+DT   16-JAN-2019, entry version 104.
+DE   RecName: Full=Beta-glucosidase 20;
+DE            Short=AtBGLU20;
+DE            EC=3.2.1.21;
+DE   Flags: Precursor;
+GN   Name=BGLU20; OrderedLocusNames=At1g75940; ORFNames=T4O12.15;
+OS   Arabidopsis thaliana (Mouse-ear cress).
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+OC   Pentapetalae; rosids; malvids; Brassicales; Brassicaceae; Camelineae;
+OC   Arabidopsis.
+OX   NCBI_TaxID=3702;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RX   PubMed=9687065; DOI=10.1023/A:1005964431302;
+RA   Rubinelli P., Hu Y., Ma H.;
+RT   "Identification, sequence analysis and expression studies of novel
+RT   anther-specific genes of Arabidopsis thaliana.";
+RL   Plant Mol. Biol. 37:607-619(1998).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=cv. Columbia;
+RX   PubMed=11130712; DOI=10.1038/35048500;
+RA   Theologis A., Ecker J.R., Palm C.J., Federspiel N.A., Kaul S.,
+RA   White O., Alonso J., Altafi H., Araujo R., Bowman C.L., Brooks S.Y.,
+RA   Buehler E., Chan A., Chao Q., Chen H., Cheuk R.F., Chin C.W.,
+RA   Chung M.K., Conn L., Conway A.B., Conway A.R., Creasy T.H., Dewar K.,
+RA   Dunn P., Etgu P., Feldblyum T.V., Feng J.-D., Fong B., Fujii C.Y.,
+RA   Gill J.E., Goldsmith A.D., Haas B., Hansen N.F., Hughes B., Huizar L.,
+RA   Hunter J.L., Jenkins J., Johnson-Hopson C., Khan S., Khaykin E.,
+RA   Kim C.J., Koo H.L., Kremenetskaia I., Kurtz D.B., Kwan A., Lam B.,
+RA   Langin-Hooper S., Lee A., Lee J.M., Lenz C.A., Li J.H., Li Y.-P.,
+RA   Lin X., Liu S.X., Liu Z.A., Luros J.S., Maiti R., Marziali A.,
+RA   Militscher J., Miranda M., Nguyen M., Nierman W.C., Osborne B.I.,
+RA   Pai G., Peterson J., Pham P.K., Rizzo M., Rooney T., Rowley D.,
+RA   Sakano H., Salzberg S.L., Schwartz J.R., Shinn P., Southwick A.M.,
+RA   Sun H., Tallon L.J., Tambunga G., Toriumi M.J., Town C.D.,
+RA   Utterback T., Van Aken S., Vaysberg M., Vysotskaia V.S., Walker M.,
+RA   Wu D., Yu G., Fraser C.M., Venter J.C., Davis R.W.;
+RT   "Sequence and analysis of chromosome 1 of the plant Arabidopsis
+RT   thaliana.";
+RL   Nature 408:816-820(2000).
+RN   [3]
+RP   GENOME REANNOTATION.
+RC   STRAIN=cv. Columbia;
+RX   PubMed=27862469; DOI=10.1111/tpj.13415;
+RA   Cheng C.Y., Krishnakumar V., Chan A.P., Thibaud-Nissen F., Schobel S.,
+RA   Town C.D.;
+RT   "Araport11: a complete reannotation of the Arabidopsis thaliana
+RT   reference genome.";
+RL   Plant J. 89:789-804(2017).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   STRAIN=cv. Columbia;
+RX   PubMed=14593172; DOI=10.1126/science.1088305;
+RA   Yamada K., Lim J., Dale J.M., Chen H., Shinn P., Palm C.J.,
+RA   Southwick A.M., Wu H.C., Kim C.J., Nguyen M., Pham P.K., Cheuk R.F.,
+RA   Karlin-Newmann G., Liu S.X., Lam B., Sakano H., Wu T., Yu G.,
+RA   Miranda M., Quach H.L., Tripp M., Chang C.H., Lee J.M., Toriumi M.J.,
+RA   Chan M.M., Tang C.C., Onodera C.S., Deng J.M., Akiyama K., Ansari Y.,
+RA   Arakawa T., Banh J., Banno F., Bowser L., Brooks S.Y., Carninci P.,
+RA   Chao Q., Choy N., Enju A., Goldsmith A.D., Gurjal M., Hansen N.F.,
+RA   Hayashizaki Y., Johnson-Hopson C., Hsuan V.W., Iida K., Karnes M.,
+RA   Khan S., Koesema E., Ishida J., Jiang P.X., Jones T., Kawai J.,
+RA   Kamiya A., Meyers C., Nakajima M., Narusaka M., Seki M., Sakurai T.,
+RA   Satou M., Tamse R., Vaysberg M., Wallender E.K., Wong C., Yamamura Y.,
+RA   Yuan S., Shinozaki K., Davis R.W., Theologis A., Ecker J.R.;
+RT   "Empirical analysis of transcriptional activity in the Arabidopsis
+RT   genome.";
+RL   Science 302:842-846(2003).
+RN   [5]
+RP   GENE FAMILY, AND NOMENCLATURE.
+RX   PubMed=15604686; DOI=10.1007/s11103-004-0790-1;
+RA   Xu Z., Escamilla-Trevino L.L., Zeng L., Lalgondar M., Bevan D.R.,
+RA   Winkel B.S.J., Mohamed A., Cheng C.-L., Shih M.-C., Poulton J.E.,
+RA   Esen A.;
+RT   "Functional genomic analysis of Arabidopsis thaliana glycoside
+RT   hydrolase family 1.";
+RL   Plant Mol. Biol. 55:343-367(2004).
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=Hydrolysis of terminal, non-reducing beta-D-glucosyl
+CC         residues with release of beta-D-glucose.; EC=3.2.1.21;
+CC   -!- SUBCELLULAR LOCATION: Endoplasmic reticulum lumen
+CC       {ECO:0000255|PROSITE-ProRule:PRU10138}.
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase 1 family.
+CC       {ECO:0000305}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=AAF26759.2; Type=Erroneous gene model prediction; Note=The predicted gene At1g75930 has been split into 2 genes: At1g75930 and At1g75940.; Evidence={ECO:0000305};
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AF037590; AAC39504.1; -; mRNA.
+DR   EMBL; AC007396; AAF26759.2; ALT_SEQ; Genomic_DNA.
+DR   EMBL; CP002684; AEE35779.1; -; Genomic_DNA.
+DR   EMBL; AY074517; AAL67131.1; -; mRNA.
+DR   EMBL; BT002735; AAO22564.1; -; mRNA.
+DR   PIR; T52048; T52048.
+DR   RefSeq; NP_177722.1; NM_106244.3.
+DR   UniGene; At.10790; -.
+DR   ProteinModelPortal; Q84WV2; -.
+DR   SMR; Q84WV2; -.
+DR   BioGrid; 29146; 1.
+DR   STRING; 3702.AT1G75940.1; -.
+DR   CAZy; GH1; Glycoside Hydrolase Family 1.
+DR   PaxDb; Q84WV2; -.
+DR   PRIDE; Q84WV2; -.
+DR   EnsemblPlants; AT1G75940.1; AT1G75940.1; AT1G75940.
+DR   GeneID; 843927; -.
+DR   Gramene; AT1G75940.1; AT1G75940.1; AT1G75940.
+DR   KEGG; ath:AT1G75940; -.
+DR   Araport; AT1G75940; -.
+DR   TAIR; locus:2204345; AT1G75940.
+DR   eggNOG; KOG0626; Eukaryota.
+DR   eggNOG; COG2723; LUCA.
+DR   HOGENOM; HOG000088630; -.
+DR   InParanoid; Q84WV2; -.
+DR   KO; K01188; -.
+DR   OMA; CHEYPER; -.
+DR   OrthoDB; 408001at2759; -.
+DR   PhylomeDB; Q84WV2; -.
+DR   BioCyc; ARA:AT1G75940-MONOMER; -.
+DR   Reactome; R-ATH-189085; Digestion of dietary carbohydrate.
+DR   PRO; PR:Q84WV2; -.
+DR   Proteomes; UP000006548; Chromosome 1.
+DR   ExpressionAtlas; Q84WV2; baseline and differential.
+DR   Genevisible; Q84WV2; AT.
+DR   GO; GO:0005788; C:endoplasmic reticulum lumen; ISS:TAIR.
+DR   GO; GO:0016020; C:membrane; IDA:TAIR.
+DR   GO; GO:0008422; F:beta-glucosidase activity; IBA:GO_Central.
+DR   GO; GO:0102483; F:scopolin beta-glucosidase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0005975; P:carbohydrate metabolic process; IEA:InterPro.
+DR   GO; GO:0019762; P:glucosinolate catabolic process; IBA:GO_Central.
+DR   GO; GO:0009651; P:response to salt stress; IBA:GO_Central.
+DR   InterPro; IPR001360; Glyco_hydro_1.
+DR   InterPro; IPR033132; Glyco_hydro_1_N_CS.
+DR   InterPro; IPR017853; Glycoside_hydrolase_SF.
+DR   PANTHER; PTHR10353; PTHR10353; 1.
+DR   Pfam; PF00232; Glyco_hydro_1; 1.
+DR   PRINTS; PR00131; GLHYDRLASE1.
+DR   SUPFAM; SSF51445; SSF51445; 1.
+DR   PROSITE; PS00014; ER_TARGET; 1.
+DR   PROSITE; PS00653; GLYCOSYL_HYDROL_F1_2; 1.
+PE   2: Evidence at transcript level;
+KW   Complete proteome; Disulfide bond; Endoplasmic reticulum;
+KW   Glycoprotein; Glycosidase; Hydrolase; Reference proteome; Signal.
+FT   SIGNAL        1     24       {ECO:0000255}.
+FT   CHAIN        25    535       Beta-glucosidase 20.
+FT                                /FTId=PRO_0000389582.
+FT   REGION      482    483       Substrate binding. {ECO:0000250}.
+FT   MOTIF       532    535       Prevents secretion from ER.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU10138}.
+FT   ACT_SITE    205    205       Proton donor. {ECO:0000250}.
+FT   ACT_SITE    424    424       Nucleophile. {ECO:0000250}.
+FT   BINDING      56     56       Substrate. {ECO:0000250}.
+FT   BINDING     159    159       Substrate. {ECO:0000250}.
+FT   BINDING     204    204       Substrate. {ECO:0000250}.
+FT   BINDING     351    351       Substrate. {ECO:0000250}.
+FT   BINDING     475    475       Substrate. {ECO:0000250}.
+FT   CARBOHYD    187    187       N-linked (GlcNAc...) asparagine.
+FT                                {ECO:0000255}.
+FT   CARBOHYD    468    468       N-linked (GlcNAc...) asparagine.
+FT                                {ECO:0000255}.
+FT   CARBOHYD    501    501       N-linked (GlcNAc...) asparagine.
+FT                                {ECO:0000255}.
+FT   DISULFID    224    235       {ECO:0000250}.
+FT   CONFLICT    362    362       P -> T (in Ref. 1; AAC39504).
+FT                                {ECO:0000305}.
+SQ   SEQUENCE   535 AA;  61675 MW;  C717D02DA37F1C81 CRC64;
+     MGRFHKFPLL GLVLFLGLTG SLIAANEYAC SSTDIHFTRA NFPKGFIFGT ATAAFQVEGA
+     VNEGCRGPSM WDVYTKKFPH KCNYHNADVA VDFYHRYKED IKLMKNLNTD GFRFSIAWPR
+     IFPHGRMEKG ISKAGVQYYH DLIDELLANG ITPLVTVFHW DTPQDLEDEY GGFLSDRIIK
+     DFTEYANFTF QEYGDKVKHW ITFNEPWVFS RAGYDIGNKA PGRCSKYIKE HGEMCHDGRS
+     GHEAYIVSHN MLLAHADAVD AFRKCDKCKG GKIGIAHSPA WFEAHELSDE EHETPVTGLI
+     DFILGWHLHP TTYGDYPQSM KDHIGHRLPK FTEAQKEKLK NSADFVGINY YTSVFALHDE
+     EPDPSQPSWQ SDSLVDWEPR YVDKFNAFAN KPDVAKVEVY AKGLRSLLKY IKDKYGNPEI
+     MITENGYGED LGEQDTSLVV ALSDQHRTYY IQKHLLSLHE AICDDKVNVT GYFHWSLMDN
+     FEWQDGYKAR FGLYYVDYKN NLTRHEKLSA QWYSSFLHDG SKEFEIEHEF EHDEL
+//

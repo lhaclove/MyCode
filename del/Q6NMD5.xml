@@ -1,0 +1,277 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2004-07-05" modified="2019-01-16" version="101">
+<accession>Q6NMD5</accession>
+<name>Q6NMD5_ARATH</name>
+<protein>
+<submittedName>
+<fullName evidence="2">At2g24395</fullName>
+</submittedName>
+<submittedName>
+<fullName evidence="3">Chaperone protein dnaJ-like protein</fullName>
+</submittedName>
+</protein>
+<gene>
+<name type="ordered locus" evidence="1 3">At2g24395</name>
+</gene>
+<organism evidence="2">
+<name type="scientific">Arabidopsis thaliana</name>
+<name type="common">Mouse-ear cress</name>
+<dbReference type="NCBI Taxonomy" id="3702"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Viridiplantae</taxon>
+<taxon>Streptophyta</taxon>
+<taxon>Embryophyta</taxon>
+<taxon>Tracheophyta</taxon>
+<taxon>Spermatophyta</taxon>
+<taxon>Magnoliophyta</taxon>
+<taxon>eudicotyledons</taxon>
+<taxon>Gunneridae</taxon>
+<taxon>Pentapetalae</taxon>
+<taxon>rosids</taxon>
+<taxon>malvids</taxon>
+<taxon>Brassicales</taxon>
+<taxon>Brassicaceae</taxon>
+<taxon>Camelineae</taxon>
+<taxon>Arabidopsis</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="3 5">
+<citation type="journal article" date="1999" name="Nature" volume="402" first="761" last="768">
+<title>Sequence and analysis of chromosome 2 of the plant Arabidopsis thaliana.</title>
+<authorList>
+<person name="Lin X."/>
+<person name="Kaul S."/>
+<person name="Rounsley S."/>
+<person name="Shea T.P."/>
+<person name="Benito M.I."/>
+<person name="Town C.D."/>
+<person name="Fujii C.Y."/>
+<person name="Mason T."/>
+<person name="Bowman C.L."/>
+<person name="Barnstead M."/>
+<person name="Feldblyum T.V."/>
+<person name="Buell C.R."/>
+<person name="Ketchum K.A."/>
+<person name="Lee J."/>
+<person name="Ronning C.M."/>
+<person name="Koo H.L."/>
+<person name="Moffat K.S."/>
+<person name="Cronin L.A."/>
+<person name="Shen M."/>
+<person name="Pai G."/>
+<person name="Van Aken S."/>
+<person name="Umayam L."/>
+<person name="Tallon L.J."/>
+<person name="Gill J.E."/>
+<person name="Adams M.D."/>
+<person name="Carrera A.J."/>
+<person name="Creasy T.H."/>
+<person name="Goodman H.M."/>
+<person name="Somerville C.R."/>
+<person name="Copenhaver G.P."/>
+<person name="Preuss D."/>
+<person name="Nierman W.C."/>
+<person name="White O."/>
+<person name="Eisen J.A."/>
+<person name="Salzberg S.L."/>
+<person name="Fraser C.M."/>
+<person name="Venter J.C."/>
+</authorList>
+<dbReference type="PubMed" id="10617197"/>
+<dbReference type="DOI" id="10.1038/45471"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain evidence="5">cv. Columbia</strain>
+</source>
+</reference>
+<reference key="2" evidence="2">
+<citation type="submission" date="2004-03" db="EMBL/GenBank/DDBJ databases">
+<title>Arabidopsis ORF clones.</title>
+<authorList>
+<person name="Cheuk R."/>
+<person name="Chen H."/>
+<person name="Kim C.J."/>
+<person name="Shinn P."/>
+<person name="Carninci P."/>
+<person name="Hayashizaki Y."/>
+<person name="Ishida J."/>
+<person name="Kamiya A."/>
+<person name="Kawai J."/>
+<person name="Narusaka M."/>
+<person name="Sakurai T."/>
+<person name="Satou M."/>
+<person name="Seki M."/>
+<person name="Shinozaki K."/>
+<person name="Ecker J.R."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+</reference>
+<reference key="3" evidence="4">
+<citation type="submission" date="2005-03" db="EMBL/GenBank/DDBJ databases">
+<title>Large-scale analysis of RIKEN Arabidopsis full-length (RAFL) cDNAs.</title>
+<authorList>
+<person name="Totoki Y."/>
+<person name="Seki M."/>
+<person name="Ishida J."/>
+<person name="Nakajima M."/>
+<person name="Enju A."/>
+<person name="Kamiya A."/>
+<person name="Narusaka M."/>
+<person name="Shin-i T."/>
+<person name="Nakagawa M."/>
+<person name="Sakamoto N."/>
+<person name="Oishi K."/>
+<person name="Kohara Y."/>
+<person name="Kobayashi M."/>
+<person name="Toyoda A."/>
+<person name="Sakaki Y."/>
+<person name="Sakurai T."/>
+<person name="Iida K."/>
+<person name="Akiyama K."/>
+<person name="Satou M."/>
+<person name="Toyoda T."/>
+<person name="Konagaya A."/>
+<person name="Carninci P."/>
+<person name="Kawai J."/>
+<person name="Hayashizaki Y."/>
+<person name="Shinozaki K."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+</reference>
+<reference key="4" evidence="3">
+<citation type="submission" date="2011-02" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<consortium name="TAIR"/>
+<person name="Swarbreck D."/>
+<person name="Lamesch P."/>
+<person name="Wilks C."/>
+<person name="Huala E."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+</reference>
+<reference key="5" evidence="3">
+<citation type="submission" date="2016-05" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<consortium name="The Arabidopsis Information Portal (Araport)"/>
+</authorList>
+</citation>
+<scope>GENOME REANNOTATION</scope>
+</reference>
+<reference key="6" evidence="5">
+<citation type="journal article" date="2017" name="Plant J." volume="89" first="789" last="804">
+<title>Araport11: a complete reannotation of the Arabidopsis thaliana reference genome.</title>
+<authorList>
+<person name="Cheng C.Y."/>
+<person name="Krishnakumar V."/>
+<person name="Chan A.P."/>
+<person name="Thibaud-Nissen F."/>
+<person name="Schobel S."/>
+<person name="Town C.D."/>
+</authorList>
+<dbReference type="PubMed" id="27862469"/>
+<dbReference type="DOI" id="10.1111/tpj.13415"/>
+</citation>
+<scope>GENOME REANNOTATION</scope>
+<source>
+<strain evidence="5">cv. Columbia</strain>
+</source>
+</reference>
+<dbReference type="EMBL" id="BT011725">
+<property type="protein sequence ID" value="AAS49088.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CP002685">
+<property type="protein sequence ID" value="AEC07571.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AK221846">
+<property type="protein sequence ID" value="BAD94100.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_850052.1">
+<property type="nucleotide sequence ID" value="NM_179721.4"/>
+</dbReference>
+<dbReference type="UniGene" id="At.47162"/>
+<dbReference type="SMR" id="Q6NMD5"/>
+<dbReference type="STRING" id="3702.AT2G24395.1"/>
+<dbReference type="EnsemblPlants" id="AT2G24395.1">
+<property type="protein sequence ID" value="AT2G24395.1"/>
+<property type="gene ID" value="AT2G24395"/>
+</dbReference>
+<dbReference type="GeneID" id="816975"/>
+<dbReference type="Gramene" id="AT2G24395.1">
+<property type="protein sequence ID" value="AT2G24395.1"/>
+<property type="gene ID" value="AT2G24395"/>
+</dbReference>
+<dbReference type="KEGG" id="ath:AT2G24395"/>
+<dbReference type="Araport" id="AT2G24395"/>
+<dbReference type="TAIR" id="locus:504955942">
+<property type="gene designation" value="AT2G24395"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG410J1D6">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG410YTIJ">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000143354"/>
+<dbReference type="OMA" id="ARGIMCE"/>
+<dbReference type="OrthoDB" id="1531089at2759"/>
+<dbReference type="Proteomes" id="UP000006548">
+<property type="component" value="Chromosome 2"/>
+</dbReference>
+<dbReference type="ExpressionAtlas" id="Q6NMD5">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036410">
+<property type="entry name" value="HSP_DnaJ_Cys-rich_dom_sf"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF57938">
+<property type="entry name" value="SSF57938"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0181" evidence="5">Complete proteome</keyword>
+<keyword id="KW-1185" evidence="5">Reference proteome</keyword>
+<evidence key="1" type="ECO:0000313">
+<source>
+<dbReference type="Araport" id="AT2G24395"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="AAS49088.1"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="AEC07571.1"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="BAD94100.1"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000313">
+<source>
+<dbReference type="Proteomes" id="UP000006548"/>
+</source>
+</evidence>
+<sequence length="132" mass="15056" checksum="9CC89C7D15777691" modified="2004-07-05" version="1">
+MATWITLQPPISCYLRLMPSSAPSPASSTSRRKQRRLFKPFRCVPLQEQEPQLDQSQQGD
+DNAVILCEDCNGKGWLLCDFCKGQKTNVKSENNRIYRRCPTCKAVGFVLCRKCKVFKCVT
+FPNSEDGDELLF
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

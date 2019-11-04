@@ -11,7 +11,7 @@ funaa<-read.csv("d:\\RNA3\\A7\\v4fun.csv" ,header = T)
 names(funaa)<-c("Gene","desc")
 
 
-setwd("d:\\RNA3\\tmp\\test2")
+setwd("d:\\RNA2")
 fn<-c("gene")
 
 #for (fn in fileNamebase){

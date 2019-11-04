@@ -1,0 +1,96 @@
+ID   A0A178VE74_ARATH        Unreviewed;       362 AA.
+AC   A0A178VE74; A0A1I9LMF1;
+DT   07-SEP-2016, integrated into UniProtKB/TrEMBL.
+DT   07-SEP-2016, sequence version 1.
+DT   16-JAN-2019, entry version 16.
+DE   SubName: Full=Protein kinase superfamily protein {ECO:0000313|EMBL:ANM63759.1};
+GN   OrderedLocusNames=At3g57740 {ECO:0000313|EMBL:ANM63759.1};
+OS   Arabidopsis thaliana (Mouse-ear cress).
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+OC   Pentapetalae; rosids; malvids; Brassicales; Brassicaceae; Camelineae;
+OC   Arabidopsis.
+OX   NCBI_TaxID=3702 {ECO:0000313|EMBL:ANM63759.1, ECO:0000313|Proteomes:UP000006548};
+RN   [1] {ECO:0000313|EMBL:ANM63759.1, ECO:0000313|Proteomes:UP000006548}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=cv. Columbia {ECO:0000313|Proteomes:UP000006548};
+RX   PubMed=11130713; DOI=10.1038/35048706;
+RG   European Union Chromosome 3 Arabidopsis Sequencing Consortium;
+RG   Institute for Genomic Research;
+RG   Kazusa DNA Research Institute;
+RA   Salanoubat M., Lemcke K., Rieger M., Ansorge W., Unseld M.,
+RA   Fartmann B., Valle G., Blocker H., Perez-Alonso M., Obermaier B.,
+RA   Delseny M., Boutry M., Grivell L.A., Mache R., Puigdomenech P.,
+RA   De Simone V., Choisne N., Artiguenave F., Robert C., Brottier P.,
+RA   Wincker P., Cattolico L., Weissenbach J., Saurin W., Quetier F.,
+RA   Schafer M., Muller-Auer S., Gabel C., Fuchs M., Benes V., Wurmbach E.,
+RA   Drzonek H., Erfle H., Jordan N., Bangert S., Wiedelmann R., Kranz H.,
+RA   Voss H., Holland R., Brandt P., Nyakatura G., Vezzi A., D'Angelo M.,
+RA   Pallavicini A., Toppo S., Simionati B., Conrad A., Hornischer K.,
+RA   Kauer G., Lohnert T.H., Nordsiek G., Reichelt J., Scharfe M.,
+RA   Schon O., Bargues M., Terol J., Climent J., Navarro P., Collado C.,
+RA   Perez-Perez A., Ottenwalder B., Duchemin D., Cooke R., Laudie M.,
+RA   Berger-Llauro C., Purnelle B., Masuy D., de Haan M., Maarse A.C.,
+RA   Alcaraz J.P., Cottet A., Casacuberta E., Monfort A., Argiriou A.,
+RA   flores M., Liguori R., Vitale D., Mannhaupt G., Haase D., Schoof H.,
+RA   Rudd S., Zaccaria P., Mewes H.W., Mayer K.F., Kaul S., Town C.D.,
+RA   Koo H.L., Tallon L.J., Jenkins J., Rooney T., Rizzo M., Walts A.,
+RA   Utterback T., Fujii C.Y., Shea T.P., Creasy T.H., Haas B., Maiti R.,
+RA   Wu D., Peterson J., Van Aken S., Pai G., Militscher J., Sellers P.,
+RA   Gill J.E., Feldblyum T.V., Preuss D., Lin X., Nierman W.C.,
+RA   Salzberg S.L., White O., Venter J.C., Fraser C.M., Kaneko T.,
+RA   Nakamura Y., Sato S., Kato T., Asamizu E., Sasamoto S., Kimura T.,
+RA   Idesawa K., Kawashima K., Kishida Y., Kiyokawa C., Kohara M.,
+RA   Matsumoto M., Matsuno A., Muraki A., Nakayama S., Nakazaki N.,
+RA   Shinpo S., Takeuchi C., Wada T., Watanabe A., Yamada M., Yasuda M.,
+RA   Tabata S.;
+RT   "Sequence and analysis of chromosome 3 of the plant Arabidopsis
+RT   thaliana.";
+RL   Nature 408:820-822(2000).
+RN   [2] {ECO:0000313|Proteomes:UP000006548}
+RP   GENOME REANNOTATION.
+RC   STRAIN=cv. Columbia {ECO:0000313|Proteomes:UP000006548};
+RX   PubMed=27862469; DOI=10.1111/tpj.13415;
+RA   Cheng C.Y., Krishnakumar V., Chan A.P., Thibaud-Nissen F., Schobel S.,
+RA   Town C.D.;
+RT   "Araport11: a complete reannotation of the Arabidopsis thaliana
+RT   reference genome.";
+RL   Plant J. 89:789-804(2017).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   -----------------------------------------------------------------------
+DR   EMBL; CP002686; ANM63759.1; -; Genomic_DNA.
+DR   RefSeq; NP_001325830.1; NM_001339884.1.
+DR   SMR; A0A178VE74; -.
+DR   EnsemblPlants; AT3G57740.2; AT3G57740.2; AT3G57740.
+DR   GeneID; 824943; -.
+DR   Gramene; AT3G57740.2; AT3G57740.2; AT3G57740.
+DR   KEGG; ath:AT3G57740; -.
+DR   OrthoDB; 778960at2759; -.
+DR   Proteomes; UP000006548; Chromosome 3.
+DR   ExpressionAtlas; A0A178VE74; baseline and differential.
+DR   GO; GO:0005886; C:plasma membrane; IBA:GO_Central.
+DR   GO; GO:0005524; F:ATP binding; IEA:InterPro.
+DR   GO; GO:0004674; F:protein serine/threonine kinase activity; IBA:GO_Central.
+DR   GO; GO:0007166; P:cell surface receptor signaling pathway; IBA:GO_Central.
+DR   InterPro; IPR011009; Kinase-like_dom_sf.
+DR   InterPro; IPR000719; Prot_kinase_dom.
+DR   InterPro; IPR001245; Ser-Thr/Tyr_kinase_cat_dom.
+DR   Pfam; PF07714; Pkinase_Tyr; 1.
+DR   SUPFAM; SSF56112; SSF56112; 1.
+DR   PROSITE; PS50011; PROTEIN_KINASE_DOM; 1.
+PE   4: Predicted;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000006548};
+KW   Kinase {ECO:0000313|EMBL:ANM63759.1};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000006548};
+KW   Transferase {ECO:0000313|EMBL:ANM63759.1}.
+SQ   SEQUENCE   362 AA;  42114 MW;  594480F7C017D747 CRC64;
+     MNDQKMSCWR KKSKKKNSEA NQRQRWFQEN GKVLLEDLIE LCNGKSNPIK TFSAEEILQA
+     TDNFSESNLV IRFNFMYRGI LQNRPVLIKR ATWNYYKSDT LEKICRDIAV SSMVSGHKNF
+     LKLLGCCLEF EHPVLVCEYA ERIPFNTPNP EMLLPWRMRI KIAKEIAIAV SYLHTALSRT
+     MIHTDIQPFN IFVDSNGTAK LSDFCLCIAI PEGETFVKVH ADRVEGTLDY LEYNYAATGL
+     ITEYTDVFSF GVLLQNFFTR TYGVVDCCCS EDESLFEEFE DKQNVMNLRI SDRISKFVEE
+     GRIFDMLDPK MLESMGDDET EEHKIRRMKA VLMLSLRCTG HRGDVPKMME VAKELKRIER
+     WT
+//

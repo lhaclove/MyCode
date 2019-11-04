@@ -1,0 +1,251 @@
+ID   WAT1_ARATH              Reviewed;         389 AA.
+AC   Q94AP3; Q0WMC8; Q9LQZ3;
+DT   06-MAR-2013, integrated into UniProtKB/Swiss-Prot.
+DT   01-DEC-2001, sequence version 1.
+DT   16-JAN-2019, entry version 106.
+DE   RecName: Full=Protein WALLS ARE THIN 1;
+GN   Name=WAT1; OrderedLocusNames=At1g75500; ORFNames=F10A5.28, F1B16.19;
+OS   Arabidopsis thaliana (Mouse-ear cress).
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+OC   Pentapetalae; rosids; malvids; Brassicales; Brassicaceae; Camelineae;
+OC   Arabidopsis.
+OX   NCBI_TaxID=3702;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=cv. Columbia;
+RX   PubMed=11130712; DOI=10.1038/35048500;
+RA   Theologis A., Ecker J.R., Palm C.J., Federspiel N.A., Kaul S.,
+RA   White O., Alonso J., Altafi H., Araujo R., Bowman C.L., Brooks S.Y.,
+RA   Buehler E., Chan A., Chao Q., Chen H., Cheuk R.F., Chin C.W.,
+RA   Chung M.K., Conn L., Conway A.B., Conway A.R., Creasy T.H., Dewar K.,
+RA   Dunn P., Etgu P., Feldblyum T.V., Feng J.-D., Fong B., Fujii C.Y.,
+RA   Gill J.E., Goldsmith A.D., Haas B., Hansen N.F., Hughes B., Huizar L.,
+RA   Hunter J.L., Jenkins J., Johnson-Hopson C., Khan S., Khaykin E.,
+RA   Kim C.J., Koo H.L., Kremenetskaia I., Kurtz D.B., Kwan A., Lam B.,
+RA   Langin-Hooper S., Lee A., Lee J.M., Lenz C.A., Li J.H., Li Y.-P.,
+RA   Lin X., Liu S.X., Liu Z.A., Luros J.S., Maiti R., Marziali A.,
+RA   Militscher J., Miranda M., Nguyen M., Nierman W.C., Osborne B.I.,
+RA   Pai G., Peterson J., Pham P.K., Rizzo M., Rooney T., Rowley D.,
+RA   Sakano H., Salzberg S.L., Schwartz J.R., Shinn P., Southwick A.M.,
+RA   Sun H., Tallon L.J., Tambunga G., Toriumi M.J., Town C.D.,
+RA   Utterback T., Van Aken S., Vaysberg M., Vysotskaia V.S., Walker M.,
+RA   Wu D., Yu G., Fraser C.M., Venter J.C., Davis R.W.;
+RT   "Sequence and analysis of chromosome 1 of the plant Arabidopsis
+RT   thaliana.";
+RL   Nature 408:816-820(2000).
+RN   [2]
+RP   GENOME REANNOTATION.
+RC   STRAIN=cv. Columbia;
+RX   PubMed=27862469; DOI=10.1111/tpj.13415;
+RA   Cheng C.Y., Krishnakumar V., Chan A.P., Thibaud-Nissen F., Schobel S.,
+RA   Town C.D.;
+RT   "Araport11: a complete reannotation of the Arabidopsis thaliana
+RT   reference genome.";
+RL   Plant J. 89:789-804(2017).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   STRAIN=cv. Columbia;
+RX   PubMed=14593172; DOI=10.1126/science.1088305;
+RA   Yamada K., Lim J., Dale J.M., Chen H., Shinn P., Palm C.J.,
+RA   Southwick A.M., Wu H.C., Kim C.J., Nguyen M., Pham P.K., Cheuk R.F.,
+RA   Karlin-Newmann G., Liu S.X., Lam B., Sakano H., Wu T., Yu G.,
+RA   Miranda M., Quach H.L., Tripp M., Chang C.H., Lee J.M., Toriumi M.J.,
+RA   Chan M.M., Tang C.C., Onodera C.S., Deng J.M., Akiyama K., Ansari Y.,
+RA   Arakawa T., Banh J., Banno F., Bowser L., Brooks S.Y., Carninci P.,
+RA   Chao Q., Choy N., Enju A., Goldsmith A.D., Gurjal M., Hansen N.F.,
+RA   Hayashizaki Y., Johnson-Hopson C., Hsuan V.W., Iida K., Karnes M.,
+RA   Khan S., Koesema E., Ishida J., Jiang P.X., Jones T., Kawai J.,
+RA   Kamiya A., Meyers C., Nakajima M., Narusaka M., Seki M., Sakurai T.,
+RA   Satou M., Tamse R., Vaysberg M., Wallender E.K., Wong C., Yamamura Y.,
+RA   Yuan S., Shinozaki K., Davis R.W., Theologis A., Ecker J.R.;
+RT   "Empirical analysis of transcriptional activity in the Arabidopsis
+RT   genome.";
+RL   Science 302:842-846(2003).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   STRAIN=cv. Columbia;
+RA   Totoki Y., Seki M., Ishida J., Nakajima M., Enju A., Kamiya A.,
+RA   Narusaka M., Shin-i T., Nakagawa M., Sakamoto N., Oishi K., Kohara Y.,
+RA   Kobayashi M., Toyoda A., Sakaki Y., Sakurai T., Iida K., Akiyama K.,
+RA   Satou M., Toyoda T., Konagaya A., Carninci P., Kawai J.,
+RA   Hayashizaki Y., Shinozaki K.;
+RT   "Large-scale analysis of RIKEN Arabidopsis full-length (RAFL) cDNAs.";
+RL   Submitted (JUL-2006) to the EMBL/GenBank/DDBJ databases.
+RN   [5]
+RP   IDENTIFICATION BY MASS SPECTROMETRY, AND SUBCELLULAR LOCATION [LARGE
+RP   SCALE ANALYSIS].
+RX   PubMed=17151019; DOI=10.1074/mcp.M600250-MCP200;
+RA   Jaquinod M., Villiers F., Kieffer-Jaquinod S., Hugouvieux V.,
+RA   Bruley C., Garin J., Bourguignon J.;
+RT   "A proteomics dissection of Arabidopsis thaliana vacuoles isolated
+RT   from cell culture.";
+RL   Mol. Cell. Proteomics 6:394-412(2007).
+RN   [6]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-372, AND IDENTIFICATION
+RP   BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=19376835; DOI=10.1104/pp.109.138677;
+RA   Reiland S., Messerli G., Baerenfaller K., Gerrits B., Endler A.,
+RA   Grossmann J., Gruissem W., Baginsky S.;
+RT   "Large-scale Arabidopsis phosphoproteome profiling reveals novel
+RT   chloroplast kinase substrates and phosphorylation networks.";
+RL   Plant Physiol. 150:889-903(2009).
+RN   [7]
+RP   FUNCTION, DISRUPTION PHENOTYPE, SUBCELLULAR LOCATION, AND TISSUE
+RP   SPECIFICITY.
+RC   STRAIN=cv. Columbia, and cv. Wassilewskija;
+RX   PubMed=20497379; DOI=10.1111/j.1365-313X.2010.04256.x;
+RA   Ranocha P., Denance N., Vanholme R., Freydier A., Martinez Y.,
+RA   Hoffmann L., Koehler L., Pouzet C., Renou J.-P., Sundberg B.,
+RA   Boerjan W., Goffner D.;
+RT   "Walls are thin 1 (WAT1), an Arabidopsis homolog of Medicago
+RT   truncatula NODULIN21, is a tonoplast-localized protein required for
+RT   secondary wall formation in fibers.";
+RL   Plant J. 63:469-483(2010).
+RN   [8]
+RP   FUNCTION, AND DISRUPTION PHENOTYPE.
+RX   PubMed=20935503; DOI=10.4161/psb.5.10.13103;
+RA   Denance N., Ranocha P., Martinez Y., Sundberg B., Goffner D.;
+RT   "Light-regulated compensation of wat1 (walls are thin1) growth and
+RT   secondary cell wall phenotypes is auxin-independent.";
+RL   Plant Signal. Behav. 5:1302-1304(2010).
+RN   [9]
+RP   FUNCTION, AND DISRUPTION PHENOTYPE.
+RX   PubMed=22978675; DOI=10.1111/tpj.12027;
+RA   Denance N., Ranocha P., Oria N., Barlet X., Riviere M.-P.,
+RA   Yadeta K.A., Hoffmann L., Perreau F., Clement G., Maia-Grondard A.,
+RA   van den Berg G.C.M., Savelli B., Fournier S., Aubert Y., Pelletier S.,
+RA   Thomma B.P.H.J., Molina A., Jouanin L., Marco Y., Goffner D.;
+RT   "Arabidopsis wat1 (walls are thin1)-mediated resistance to the
+RT   bacterial vascular pathogen, Ralstonia solanacearum, is accompanied by
+RT   cross-regulation of salicylic acid and tryptophan metabolism.";
+RL   Plant J. 73:225-239(2013).
+CC   -!- FUNCTION: Required for secondary wall formation in fibers,
+CC       especially in short days conditions. Promotes indole metabolism
+CC       and transport (e.g. tryptophan, neoglucobrassicin and auxin
+CC       (indole-3-acetic acid)). May prevent salicylic-acid (SA)
+CC       accumulation. {ECO:0000269|PubMed:20497379,
+CC       ECO:0000269|PubMed:20935503, ECO:0000269|PubMed:22978675}.
+CC   -!- SUBCELLULAR LOCATION: Vacuole membrane
+CC       {ECO:0000269|PubMed:17151019, ECO:0000269|PubMed:20497379}; Multi-
+CC       pass membrane protein {ECO:0000269|PubMed:17151019,
+CC       ECO:0000269|PubMed:20497379}. Note=Also detected in transvacuolar
+CC       strands.
+CC   -!- TISSUE SPECIFICITY: Mostly expressed in stems and hypocotyls, also
+CC       present in seedlings, root, leaves, flowers and siliques.
+CC       Ubiquitous, mostly expressed in vascular tissues and secondary
+CC       wall-forming cells, including developing xylem vessels and fibers.
+CC       {ECO:0000269|PubMed:20497379}.
+CC   -!- DISRUPTION PHENOTYPE: In stems, defect in cell elongation
+CC       resulting in dwarf and bushy plants with altered mechanical
+CC       properties, as well as little to no secondary cell walls in
+CC       fibers, including xylary and interfascicular fibers; these
+CC       symptoms are partly reversed by continuous light conditions. At
+CC       the flowering stage, red, dry and bent downwards stem apices.
+CC       General repression of indole metabolism, including tryptophan,
+CC       neoglucobrassicin and auxin (indole-3-acetic acid). Broad-spectrum
+CC       resistance to vascular pathogens, including the bacteria Ralstonia
+CC       solanacearum and Xanthomonas campestris pv. campestris, and the
+CC       fungi Verticillium dahliae and Verticillium albo-atrum in a
+CC       salicylic-acid- (SA-) dependent manner. SA accumulation in roots.
+CC       {ECO:0000269|PubMed:20497379, ECO:0000269|PubMed:20935503,
+CC       ECO:0000269|PubMed:22978675}.
+CC   -!- SIMILARITY: Belongs to the drug/metabolite transporter (DMT)
+CC       superfamily. Plant drug/metabolite exporter (P-DME) (TC 2.A.7.4)
+CC       family. {ECO:0000305}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=AAF87121.1; Type=Erroneous gene model prediction; Evidence={ECO:0000305};
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AC006434; AAF87121.1; ALT_SEQ; Genomic_DNA.
+DR   EMBL; AC023754; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; CP002684; AEE35726.1; -; Genomic_DNA.
+DR   EMBL; CP002684; AEE35727.1; -; Genomic_DNA.
+DR   EMBL; AY045896; AAK76570.1; -; mRNA.
+DR   EMBL; AY091450; AAM14389.1; -; mRNA.
+DR   EMBL; BT000668; AAN31815.1; -; mRNA.
+DR   EMBL; AK226453; BAE98595.1; -; mRNA.
+DR   EMBL; AK229900; BAF01728.1; -; mRNA.
+DR   PIR; E96785; E96785.
+DR   RefSeq; NP_001185403.1; NM_001198474.1.
+DR   RefSeq; NP_565111.1; NM_106203.6.
+DR   UniGene; At.21884; -.
+DR   UniGene; At.67310; -.
+DR   ProteinModelPortal; Q94AP3; -.
+DR   BioGrid; 29105; 24.
+DR   IntAct; Q94AP3; 24.
+DR   STRING; 3702.AT1G75500.1; -.
+DR   iPTMnet; Q94AP3; -.
+DR   PaxDb; Q94AP3; -.
+DR   PRIDE; Q94AP3; -.
+DR   EnsemblPlants; AT1G75500.1; AT1G75500.1; AT1G75500.
+DR   EnsemblPlants; AT1G75500.2; AT1G75500.2; AT1G75500.
+DR   GeneID; 843886; -.
+DR   Gramene; AT1G75500.1; AT1G75500.1; AT1G75500.
+DR   Gramene; AT1G75500.2; AT1G75500.2; AT1G75500.
+DR   KEGG; ath:AT1G75500; -.
+DR   Araport; AT1G75500; -.
+DR   TAIR; locus:2005689; AT1G75500.
+DR   eggNOG; ENOG410IGHE; Eukaryota.
+DR   eggNOG; ENOG410YAV4; LUCA.
+DR   HOGENOM; HOG000237441; -.
+DR   InParanoid; Q94AP3; -.
+DR   OMA; NRPTSHI; -.
+DR   OrthoDB; 883954at2759; -.
+DR   PhylomeDB; Q94AP3; -.
+DR   PRO; PR:Q94AP3; -.
+DR   Proteomes; UP000006548; Chromosome 1.
+DR   ExpressionAtlas; Q94AP3; baseline and differential.
+DR   Genevisible; Q94AP3; AT.
+DR   GO; GO:0016021; C:integral component of membrane; IEA:UniProtKB-KW.
+DR   GO; GO:0009705; C:plant-type vacuole membrane; IDA:TAIR.
+DR   GO; GO:0005886; C:plasma membrane; IDA:TAIR.
+DR   GO; GO:0005774; C:vacuolar membrane; IDA:TAIR.
+DR   GO; GO:0022857; F:transmembrane transporter activity; IEA:InterPro.
+DR   GO; GO:0009851; P:auxin biosynthetic process; IEA:UniProtKB-KW.
+DR   GO; GO:0010315; P:auxin efflux; IMP:CACAO.
+DR   GO; GO:0009734; P:auxin-activated signaling pathway; IEA:UniProtKB-KW.
+DR   GO; GO:0071555; P:cell wall organization; IEA:UniProtKB-KW.
+DR   GO; GO:0006952; P:defense response; IEA:UniProtKB-KW.
+DR   GO; GO:0009834; P:plant-type secondary cell wall biogenesis; IMP:TAIR.
+DR   GO; GO:0090355; P:positive regulation of auxin metabolic process; IMP:TAIR.
+DR   GO; GO:0090358; P:positive regulation of tryptophan metabolic process; IMP:TAIR.
+DR   GO; GO:0000162; P:tryptophan biosynthetic process; IEA:UniProtKB-KW.
+DR   GO; GO:0009826; P:unidimensional cell growth; IMP:TAIR.
+DR   InterPro; IPR000620; EamA_dom.
+DR   InterPro; IPR030184; WAT1-related.
+DR   PANTHER; PTHR31218; PTHR31218; 1.
+DR   Pfam; PF00892; EamA; 2.
+PE   1: Evidence at protein level;
+KW   Amino-acid biosynthesis; Aromatic amino acid biosynthesis;
+KW   Auxin biosynthesis; Auxin signaling pathway;
+KW   Cell wall biogenesis/degradation; Complete proteome; Membrane;
+KW   Phosphoprotein; Plant defense; Reference proteome; Repeat;
+KW   Transmembrane; Transmembrane helix; Tryptophan biosynthesis; Vacuole.
+FT   CHAIN         1    389       Protein WALLS ARE THIN 1.
+FT                                /FTId=PRO_0000421308.
+FT   TRANSMEM     18     38       Helical. {ECO:0000255}.
+FT   TRANSMEM     49     69       Helical. {ECO:0000255}.
+FT   TRANSMEM     76     96       Helical. {ECO:0000255}.
+FT   TRANSMEM    111    131       Helical. {ECO:0000255}.
+FT   TRANSMEM    143    163       Helical. {ECO:0000255}.
+FT   TRANSMEM    198    218       Helical. {ECO:0000255}.
+FT   TRANSMEM    230    250       Helical. {ECO:0000255}.
+FT   TRANSMEM    266    286       Helical. {ECO:0000255}.
+FT   TRANSMEM    294    314       Helical. {ECO:0000255}.
+FT   TRANSMEM    319    339       Helical. {ECO:0000255}.
+FT   DOMAIN       32    161       EamA 1.
+FT   DOMAIN      210    339       EamA 2.
+FT   MOD_RES     372    372       Phosphoserine.
+FT                                {ECO:0000244|PubMed:19376835}.
+SQ   SEQUENCE   389 AA;  42571 MW;  19D964BF4198A01E CRC64;
+     MADNTDNRRS LWGVPEKLQL HIAMLTLQFG YAGFHVVSRA ALNMGISKLV FPVYRNIIAL
+     LLLLPFAYFL EKKERPAITL NFLIQFFFLA LIGITANQGF YLLGLDNTSP TFASSMQNSV
+     PAITFLMAAL LRIEKVRINR RDGISKILGT ALCVAGASVI TLYKGPTIYT PASHLHAHLL
+     TTNSAVLAPL GNAAPKNWTL GCIYLIGHCL SWSGWLVFQA PVLKSYPARL SVTSYTCFFG
+     IIQFLIIAAF CERDSQAWVF HSGWELFTIL YAGIVASGIA FAVQIWCIDR GGPVFVAVYQ
+     PVQTLVVAIM ASIALGEEFY LGGIIGAVLI IAGLYFVLYG KSEERKFAAL EKAAIQSSAE
+     HGIERAPVSR NSIKSSITTP LLHQSTDNV
+//

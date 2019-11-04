@@ -1,0 +1,531 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2010-04-20" modified="2019-01-16" version="99">
+<accession>Q8VYW2</accession>
+<accession>Q946D4</accession>
+<name>BAM9_ARATH</name>
+<protein>
+<recommendedName>
+<fullName>Inactive beta-amylase 9</fullName>
+</recommendedName>
+<alternativeName>
+<fullName>1,4-alpha-D-glucan maltohydrolase</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Inactive beta-amylase 3</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">BAM9</name>
+<name type="synonym">BMY3</name>
+<name type="ordered locus">At5g18670</name>
+<name type="ORF">T1A4.50</name>
+</gene>
+<organism>
+<name type="scientific">Arabidopsis thaliana</name>
+<name type="common">Mouse-ear cress</name>
+<dbReference type="NCBI Taxonomy" id="3702"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Viridiplantae</taxon>
+<taxon>Streptophyta</taxon>
+<taxon>Embryophyta</taxon>
+<taxon>Tracheophyta</taxon>
+<taxon>Spermatophyta</taxon>
+<taxon>Magnoliophyta</taxon>
+<taxon>eudicotyledons</taxon>
+<taxon>Gunneridae</taxon>
+<taxon>Pentapetalae</taxon>
+<taxon>rosids</taxon>
+<taxon>malvids</taxon>
+<taxon>Brassicales</taxon>
+<taxon>Brassicaceae</taxon>
+<taxon>Camelineae</taxon>
+<taxon>Arabidopsis</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="2001" name="Plant Sci." volume="161" first="1019" last="1024">
+<title>A novel putative beta-amylase gene and ATbeta-Amy from Arabidopsis thaliana are circadian regulated.</title>
+<authorList>
+<person name="Chandler J.W."/>
+<person name="Apel K."/>
+<person name="Melzer S."/>
+</authorList>
+<dbReference type="DOI" id="10.1016/S0168-9452(01)00508-8"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+<scope>TISSUE SPECIFICITY</scope>
+<scope>INDUCTION</scope>
+<source>
+<strain>cv. Landsberg erecta</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2000" name="Nature" volume="408" first="823" last="826">
+<title>Sequence and analysis of chromosome 5 of the plant Arabidopsis thaliana.</title>
+<authorList>
+<person name="Tabata S."/>
+<person name="Kaneko T."/>
+<person name="Nakamura Y."/>
+<person name="Kotani H."/>
+<person name="Kato T."/>
+<person name="Asamizu E."/>
+<person name="Miyajima N."/>
+<person name="Sasamoto S."/>
+<person name="Kimura T."/>
+<person name="Hosouchi T."/>
+<person name="Kawashima K."/>
+<person name="Kohara M."/>
+<person name="Matsumoto M."/>
+<person name="Matsuno A."/>
+<person name="Muraki A."/>
+<person name="Nakayama S."/>
+<person name="Nakazaki N."/>
+<person name="Naruo K."/>
+<person name="Okumura S."/>
+<person name="Shinpo S."/>
+<person name="Takeuchi C."/>
+<person name="Wada T."/>
+<person name="Watanabe A."/>
+<person name="Yamada M."/>
+<person name="Yasuda M."/>
+<person name="Sato S."/>
+<person name="de la Bastide M."/>
+<person name="Huang E."/>
+<person name="Spiegel L."/>
+<person name="Gnoj L."/>
+<person name="O'Shaughnessy A."/>
+<person name="Preston R."/>
+<person name="Habermann K."/>
+<person name="Murray J."/>
+<person name="Johnson D."/>
+<person name="Rohlfing T."/>
+<person name="Nelson J."/>
+<person name="Stoneking T."/>
+<person name="Pepin K."/>
+<person name="Spieth J."/>
+<person name="Sekhon M."/>
+<person name="Armstrong J."/>
+<person name="Becker M."/>
+<person name="Belter E."/>
+<person name="Cordum H."/>
+<person name="Cordes M."/>
+<person name="Courtney L."/>
+<person name="Courtney W."/>
+<person name="Dante M."/>
+<person name="Du H."/>
+<person name="Edwards J."/>
+<person name="Fryman J."/>
+<person name="Haakensen B."/>
+<person name="Lamar E."/>
+<person name="Latreille P."/>
+<person name="Leonard S."/>
+<person name="Meyer R."/>
+<person name="Mulvaney E."/>
+<person name="Ozersky P."/>
+<person name="Riley A."/>
+<person name="Strowmatt C."/>
+<person name="Wagner-McPherson C."/>
+<person name="Wollam A."/>
+<person name="Yoakum M."/>
+<person name="Bell M."/>
+<person name="Dedhia N."/>
+<person name="Parnell L."/>
+<person name="Shah R."/>
+<person name="Rodriguez M."/>
+<person name="Hoon See L."/>
+<person name="Vil D."/>
+<person name="Baker J."/>
+<person name="Kirchoff K."/>
+<person name="Toth K."/>
+<person name="King L."/>
+<person name="Bahret A."/>
+<person name="Miller B."/>
+<person name="Marra M.A."/>
+<person name="Martienssen R."/>
+<person name="McCombie W.R."/>
+<person name="Wilson R.K."/>
+<person name="Murphy G."/>
+<person name="Bancroft I."/>
+<person name="Volckaert G."/>
+<person name="Wambutt R."/>
+<person name="Duesterhoeft A."/>
+<person name="Stiekema W."/>
+<person name="Pohl T."/>
+<person name="Entian K.-D."/>
+<person name="Terryn N."/>
+<person name="Hartley N."/>
+<person name="Bent E."/>
+<person name="Johnson S."/>
+<person name="Langham S.-A."/>
+<person name="McCullagh B."/>
+<person name="Robben J."/>
+<person name="Grymonprez B."/>
+<person name="Zimmermann W."/>
+<person name="Ramsperger U."/>
+<person name="Wedler H."/>
+<person name="Balke K."/>
+<person name="Wedler E."/>
+<person name="Peters S."/>
+<person name="van Staveren M."/>
+<person name="Dirkse W."/>
+<person name="Mooijman P."/>
+<person name="Klein Lankhorst R."/>
+<person name="Weitzenegger T."/>
+<person name="Bothe G."/>
+<person name="Rose M."/>
+<person name="Hauf J."/>
+<person name="Berneiser S."/>
+<person name="Hempel S."/>
+<person name="Feldpausch M."/>
+<person name="Lamberth S."/>
+<person name="Villarroel R."/>
+<person name="Gielen J."/>
+<person name="Ardiles W."/>
+<person name="Bents O."/>
+<person name="Lemcke K."/>
+<person name="Kolesov G."/>
+<person name="Mayer K.F.X."/>
+<person name="Rudd S."/>
+<person name="Schoof H."/>
+<person name="Schueller C."/>
+<person name="Zaccaria P."/>
+<person name="Mewes H.-W."/>
+<person name="Bevan M."/>
+<person name="Fransz P.F."/>
+</authorList>
+<dbReference type="PubMed" id="11130714"/>
+<dbReference type="DOI" id="10.1038/35048507"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>cv. Columbia</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2017" name="Plant J." volume="89" first="789" last="804">
+<title>Araport11: a complete reannotation of the Arabidopsis thaliana reference genome.</title>
+<authorList>
+<person name="Cheng C.Y."/>
+<person name="Krishnakumar V."/>
+<person name="Chan A.P."/>
+<person name="Thibaud-Nissen F."/>
+<person name="Schobel S."/>
+<person name="Town C.D."/>
+</authorList>
+<dbReference type="PubMed" id="27862469"/>
+<dbReference type="DOI" id="10.1111/tpj.13415"/>
+</citation>
+<scope>GENOME REANNOTATION</scope>
+<source>
+<strain>cv. Columbia</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2003" name="Science" volume="302" first="842" last="846">
+<title>Empirical analysis of transcriptional activity in the Arabidopsis genome.</title>
+<authorList>
+<person name="Yamada K."/>
+<person name="Lim J."/>
+<person name="Dale J.M."/>
+<person name="Chen H."/>
+<person name="Shinn P."/>
+<person name="Palm C.J."/>
+<person name="Southwick A.M."/>
+<person name="Wu H.C."/>
+<person name="Kim C.J."/>
+<person name="Nguyen M."/>
+<person name="Pham P.K."/>
+<person name="Cheuk R.F."/>
+<person name="Karlin-Newmann G."/>
+<person name="Liu S.X."/>
+<person name="Lam B."/>
+<person name="Sakano H."/>
+<person name="Wu T."/>
+<person name="Yu G."/>
+<person name="Miranda M."/>
+<person name="Quach H.L."/>
+<person name="Tripp M."/>
+<person name="Chang C.H."/>
+<person name="Lee J.M."/>
+<person name="Toriumi M.J."/>
+<person name="Chan M.M."/>
+<person name="Tang C.C."/>
+<person name="Onodera C.S."/>
+<person name="Deng J.M."/>
+<person name="Akiyama K."/>
+<person name="Ansari Y."/>
+<person name="Arakawa T."/>
+<person name="Banh J."/>
+<person name="Banno F."/>
+<person name="Bowser L."/>
+<person name="Brooks S.Y."/>
+<person name="Carninci P."/>
+<person name="Chao Q."/>
+<person name="Choy N."/>
+<person name="Enju A."/>
+<person name="Goldsmith A.D."/>
+<person name="Gurjal M."/>
+<person name="Hansen N.F."/>
+<person name="Hayashizaki Y."/>
+<person name="Johnson-Hopson C."/>
+<person name="Hsuan V.W."/>
+<person name="Iida K."/>
+<person name="Karnes M."/>
+<person name="Khan S."/>
+<person name="Koesema E."/>
+<person name="Ishida J."/>
+<person name="Jiang P.X."/>
+<person name="Jones T."/>
+<person name="Kawai J."/>
+<person name="Kamiya A."/>
+<person name="Meyers C."/>
+<person name="Nakajima M."/>
+<person name="Narusaka M."/>
+<person name="Seki M."/>
+<person name="Sakurai T."/>
+<person name="Satou M."/>
+<person name="Tamse R."/>
+<person name="Vaysberg M."/>
+<person name="Wallender E.K."/>
+<person name="Wong C."/>
+<person name="Yamamura Y."/>
+<person name="Yuan S."/>
+<person name="Shinozaki K."/>
+<person name="Davis R.W."/>
+<person name="Theologis A."/>
+<person name="Ecker J.R."/>
+</authorList>
+<dbReference type="PubMed" id="14593172"/>
+<dbReference type="DOI" id="10.1126/science.1088305"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+<source>
+<strain>cv. Columbia</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="submission" date="2002-03" db="EMBL/GenBank/DDBJ databases">
+<title>Full-length cDNA from Arabidopsis thaliana.</title>
+<authorList>
+<person name="Brover V.V."/>
+<person name="Troukhan M.E."/>
+<person name="Alexandrov N.A."/>
+<person name="Lu Y.-P."/>
+<person name="Flavell R.B."/>
+<person name="Feldmann K.A."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2008" name="Plant Cell" volume="20" first="1040" last="1058">
+<title>Beta-AMYLASE4, a noncatalytic protein required for starch breakdown, acts upstream of three active beta-amylases in Arabidopsis chloroplasts.</title>
+<authorList>
+<person name="Fulton D.C."/>
+<person name="Stettler M."/>
+<person name="Mettler T."/>
+<person name="Vaughan C.K."/>
+<person name="Li J."/>
+<person name="Francisco P."/>
+<person name="Gil M."/>
+<person name="Reinhold H."/>
+<person name="Eicke S."/>
+<person name="Messerli G."/>
+<person name="Dorken G."/>
+<person name="Halliday K."/>
+<person name="Smith A.M."/>
+<person name="Smith S.M."/>
+<person name="Zeeman S.C."/>
+</authorList>
+<dbReference type="PubMed" id="18390594"/>
+<dbReference type="DOI" id="10.1105/tpc.107.056507"/>
+</citation>
+<scope>GENE FAMILY</scope>
+<scope>NOMENCLATURE</scope>
+</reference>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="3">Cytoplasm</location>
+</subcellularLocation>
+</comment>
+<comment type="tissue specificity">
+<text evidence="2">Mostly expressed in young floral buds, flowers and roots, and, to a later extent, in stems and leaves.</text>
+</comment>
+<comment type="induction">
+<text evidence="2">Circadian-regulated, with a peak in expression just before the light period in short day conditions.</text>
+</comment>
+<comment type="similarity">
+<text evidence="3">Belongs to the glycosyl hydrolase 14 family.</text>
+</comment>
+<comment type="caution">
+<text evidence="3">In contrast to other members of the family, lacks the conserved Glu active site in position 449, which is replaced by a Gln residue, suggesting it is inactive.</text>
+</comment>
+<dbReference type="EMBL" id="AF402598">
+<property type="protein sequence ID" value="AAK85300.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AC051627">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CP002688">
+<property type="protein sequence ID" value="AED92597.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY069879">
+<property type="protein sequence ID" value="AAL47434.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY142007">
+<property type="protein sequence ID" value="AAM98271.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY087036">
+<property type="protein sequence ID" value="AAM64597.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_197368.1">
+<property type="nucleotide sequence ID" value="NM_121872.3"/>
+</dbReference>
+<dbReference type="UniGene" id="At.19910"/>
+<dbReference type="ProteinModelPortal" id="Q8VYW2"/>
+<dbReference type="SMR" id="Q8VYW2"/>
+<dbReference type="STRING" id="3702.AT5G18670.1"/>
+<dbReference type="CAZy" id="GH14">
+<property type="family name" value="Glycoside Hydrolase Family 14"/>
+</dbReference>
+<dbReference type="PaxDb" id="Q8VYW2"/>
+<dbReference type="PRIDE" id="Q8VYW2"/>
+<dbReference type="EnsemblPlants" id="AT5G18670.1">
+<property type="protein sequence ID" value="AT5G18670.1"/>
+<property type="gene ID" value="AT5G18670"/>
+</dbReference>
+<dbReference type="GeneID" id="831985"/>
+<dbReference type="Gramene" id="AT5G18670.1">
+<property type="protein sequence ID" value="AT5G18670.1"/>
+<property type="gene ID" value="AT5G18670"/>
+</dbReference>
+<dbReference type="KEGG" id="ath:AT5G18670"/>
+<dbReference type="Araport" id="AT5G18670"/>
+<dbReference type="TAIR" id="locus:2180029">
+<property type="gene designation" value="AT5G18670"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG410IJGM">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG410YC8N">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000238755"/>
+<dbReference type="InParanoid" id="Q8VYW2"/>
+<dbReference type="OMA" id="RFSWAGY"/>
+<dbReference type="OrthoDB" id="533202at2759"/>
+<dbReference type="PhylomeDB" id="Q8VYW2"/>
+<dbReference type="PRO" id="PR:Q8VYW2"/>
+<dbReference type="Proteomes" id="UP000006548">
+<property type="component" value="Chromosome 5"/>
+</dbReference>
+<dbReference type="ExpressionAtlas" id="Q8VYW2">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevisible" id="Q8VYW2">
+<property type="organism ID" value="AT"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016161">
+<property type="term" value="F:beta-amylase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000272">
+<property type="term" value="P:polysaccharide catabolic process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001554">
+<property type="entry name" value="Glyco_hydro_14"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR017853">
+<property type="entry name" value="Glycoside_hydrolase_SF"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR31352">
+<property type="entry name" value="PTHR31352"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01373">
+<property type="entry name" value="Glyco_hydro_14"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00750">
+<property type="entry name" value="BETAAMYLASE"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF51445">
+<property type="entry name" value="SSF51445"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0119">Carbohydrate metabolism</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0597">Phosphoprotein</keyword>
+<keyword id="KW-0624">Polysaccharide degradation</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<feature type="chain" description="Inactive beta-amylase 9" id="PRO_0000393423">
+<location>
+<begin position="1"/>
+<end position="536"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="1">
+<location>
+<position position="47"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAK85300." ref="1" evidence="3">
+<original>DD</original>
+<variation>GA</variation>
+<location>
+<begin position="69"/>
+<end position="70"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAK85300." ref="1" evidence="3">
+<original>QG</original>
+<variation>RKA</variation>
+<location>
+<begin position="442"/>
+<end position="443"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="Q9LIR6"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000269">
+<source ref="1"/>
+</evidence>
+<evidence key="3" type="ECO:0000305"/>
+<sequence length="536" mass="58281" checksum="C21F0582BE72E190" modified="2002-03-01" version="1">
+MEVSVIGNPQARICRAELAYRELGFRFGSDVISGESRNRVSFCNQSSKWKEIAIRCSSRS
+VKCEAIVSDDASPFLKSTPKSKSLESVKLFVGLPLDTVSDCNNVNHLKAITAGLKALKLL
+GVEGIELPIFWGVVEKEAAGKYEWSGYLAVAEIVKKVGLKLHASLSFHGSKQTEIGLPDW
+VAKIGDAEPGIYFTDRYGQQYKDCLSFAVDDVPVLDGKTPMEVYRGFCESFKSAFADYMG
+NTITGITLGLGPDGELKYPSHQHNAKLSGAGEFQCYDKHMLSALKGYAESTGNPLWGLGG
+PHDAPAYDQQPNSSSFFSDGGSWESQYGDFFLSWYSSLLTSHADRVLSVASSAFSGIGVP
+LCGKLPLLHQWHKLRSHPSELTAGFYSSNGQDRYEAIAEIFAKNSCRMIIPGMDLSDEHQ
+SPESLSSPESLLGHIKTSCKKQGVVVSGQNSSTPVPGGFERIVENLKDENVGIDLFTYQR
+MGALFFSPEHFHAFTVFVRNLSQFELSSDDQASEAEVEAETASIGSGTGAPSLQTA
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

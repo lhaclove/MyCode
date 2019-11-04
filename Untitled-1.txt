@@ -1,0 +1,7 @@
+dic=dict()
+
+dic["aa"] = ["1.1"]
+dic["aa"].append("2.2")
+dic["aa"].append("-3.2")
+#print(min(dic["aa"]))
+print(max  (     max(dic["aa"]),    abs(float( min(dic["aa"])) )     )  )

@@ -1,0 +1,63 @@
+ID   A0A178UCI5_ARATH        Unreviewed;       357 AA.
+AC   A0A178UCI5;
+DT   12-APR-2017, integrated into UniProtKB/TrEMBL.
+DT   12-APR-2017, sequence version 1.
+DT   16-JAN-2019, entry version 11.
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OAO91399.1};
+GN   OrderedLocusNames=AXX17_At5g58070 {ECO:0000313|EMBL:OAO91399.1};
+OS   Arabidopsis thaliana (Mouse-ear cress).
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+OC   Pentapetalae; rosids; malvids; Brassicales; Brassicaceae; Camelineae;
+OC   Arabidopsis.
+OX   NCBI_TaxID=3702 {ECO:0000313|EMBL:OAO91399.1, ECO:0000313|Proteomes:UP000078284};
+RN   [1] {ECO:0000313|Proteomes:UP000078284}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=cv. Landsberg erecta {ECO:0000313|Proteomes:UP000078284};
+RX   PubMed=27354520; DOI=10.1073/pnas.1607532113;
+RA   Zapata L., Ding J., Willing E.M., Hartwig B., Bezdan D., Jiao W.B.,
+RA   Patel V., Velikkakam James G., Koornneef M., Ossowski S.,
+RA   Schneeberger K.;
+RT   "Chromosome-level assembly of Arabidopsis thaliana Ler reveals the
+RT   extent of translocation and inversion polymorphisms.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 113:E4052-E4060(2016).
+CC   -!- CAUTION: The sequence shown here is derived from an
+CC       EMBL/GenBank/DDBJ whole genome shotgun (WGS) entry which is
+CC       preliminary data. {ECO:0000313|EMBL:OAO91399.1}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   -----------------------------------------------------------------------
+DR   EMBL; LUHQ01000005; OAO91399.1; -; Genomic_DNA.
+DR   RefSeq; NP_200676.1; NM_125255.3.
+DR   UniGene; At.29268; -.
+DR   EnsemblPlants; AT5G58680.1; AT5G58680.1; AT5G58680.
+DR   GeneID; 835982; -.
+DR   Gramene; AT5G58680.1; AT5G58680.1; AT5G58680.
+DR   KEGG; ath:AT5G58680; -.
+DR   OMA; LCSTNEN; -.
+DR   OrthoDB; 1050821at2759; -.
+DR   Proteomes; UP000078284; Chromosome 5.
+DR   ExpressionAtlas; A0A178UCI5; baseline and differential.
+DR   Gene3D; 1.25.10.10; -; 2.
+DR   InterPro; IPR011989; ARM-like.
+DR   InterPro; IPR016024; ARM-type_fold.
+DR   InterPro; IPR000225; Armadillo.
+DR   Pfam; PF00514; Arm; 3.
+DR   SMART; SM00185; ARM; 6.
+DR   SUPFAM; SSF48371; SSF48371; 1.
+DR   PROSITE; PS50176; ARM_REPEAT; 2.
+PE   4: Predicted;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000078284}.
+FT   REPEAT      103    145       ARM. {ECO:0000256|PROSITE-
+FT                                ProRule:PRU00259}.
+FT   REPEAT      185    227       ARM. {ECO:0000256|PROSITE-
+FT                                ProRule:PRU00259}.
+SQ   SEQUENCE   357 AA;  39038 MW;  325C745183CEA55A CRC64;
+     MANHNSFTYM DHSFSDISLN FDSSAFSDCN SDISCEFPTT TSESRQRKLF LSCAVDNSDD
+     VIRNLITHLE SSSSIEEQKQ AAMEIRLLSK NKPENRIKLA KAGAIKPLVS LISSSDLQLQ
+     EYGVTAVLNL SLCDENKEMI VSSGAVKPLV NALRLGTPTT KENAACALLR LSQVEENKIT
+     IGRSGAIPLL VNLLENGGFR AKKDASTALY SLCSTNENKT RAVESGIMKP LVELMIDFES
+     DMVDKSAFVM NLLMSAPESK PAVVEEGGVP VLVEIVEAGT QRQKEISVSI LLQLCEESVV
+     YRTMVAREGA VPPLVALSQG SASRGAKVKA EALIELLRQP RQQQQQQQHF ESNDNER
+//

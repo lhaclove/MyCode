@@ -1,0 +1,98 @@
+ID   A0A1P8ART6_ARATH        Unreviewed;       474 AA.
+AC   A0A1P8ART6;
+DT   12-APR-2017, integrated into UniProtKB/TrEMBL.
+DT   12-APR-2017, sequence version 1.
+DT   16-JAN-2019, entry version 11.
+DE   RecName: Full=Protein DETOXIFICATION {ECO:0000256|RuleBase:RU004914};
+DE   AltName: Full=Multidrug and toxic compound extrusion protein {ECO:0000256|RuleBase:RU004914};
+GN   OrderedLocusNames=At1g61890 {ECO:0000313|EMBL:ANM59354.1};
+GN   ORFNames=F8K4.9 {ECO:0000313|EMBL:ANM59354.1},
+GN   F8K4_9 {ECO:0000313|EMBL:ANM59354.1};
+OS   Arabidopsis thaliana (Mouse-ear cress).
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+OC   Pentapetalae; rosids; malvids; Brassicales; Brassicaceae; Camelineae;
+OC   Arabidopsis.
+OX   NCBI_TaxID=3702 {ECO:0000313|EMBL:ANM59354.1, ECO:0000313|Proteomes:UP000006548};
+RN   [1] {ECO:0000313|EMBL:ANM59354.1, ECO:0000313|Proteomes:UP000006548}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=cv. Columbia {ECO:0000313|Proteomes:UP000006548};
+RX   PubMed=11130712; DOI=10.1038/35048500;
+RA   Theologis A., Ecker J.R., Palm C.J., Federspiel N.A., Kaul S.,
+RA   White O., Alonso J., Altafi H., Araujo R., Bowman C.L., Brooks S.Y.,
+RA   Buehler E., Chan A., Chao Q., Chen H., Cheuk R.F., Chin C.W.,
+RA   Chung M.K., Conn L., Conway A.B., Conway A.R., Creasy T.H., Dewar K.,
+RA   Dunn P., Etgu P., Feldblyum T.V., Feng J., Fong B., Fujii C.Y.,
+RA   Gill J.E., Goldsmith A.D., Haas B., Hansen N.F., Hughes B., Huizar L.,
+RA   Hunter J.L., Jenkins J., Johnson-Hopson C., Khan S., Khaykin E.,
+RA   Kim C.J., Koo H.L., Kremenetskaia I., Kurtz D.B., Kwan A., Lam B.,
+RA   Langin-Hooper S., Lee A., Lee J.M., Lenz C.A., Li J.H., Li Y., Lin X.,
+RA   Liu S.X., Liu Z.A., Luros J.S., Maiti R., Marziali A., Militscher J.,
+RA   Miranda M., Nguyen M., Nierman W.C., Osborne B.I., Pai G.,
+RA   Peterson J., Pham P.K., Rizzo M., Rooney T., Rowley D., Sakano H.,
+RA   Salzberg S.L., Schwartz J.R., Shinn P., Southwick A.M., Sun H.,
+RA   Tallon L.J., Tambunga G., Toriumi M.J., Town C.D., Utterback T.,
+RA   Van Aken S., Vaysberg M., Vysotskaia V.S., Walker M., Wu D., Yu G.,
+RA   Fraser C.M., Venter J.C., Davis R.W.;
+RT   "Sequence and analysis of chromosome 1 of the plant Arabidopsis
+RT   thaliana.";
+RL   Nature 408:816-820(2000).
+RN   [2] {ECO:0000313|Proteomes:UP000006548}
+RP   GENOME REANNOTATION.
+RC   STRAIN=cv. Columbia {ECO:0000313|Proteomes:UP000006548};
+RX   PubMed=27862469; DOI=10.1111/tpj.13415;
+RA   Cheng C.Y., Krishnakumar V., Chan A.P., Thibaud-Nissen F., Schobel S.,
+RA   Town C.D.;
+RT   "Araport11: a complete reannotation of the Arabidopsis thaliana
+RT   reference genome.";
+RL   Plant J. 89:789-804(2017).
+CC   -!- SIMILARITY: Belongs to the multi antimicrobial extrusion (MATE)
+CC       (TC 2.A.66.1) family. {ECO:0000256|RuleBase:RU004914}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   -----------------------------------------------------------------------
+DR   EMBL; CP002684; ANM59354.1; -; Genomic_DNA.
+DR   RefSeq; NP_001321717.1; NM_001334007.1.
+DR   UniGene; At.10738; -.
+DR   UniGene; At.67935; -.
+DR   SMR; A0A1P8ART6; -.
+DR   EnsemblPlants; AT1G61890.3; AT1G61890.3; AT1G61890.
+DR   GeneID; 842485; -.
+DR   Gramene; AT1G61890.3; AT1G61890.3; AT1G61890.
+DR   OrthoDB; 743037at2759; -.
+DR   Proteomes; UP000006548; Chromosome 1.
+DR   ExpressionAtlas; A0A1P8ART6; baseline and differential.
+DR   GO; GO:0016021; C:integral component of membrane; IEA:UniProtKB-KW.
+DR   GO; GO:0015297; F:antiporter activity; IEA:InterPro.
+DR   GO; GO:0015238; F:drug transmembrane transporter activity; IEA:InterPro.
+DR   InterPro; IPR002528; MATE_fam.
+DR   Pfam; PF01554; MatE; 2.
+DR   TIGRFAMs; TIGR00797; matE; 1.
+PE   3: Inferred from homology;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000006548};
+KW   Membrane {ECO:0000256|RuleBase:RU004914};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000006548};
+KW   Transmembrane {ECO:0000256|RuleBase:RU004914};
+KW   Transmembrane helix {ECO:0000256|RuleBase:RU004914}.
+FT   TRANSMEM     40     63       Helical. {ECO:0000256|RuleBase:RU004914}.
+FT   TRANSMEM     96    113       Helical. {ECO:0000256|RuleBase:RU004914}.
+FT   TRANSMEM    134    157       Helical. {ECO:0000256|RuleBase:RU004914}.
+FT   TRANSMEM    163    184       Helical. {ECO:0000256|RuleBase:RU004914}.
+FT   TRANSMEM    196    218       Helical. {ECO:0000256|RuleBase:RU004914}.
+FT   TRANSMEM    224    248       Helical. {ECO:0000256|RuleBase:RU004914}.
+FT   TRANSMEM    269    289       Helical. {ECO:0000256|RuleBase:RU004914}.
+FT   TRANSMEM    309    331       Helical. {ECO:0000256|RuleBase:RU004914}.
+FT   TRANSMEM    352    373       Helical. {ECO:0000256|RuleBase:RU004914}.
+FT   TRANSMEM    393    415       Helical. {ECO:0000256|RuleBase:RU004914}.
+FT   TRANSMEM    422    446       Helical. {ECO:0000256|RuleBase:RU004914}.
+SQ   SEQUENCE   474 AA;  51991 MW;  15415536B347DC68 CRC64;
+     MNSESLENLH RPLIESSKSF VDYRLETVLT DRELPYFRRI YLAMMIEMKF LFHLAAPAIF
+     VYVINNGMSI LTRIFAGHVG SFELAAASLG NSGFNMFTYG LLLGMGSAVE TLCGQAHGAH
+     RYEMLGVYLQ RSTVVLILTC LPMSFLFLFS NPILTALGEP EQVATLASVF VYGMIPVIFA
+     YAVNFPIQKF LQSQSIVTPS AYISAATLVI HLILSWIAVY RLGYGLLALS LIHSFSWWII
+     VVAQIVYIKM SPRCRRTWEG FSWKAFEGLW DFFRLSAASA VMLCLESWYS QILVLLAGLL
+     KNPELALDSL AICMSISAIS FMVSVGFNAA ASVRVSNELG AGNPRAAAFS TVVTTGVSFL
+     LSVFEAIVVL SWRHVISYAF TDSPAVAEAV ADLSPFLAIT IVLNGIQPVL SGVAVGCGWQ
+     AFVAYVNIGC YYVVGIPVGF VLGFTYDMGA KVNFFSCKFG YNNCTLLNNN SCNI
+//

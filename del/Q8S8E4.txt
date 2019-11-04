@@ -1,0 +1,108 @@
+ID   Q8S8E4_ARATH            Unreviewed;       318 AA.
+AC   Q8S8E4;
+DT   01-JUN-2002, integrated into UniProtKB/TrEMBL.
+DT   01-JUN-2002, sequence version 1.
+DT   16-JAN-2019, entry version 103.
+DE   SubName: Full=AT2G36000 protein {ECO:0000313|EMBL:BAH19486.1};
+DE   SubName: Full=Expressed protein {ECO:0000313|EMBL:AAD21457.2};
+DE   SubName: Full=Mitochondrial transcription termination factor family protein {ECO:0000313|EMBL:AEC09190.1};
+GN   Name=EMB3114 {ECO:0000313|EMBL:AEC09190.1};
+GN   Synonyms=EMBRYO DEFECTIVE 3114 {ECO:0000313|EMBL:AEC09190.1};
+GN   OrderedLocusNames=At2g36000 {ECO:0000313|Araport:AT2G36000,
+GN   ECO:0000313|EMBL:AEC09190.1};
+GN   ORFNames=F11F19.9 {ECO:0000313|EMBL:AEC09190.1},
+GN   F11F19_9 {ECO:0000313|EMBL:AEC09190.1};
+OS   Arabidopsis thaliana (Mouse-ear cress).
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+OC   Pentapetalae; rosids; malvids; Brassicales; Brassicaceae; Camelineae;
+OC   Arabidopsis.
+OX   NCBI_TaxID=3702 {ECO:0000313|EMBL:AAD21457.2};
+RN   [1] {ECO:0000313|EMBL:AEC09190.1, ECO:0000313|Proteomes:UP000006548}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=cv. Columbia {ECO:0000313|Proteomes:UP000006548};
+RX   PubMed=10617197; DOI=10.1038/45471;
+RA   Lin X., Kaul S., Rounsley S., Shea T.P., Benito M.I., Town C.D.,
+RA   Fujii C.Y., Mason T., Bowman C.L., Barnstead M., Feldblyum T.V.,
+RA   Buell C.R., Ketchum K.A., Lee J., Ronning C.M., Koo H.L., Moffat K.S.,
+RA   Cronin L.A., Shen M., Pai G., Van Aken S., Umayam L., Tallon L.J.,
+RA   Gill J.E., Adams M.D., Carrera A.J., Creasy T.H., Goodman H.M.,
+RA   Somerville C.R., Copenhaver G.P., Preuss D., Nierman W.C., White O.,
+RA   Eisen J.A., Salzberg S.L., Fraser C.M., Venter J.C.;
+RT   "Sequence and analysis of chromosome 2 of the plant Arabidopsis
+RT   thaliana.";
+RL   Nature 402:761-768(1999).
+RN   [2] {ECO:0000313|EMBL:AAD21457.2}
+RP   NUCLEOTIDE SEQUENCE.
+RA   Lin X., Kaul S., Shea T.P., Fujii C.Y., Shen M., VanAken S.E.,
+RA   Barnstead M.E., Mason T.M., Bowman C.L., Ronning C.M., Benito M.-I.,
+RA   Carrera A.J., Creasy T.H., Buell C.R., Town C.D., Nierman W.C.,
+RA   Fraser C.M., Venter J.C.;
+RL   Submitted (MAR-2000) to the EMBL/GenBank/DDBJ databases.
+RN   [3] {ECO:0000313|EMBL:AAD21457.2}
+RP   NUCLEOTIDE SEQUENCE.
+RA   Town C.D., Kaul S.;
+RL   Submitted (FEB-2002) to the EMBL/GenBank/DDBJ databases.
+RN   [4] {ECO:0000313|EMBL:BAH19486.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   TISSUE=Rosette leaf {ECO:0000313|EMBL:BAH19486.1};
+RA   Iida K., Fukami-Kobayashi K., Toyoda A., Sakaki Y., Kobayashi M.,
+RA   Seki M., Shinozaki K.;
+RT   "Analysis of multiple occurrences of alternative splicing events in
+RT   Arabidopsis thaliana using novel sequenced full-length cDNAs.";
+RL   DNA Res. 0:0-0(2009).
+RN   [5] {ECO:0000313|EMBL:AEC09190.1}
+RP   NUCLEOTIDE SEQUENCE.
+RG   TAIR;
+RA   Swarbreck D., Lamesch P., Wilks C., Huala E.;
+RL   Submitted (FEB-2011) to the EMBL/GenBank/DDBJ databases.
+RN   [6] {ECO:0000313|EMBL:AEC09190.1}
+RP   GENOME REANNOTATION.
+RG   The Arabidopsis Information Portal (Araport);
+RL   Submitted (MAY-2016) to the EMBL/GenBank/DDBJ databases.
+RN   [7] {ECO:0000313|Proteomes:UP000006548}
+RP   GENOME REANNOTATION.
+RC   STRAIN=cv. Columbia {ECO:0000313|Proteomes:UP000006548};
+RX   PubMed=27862469; DOI=10.1111/tpj.13415;
+RA   Cheng C.Y., Krishnakumar V., Chan A.P., Thibaud-Nissen F., Schobel S.,
+RA   Town C.D.;
+RT   "Araport11: a complete reannotation of the Arabidopsis thaliana
+RT   reference genome.";
+RL   Plant J. 89:789-804(2017).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AC007017; AAD21457.2; -; Genomic_DNA.
+DR   EMBL; CP002685; AEC09190.1; -; Genomic_DNA.
+DR   EMBL; AK316766; BAH19486.1; -; mRNA.
+DR   RefSeq; NP_850258.1; NM_179927.2.
+DR   UniGene; At.21750; -.
+DR   SMR; Q8S8E4; -.
+DR   EnsemblPlants; AT2G36000.2; AT2G36000.2; AT2G36000.
+DR   GeneID; 818173; -.
+DR   Gramene; AT2G36000.2; AT2G36000.2; AT2G36000.
+DR   Araport; AT2G36000; -.
+DR   eggNOG; KOG1267; Eukaryota.
+DR   eggNOG; ENOG410XT49; LUCA.
+DR   OrthoDB; 1255182at2759; -.
+DR   Proteomes; UP000006548; Chromosome 2.
+DR   ExpressionAtlas; Q8S8E4; baseline and differential.
+DR   GO; GO:0003690; F:double-stranded DNA binding; IEA:InterPro.
+DR   GO; GO:0006355; P:regulation of transcription, DNA-templated; IEA:InterPro.
+DR   Gene3D; 1.25.70.10; -; 2.
+DR   InterPro; IPR003690; MTERF.
+DR   InterPro; IPR038538; MTERF_sf.
+DR   Pfam; PF02536; mTERF; 1.
+DR   SMART; SM00733; Mterf; 5.
+PE   2: Evidence at transcript level;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000006548};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000006548}.
+SQ   SEQUENCE   318 AA;  36437 MW;  9596C45BF0740852 CRC64;
+     MQQEALSFLS SSLPSLHHNF PSLSRLRFNN FPALSFKPNT SSSSSSFFKS PDIPSLSSTT
+     TTTTTTETLE SSIHEKLIYL DSLGIDFLTL INRHPPLLST ALSAVESVVD YMTTPPINFT
+     LQDFRRLVSM CPELLTSPLT SHTIPVITFL LREVGVDSIF DLRQALRRRP RLLACSVDHQ
+     LRPTLYFLQR IGILDPHKHT YLLSCSVDNK LVPRIDYFEK LGFSRRSATA MFKRFPQLFN
+     YSIAENYEPK LKYLMVEMGR DVREVLEFPQ YFSFSLENRI KPRHEACAAK GVRFPLPVML
+     KTNEAGFRDT LEVHFCNE
+//

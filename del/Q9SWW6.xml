@@ -1,0 +1,1287 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2005-08-30" modified="2019-01-16" version="150">
+<accession>Q9SWW6</accession>
+<accession>Q56ZZ5</accession>
+<accession>Q9XHP6</accession>
+<name>CESA7_ARATH</name>
+<protein>
+<recommendedName>
+<fullName>Cellulose synthase A catalytic subunit 7 [UDP-forming]</fullName>
+<shortName>AtCesA7</shortName>
+<ecNumber>2.4.1.12</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>Protein FRAGILE FIBER 5</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Protein IRREGULAR XYLEM 3</fullName>
+<shortName>AtIRX3</shortName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">CESA7</name>
+<name type="synonym">FRA5</name>
+<name type="synonym">IRX3</name>
+<name type="ordered locus">At5g17420</name>
+<name type="ORF">T10B6.80</name>
+</gene>
+<organism>
+<name type="scientific">Arabidopsis thaliana</name>
+<name type="common">Mouse-ear cress</name>
+<dbReference type="NCBI Taxonomy" id="3702"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Viridiplantae</taxon>
+<taxon>Streptophyta</taxon>
+<taxon>Embryophyta</taxon>
+<taxon>Tracheophyta</taxon>
+<taxon>Spermatophyta</taxon>
+<taxon>Magnoliophyta</taxon>
+<taxon>eudicotyledons</taxon>
+<taxon>Gunneridae</taxon>
+<taxon>Pentapetalae</taxon>
+<taxon>rosids</taxon>
+<taxon>malvids</taxon>
+<taxon>Brassicales</taxon>
+<taxon>Brassicaceae</taxon>
+<taxon>Camelineae</taxon>
+<taxon>Arabidopsis</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1999" name="Plant Cell" volume="11" first="769" last="780">
+<title>The irregular xylem3 locus of Arabidopsis encodes a cellulose synthase required for secondary cell wall synthesis.</title>
+<authorList>
+<person name="Taylor N.G."/>
+<person name="Scheible W.-R."/>
+<person name="Cutler S."/>
+<person name="Somerville C.R."/>
+<person name="Turner S.R."/>
+</authorList>
+<dbReference type="PubMed" id="10330464"/>
+<dbReference type="DOI" id="10.1105/tpc.11.5.769"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA / MRNA]</scope>
+<scope>TISSUE SPECIFICITY</scope>
+<scope>DEVELOPMENTAL STAGE</scope>
+<source>
+<strain>cv. Landsberg erecta</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2000" name="Nature" volume="408" first="823" last="826">
+<title>Sequence and analysis of chromosome 5 of the plant Arabidopsis thaliana.</title>
+<authorList>
+<person name="Tabata S."/>
+<person name="Kaneko T."/>
+<person name="Nakamura Y."/>
+<person name="Kotani H."/>
+<person name="Kato T."/>
+<person name="Asamizu E."/>
+<person name="Miyajima N."/>
+<person name="Sasamoto S."/>
+<person name="Kimura T."/>
+<person name="Hosouchi T."/>
+<person name="Kawashima K."/>
+<person name="Kohara M."/>
+<person name="Matsumoto M."/>
+<person name="Matsuno A."/>
+<person name="Muraki A."/>
+<person name="Nakayama S."/>
+<person name="Nakazaki N."/>
+<person name="Naruo K."/>
+<person name="Okumura S."/>
+<person name="Shinpo S."/>
+<person name="Takeuchi C."/>
+<person name="Wada T."/>
+<person name="Watanabe A."/>
+<person name="Yamada M."/>
+<person name="Yasuda M."/>
+<person name="Sato S."/>
+<person name="de la Bastide M."/>
+<person name="Huang E."/>
+<person name="Spiegel L."/>
+<person name="Gnoj L."/>
+<person name="O'Shaughnessy A."/>
+<person name="Preston R."/>
+<person name="Habermann K."/>
+<person name="Murray J."/>
+<person name="Johnson D."/>
+<person name="Rohlfing T."/>
+<person name="Nelson J."/>
+<person name="Stoneking T."/>
+<person name="Pepin K."/>
+<person name="Spieth J."/>
+<person name="Sekhon M."/>
+<person name="Armstrong J."/>
+<person name="Becker M."/>
+<person name="Belter E."/>
+<person name="Cordum H."/>
+<person name="Cordes M."/>
+<person name="Courtney L."/>
+<person name="Courtney W."/>
+<person name="Dante M."/>
+<person name="Du H."/>
+<person name="Edwards J."/>
+<person name="Fryman J."/>
+<person name="Haakensen B."/>
+<person name="Lamar E."/>
+<person name="Latreille P."/>
+<person name="Leonard S."/>
+<person name="Meyer R."/>
+<person name="Mulvaney E."/>
+<person name="Ozersky P."/>
+<person name="Riley A."/>
+<person name="Strowmatt C."/>
+<person name="Wagner-McPherson C."/>
+<person name="Wollam A."/>
+<person name="Yoakum M."/>
+<person name="Bell M."/>
+<person name="Dedhia N."/>
+<person name="Parnell L."/>
+<person name="Shah R."/>
+<person name="Rodriguez M."/>
+<person name="Hoon See L."/>
+<person name="Vil D."/>
+<person name="Baker J."/>
+<person name="Kirchoff K."/>
+<person name="Toth K."/>
+<person name="King L."/>
+<person name="Bahret A."/>
+<person name="Miller B."/>
+<person name="Marra M.A."/>
+<person name="Martienssen R."/>
+<person name="McCombie W.R."/>
+<person name="Wilson R.K."/>
+<person name="Murphy G."/>
+<person name="Bancroft I."/>
+<person name="Volckaert G."/>
+<person name="Wambutt R."/>
+<person name="Duesterhoeft A."/>
+<person name="Stiekema W."/>
+<person name="Pohl T."/>
+<person name="Entian K.-D."/>
+<person name="Terryn N."/>
+<person name="Hartley N."/>
+<person name="Bent E."/>
+<person name="Johnson S."/>
+<person name="Langham S.-A."/>
+<person name="McCullagh B."/>
+<person name="Robben J."/>
+<person name="Grymonprez B."/>
+<person name="Zimmermann W."/>
+<person name="Ramsperger U."/>
+<person name="Wedler H."/>
+<person name="Balke K."/>
+<person name="Wedler E."/>
+<person name="Peters S."/>
+<person name="van Staveren M."/>
+<person name="Dirkse W."/>
+<person name="Mooijman P."/>
+<person name="Klein Lankhorst R."/>
+<person name="Weitzenegger T."/>
+<person name="Bothe G."/>
+<person name="Rose M."/>
+<person name="Hauf J."/>
+<person name="Berneiser S."/>
+<person name="Hempel S."/>
+<person name="Feldpausch M."/>
+<person name="Lamberth S."/>
+<person name="Villarroel R."/>
+<person name="Gielen J."/>
+<person name="Ardiles W."/>
+<person name="Bents O."/>
+<person name="Lemcke K."/>
+<person name="Kolesov G."/>
+<person name="Mayer K.F.X."/>
+<person name="Rudd S."/>
+<person name="Schoof H."/>
+<person name="Schueller C."/>
+<person name="Zaccaria P."/>
+<person name="Mewes H.-W."/>
+<person name="Bevan M."/>
+<person name="Fransz P.F."/>
+</authorList>
+<dbReference type="PubMed" id="11130714"/>
+<dbReference type="DOI" id="10.1038/35048507"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>cv. Columbia</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2017" name="Plant J." volume="89" first="789" last="804">
+<title>Araport11: a complete reannotation of the Arabidopsis thaliana reference genome.</title>
+<authorList>
+<person name="Cheng C.Y."/>
+<person name="Krishnakumar V."/>
+<person name="Chan A.P."/>
+<person name="Thibaud-Nissen F."/>
+<person name="Schobel S."/>
+<person name="Town C.D."/>
+</authorList>
+<dbReference type="PubMed" id="27862469"/>
+<dbReference type="DOI" id="10.1111/tpj.13415"/>
+</citation>
+<scope>GENOME REANNOTATION</scope>
+<source>
+<strain>cv. Columbia</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2003" name="Science" volume="302" first="842" last="846">
+<title>Empirical analysis of transcriptional activity in the Arabidopsis genome.</title>
+<authorList>
+<person name="Yamada K."/>
+<person name="Lim J."/>
+<person name="Dale J.M."/>
+<person name="Chen H."/>
+<person name="Shinn P."/>
+<person name="Palm C.J."/>
+<person name="Southwick A.M."/>
+<person name="Wu H.C."/>
+<person name="Kim C.J."/>
+<person name="Nguyen M."/>
+<person name="Pham P.K."/>
+<person name="Cheuk R.F."/>
+<person name="Karlin-Newmann G."/>
+<person name="Liu S.X."/>
+<person name="Lam B."/>
+<person name="Sakano H."/>
+<person name="Wu T."/>
+<person name="Yu G."/>
+<person name="Miranda M."/>
+<person name="Quach H.L."/>
+<person name="Tripp M."/>
+<person name="Chang C.H."/>
+<person name="Lee J.M."/>
+<person name="Toriumi M.J."/>
+<person name="Chan M.M."/>
+<person name="Tang C.C."/>
+<person name="Onodera C.S."/>
+<person name="Deng J.M."/>
+<person name="Akiyama K."/>
+<person name="Ansari Y."/>
+<person name="Arakawa T."/>
+<person name="Banh J."/>
+<person name="Banno F."/>
+<person name="Bowser L."/>
+<person name="Brooks S.Y."/>
+<person name="Carninci P."/>
+<person name="Chao Q."/>
+<person name="Choy N."/>
+<person name="Enju A."/>
+<person name="Goldsmith A.D."/>
+<person name="Gurjal M."/>
+<person name="Hansen N.F."/>
+<person name="Hayashizaki Y."/>
+<person name="Johnson-Hopson C."/>
+<person name="Hsuan V.W."/>
+<person name="Iida K."/>
+<person name="Karnes M."/>
+<person name="Khan S."/>
+<person name="Koesema E."/>
+<person name="Ishida J."/>
+<person name="Jiang P.X."/>
+<person name="Jones T."/>
+<person name="Kawai J."/>
+<person name="Kamiya A."/>
+<person name="Meyers C."/>
+<person name="Nakajima M."/>
+<person name="Narusaka M."/>
+<person name="Seki M."/>
+<person name="Sakurai T."/>
+<person name="Satou M."/>
+<person name="Tamse R."/>
+<person name="Vaysberg M."/>
+<person name="Wallender E.K."/>
+<person name="Wong C."/>
+<person name="Yamamura Y."/>
+<person name="Yuan S."/>
+<person name="Shinozaki K."/>
+<person name="Davis R.W."/>
+<person name="Theologis A."/>
+<person name="Ecker J.R."/>
+</authorList>
+<dbReference type="PubMed" id="14593172"/>
+<dbReference type="DOI" id="10.1126/science.1088305"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+<source>
+<strain>cv. Columbia</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="submission" date="2005-03" db="EMBL/GenBank/DDBJ databases">
+<title>Large-scale analysis of RIKEN Arabidopsis full-length (RAFL) cDNAs.</title>
+<authorList>
+<person name="Totoki Y."/>
+<person name="Seki M."/>
+<person name="Ishida J."/>
+<person name="Nakajima M."/>
+<person name="Enju A."/>
+<person name="Kamiya A."/>
+<person name="Narusaka M."/>
+<person name="Shin-i T."/>
+<person name="Nakagawa M."/>
+<person name="Sakamoto N."/>
+<person name="Oishi K."/>
+<person name="Kohara Y."/>
+<person name="Kobayashi M."/>
+<person name="Toyoda A."/>
+<person name="Sakaki Y."/>
+<person name="Sakurai T."/>
+<person name="Iida K."/>
+<person name="Akiyama K."/>
+<person name="Satou M."/>
+<person name="Toyoda T."/>
+<person name="Konagaya A."/>
+<person name="Carninci P."/>
+<person name="Kawai J."/>
+<person name="Hayashizaki Y."/>
+<person name="Shinozaki K."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 776-1026</scope>
+<source>
+<strain>cv. Columbia</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1997" name="Plant Cell" volume="9" first="689" last="701">
+<title>Collapsed xylem phenotype of Arabidopsis identifies mutants deficient in cellulose deposition in the secondary cell wall.</title>
+<authorList>
+<person name="Turner S.R."/>
+<person name="Somerville C.R."/>
+</authorList>
+<dbReference type="PubMed" id="9165747"/>
+<dbReference type="DOI" id="10.1105/tpc.9.5.689"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2000" name="Genome Biol." volume="1" first="REVIEWS3001.1" last="REVIEWS3001.6">
+<title>Higher plant cellulose synthases.</title>
+<authorList>
+<person name="Richmond T."/>
+</authorList>
+<dbReference type="PubMed" id="11178255"/>
+<dbReference type="DOI" id="10.1186/gb-2000-1-4-reviews3001"/>
+</citation>
+<scope>GENE FAMILY</scope>
+<scope>NOMENCLATURE</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2000" name="Plant Cell" volume="12" first="2529" last="2539">
+<title>Multiple cellulose synthase catalytic subunits are required for cellulose synthesis in Arabidopsis.</title>
+<authorList>
+<person name="Taylor N.G."/>
+<person name="Laurie S."/>
+<person name="Turner S.R."/>
+</authorList>
+<dbReference type="PubMed" id="11148295"/>
+<dbReference type="DOI" id="10.1105/tpc.12.12.2529"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>TISSUE SPECIFICITY</scope>
+<scope>DEVELOPMENTAL STAGE</scope>
+<scope>INTERACTION WITH CESA8</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2001" name="Proc. Natl. Acad. Sci. U.S.A." volume="98" first="10079" last="10084">
+<title>Modifications of cellulose synthase confer resistance to isoxaben and thiazolidinone herbicides in Arabidopsis Ixr1 mutants.</title>
+<authorList>
+<person name="Scheible W.-R."/>
+<person name="Eshed R."/>
+<person name="Richmond T."/>
+<person name="Delmer D."/>
+<person name="Somerville C."/>
+</authorList>
+<dbReference type="PubMed" id="11517344"/>
+<dbReference type="DOI" id="10.1073/pnas.191361598"/>
+</citation>
+<scope>TISSUE SPECIFICITY</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2002" name="Phytochemistry" volume="61" first="7" last="14">
+<title>Structure of cellulose-deficient secondary cell walls from the irx3 mutant of Arabidopsis thaliana.</title>
+<authorList>
+<person name="Ha M.-A."/>
+<person name="MacKinnon I.M."/>
+<person name="Sturcova A."/>
+<person name="Apperley D.C."/>
+<person name="McCann M.C."/>
+<person name="Turner S.R."/>
+<person name="Jarvis M.C."/>
+</authorList>
+<dbReference type="PubMed" id="12165296"/>
+<dbReference type="DOI" id="10.1016/S0031-9422(02)00199-1"/>
+</citation>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2002" name="Plant Physiol." volume="130" first="1883" last="1893">
+<title>Genetic complexity of cellulose synthase A gene function in Arabidopsis embryogenesis.</title>
+<authorList>
+<person name="Beeckman T."/>
+<person name="Przemeck G.K.H."/>
+<person name="Stamatiou G."/>
+<person name="Lau R."/>
+<person name="Terryn N."/>
+<person name="De Rycke R."/>
+<person name="Inze D."/>
+<person name="Berleth T."/>
+</authorList>
+<dbReference type="PubMed" id="12481071"/>
+<dbReference type="DOI" id="10.1104/pp.102.010603"/>
+</citation>
+<scope>TISSUE SPECIFICITY</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="2003" name="Plant Cell" volume="15" first="1740" last="1748">
+<title>Control of cellulose synthase complex localization in developing xylem.</title>
+<authorList>
+<person name="Gardiner J.C."/>
+<person name="Taylor N.G."/>
+<person name="Turner S.R."/>
+</authorList>
+<dbReference type="PubMed" id="12897249"/>
+<dbReference type="DOI" id="10.1105/tpc.012815"/>
+</citation>
+<scope>SUBUNIT</scope>
+</reference>
+<reference key="13">
+<citation type="journal article" date="2003" name="Plant Physiol." volume="132" first="786" last="795">
+<title>Expression of a mutant form of cellulose synthase AtCesA7 causes dominant negative effect on cellulose biosynthesis.</title>
+<authorList>
+<person name="Zhong R."/>
+<person name="Morrison W.H. III"/>
+<person name="Freshour G.D."/>
+<person name="Hahn M.G."/>
+<person name="Ye Z.-H."/>
+</authorList>
+<dbReference type="PubMed" id="12805608"/>
+<dbReference type="DOI" id="10.1104/pp.102.019331"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>MUTAGENESIS OF PRO-557</scope>
+</reference>
+<reference key="14">
+<citation type="journal article" date="2003" name="Proc. Natl. Acad. Sci. U.S.A." volume="100" first="1450" last="1455">
+<title>Interactions among three distinct CesA proteins essential for cellulose synthesis.</title>
+<authorList>
+<person name="Taylor N.G."/>
+<person name="Howells R.M."/>
+<person name="Huttly A.K."/>
+<person name="Vickers K."/>
+<person name="Turner S.R."/>
+</authorList>
+<dbReference type="PubMed" id="12538856"/>
+<dbReference type="DOI" id="10.1073/pnas.0337628100"/>
+</citation>
+<scope>TISSUE SPECIFICITY</scope>
+<scope>INTERACTION WITH CESA4 AND CESA8</scope>
+</reference>
+<reference key="15">
+<citation type="journal article" date="2007" name="Plant Cell" volume="19" first="890" last="903">
+<title>Impairment of cellulose synthases required for Arabidopsis secondary cell wall formation enhances disease resistance.</title>
+<authorList>
+<person name="Hernandez-Blanco C."/>
+<person name="Feng D.X."/>
+<person name="Hu J."/>
+<person name="Sanchez-Vallet A."/>
+<person name="Deslandes L."/>
+<person name="Llorente F."/>
+<person name="Berrocal-Lobo M."/>
+<person name="Keller H."/>
+<person name="Barlet X."/>
+<person name="Sanchez-Rodriguez C."/>
+<person name="Anderson L.K."/>
+<person name="Somerville S."/>
+<person name="Marco Y."/>
+<person name="Molina A."/>
+</authorList>
+<dbReference type="PubMed" id="17351116"/>
+<dbReference type="DOI" id="10.1105/tpc.106.048058"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+</reference>
+<reference key="16">
+<citation type="journal article" date="2007" name="Plant Mol. Biol." volume="64" first="161" last="171">
+<title>Identification of cellulose synthase AtCesA7 (IRX3) in vivo phosphorylation sites -- a potential role in regulating protein degradation.</title>
+<authorList>
+<person name="Taylor N.G."/>
+</authorList>
+<dbReference type="PubMed" id="17427041"/>
+<dbReference type="DOI" id="10.1007/s11103-007-9142-2"/>
+</citation>
+<scope>PHOSPHORYLATION AT SER-185</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY</scope>
+</reference>
+<reference key="17">
+<citation type="journal article" date="2016" name="Nat. Commun." volume="7" first="11656" last="11656">
+<title>Golgi-localized STELLO proteins regulate the assembly and trafficking of cellulose synthase complexes in Arabidopsis.</title>
+<authorList>
+<person name="Zhang Y."/>
+<person name="Nikolovski N."/>
+<person name="Sorieul M."/>
+<person name="Vellosillo T."/>
+<person name="McFarlane H.E."/>
+<person name="Dupree R."/>
+<person name="Kesten C."/>
+<person name="Schneider R."/>
+<person name="Driemeier C."/>
+<person name="Lathe R."/>
+<person name="Lampugnani E."/>
+<person name="Yu X."/>
+<person name="Ivakov A."/>
+<person name="Doblin M.S."/>
+<person name="Mortimer J.C."/>
+<person name="Brown S.P."/>
+<person name="Persson S."/>
+<person name="Dupree P."/>
+</authorList>
+<dbReference type="PubMed" id="27277162"/>
+<dbReference type="DOI" id="10.1038/ncomms11656"/>
+</citation>
+<scope>INTERACTION WITH STL1 AND STL2</scope>
+<scope>LACK OF INTERACTION WITH GOT1</scope>
+</reference>
+<reference key="18">
+<citation type="journal article" date="2016" name="Science" volume="353" first="166" last="169">
+<title>S-acylation of the cellulose synthase complex is essential for its plasma membrane localization.</title>
+<authorList>
+<person name="Kumar M."/>
+<person name="Wightman R."/>
+<person name="Atanassov I."/>
+<person name="Gupta A."/>
+<person name="Hurst C.H."/>
+<person name="Hemsley P.A."/>
+<person name="Turner S."/>
+</authorList>
+<dbReference type="PubMed" id="27387950"/>
+<dbReference type="DOI" id="10.1126/science.aaf4009"/>
+</citation>
+<scope>SUBCELLULAR LOCATION; S-ACYLATION</scope>
+<scope>MUTAGENESIS OF CYS-621; CYS-623; CYS-624; CYS-626; CYS-1022 AND CYS-1026</scope>
+</reference>
+<reference key="19">
+<citation type="submission" date="2004-05" db="PDB data bank">
+<title>Solution structure of ring-finger in the catalytic subunit (Irx3) of cellulose synthase.</title>
+<authorList>
+<consortium name="RIKEN structural genomics initiative (RSGI)"/>
+</authorList>
+</citation>
+<scope>STRUCTURE BY NMR OF 26-105</scope>
+<scope>ZINC-BINDING SITES CYS-37; CYS-40; CYS-56; CYS-59; CYS-64; CYS-67; CYS-79 AND CYS-82</scope>
+</reference>
+<comment type="function">
+<text evidence="6 8 11 13 17">Catalytic subunit of cellulose synthase terminal complexes ('rosettes'), required for beta-1,4-glucan microfibril crystallization, a major mechanism of the cell wall formation. Involved in the secondary cell wall formation. Required for the xylem cell wall thickening.</text>
+</comment>
+<comment type="catalytic activity">
+<reaction>
+<text>[(1->4)-beta-D-glucosyl](n) + UDP-alpha-D-glucose = [(1->4)-beta-D-glucosyl](n+1) + H(+) + UDP</text>
+<dbReference type="Rhea" id="RHEA:19929"/>
+<dbReference type="Rhea" id="RHEA-COMP:10033"/>
+<dbReference type="Rhea" id="RHEA-COMP:10034"/>
+<dbReference type="ChEBI" id="CHEBI:15378"/>
+<dbReference type="ChEBI" id="CHEBI:18246"/>
+<dbReference type="ChEBI" id="CHEBI:58223"/>
+<dbReference type="ChEBI" id="CHEBI:58885"/>
+<dbReference type="EC" id="2.4.1.12"/>
+</reaction>
+</comment>
+<comment type="cofactor">
+<cofactor>
+<name>Zn(2+)</name>
+<dbReference type="ChEBI" id="CHEBI:29105"/>
+</cofactor>
+<text>Binds 2 Zn(2+) ions per subunit.</text>
+</comment>
+<comment type="pathway">
+<text>Glycan metabolism; plant cellulose biosynthesis.</text>
+</comment>
+<comment type="subunit">
+<text evidence="6 10 12 15">Interacts with CESA4 and CESA8. Assembly with CESA4 and CESA8 is required for functional complex and localization in secondary cell wall deposition sites. Interacts with STL1 and STL2, but not with GOT1 (PubMed:27277162).</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-4477361"/>
+<interactant intactId="EBI-8579072">
+<id>Q84JA6</id>
+<label>CESA4</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>6</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-4477361"/>
+<interactant intactId="EBI-8579199">
+<id>Q8LPK5</id>
+<label>CESA8</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>7</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="16">Cell membrane</location>
+<topology evidence="3">Multi-pass membrane protein</topology>
+</subcellularLocation>
+</comment>
+<comment type="tissue specificity">
+<text evidence="5 6 7 9 10">Confined to secondary cell wall developing tissues such as xylems and interfascicular regions. Expressed in young plants, stems and flowers, but not in leaves, roots and shoots.</text>
+</comment>
+<comment type="developmental stage">
+<text evidence="5 6">Not found in embryos. Increasing amount as stems mature.</text>
+</comment>
+<comment type="PTM">
+<text evidence="14">Phosphorylated protein may be subject to proteasome degradation.</text>
+</comment>
+<comment type="PTM">
+<text evidence="16">S-acylated at Cys-621, Cys-623, Cys-624, Cys-626, Cys-1022 and Cys-1026. The ratio of acylation by either palmitate or stearate is unknown. S-acylation is essential for plasma membrane localization.</text>
+</comment>
+<comment type="disruption phenotype">
+<text evidence="13 17">Reduced plant size, reduced content of cellulose, collapsed xylem vessels and wilting of inflorescence stems (PubMed:9165747). Enhanced resistance to the pathogens Ralstonia solanacearum and Plectosphaerella cucumerina (PubMed:17351116).</text>
+</comment>
+<comment type="similarity">
+<text evidence="19">Belongs to the glycosyltransferase 2 family. Plant cellulose synthase subfamily.</text>
+</comment>
+<dbReference type="EC" id="2.4.1.12"/>
+<dbReference type="EMBL" id="AF088917">
+<property type="protein sequence ID" value="AAD32031.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF091713">
+<property type="protein sequence ID" value="AAD40885.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AL391142">
+<property type="protein sequence ID" value="CAC01737.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CP002688">
+<property type="protein sequence ID" value="AED92424.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY139754">
+<property type="protein sequence ID" value="AAM98075.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BT004543">
+<property type="protein sequence ID" value="AAO42789.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AK220815">
+<property type="protein sequence ID" value="BAD94098.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="PIR" id="T51579">
+<property type="entry name" value="T51579"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_197244.1">
+<property type="nucleotide sequence ID" value="NM_121748.4"/>
+</dbReference>
+<dbReference type="UniGene" id="At.25558"/>
+<dbReference type="UniGene" id="At.71017"/>
+<dbReference type="PDB" id="1WEO">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=26-105"/>
+</dbReference>
+<dbReference type="PDBsum" id="1WEO"/>
+<dbReference type="ProteinModelPortal" id="Q9SWW6"/>
+<dbReference type="SMR" id="Q9SWW6"/>
+<dbReference type="BioGrid" id="16884">
+<property type="interactions" value="13"/>
+</dbReference>
+<dbReference type="IntAct" id="Q9SWW6">
+<property type="interactions" value="8"/>
+</dbReference>
+<dbReference type="MINT" id="Q9SWW6"/>
+<dbReference type="STRING" id="3702.AT5G17420.1"/>
+<dbReference type="CAZy" id="GT2">
+<property type="family name" value="Glycosyltransferase Family 2"/>
+</dbReference>
+<dbReference type="TCDB" id="4.D.3.1.7">
+<property type="family name" value="the glycan glucosyl transferase (opgh) family"/>
+</dbReference>
+<dbReference type="iPTMnet" id="Q9SWW6"/>
+<dbReference type="SwissPalm" id="Q9SWW6"/>
+<dbReference type="PaxDb" id="Q9SWW6"/>
+<dbReference type="EnsemblPlants" id="AT5G17420.1">
+<property type="protein sequence ID" value="AT5G17420.1"/>
+<property type="gene ID" value="AT5G17420"/>
+</dbReference>
+<dbReference type="GeneID" id="831608"/>
+<dbReference type="Gramene" id="AT5G17420.1">
+<property type="protein sequence ID" value="AT5G17420.1"/>
+<property type="gene ID" value="AT5G17420"/>
+</dbReference>
+<dbReference type="KEGG" id="ath:AT5G17420"/>
+<dbReference type="Araport" id="AT5G17420"/>
+<dbReference type="TAIR" id="locus:2178935">
+<property type="gene designation" value="AT5G17420"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG410II8I">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG1215">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000241942"/>
+<dbReference type="InParanoid" id="Q9SWW6"/>
+<dbReference type="KO" id="K10999"/>
+<dbReference type="OMA" id="KVRINAQ"/>
+<dbReference type="OrthoDB" id="679241at2759"/>
+<dbReference type="PhylomeDB" id="Q9SWW6"/>
+<dbReference type="BioCyc" id="MetaCyc:MONOMER-2365"/>
+<dbReference type="BRENDA" id="2.4.1.12">
+<property type="organism ID" value="399"/>
+</dbReference>
+<dbReference type="UniPathway" id="UPA00695"/>
+<dbReference type="EvolutionaryTrace" id="Q9SWW6"/>
+<dbReference type="PRO" id="PR:Q9SWW6"/>
+<dbReference type="Proteomes" id="UP000006548">
+<property type="component" value="Chromosome 5"/>
+</dbReference>
+<dbReference type="ExpressionAtlas" id="Q9SWW6">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevisible" id="Q9SWW6">
+<property type="organism ID" value="AT"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010330">
+<property type="term" value="C:cellulose synthase complex"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="TAIR"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009507">
+<property type="term" value="C:chloroplast"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="TAIR"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005794">
+<property type="term" value="C:Golgi apparatus"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016021">
+<property type="term" value="C:integral component of membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005886">
+<property type="term" value="C:plasma membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="TAIR"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005802">
+<property type="term" value="C:trans-Golgi network"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016760">
+<property type="term" value="F:cellulose synthase (UDP-forming) activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-EC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016759">
+<property type="term" value="F:cellulose synthase activity"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046872">
+<property type="term" value="F:metal ion binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030244">
+<property type="term" value="P:cellulose biosynthetic process"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="TAIR"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009832">
+<property type="term" value="P:plant-type cell wall biogenesis"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="TAIR"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009833">
+<property type="term" value="P:plant-type primary cell wall biogenesis"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009834">
+<property type="term" value="P:plant-type secondary cell wall biogenesis"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="TAIR"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010400">
+<property type="term" value="P:rhamnogalacturonan I side chain metabolic process"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="TAIR"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.30.40.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.90.550.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR005150">
+<property type="entry name" value="Cellulose_synth"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027934">
+<property type="entry name" value="CES_Znf_RING"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR029044">
+<property type="entry name" value="Nucleotide-diphossugar_trans"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001841">
+<property type="entry name" value="Znf_RING"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013083">
+<property type="entry name" value="Znf_RING/FYVE/PHD"/>
+</dbReference>
+<dbReference type="Pfam" id="PF03552">
+<property type="entry name" value="Cellulose_synt"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF14569">
+<property type="entry name" value="zf-UDP"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF53448">
+<property type="entry name" value="SSF53448"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50089">
+<property type="entry name" value="ZF_RING_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0007">Acetylation</keyword>
+<keyword id="KW-1003">Cell membrane</keyword>
+<keyword id="KW-0961">Cell wall biogenesis/degradation</keyword>
+<keyword id="KW-0135">Cellulose biosynthesis</keyword>
+<keyword id="KW-0175">Coiled coil</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0325">Glycoprotein</keyword>
+<keyword id="KW-0328">Glycosyltransferase</keyword>
+<keyword id="KW-0449">Lipoprotein</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-0479">Metal-binding</keyword>
+<keyword id="KW-0597">Phosphoprotein</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0808">Transferase</keyword>
+<keyword id="KW-0812">Transmembrane</keyword>
+<keyword id="KW-1133">Transmembrane helix</keyword>
+<keyword id="KW-0862">Zinc</keyword>
+<keyword id="KW-0863">Zinc-finger</keyword>
+<feature type="chain" description="Cellulose synthase A catalytic subunit 7 [UDP-forming]" id="PRO_0000166373">
+<location>
+<begin position="1"/>
+<end position="1026"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="3">
+<location>
+<begin position="1"/>
+<end position="233"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="3">
+<location>
+<begin position="234"/>
+<end position="252"/>
+</location>
+</feature>
+<feature type="topological domain" description="Extracellular" evidence="3">
+<location>
+<begin position="253"/>
+<end position="262"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="3">
+<location>
+<begin position="263"/>
+<end position="283"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="3">
+<location>
+<begin position="284"/>
+<end position="804"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="3">
+<location>
+<begin position="805"/>
+<end position="825"/>
+</location>
+</feature>
+<feature type="topological domain" description="Extracellular" evidence="3">
+<location>
+<begin position="826"/>
+<end position="836"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="3">
+<location>
+<begin position="837"/>
+<end position="857"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="3">
+<location>
+<begin position="858"/>
+<end position="872"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="3">
+<location>
+<begin position="873"/>
+<end position="893"/>
+</location>
+</feature>
+<feature type="topological domain" description="Extracellular" evidence="3">
+<location>
+<begin position="894"/>
+<end position="922"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="3">
+<location>
+<begin position="923"/>
+<end position="943"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="3">
+<location>
+<begin position="944"/>
+<end position="954"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="3">
+<location>
+<begin position="955"/>
+<end position="975"/>
+</location>
+</feature>
+<feature type="topological domain" description="Extracellular" evidence="3">
+<location>
+<begin position="976"/>
+<end position="984"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="3">
+<location>
+<begin position="985"/>
+<end position="1005"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="3">
+<location>
+<begin position="1006"/>
+<end position="1026"/>
+</location>
+</feature>
+<feature type="zinc finger region" description="RING-type; degenerate" evidence="4">
+<location>
+<begin position="37"/>
+<end position="83"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="3">
+<location>
+<begin position="412"/>
+<end position="433"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Lys-rich">
+<location>
+<begin position="611"/>
+<end position="638"/>
+</location>
+</feature>
+<feature type="active site" evidence="3">
+<location>
+<position position="358"/>
+</location>
+</feature>
+<feature type="active site" evidence="3">
+<location>
+<position position="726"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Zinc 1" evidence="1 18">
+<location>
+<position position="37"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Zinc 1" evidence="1 18">
+<location>
+<position position="40"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Zinc 2" evidence="1 18">
+<location>
+<position position="56"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Zinc 2" evidence="1 18">
+<location>
+<position position="59"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Zinc 1" evidence="1 18">
+<location>
+<position position="64"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Zinc 1" evidence="1 18">
+<location>
+<position position="67"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Zinc 2" evidence="1 18">
+<location>
+<position position="79"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Zinc 2" evidence="1 18">
+<location>
+<position position="82"/>
+</location>
+</feature>
+<feature type="binding site" description="Substrate" evidence="3">
+<location>
+<position position="524"/>
+</location>
+</feature>
+<feature type="binding site" description="Substrate" evidence="3">
+<location>
+<position position="526"/>
+</location>
+</feature>
+<feature type="modified residue" description="N-acetylmethionine" evidence="2">
+<location>
+<position position="1"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="14">
+<location>
+<position position="185"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="3">
+<location>
+<position position="900"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="In fra5; dominant negative effect on cellulose synthesis." evidence="11">
+<original>P</original>
+<variation>T</variation>
+<location>
+<position position="557"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Unable to localize to the plasma membrane and impaired function as cellulose synthase; when associated with S-623; S-624 and S-626. Abolishes S-acylation." evidence="16">
+<original>C</original>
+<variation>S</variation>
+<location>
+<position position="621"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Unable to localize to the plasma membrane and impaired function as cellulose synthase; when associated with S-621; S-624 and S-626. Abolishes S-acylation." evidence="16">
+<original>C</original>
+<variation>S</variation>
+<location>
+<position position="623"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Unable to localize to the plasma membrane and impaired function as cellulose synthase; when associated with S-621; S-623 and S-626. Abolishes S-acylation." evidence="16">
+<original>C</original>
+<variation>S</variation>
+<location>
+<position position="624"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Unable to localize to the plasma membrane and impaired function as cellulose synthase; when associated with S-621; S-623 and S-624. Abolishes S-acylation." evidence="16">
+<original>C</original>
+<variation>S</variation>
+<location>
+<position position="626"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Impaired function as cellulose synthase. Abolishes S-acylation. Unable to localize to the plasma membrane; when associated with S-1026." evidence="16">
+<original>C</original>
+<variation>S</variation>
+<location>
+<position position="1022"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Impaired function as cellulose synthase. Abolishes S-acylation. Unable to localize to the plasma membrane; when associated with S-1022." evidence="16">
+<original>C</original>
+<variation>S</variation>
+<location>
+<position position="1026"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAD32031." ref="1" evidence="19">
+<original>S</original>
+<variation>F</variation>
+<location>
+<position position="660"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 5; BAD94098." ref="5" evidence="19">
+<original>A</original>
+<variation>T</variation>
+<location>
+<position position="895"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="38"/>
+<end position="40"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="48"/>
+<end position="52"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="57"/>
+<end position="59"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="65"/>
+<end position="73"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="80"/>
+<end position="82"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1WEO"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="O48946"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000255"/>
+<evidence key="4" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00175"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10330464"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11148295"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11517344"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12165296"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12481071"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12538856"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12805608"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12897249"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17351116"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17427041"/>
+</source>
+</evidence>
+<evidence key="15" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="27277162"/>
+</source>
+</evidence>
+<evidence key="16" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="27387950"/>
+</source>
+</evidence>
+<evidence key="17" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9165747"/>
+</source>
+</evidence>
+<evidence key="18" type="ECO:0000269">
+<source ref="19"/>
+</evidence>
+<evidence key="19" type="ECO:0000305"/>
+<sequence length="1026" mass="115798" checksum="503BFBC78BE6E511" modified="2000-05-01" version="1">
+MEASAGLVAGSHNRNELVVIHNHEEPKPLKNLDGQFCEICGDQIGLTVEGDLFVACNECG
+FPACRPCYEYERREGTQNCPQCKTRYKRLRGSPRVEGDEDEEDIDDIEYEFNIEHEQDKH
+KHSAEAMLYGKMSYGRGPEDDENGRFPPVIAGGHSGEFPVGGGYGNGEHGLHKRVHPYPS
+SEAGSEGGWRERMDDWKLQHGNLGPEPDDDPEMGLIDEARQPLSRKVPIASSKINPYRMV
+IVARLVILAVFLRYRLLNPVHDALGLWLTSVICEIWFAVSWILDQFPKWFPIERETYLDR
+LSLRYEREGEPNMLAPVDVFVSTVDPLKEPPLVTSNTVLSILAMDYPVEKISCYVSDDGA
+SMLTFESLSETAEFARKWVPFCKKFSIEPRAPEMYFTLKVDYLQDKVHPTFVKERRAMKR
+EYEEFKVRINAQVAKASKVPLEGWIMQDGTPWPGNNTKDHPGMIQVFLGHSGGFDVEGHE
+LPRLVYVSREKRPGFQHHKKAGAMNALVRVAGVLTNAPFMLNLDCDHYVNNSKAVREAMC
+FLMDPQIGKKVCYVQFPQRFDGIDTNDRYANRNTVFFDINMKGLDGIQGPVYVGTGCVFK
+RQALYGYEPPKGPKRPKMISCGCCPCFGRRRKNKKFSKNDMNGDVAALGGAEGDKEHLMS
+EMNFEKTFGQSSIFVTSTLMEEGGVPPSSSPAVLLKEAIHVISCGYEDKTEWGTELGWIY
+GSITEDILTGFKMHCRGWRSIYCMPKRPAFKGSAPINLSDRLNQVLRWALGSVEIFFSRH
+SPLWYGYKGGKLKWLERFAYANTTIYPFTSIPLLAYCILPAICLLTDKFIMPPISTFASL
+FFISLFMSIIVTGILELRWSGVSIEEWWRNEQFWVIGGISAHLFAVVQGLLKILAGIDTN
+FTVTSKATDDDDFGELYAFKWTTLLIPPTTVLIINIVGVVAGISDAINNGYQSWGPLFGK
+LFFSFWVIVHLYPFLKGLMGRQNRTPTIVVIWSVLLASIFSLLWVRIDPFVLKTKGPDTS
+KCGINC
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

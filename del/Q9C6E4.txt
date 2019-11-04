@@ -1,0 +1,151 @@
+ID   EXOL1_ARATH             Reviewed;         309 AA.
+AC   Q9C6E4; Q9FPI9;
+DT   01-OCT-2014, integrated into UniProtKB/Swiss-Prot.
+DT   01-JUN-2001, sequence version 1.
+DT   16-JAN-2019, entry version 100.
+DE   RecName: Full=Protein EXORDIUM-like 1;
+DE   AltName: Full=PHOSPHATE-INDUCED 1;
+DE   Flags: Precursor;
+GN   Name=EXL1; Synonyms=PHI-1; OrderedLocusNames=At1g35140;
+GN   ORFNames=T32G9.32;
+OS   Arabidopsis thaliana (Mouse-ear cress).
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+OC   Pentapetalae; rosids; malvids; Brassicales; Brassicaceae; Camelineae;
+OC   Arabidopsis.
+OX   NCBI_TaxID=3702;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=cv. Columbia;
+RX   PubMed=11130712; DOI=10.1038/35048500;
+RA   Theologis A., Ecker J.R., Palm C.J., Federspiel N.A., Kaul S.,
+RA   White O., Alonso J., Altafi H., Araujo R., Bowman C.L., Brooks S.Y.,
+RA   Buehler E., Chan A., Chao Q., Chen H., Cheuk R.F., Chin C.W.,
+RA   Chung M.K., Conn L., Conway A.B., Conway A.R., Creasy T.H., Dewar K.,
+RA   Dunn P., Etgu P., Feldblyum T.V., Feng J.-D., Fong B., Fujii C.Y.,
+RA   Gill J.E., Goldsmith A.D., Haas B., Hansen N.F., Hughes B., Huizar L.,
+RA   Hunter J.L., Jenkins J., Johnson-Hopson C., Khan S., Khaykin E.,
+RA   Kim C.J., Koo H.L., Kremenetskaia I., Kurtz D.B., Kwan A., Lam B.,
+RA   Langin-Hooper S., Lee A., Lee J.M., Lenz C.A., Li J.H., Li Y.-P.,
+RA   Lin X., Liu S.X., Liu Z.A., Luros J.S., Maiti R., Marziali A.,
+RA   Militscher J., Miranda M., Nguyen M., Nierman W.C., Osborne B.I.,
+RA   Pai G., Peterson J., Pham P.K., Rizzo M., Rooney T., Rowley D.,
+RA   Sakano H., Salzberg S.L., Schwartz J.R., Shinn P., Southwick A.M.,
+RA   Sun H., Tallon L.J., Tambunga G., Toriumi M.J., Town C.D.,
+RA   Utterback T., Van Aken S., Vaysberg M., Vysotskaia V.S., Walker M.,
+RA   Wu D., Yu G., Fraser C.M., Venter J.C., Davis R.W.;
+RT   "Sequence and analysis of chromosome 1 of the plant Arabidopsis
+RT   thaliana.";
+RL   Nature 408:816-820(2000).
+RN   [2]
+RP   GENOME REANNOTATION.
+RC   STRAIN=cv. Columbia;
+RX   PubMed=27862469; DOI=10.1111/tpj.13415;
+RA   Cheng C.Y., Krishnakumar V., Chan A.P., Thibaud-Nissen F., Schobel S.,
+RA   Town C.D.;
+RT   "Araport11: a complete reannotation of the Arabidopsis thaliana
+RT   reference genome.";
+RL   Plant J. 89:789-804(2017).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   STRAIN=cv. Columbia;
+RX   PubMed=14593172; DOI=10.1126/science.1088305;
+RA   Yamada K., Lim J., Dale J.M., Chen H., Shinn P., Palm C.J.,
+RA   Southwick A.M., Wu H.C., Kim C.J., Nguyen M., Pham P.K., Cheuk R.F.,
+RA   Karlin-Newmann G., Liu S.X., Lam B., Sakano H., Wu T., Yu G.,
+RA   Miranda M., Quach H.L., Tripp M., Chang C.H., Lee J.M., Toriumi M.J.,
+RA   Chan M.M., Tang C.C., Onodera C.S., Deng J.M., Akiyama K., Ansari Y.,
+RA   Arakawa T., Banh J., Banno F., Bowser L., Brooks S.Y., Carninci P.,
+RA   Chao Q., Choy N., Enju A., Goldsmith A.D., Gurjal M., Hansen N.F.,
+RA   Hayashizaki Y., Johnson-Hopson C., Hsuan V.W., Iida K., Karnes M.,
+RA   Khan S., Koesema E., Ishida J., Jiang P.X., Jones T., Kawai J.,
+RA   Kamiya A., Meyers C., Nakajima M., Narusaka M., Seki M., Sakurai T.,
+RA   Satou M., Tamse R., Vaysberg M., Wallender E.K., Wong C., Yamamura Y.,
+RA   Yuan S., Shinozaki K., Davis R.W., Theologis A., Ecker J.R.;
+RT   "Empirical analysis of transcriptional activity in the Arabidopsis
+RT   genome.";
+RL   Science 302:842-846(2003).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RA   Brover V.V., Troukhan M.E., Alexandrov N.A., Lu Y.-P., Flavell R.B.,
+RA   Feldmann K.A.;
+RT   "Full-length cDNA from Arabidopsis thaliana.";
+RL   Submitted (MAR-2002) to the EMBL/GenBank/DDBJ databases.
+RN   [5]
+RP   INDUCTION BY BRASSINOLIDE, GENE FAMILY, AND NOMENCLATURE.
+RX   PubMed=19216774; DOI=10.1186/1471-2229-9-20;
+RA   Schroder F., Lisso J., Lange P., Mussig C.;
+RT   "The extracellular EXO protein mediates cell expansion in Arabidopsis
+RT   leaves.";
+RL   BMC Plant Biol. 9:20-20(2009).
+RN   [6]
+RP   FUNCTION, AND DISRUPTION PHENOTYPE.
+RX   PubMed=21543728; DOI=10.1104/pp.111.177204;
+RA   Schroder F., Lisso J., Mussig C.;
+RT   "EXORDIUM-LIKE1 promotes growth during low carbon availability in
+RT   Arabidopsis.";
+RL   Plant Physiol. 156:1620-1630(2011).
+CC   -!- FUNCTION: May play a role in a brassinosteroid-dependent
+CC       regulatory pathway that controls growth and development under low
+CC       carbon and energy availability. {ECO:0000269|PubMed:21543728}.
+CC   -!- SUBCELLULAR LOCATION: Secreted. Secreted, extracellular space.
+CC       Secreted, extracellular space, apoplast {ECO:0000305}.
+CC   -!- INDUCTION: By brassinolide. {ECO:0000269|PubMed:19216774}.
+CC   -!- DISRUPTION PHENOTYPE: No visible phenotype under normal growth
+CC       conditions, but mutant plants show diminished biomass production
+CC       under low carbon and energy conditions.
+CC       {ECO:0000269|PubMed:21543728}.
+CC   -!- SIMILARITY: Belongs to the EXORDIUM family. {ECO:0000305}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=AAG40350.1; Type=Frameshift; Positions=241; Evidence={ECO:0000305};
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AC079605; AAG50598.1; -; Genomic_DNA.
+DR   EMBL; CP002684; AEE31758.1; -; Genomic_DNA.
+DR   EMBL; AF324998; AAG40350.1; ALT_FRAME; mRNA.
+DR   EMBL; AY084831; AAM61396.1; -; mRNA.
+DR   PIR; H86471; H86471.
+DR   RefSeq; NP_174746.1; NM_103210.4.
+DR   UniGene; At.24168; -.
+DR   ProteinModelPortal; Q9C6E4; -.
+DR   SMR; Q9C6E4; -.
+DR   STRING; 3702.AT1G35140.1; -.
+DR   PaxDb; Q9C6E4; -.
+DR   EnsemblPlants; AT1G35140.1; AT1G35140.1; AT1G35140.
+DR   GeneID; 840399; -.
+DR   Gramene; AT1G35140.1; AT1G35140.1; AT1G35140.
+DR   KEGG; ath:AT1G35140; -.
+DR   Araport; AT1G35140; -.
+DR   TAIR; locus:2203314; AT1G35140.
+DR   HOGENOM; HOG000239502; -.
+DR   InParanoid; Q9C6E4; -.
+DR   OMA; NPPLIAP; -.
+DR   OrthoDB; 888488at2759; -.
+DR   PhylomeDB; Q9C6E4; -.
+DR   PRO; PR:Q9C6E4; -.
+DR   Proteomes; UP000006548; Chromosome 1.
+DR   ExpressionAtlas; Q9C6E4; baseline and differential.
+DR   Genevisible; Q9C6E4; AT.
+DR   GO; GO:0048046; C:apoplast; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005615; C:extracellular space; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005794; C:Golgi apparatus; IDA:TAIR.
+DR   GO; GO:0009505; C:plant-type cell wall; IDA:TAIR.
+DR   GO; GO:0001666; P:response to hypoxia; IEP:TAIR.
+DR   InterPro; IPR006766; EXORDIUM-like.
+DR   PANTHER; PTHR31279; PTHR31279; 1.
+DR   Pfam; PF04674; Phi_1; 1.
+PE   2: Evidence at transcript level;
+KW   Apoplast; Complete proteome; Reference proteome; Secreted; Signal.
+FT   SIGNAL        1     23       {ECO:0000255}.
+FT   CHAIN        24    309       Protein EXORDIUM-like 1.
+FT                                /FTId=PRO_0000430281.
+SQ   SEQUENCE   309 AA;  33186 MW;  D887DF48372098D1 CRC64;
+     MASFVMGYFL LFAVAFMCLD ARTDKTQDYT SFQYHKGALL TGDVSINLIW YGKFKPSQRA
+     IVTDFVASLS SSRRSTMAQN PSVATWWKTV EKYYQFRKMT TTRGLSLSLG EQILDQGYSM
+     GKSLTEKNLK DLAAKGGQSY AVNVVLTSAD VTVQGFCMNR CGSHGTGSGS GKKGSRFAYI
+     WVGNSETQCP GQCAWPFHAP VYGPQSPPLV APNNDVGLDG MVINLASLMA ATATNPFGDG
+     YYQGPKTAPL EAGSACTGVY GKGSYPGYAG ELLVDATTGG SYNVKGLNGR KYLLPALFDP
+     KTDSCSTLF
+//

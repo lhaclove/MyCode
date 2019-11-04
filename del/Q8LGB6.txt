@@ -1,0 +1,175 @@
+ID   ZED1_ARATH              Reviewed;         334 AA.
+AC   Q8LGB6; Q9SVY9;
+DT   24-JUN-2015, integrated into UniProtKB/Swiss-Prot.
+DT   01-OCT-2002, sequence version 1.
+DT   16-JAN-2019, entry version 123.
+DE   RecName: Full=Non-functional pseudokinase ZED1 {ECO:0000305};
+DE   AltName: Full=Protein HOPZ-ETI-DEFICIENT 1 {ECO:0000303|PubMed:24170858};
+GN   Name=ZED1 {ECO:0000303|PubMed:24170858};
+GN   OrderedLocusNames=At3g57750 {ECO:0000312|Araport:AT3G57750};
+OS   Arabidopsis thaliana (Mouse-ear cress).
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+OC   Pentapetalae; rosids; malvids; Brassicales; Brassicaceae; Camelineae;
+OC   Arabidopsis.
+OX   NCBI_TaxID=3702;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=cv. Columbia;
+RX   PubMed=11130713; DOI=10.1038/35048706;
+RA   Salanoubat M., Lemcke K., Rieger M., Ansorge W., Unseld M.,
+RA   Fartmann B., Valle G., Bloecker H., Perez-Alonso M., Obermaier B.,
+RA   Delseny M., Boutry M., Grivell L.A., Mache R., Puigdomenech P.,
+RA   De Simone V., Choisne N., Artiguenave F., Robert C., Brottier P.,
+RA   Wincker P., Cattolico L., Weissenbach J., Saurin W., Quetier F.,
+RA   Schaefer M., Mueller-Auer S., Gabel C., Fuchs M., Benes V.,
+RA   Wurmbach E., Drzonek H., Erfle H., Jordan N., Bangert S.,
+RA   Wiedelmann R., Kranz H., Voss H., Holland R., Brandt P., Nyakatura G.,
+RA   Vezzi A., D'Angelo M., Pallavicini A., Toppo S., Simionati B.,
+RA   Conrad A., Hornischer K., Kauer G., Loehnert T.-H., Nordsiek G.,
+RA   Reichelt J., Scharfe M., Schoen O., Bargues M., Terol J., Climent J.,
+RA   Navarro P., Collado C., Perez-Perez A., Ottenwaelder B., Duchemin D.,
+RA   Cooke R., Laudie M., Berger-Llauro C., Purnelle B., Masuy D.,
+RA   de Haan M., Maarse A.C., Alcaraz J.-P., Cottet A., Casacuberta E.,
+RA   Monfort A., Argiriou A., Flores M., Liguori R., Vitale D.,
+RA   Mannhaupt G., Haase D., Schoof H., Rudd S., Zaccaria P., Mewes H.-W.,
+RA   Mayer K.F.X., Kaul S., Town C.D., Koo H.L., Tallon L.J., Jenkins J.,
+RA   Rooney T., Rizzo M., Walts A., Utterback T., Fujii C.Y., Shea T.P.,
+RA   Creasy T.H., Haas B., Maiti R., Wu D., Peterson J., Van Aken S.,
+RA   Pai G., Militscher J., Sellers P., Gill J.E., Feldblyum T.V.,
+RA   Preuss D., Lin X., Nierman W.C., Salzberg S.L., White O., Venter J.C.,
+RA   Fraser C.M., Kaneko T., Nakamura Y., Sato S., Kato T., Asamizu E.,
+RA   Sasamoto S., Kimura T., Idesawa K., Kawashima K., Kishida Y.,
+RA   Kiyokawa C., Kohara M., Matsumoto M., Matsuno A., Muraki A.,
+RA   Nakayama S., Nakazaki N., Shinpo S., Takeuchi C., Wada T.,
+RA   Watanabe A., Yamada M., Yasuda M., Tabata S.;
+RT   "Sequence and analysis of chromosome 3 of the plant Arabidopsis
+RT   thaliana.";
+RL   Nature 408:820-822(2000).
+RN   [2]
+RP   GENOME REANNOTATION.
+RC   STRAIN=cv. Columbia;
+RX   PubMed=27862469; DOI=10.1111/tpj.13415;
+RA   Cheng C.Y., Krishnakumar V., Chan A.P., Thibaud-Nissen F., Schobel S.,
+RA   Town C.D.;
+RT   "Araport11: a complete reannotation of the Arabidopsis thaliana
+RT   reference genome.";
+RL   Plant J. 89:789-804(2017).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   STRAIN=cv. Columbia;
+RA   Totoki Y., Seki M., Ishida J., Nakajima M., Enju A., Kamiya A.,
+RA   Narusaka M., Shin-i T., Nakagawa M., Sakamoto N., Oishi K., Kohara Y.,
+RA   Kobayashi M., Toyoda A., Sakaki Y., Sakurai T., Iida K., Akiyama K.,
+RA   Satou M., Toyoda T., Konagaya A., Carninci P., Kawai J.,
+RA   Hayashizaki Y., Shinozaki K.;
+RT   "Large-scale analysis of RIKEN Arabidopsis full-length (RAFL) cDNAs.";
+RL   Submitted (SEP-2004) to the EMBL/GenBank/DDBJ databases.
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RA   Brover V.V., Troukhan M.E., Alexandrov N.A., Lu Y.-P., Flavell R.B.,
+RA   Feldmann K.A.;
+RT   "Full-length cDNA from Arabidopsis thaliana.";
+RL   Submitted (MAR-2002) to the EMBL/GenBank/DDBJ databases.
+RN   [5]
+RP   FUNCTION, IDENTIFICATION BY MASS SPECTROMETRY, INTERACTION WITH
+RP   RPP13L4/ZAR1, SUBCELLULAR LOCATION, ACETYLATION AT THR-125 AND
+RP   THR-177, AND MUTAGENESIS OF GLY-66; GLY-128; ASP-231 AND ALA-305.
+RX   PubMed=24170858; DOI=10.1073/pnas.1315520110;
+RA   Lewis J.D., Lee A.H., Hassan J.A., Wan J., Hurley B., Jhingree J.R.,
+RA   Wang P.W., Lo T., Youn J.Y., Guttman D.S., Desveaux D.;
+RT   "The Arabidopsis ZED1 pseudokinase is required for ZAR1-mediated
+RT   immunity induced by the Pseudomonas syringae type III effector
+RT   HopZ1a.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 110:18722-18727(2013).
+CC   -!- FUNCTION: Probable non-functional pseudokinase required for
+CC       recognition of the Pseudomonas syringae type III effector HopZ1a
+CC       by ZAR1. May function as a decoy to trap HopZ1a in the ZAR1
+CC       complex for recognition by the plant immune system.
+CC       {ECO:0000269|PubMed:24170858}.
+CC   -!- SUBUNIT: Interacts with RPP13L4/ZAR1.
+CC       {ECO:0000269|PubMed:24170858}.
+CC   -!- DOMAIN: The protein kinase domain is predicted to be catalytically
+CC       inactive. {ECO:0000255|PROSITE-ProRule:PRU00159}.
+CC   -!- SIMILARITY: Belongs to the protein kinase superfamily. Ser/Thr
+CC       protein kinase family. {ECO:0000305}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=CAB41180.1; Type=Erroneous initiation; Note=Translation N-terminally shortened.; Evidence={ECO:0000305};
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AL049660; CAB41180.1; ALT_INIT; Genomic_DNA.
+DR   EMBL; CP002686; AEE79693.1; -; Genomic_DNA.
+DR   EMBL; CP002686; AEE79694.1; -; Genomic_DNA.
+DR   EMBL; AK175119; BAD42882.1; -; mRNA.
+DR   EMBL; AY084360; AAM60941.1; -; mRNA.
+DR   PIR; T06745; T06745.
+DR   RefSeq; NP_001030878.1; NM_001035801.1.
+DR   RefSeq; NP_567053.1; NM_115635.4.
+DR   UniGene; At.3180; -.
+DR   ProteinModelPortal; Q8LGB6; -.
+DR   SMR; Q8LGB6; -.
+DR   STRING; 3702.AT3G57750.1; -.
+DR   iPTMnet; Q8LGB6; -.
+DR   PaxDb; Q8LGB6; -.
+DR   DNASU; 824944; -.
+DR   EnsemblPlants; AT3G57750.1; AT3G57750.1; AT3G57750.
+DR   EnsemblPlants; AT3G57750.2; AT3G57750.2; AT3G57750.
+DR   GeneID; 824944; -.
+DR   Gramene; AT3G57750.1; AT3G57750.1; AT3G57750.
+DR   Gramene; AT3G57750.2; AT3G57750.2; AT3G57750.
+DR   KEGG; ath:AT3G57750; -.
+DR   Araport; AT3G57750; -.
+DR   TAIR; locus:2076646; AT3G57750.
+DR   eggNOG; KOG1187; Eukaryota.
+DR   eggNOG; COG0515; LUCA.
+DR   HOGENOM; HOG000116550; -.
+DR   InParanoid; Q8LGB6; -.
+DR   OMA; KLSDFWF; -.
+DR   OrthoDB; 778960at2759; -.
+DR   PRO; PR:Q8LGB6; -.
+DR   Proteomes; UP000006548; Chromosome 3.
+DR   ExpressionAtlas; Q8LGB6; baseline and differential.
+DR   Genevisible; Q8LGB6; AT.
+DR   GO; GO:0005886; C:plasma membrane; IBA:GO_Central.
+DR   GO; GO:0005524; F:ATP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0004674; F:protein serine/threonine kinase activity; IBA:GO_Central.
+DR   GO; GO:0007166; P:cell surface receptor signaling pathway; IBA:GO_Central.
+DR   GO; GO:0050829; P:defense response to Gram-negative bacterium; IMP:TAIR.
+DR   InterPro; IPR011009; Kinase-like_dom_sf.
+DR   InterPro; IPR000719; Prot_kinase_dom.
+DR   Pfam; PF00069; Pkinase; 1.
+DR   SUPFAM; SSF56112; SSF56112; 1.
+DR   PROSITE; PS50011; PROTEIN_KINASE_DOM; 1.
+PE   1: Evidence at protein level;
+KW   Acetylation; ATP-binding; Complete proteome; Kinase;
+KW   Nucleotide-binding; Plant defense; Reference proteome; Transferase.
+FT   CHAIN         1    334       Non-functional pseudokinase ZED1.
+FT                                /FTId=PRO_0000433373.
+FT   DOMAIN       49    334       Protein kinase. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00159}.
+FT   NP_BIND      55     63       ATP. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00159}.
+FT   BINDING      76     76       ATP. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00159}.
+FT   MOD_RES     125    125       O-acetylthreonine.
+FT                                {ECO:0000269|PubMed:24170858}.
+FT   MOD_RES     177    177       O-acetylthreonine.
+FT                                {ECO:0000269|PubMed:24170858}.
+FT   MUTAGEN      66     66       G->S: In zed1-1; loss of function.
+FT                                {ECO:0000269|PubMed:24170858}.
+FT   MUTAGEN     128    128       G->E: In zed1-3; loss of function.
+FT                                {ECO:0000269|PubMed:24170858}.
+FT   MUTAGEN     231    231       D->N: In zed1-4; loss of function.
+FT                                {ECO:0000269|PubMed:24170858}.
+FT   MUTAGEN     305    305       A->T: In zed1-5; loss of function.
+FT                                {ECO:0000269|PubMed:24170858}.
+SQ   SEQUENCE   334 AA;  37957 MW;  F52E5D92DFEE0A3E CRC64;
+     MSKNNKKKRR WDLKNGGILL EELIASFDGK TNPIRCFSSD QILKATDNFS ESRIISSWGY
+     FIWYKGVIEE RQVSIKKWSS QNLSSFTEAY RDISVSSQMS GHKNALKLIG CCLEFDLPAL
+     VCEYTEHGPL NRDGGLSSGV VLPWKVRLKI AKEIASSVTY LHTAFPETIV HRNINPTNIF
+     IDENWTAKLS DFWFCVAIPE GELYVEDDVK GVIGFVDPDY YWTMKVTEKV DIYSFGVVML
+     VLLSGRAAVF NGPDEAPMSL NDHVSEVMEK GEFDEIVDKE IWNDLGGDDD LVLRRSQVKA
+     FLRLALRCVR YKKEDPVSGM LEVAKELKLI EKLS
+//
