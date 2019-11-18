@@ -1,180 +1,8 @@
-
 library(dplyr)
 library(ggplot2)
 library(qvalue)
 library(utils)
 library(doSNOW)
-
-#' Load GWAS data
-#'
-#' @param association_file The association file
-#' @param effects_file  The effects file
-#' @param association_columns The names of the columns in your association data
-#'   for Trait, Marker, Chromosome, Site, F, p, and marker_Rsquared
-#' @param effects_columns The names of the columns in your effects data for
-#'   Trait, Marker, Chromosome, Site, and effect
-#' @return The association data and the effects data merged into a dataframe
-#'   with one row for each SNP
-#' @export
-#' @importFrom rlang .data
-#' @import utils
-#' @import dplyr
-#' @examples
-#' demo_association_file = system.file("extdata", "association.txt.xz",
-#'   package = "PAST", mustWork = TRUE)
-#' demo_effects_file = system.file("extdata", "effects.txt.xz",
-#'   package = "PAST", mustWork = TRUE)
-#' gwas_data <- load_GWAS_data(demo_association_file, demo_effects_file)
-load_GWAS_data <- function(association_file,
-                           effects_file,
-                           association_columns = c("Trait",
-                                                   "Marker",
-                                                   "Locus",
-                                                   "Site",
-                                                   "p",
-                                                   "marker_R2"),
-                           effects_columns = c("Trait",
-                                               "Marker",
-                                               "Locus",
-                                               "Site",
-                                               "Effect")) {
-
-  stats <- read.table(association_file, header = TRUE, sep = "\t") %>%
-    dplyr::mutate(.data,
-                  Trait = !!as.name(association_columns[1]),
-                  Marker_original = !!as.name(association_columns[2]),
-                  Chr = !!as.name(association_columns[3]),
-                  Pos = !!as.name(association_columns[4]),
-                  Marker = paste0(Chr, "_", Pos),
-                  p = !!as.name(association_columns[5]),
-                  marker_R2 = !!as.name(association_columns[6])) %>%
-    dplyr::select(.data$Marker,
-                  .data$Marker_original,
-                  .data$Trait,
-                  .data$Chr,
-                  .data$Pos,
-                  .data$p,
-                  .data$marker_R2)
-
-  effects <- read.table(effects_file, header = TRUE, sep = "\t") %>%
-    dplyr::mutate(.data,
-                  Trait = !!as.name(effects_columns[1]),
-                  Marker_original = !!as.name(effects_columns[2]),
-                  Chr = !!as.name(effects_columns[3]),
-                  Pos = !!as.name(effects_columns[4]),
-                  Effect = !!as.name(effects_columns[5])) %>%
-    dplyr::select(.data$Marker_original,
-                  .data$Trait,
-                  .data$Chr,
-                  .data$Pos,
-                  .data$Effect)
-
-  # Delete all markers in effects and stats with more or less alleles than 2
-  non_biallelic <- effects %>%
-    dplyr::group_by(.data$Marker_original) %>%
-    dplyr::summarise(count = n()) %>%
-    dplyr::filter(count != 2)
-  effects <-
-    effects %>% dplyr::filter(!(.data$Marker_original %in% non_biallelic$Marker_original))
-  stats <-
-    stats %>% dplyr::filter(!(.data$Marker_original %in% non_biallelic$Marker_original))
-
-  # Remove all NaN data to prevent math with NaN
-  stats <- stats %>% dplyr::filter(.data$marker_R2 != "NaN")
-
-  # Split effects into even and odd rows and
-  # recombine into a single row without duplicate columns
-  odd_effects <- effects[seq(1, nrow(effects), by = 2), ]
-  even_effects <- effects[seq(2, nrow(effects), by = 2), ]
-  effects <- merge(odd_effects, even_effects, by = "Marker_original")
-  effects <- dplyr::mutate(
-    effects,
-    Trait = effects$Trait.x,
-    Trait.x = NULL,
-    Trait.y = NULL
-  )
-
-  # Merge stats and effects and return
-  all_data <- merge(stats, effects, by = "Marker_original") %>%
-    dplyr::mutate(
-      Trait = .data$"Trait.x",
-      Trait.x = NULL,
-      Trait.y = NULL
-    ) %>%
-    dplyr::select(
-      .data$Marker,
-      .data$Marker_original,
-      .data$Chr,
-      .data$Pos,
-      .data$p,
-      .data$marker_R2,
-      .data$Effect.x,
-      .data$Effect.y
-    )
-  all_data
-}
-
-
-
-
-#' Load Linkage Disequilibrium
-#'
-#' @param LD_file The file containing linkage disequilibrium data
-#' @param LD_columns The names of the columns in your linkage disequilibrium
-#'   data for the chromosome of the first SNP, the position of the first SNP,
-#'   the site of the first SNP, the chromosome of the second SNP, the position
-#'   of the second SNP, the site of the second SNP, the distance between the
-#'   two SNPs, and the R.2
-#' @importFrom rlang .data
-#' @importFrom stats complete.cases
-#' @import dplyr
-#' @return The linkage disequilibrium data in a list containing
-#'   dataframes for each chromosome.
-#' @export
-#'
-#' @examples
-#' demo_LD_file = system.file("extdata","LD.txt.xz",
-#'   package = "PAST", mustWork = TRUE)
-#' LD <- load_LD(demo_LD_file)
-load_LD <- function(LD_file,
-                    LD_columns = c("Locus1",
-                                   "Position1",
-                                   "Site1",
-                                   "Position2",
-                                   "Site2",
-                                   "Dist_bp",
-                                   "R.2")) {
-
-  LD <- read.table(LD_file, header = TRUE) %>%
-    dplyr::mutate(Locus = as.character(!!as.name(LD_columns[1])),
-                  Position1 = !!as.name(LD_columns[2]),
-                  Site1 = !!as.name(LD_columns[3]),
-                  Position2 = !!as.name(LD_columns[4]),
-                  Site2 = !!as.name(LD_columns[5]),
-                  Dist_bp = !!as.name(LD_columns[6]),
-                  R.2 = as.numeric(!!as.name(LD_columns[7])),
-                  Dist_bp = ifelse(.data$Dist_bp == "N/A",
-                                   NA,
-                                   .data$Dist_bp)) %>%
-    dplyr::select(.data$Locus,
-                  .data$Position1,
-                  .data$Site1,
-                  .data$Position2,
-                  .data$Site2,
-                  .data$Dist_bp,
-                  .data$R.2)
-  LD <- LD[complete.cases(LD), ]
-  split(LD, f = LD$Locus)
-}
-
-
-
-
-
-
-
-
-
 
 #' Determine Linkage
 #'
@@ -211,7 +39,7 @@ determine_linkage <- function(chunk, r_squared_cutoff) {
 #' @import dplyr
 #' @return A single SNP representing the whole chunk
 find_representative_SNP <- function(chunk, r_squared_cutoff) {
-pb()
+
   chunk <- chunk %>%
     dplyr::mutate(linked_snp_count = nrow(chunk),
                   linked_snp_count = ifelse(.data$R.2 < r_squared_cutoff,
@@ -558,7 +386,7 @@ assign_SNPs_to_genes <-
         dplyr::pull(.data$seqid)
     )
     
-    cl <- parallel::makeCluster(num_cores,type = "FORK")
+    cl <- parallel::makeCluster(num_cores)
     registerDoSNOW(cl)
     print(paste("Register Cluster of ",num_cores," cores",sep="") )
     
@@ -611,7 +439,7 @@ assign_SNPs_to_genes <-
           
           rm(temp_data)
           rm(temp_data_list)  
-          print("DL")    
+          print("Determine LD")    
           t1<-proc.time()      
           temp_data <-
             foreach(
@@ -625,11 +453,11 @@ assign_SNPs_to_genes <-
             }
           rm(temp_data_list_split)
           proc.time()-t1
-          print("DL done")
+          print("finished")
           gwas_data_for_chromosome <-
             dplyr::filter(gwas_data, .data$Chr == as.integer(chromosome))
           
-          print("look up p-value and effect data for SNP1")
+          #print("look up p-value and effect data for SNP1")
           temp_data <-
             merge(temp_data, gwas_data_for_chromosome,
                   by.x = "Marker1",
@@ -651,7 +479,7 @@ assign_SNPs_to_genes <-
               .data$Marker_original
             )
           
-          print("look up p-value and effect data for SNP2")
+          #print("look up p-value and effect data for SNP2")
           temp_data <-
             merge(temp_data, gwas_data_for_chromosome,
                   by.x = "Marker2",
@@ -688,12 +516,16 @@ assign_SNPs_to_genes <-
           index <- c(0, cumsum(abs(diff(blocks$Site2)) > 1))
           rm(temp_data)
           #print(ls())
-           save(index,blocks,singles,file=paste("blocks_chr",chromosome,"_",n,".RData",sep=""))
-          print("Now going hard")
+           #save(index,blocks,singles,file=paste("blocks_chr",chromosome,"_",n,".RData",sep=""))
+          print("Split block")
           
           temp_data_list <- split(blocks, paste(blocks$Position1, index))
+          
           print(length(temp_data_list))
           rm(blocks)
+          print("Find representative SNP, this will be slow")
+          
+          ###this part is going to be Serial
           temp_data<-NULL #
           temp_data_list<-head(temp_data_list,5000) #
           ####doing in sequencial
@@ -710,19 +542,19 @@ assign_SNPs_to_genes <-
               
             }
 
-####doing in doSNOW 
-#pb <- txtProgressBar(max = length(temp_data_list), style = 3)
-#progress <- function(n) setTxtProgressBar(pb, n)
-#opts <- list(progress = progress)
-#temp_data <- foreach(d=iter(temp_data_list, by = "row"),
-#                    .combine = rbind, 
-#                        .packages = "dplyr",
-#                        .export =  c("find_representative_SNP"),
-#                  .options.snow = opts) %dopar%
-#{
-# find_representative_SNP(d, r_squared_cutoff)
-#}
-#close(pb)
+          ####doing in doSNOW 
+          #pb <- txtProgressBar(max = length(temp_data_list), style = 3)
+          #progress <- function(n) setTxtProgressBar(pb, n)
+          #opts <- list(progress = progress)
+          #temp_data <- foreach(d=iter(temp_data_list, by = "row"),
+          #                    .combine = rbind, 
+          #                        .packages = "dplyr",
+          #                        .export =  c("find_representative_SNP"),
+          #                  .options.snow = opts) %dopar%
+          #{
+          # find_representative_SNP(d, r_squared_cutoff)
+          #}
+          #close(pb)
 
 
 
@@ -756,15 +588,17 @@ assign_SNPs_to_genes <-
             }
           
           all_genes <- rbind(all_genes, chromosome_genes)
-          if(n==2){
-          write.csv(all_genes,file=paste("all_chr_",chromosome,".csv",sep=""),row.names = FALSE)
-          }
+         # if(n==2){
+          #write.csv(all_genes,file=paste("all_chr_",chromosome,".csv",sep=""),row.names = FALSE)
+         # }
           rm(snp_list)
         }
       }
     }
       print("ass_gene")
-    
+
+          write.csv(all_genes,file=paste("all_chr_all",".csv",sep=""),row.names = FALSE)
+          
     group_by_gene <- split(all_genes, f = all_genes$name)
 pb <- txtProgressBar(max = length(group_by_gene), style = 3)
 progress <- function(n) setTxtProgressBar(pb, n)
@@ -774,13 +608,14 @@ representative_genes <-
         chunk = group_by_gene,
         .combine = rbind,
         .packages = c("dplyr", "PAST"),
-		.options.snow = opts
+        .export = c("find_representative_SNP_gene_pairing"),
+		    .options.snow = opts
       ) %dopar% {
         find_representative_SNP_gene_pairing(chunk)
       }
        close(pb)
-       write.csv(representative_genes,file=paste("repr_genes_chr",chr,".csv",sep=""),row.names = FALSE)
-       save(representative_genes,file=paste("repr_genes_chr",chr,".RData",sep=""))
+       #write.csv(representative_genes,file=paste("repr_genes_chr",chr,".csv",sep=""),row.names = FALSE)
+       #save(representative_genes,file=paste("repr_genes_chr",chr,".RData",sep=""))
   gc()
   
     stopCluster(cl)
