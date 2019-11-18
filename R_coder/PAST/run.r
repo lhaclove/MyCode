@@ -25,7 +25,7 @@ write.csv(genes,paste("17_Bareness_4k_Final_genes.csv",sep=""),row.names = FALSE
 
 
 
-rugplots_data <- find_pathway_significance(genes,MycPT,5,"increasing",1000,35)
+rugplots_data <- find_pathway_significance(genes,MycPT,5,"increasing",1000,nc)
 
 plot_pathways(rugplots_data,"pvalue",0.02,"increasing","../pastout1")
 
